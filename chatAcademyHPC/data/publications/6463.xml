@@ -1,0 +1,1204 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/6463"/>
+	<api:result>
+		<api:object category="publication" id="6463" last-affected-when="2023-12-23T19:03:00.207+00:00" last-modified-when="2023-12-23T19:03:00.207+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/6463" created-when="2010-05-17T13:58:45.903+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2005-03-30</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="1514806" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1088/0967-3334/26/2/004" last-modified-when="2022-09-11T07:34:23.38+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>González-Correa</api:last-name>
+									<api:initials>CA</api:initials>
+									<api:first-names>CA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>C</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Bardhan</api:last-name>
+									<api:initials>KD</api:initials>
+									<api:first-names>KD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1088/0967-3334/26/2/004</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1088/0967-3334/26/2/004"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1088/0967-3334/26/2/004"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1361-6579</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0967-3334</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Physiological Measurement</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>30</api:day>
+								<api:month>3</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>S39</api:begin-page>
+								<api:end-page>S47</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>4</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>IOP Publishing</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1088/0967-3334/26/2/004</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>11</api:day>
+								<api:month>4</api:month>
+								<api:year>2020</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Electrical bioimpedance readings increase with higher pressure applied to the measuring probe</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>26</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="1821218" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-23044482334" last-modified-when="2023-07-19T00:06:19.32+01:00">
+					<api:citation-count>47</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Electrical bioimpedance spectroscopy (EBIS) is a technique that uses a probe to calculate the transfer impedance from tissues. This transfer impedance can give information about the normal or pathological condition of the tissue. To take readings, pressure has to be applied to the probe in order to get a good contact between the electrodes and the tissue. We have been using EBIS to investigate the early diagnosis of dysplasia and cancer in the human cervix, oesophagus and bladder. We have found that, with increasing pressure (range used here was approximately 1 kPa to approximately 50 kPa), the resistivity readings increase in a consistent way up to 80%. In this paper, we show how this is a case in three different tissue types (oesophageal, gastric and vesical samples). These increases can be higher than those associated with the pathological changes that we are investigating (non-inflamed columnar tissue, for instance, shows values 50% higher than dysplastic columnar tissue). Finite-element modelling was also used to investigate the effect of volume reduction in the connective tissue or stroma. This simulation suggests no strong correlation between reduction of this structure and increase in resistivity. We hypothesize therefore that these changes may be mainly associated with the squeezing of water from the extracellular space. Finally, as pressure is difficult to control by hand, we raise the issue of the necessity of considering this variable when making EIS measurements. © 2005 IOP Publishing Ltd.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>González-Correa</api:last-name>
+									<api:initials>CA</api:initials>
+									<api:first-names>CA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>C</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="CO">
+											<api:line type="organisation">Universidad de Caldas</api:line>
+											<api:line type="city">Manizales</api:line>
+											<api:line type="country">Colombia</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">6603262600</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7404161092</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7102525654</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">35375472500</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Bardhan</api:last-name>
+									<api:initials>KD</api:initials>
+									<api:first-names>KD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Rotherham Hospital</api:line>
+											<api:line type="city">Rotherham</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">35943443100</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1088/0967-3334/26/2/004</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1088/0967-3334/26/2/004"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1088/0967-3334/26/2/004"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>0967-3334</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15798245</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0967-3334</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Physiological Measurement</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>1</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Electrical bioimpedance readings increase with higher pressure applied to the measuring probe</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Conference Proceeding</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>26</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="6463" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="15798245" last-modified-when="2020-04-29T09:58:29.09+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Electrical bioimpedance spectroscopy (EBIS) is a technique that uses a probe to calculate the transfer impedance from tissues. This transfer impedance can give information about the normal or pathological condition of the tissue. To take readings, pressure has to be applied to the probe in order to get a good contact between the electrodes and the tissue. We have been using EBIS to investigate the early diagnosis of dysplasia and cancer in the human cervix, oesophagus and bladder. We have found that, with increasing pressure (range used here was approximately 1 kPa to approximately 50 kPa), the resistivity readings increase in a consistent way up to 80%. In this paper, we show how this is a case in three different tissue types (oesophageal, gastric and vesical samples). These increases can be higher than those associated with the pathological changes that we are investigating (non-inflamed columnar tissue, for instance, shows values 50% higher than dysplastic columnar tissue). Finite-element modelling was also used to investigate the effect of volume reduction in the connective tissue or stroma. This simulation suggests no strong correlation between reduction of this structure and increase in resistivity. We hypothesize therefore that these changes may be mainly associated with the squeezing of water from the extracellular space. Finally, as pressure is difficult to control by hand, we raise the issue of the necessity of considering this variable when making EIS measurements.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>González-Correa</api:last-name>
+									<api:initials>CA</api:initials>
+									<api:first-names>CA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>C</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Department of Medical Physics and Clinical Engineering, Royal Hallamshire Hospital, Glossop Road, S10 2JF, Sheffield, UK. c.gonzalez@sheffield.ac.uk</api:line>
+										</api:address>
+									</api:addresses>
+									<api:email-address>c.gonzalez@sheffield.ac.uk</api:email-address>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Bardhan</api:last-name>
+									<api:initials>KD</api:initials>
+									<api:first-names>KD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/15798245</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1088/0967-3334/26/2/004</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1088/0967-3334/26/2/004"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1088/0967-3334/26/2/004"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0967-3334</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Physiol Meas</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Connective Tissue</api:keyword>
+								<api:keyword scheme="mesh">Diagnosis, Computer-Assisted</api:keyword>
+								<api:keyword scheme="mesh">Electric Impedance</api:keyword>
+								<api:keyword scheme="mesh">Electrodes</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Organ Specificity</api:keyword>
+								<api:keyword scheme="mesh">Plethysmography, Impedance</api:keyword>
+								<api:keyword scheme="mesh">Pressure</api:keyword>
+								<api:keyword scheme="mesh">Rats</api:keyword>
+								<api:keyword scheme="mesh">Stress, Mechanical</api:keyword>
+								<api:keyword scheme="mesh">Transducers</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>England</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>S39</api:begin-page>
+								<api:end-page>S47</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>S0967-3334(05)86066-6</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>4</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>5</api:day>
+								<api:month>8</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Electrical bioimpedance readings increase with higher pressure applied to the measuring probe.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Comparative Study</api:item>
+								<api:item>Evaluation Study</api:item>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>26</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="885670" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:15798245" last-modified-when="2022-09-13T18:00:48.37+01:00">
+					<api:citation-count>16</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Electrical bioimpedance spectroscopy (EBIS) is a technique that uses a probe to calculate the transfer impedance from tissues. This transfer impedance can give information about the normal or pathological condition of the tissue. To take readings, pressure has to be applied to the probe in order to get a good contact between the electrodes and the tissue. We have been using EBIS to investigate the early diagnosis of dysplasia and cancer in the human cervix, oesophagus and bladder. We have found that, with increasing pressure (range used here was approximately 1 kPa to approximately 50 kPa), the resistivity readings increase in a consistent way up to 80%. In this paper, we show how this is a case in three different tissue types (oesophageal, gastric and vesical samples). These increases can be higher than those associated with the pathological changes that we are investigating (non-inflamed columnar tissue, for instance, shows values 50% higher than dysplastic columnar tissue). Finite-element modelling was also used to investigate the effect of volume reduction in the connective tissue or stroma. This simulation suggests no strong correlation between reduction of this structure and increase in resistivity. We hypothesize therefore that these changes may be mainly associated with the squeezing of water from the extracellular space. Finally, as pressure is difficult to control by hand, we raise the issue of the necessity of considering this variable when making EIS measurements.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Department of Medical Physics and Clinical Engineering, Royal Hallamshire Hospital, Glossop Road, S10 2JF, Sheffield, UK. c.gonzalez@sheffield.ac.uk</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>González-Correa</api:last-name>
+									<api:initials>CA</api:initials>
+									<api:first-names>CA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>C</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-0124-5072</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0003-0134-0632</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Bardhan</api:last-name>
+									<api:initials>KD</api:initials>
+									<api:first-names>KD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1088/0967-3334/26/2/004</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1088/0967-3334/26/2/004"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1088/0967-3334/26/2/004"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1361-6579</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15798245</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0967-3334</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Physiological measurement</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Connective Tissue</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Rats</api:keyword>
+								<api:keyword scheme="mesh">Diagnosis, Computer-Assisted</api:keyword>
+								<api:keyword scheme="mesh">Plethysmography, Impedance</api:keyword>
+								<api:keyword scheme="mesh">Electrodes</api:keyword>
+								<api:keyword scheme="mesh">Transducers</api:keyword>
+								<api:keyword scheme="mesh">Organ Specificity</api:keyword>
+								<api:keyword scheme="mesh">Electric Impedance</api:keyword>
+								<api:keyword scheme="mesh">Stress, Mechanical</api:keyword>
+								<api:keyword scheme="mesh">Pressure</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print-Electronic</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>29</api:day>
+								<api:month>3</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>S39</api:begin-page>
+								<api:end-page>S47</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>4</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>3</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Electrical bioimpedance readings increase with higher pressure applied to the measuring probe.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Comparative Study</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>Evaluation Study</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>26</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2701667" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1059122778" last-modified-when="2023-12-23T19:03:00.213+00:00">
+					<api:citation-count>42</api:citation-count>
+					<api:native>
+						<api:field name="altmetric-attention-score" type="integer" display-name="Altmetric attention score">
+							<api:integer>3</api:integer>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>González-Correa</api:last-name>
+									<api:initials>CA</api:initials>
+									<api:first-names>CA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>C</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="CO">
+											<api:line type="organisation">University of Caldas</api:line>
+											<api:line type="city">Manizales</api:line>
+											<api:line type="country">Colombia</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0625722716.77</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.014007640532.87</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01056377716.23</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.010613171652.14</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Bardhan</api:last-name>
+									<api:initials>KD</api:initials>
+									<api:first-names>KD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Rotherham General Hospital</api:line>
+											<api:line type="city">Rotherham</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0700346657.17</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1088/0967-3334/26/2/004</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1088/0967-3334/26/2/004"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1088/0967-3334/26/2/004"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15798245</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>4.85</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0967-3334</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Physiological Measurement</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">40 Engineering</api:keyword>
+								<api:keyword scheme="for-2020">4003 Biomedical Engineering</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Connective Tissue</api:keyword>
+								<api:keyword scheme="mesh">Diagnosis, Computer-Assisted</api:keyword>
+								<api:keyword scheme="mesh">Electric Impedance</api:keyword>
+								<api:keyword scheme="mesh">Electrodes</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Organ Specificity</api:keyword>
+								<api:keyword scheme="mesh">Plethysmography, Impedance</api:keyword>
+								<api:keyword scheme="mesh">Pressure</api:keyword>
+								<api:keyword scheme="mesh">Rats</api:keyword>
+								<api:keyword scheme="mesh">Stress, Mechanical</api:keyword>
+								<api:keyword scheme="mesh">Transducers</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>30</api:day>
+								<api:month>3</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Closed Access</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>s39</api:begin-page>
+								<api:end-page>s47</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>4</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>IOP Publishing</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.84</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Electrical bioimpedance readings increase with higher pressure applied to the measuring probe</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>26</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="250930" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000228563700005" last-modified-when="2023-12-08T08:36:42.813+00:00">
+					<api:citation-count>35</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>González-Correa</api:last-name>
+									<api:initials>CA</api:initials>
+									<api:first-names>CA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>C</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Bardhan</api:last-name>
+									<api:initials>KD</api:initials>
+									<api:first-names>KD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000228563700005&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1088/0967-3334/26/2/004</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1088/0967-3334/26/2/004"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1088/0967-3334/26/2/004"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">918QW</api:identifier>
+								<api:identifier scheme="pubmed">15798245</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0967-3334</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>PHYSIOLOGICAL MEASUREMENT</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>bio-electrical impedance</api:keyword>
+								<api:keyword>pressure</api:keyword>
+								<api:keyword>stomach</api:keyword>
+								<api:keyword>oesophagus</api:keyword>
+								<api:keyword>Barrett's oesophagus</api:keyword>
+								<api:keyword>urinary bladder</api:keyword>
+								<api:keyword>rats</api:keyword>
+								<api:keyword>columnar epithelium</api:keyword>
+								<api:keyword>squamous epithelium</api:keyword>
+								<api:keyword>transitional epithelium</api:keyword>
+								<api:keyword>inflammation</api:keyword>
+								<api:keyword>dysplasia</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>S39</api:begin-page>
+								<api:end-page>S47</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Electrical bioimpedance readings increase with higher pressure applied to the measuring probe</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+								<api:item>Proceedings Paper</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>26</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="36780" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000228563700005" last-modified-when="2014-07-25T11:47:04.293+01:00">
+					<api:citation-count>5</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Gonzalez-Correa</api:last-name>
+									<api:initials>CA</api:initials>
+									<api:first-names>CA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>C</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Bardhan</api:last-name>
+									<api:initials>KD</api:initials>
+									<api:first-names>KD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1088/0967-3334/26/2/004</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1088/0967-3334/26/2/004"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1088/0967-3334/26/2/004"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0967-3334</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>PHYSIOLOGICAL MEASUREMENT</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>bio-electrical impedance</api:keyword>
+								<api:keyword>pressure</api:keyword>
+								<api:keyword>stomach</api:keyword>
+								<api:keyword>oesophagus</api:keyword>
+								<api:keyword>Barrett's oesophagus</api:keyword>
+								<api:keyword>urinary bladder</api:keyword>
+								<api:keyword>rats</api:keyword>
+								<api:keyword>columnar epithelium</api:keyword>
+								<api:keyword>squamous epithelium</api:keyword>
+								<api:keyword>transitional epithelium</api:keyword>
+								<api:keyword>inflammation</api:keyword>
+								<api:keyword>dysplasia</api:keyword>
+								<api:keyword>BARRETTS-ESOPHAGUS</api:keyword>
+								<api:keyword>IMPEDANCE SPECTROSCOPY</api:keyword>
+								<api:keyword>VIRTUAL BIOPSIES</api:keyword>
+								<api:keyword>INFLAMMATION</api:keyword>
+								<api:keyword>BLADDER</api:keyword>
+								<api:keyword>TISSUE</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>S39</api:begin-page>
+								<api:end-page>S47</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>4</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Electrical bioimpedance readings increase with higher pressure applied to the measuring probe</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>26</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Connective Tissue</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Diagnosis, Computer-Assisted</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Electric Impedance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Electrodes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Organ Specificity</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Plethysmography, Impedance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Pressure</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Rats</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Stress, Mechanical</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Transducers</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Connective Tissue</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Rats</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Diagnosis, Computer-Assisted</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Plethysmography, Impedance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Electrodes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Transducers</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Organ Specificity</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Electric Impedance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Stress, Mechanical</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Pressure</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Biological</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">40 Engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">4003 Biomedical Engineering</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Connective Tissue</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Diagnosis, Computer-Assisted</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Electric Impedance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Electrodes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Organ Specificity</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Plethysmography, Impedance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Pressure</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Rats</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Stress, Mechanical</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Transducers</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">bio-electrical impedance</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">pressure</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">stomach</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">oesophagus</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">Barrett's oesophagus</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">urinary bladder</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">rats</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">columnar epithelium</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">squamous epithelium</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">transitional epithelium</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">inflammation</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">dysplasia</api:keyword>
+					<api:keyword origin="record-data" source="wos">bio-electrical impedance</api:keyword>
+					<api:keyword origin="record-data" source="wos">pressure</api:keyword>
+					<api:keyword origin="record-data" source="wos">stomach</api:keyword>
+					<api:keyword origin="record-data" source="wos">oesophagus</api:keyword>
+					<api:keyword origin="record-data" source="wos">Barrett's oesophagus</api:keyword>
+					<api:keyword origin="record-data" source="wos">urinary bladder</api:keyword>
+					<api:keyword origin="record-data" source="wos">rats</api:keyword>
+					<api:keyword origin="record-data" source="wos">columnar epithelium</api:keyword>
+					<api:keyword origin="record-data" source="wos">squamous epithelium</api:keyword>
+					<api:keyword origin="record-data" source="wos">transitional epithelium</api:keyword>
+					<api:keyword origin="record-data" source="wos">inflammation</api:keyword>
+					<api:keyword origin="record-data" source="wos">dysplasia</api:keyword>
+					<api:keyword origin="record-data" source="wos">BARRETTS-ESOPHAGUS</api:keyword>
+					<api:keyword origin="record-data" source="wos">IMPEDANCE SPECTROSCOPY</api:keyword>
+					<api:keyword origin="record-data" source="wos">VIRTUAL BIOPSIES</api:keyword>
+					<api:keyword origin="record-data" source="wos">INFLAMMATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">BLADDER</api:keyword>
+					<api:keyword origin="record-data" source="wos">TISSUE</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0903 Biomedical Engineering</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0906 Electrical and Electronic Engineering</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">1116 Medical Physiology</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Biomedical Engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">3208 Medical physiology</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">4003 Biomedical engineering</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="0967-3334" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898" title="Physiological Measurement">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Physiological Measurement</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/6463/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

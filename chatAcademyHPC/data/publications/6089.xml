@@ -1,0 +1,1538 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/6089"/>
+	<api:result>
+		<api:object category="publication" id="6089" last-affected-when="2023-12-08T08:33:16.747+00:00" last-modified-when="2023-12-08T08:33:16.747+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/6089" created-when="2010-05-17T13:58:36.597+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2004-12-07</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="4194132" source-id="28" source-name="eprints" source-display-name="White Rose Research Online" id-at-source="462" last-modified-when="2022-12-28T12:55:00.13+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>In whiskered animals, activity is evoked in the primary sensory afferent cells (trigeminal nerve) by mechanical stimulation of the whiskers. In some cell populations this activity is correlated well with continuous stimulus parameters such as whisker deflection magnitude, but in others it is observed to represent events such as whisker-stimulator contact or detachment. The transduction process is mediated by the mechanics of the whisker shaft and follicle-sinus complex (FSC), and the mechanics and electro-chemistry of mechanoreceptors within the FSC. An understanding of this transduction process and the nature of the primary neural codes generated is crucial for understanding more central sensory processing in the thalamus and cortex. However, the details of the peripheral processing are currently poorly understood. To overcome this deficiency in our knowledge, we constructed a simulated electro-mechanical model of the whisker-FSC-mechanoreceptor system in the rat and tested it against a variety of data drawn from the literature. The agreement was good enough to suggest that the model captures many of the key features of the peripheral whisker system in the rat.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Mitchinson</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2038" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2038"/>
+									</api:links>
+									<api:last-name>Gurney</api:last-name>
+									<api:initials>KN</api:initials>
+									<api:first-names>KN</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>N</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1897" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1897"/>
+									</api:links>
+									<api:last-name>Redgrave</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Melhuish</api:last-name>
+									<api:initials>C</api:initials>
+									<api:first-names>C</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Pipe</api:last-name>
+									<api:initials>AG</api:initials>
+									<api:first-names>AG</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>G</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Pearson</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Gilhespy</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>I</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>I</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>TJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>T</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rspb.2004.2882</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rspb.2004.2882"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rspb.2004.2882"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1471-2954</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965543"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1556</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Proceedings of the Royal Society Series B: Biological Sciences</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>whisker</api:keyword>
+								<api:keyword>follicle</api:keyword>
+								<api:keyword>model</api:keyword>
+								<api:keyword>mystacial</api:keyword>
+								<api:keyword>trigeminal</api:keyword>
+								<api:keyword>rat</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="notes" type="text" display-name="Other information">
+							<api:text>© 2004 The Royal Society</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2509</api:begin-page>
+								<api:end-page>2516</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>7</api:day>
+								<api:month>12</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="public-url" type="text" display-name="Public URL">
+							<api:text>https://eprints.whiterose.ac.uk/id/eprint/462</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://www.journals.royalsoc.ac.uk/openurl.asp?genre=article&amp;id=doi:10.1098/rspb.2004.2882</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>5</api:day>
+								<api:month>8</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>21</api:day>
+								<api:month>6</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="repository-status" type="text" display-name="Availability">
+							<api:text>Public</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Empirically inspired simulated electro-mechanical model of the rat mystacial follicle-sinus complex</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>271</api:text>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://eprints.whiterose.ac.uk/id/file/6798">
+								<api:filename>gurneyk2.pdf</api:filename>
+								<api:file-url>https://eprints.whiterose.ac.uk/462/1/gurneyk2.pdf</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:file-size>382224</api:file-size>
+								<api:mime-type>application/pdf</api:mime-type>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="1365002" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1098/rspb.2004.2882" last-modified-when="2022-09-12T02:54:19.083+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Mitchinson</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Ben</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ben</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>N. Gurney</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>Kevin</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kevin</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1897" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1897"/>
+									</api:links>
+									<api:last-name>Redgrave</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Peter</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Peter</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Melhuish</api:last-name>
+									<api:initials>C</api:initials>
+									<api:first-names>Chris</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Chris</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>G. Pipe</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Anthony</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Anthony</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Pearson</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Martin</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Martin</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Gilhespy</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>Ian</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ian</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>J. Prescott</api:last-name>
+									<api:initials>T</api:initials>
+									<api:first-names>Tony</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Tony</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rspb.2004.2882</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rspb.2004.2882"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rspb.2004.2882"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1471-2954</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965543"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0962-8452</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965543"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1556</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Proceedings of the Royal Society of London. Series B: Biological Sciences</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>7</api:day>
+								<api:month>12</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2509</api:begin-page>
+								<api:end-page>2516</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>7</api:day>
+								<api:month>12</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>The Royal Society</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1098/rspb.2004.2882</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>30</api:day>
+								<api:month>6</api:month>
+								<api:year>2021</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Empirically inspired simulated electro-mechanical model of the rat mystacial follicle-sinus complex</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>271</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="103469" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-16644393209" last-modified-when="2023-05-10T06:07:04+01:00">
+					<api:citation-count>66</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>In whiskered animals, activity is evoked in the primary sensory afferent cells (trigeminal nerve) by mechanical stimulation of the whiskers. In some cell populations this activity is correlated well with continuous stimulus parameters such as whisker deflection magnitude, but in others it is observed to represent events such as whisker-stimulator contact or detachment. The transduction process is mediated by the mechanics of the whisker shaft and follicle-sinus complex (FSC), and the mechanics and electro-chemistry of mechanoreceptors within the FSC. An understanding of this transduction process and the nature of the primary neural codes generated is crucial for understanding more central sensory processing in the thalamus and cortex. However, the details of the peripheral processing are currently poorly understood. To overcome this deficiency in our knowledge, we constructed a simulated electro-mechanical model of the whisker-FSC-mechanoreceptor system in the rat and tested it against a variety of data drawn from the literature. The agreement was good enough to suggest that the model captures many of the key features of the peripheral whisker system in the rat. © 2004 The Royal Society.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Mitchinson</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">8366486900</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2038" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2038"/>
+									</api:links>
+									<api:last-name>Gurney</api:last-name>
+									<api:initials>KN</api:initials>
+									<api:first-names>KN</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>N</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">23766890200</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1897" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1897"/>
+									</api:links>
+									<api:last-name>Redgrave</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7005371657</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Melhuish</api:last-name>
+									<api:initials>C</api:initials>
+									<api:first-names>C</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of the West of England</api:line>
+											<api:line type="city">Bristol</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">55031651100</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Pipe</api:last-name>
+									<api:initials>AG</api:initials>
+									<api:first-names>AG</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>G</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of the West of England</api:line>
+											<api:line type="city">Bristol</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7004462827</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Pearson</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of the West of England</api:line>
+											<api:line type="city">Bristol</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">8366486600</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Gilhespy</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>I</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>I</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of the West of England</api:line>
+											<api:line type="city">Bristol</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">16068708300</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>TJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>T</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">6603749094</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rspb.2004.2882</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rspb.2004.2882"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rspb.2004.2882"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1471-2970</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965540"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15590603</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0962-8452</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965543"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1556</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Proceedings of the Royal Society B: Biological Sciences</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2509</api:begin-page>
+								<api:end-page>2516</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>7</api:day>
+								<api:month>12</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Empirically inspired simulated electro-mechanical model of the rat mystacial follicle-sinus complex</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>271</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="6089" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="15590603" last-modified-when="2020-04-28T21:44:32.857+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>In whiskered animals, activity is evoked in the primary sensory afferent cells (trigeminal nerve) by mechanical stimulation of the whiskers. In some cell populations this activity is correlated well with continuous stimulus parameters such as whisker deflection magnitude, but in others it is observed to represent events such as whisker-stimulator contact or detachment. The transduction process is mediated by the mechanics of the whisker shaft and follicle-sinus complex (FSC), and the mechanics and electro-chemistry of mechanoreceptors within the FSC. An understanding of this transduction process and the nature of the primary neural codes generated is crucial for understanding more central sensory processing in the thalamus and cortex. However, the details of the peripheral processing are currently poorly understood. To overcome this deficiency in our knowledge, we constructed a simulated electro-mechanical model of the whisker-FSC-mechanoreceptor system in the rat and tested it against a variety of data drawn from the literature. The agreement was good enough to suggest that the model captures many of the key features of the peripheral whisker system in the rat.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Mitchinson</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Ben</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ben</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Adaptive Behaviour Research Group, Department of Psychology, The University of Sheffield, Sheffield S10 2TP, UK.</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2038" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2038"/>
+									</api:links>
+									<api:last-name>Gurney</api:last-name>
+									<api:initials>KN</api:initials>
+									<api:first-names>Kevin N</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kevin</api:first-name>
+										<api:first-name>N</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1897" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1897"/>
+									</api:links>
+									<api:last-name>Redgrave</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Peter</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Peter</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Melhuish</api:last-name>
+									<api:initials>C</api:initials>
+									<api:first-names>Chris</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Chris</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Pipe</api:last-name>
+									<api:initials>AG</api:initials>
+									<api:first-names>Anthony G</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Anthony</api:first-name>
+										<api:first-name>G</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Pearson</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Martin</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Martin</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Gilhespy</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>Ian</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ian</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>Tony J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Tony</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/15590603</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rspb.2004.2882</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rspb.2004.2882"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rspb.2004.2882"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pmc">PMC1691889</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0962-8452</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965543"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1556</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Proc Biol Sci</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Biomechanical Phenomena</api:keyword>
+								<api:keyword scheme="mesh">Mechanoreceptors</api:keyword>
+								<api:keyword scheme="mesh">Models, Anatomic</api:keyword>
+								<api:keyword scheme="mesh">Rats</api:keyword>
+								<api:keyword scheme="mesh">Signal Transduction</api:keyword>
+								<api:keyword scheme="mesh">Vibrissae</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>England</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2509</api:begin-page>
+								<api:end-page>2516</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>R1LLRJ3AJM8QE9GE</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>7</api:day>
+								<api:month>12</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>8</api:day>
+								<api:month>3</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Empirically inspired simulated electro-mechanical model of the rat mystacial follicle-sinus complex.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Comparative Study</api:item>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>271</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="885439" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:15590603" last-modified-when="2021-01-19T18:07:11.98+00:00">
+					<api:citation-count>19</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>In whiskered animals, activity is evoked in the primary sensory afferent cells (trigeminal nerve) by mechanical stimulation of the whiskers. In some cell populations this activity is correlated well with continuous stimulus parameters such as whisker deflection magnitude, but in others it is observed to represent events such as whisker-stimulator contact or detachment. The transduction process is mediated by the mechanics of the whisker shaft and follicle-sinus complex (FSC), and the mechanics and electro-chemistry of mechanoreceptors within the FSC. An understanding of this transduction process and the nature of the primary neural codes generated is crucial for understanding more central sensory processing in the thalamus and cortex. However, the details of the peripheral processing are currently poorly understood. To overcome this deficiency in our knowledge, we constructed a simulated electro-mechanical model of the whisker-FSC-mechanoreceptor system in the rat and tested it against a variety of data drawn from the literature. The agreement was good enough to suggest that the model captures many of the key features of the peripheral whisker system in the rat.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Adaptive Behaviour Research Group, Department of Psychology, The University of Sheffield, Sheffield S10 2TP, UK.</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Mitchinson</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Ben</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ben</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2038" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2038"/>
+									</api:links>
+									<api:last-name>Gurney</api:last-name>
+									<api:initials>KN</api:initials>
+									<api:first-names>Kevin N</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kevin</api:first-name>
+										<api:first-name>N</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1897" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1897"/>
+									</api:links>
+									<api:last-name>Redgrave</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Peter</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Peter</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Melhuish</api:last-name>
+									<api:initials>C</api:initials>
+									<api:first-names>Chris</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Chris</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Pipe</api:last-name>
+									<api:initials>AG</api:initials>
+									<api:first-names>Anthony G</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Anthony</api:first-name>
+										<api:first-name>G</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Pearson</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Martin</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Martin</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Gilhespy</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>Ian</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ian</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>Tony J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Tony</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0003-4927-5390</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rspb.2004.2882</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rspb.2004.2882"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rspb.2004.2882"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1471-2954</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965543"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15590603</api:identifier>
+								<api:identifier scheme="pmc">PMC1691889</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0962-8452</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965543"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1556</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Proceedings. Biological sciences</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Mechanoreceptors</api:keyword>
+								<api:keyword scheme="mesh">Vibrissae</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Rats</api:keyword>
+								<api:keyword scheme="mesh">Signal Transduction</api:keyword>
+								<api:keyword scheme="mesh">Models, Anatomic</api:keyword>
+								<api:keyword scheme="mesh">Biomechanical Phenomena</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2509</api:begin-page>
+								<api:end-page>2516</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>12</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>14</api:day>
+								<api:month>12</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Empirically inspired simulated electro-mechanical model of the rat mystacial follicle-sinus complex.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Comparative Study</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>research-article</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>271</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2474445" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1048190774" last-modified-when="2023-11-27T00:33:55.34+00:00">
+					<api:citation-count>61</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Mitchinson</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Ben</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ben</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0665132137.22</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2038" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2038"/>
+									</api:links>
+									<api:last-name>Gurney</api:last-name>
+									<api:initials>KN</api:initials>
+									<api:first-names>Kevin N</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kevin</api:first-name>
+										<api:first-name>N</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01212040107.00</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1897" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1897"/>
+									</api:links>
+									<api:last-name>Redgrave</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Peter</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Peter</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01153642730.46</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Melhuish</api:last-name>
+									<api:initials>C</api:initials>
+									<api:first-names>Chris</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Chris</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of the West of England</api:line>
+											<api:line type="city">Bristol</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0667423521.96</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Pipe</api:last-name>
+									<api:initials>AG</api:initials>
+									<api:first-names>Anthony G</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Anthony</api:first-name>
+										<api:first-name>G</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of the West of England</api:line>
+											<api:line type="city">Bristol</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.013422542023.23</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Pearson</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Martin</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Martin</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of the West of England</api:line>
+											<api:line type="city">Bristol</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.013406515416.55</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Gilhespy</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>Ian</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ian</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of the West of England</api:line>
+											<api:line type="city">Bristol</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01206472756.49</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>Tony J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Tony</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01003226530.22</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rspb.2004.2882</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rspb.2004.2882"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rspb.2004.2882"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15590603</api:identifier>
+								<api:identifier scheme="pmc">PMC1691889</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0962-8452</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965543"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1556</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Proceedings of the Royal Society B</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">30 Agricultural, Veterinary and Food Sciences</api:keyword>
+								<api:keyword scheme="for-2020">31 Biological Sciences</api:keyword>
+								<api:keyword scheme="for-2020">41 Environmental Sciences</api:keyword>
+								<api:keyword scheme="rcdc">Neurodegenerative</api:keyword>
+								<api:keyword scheme="rcdc">Neurosciences</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Biomechanical Phenomena</api:keyword>
+								<api:keyword scheme="mesh">Mechanoreceptors</api:keyword>
+								<api:keyword scheme="mesh">Models, Anatomic</api:keyword>
+								<api:keyword scheme="mesh">Rats</api:keyword>
+								<api:keyword scheme="mesh">Signal Transduction</api:keyword>
+								<api:keyword scheme="mesh">Vibrissae</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>7</api:day>
+								<api:month>12</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Green OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2509</api:begin-page>
+								<api:end-page>2516</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>7</api:day>
+								<api:month>12</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>The Royal Society</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.59</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Empirically inspired simulated electro-mechanical model of the rat mystacial follicle-sinus complex</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>271</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="250302" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000225973200014" last-modified-when="2023-12-08T08:33:16.75+00:00">
+					<api:citation-count>52</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Mitchinson</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2038" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2038"/>
+									</api:links>
+									<api:last-name>Gurney</api:last-name>
+									<api:initials>KN</api:initials>
+									<api:first-names>KN</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>N</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1897" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1897"/>
+									</api:links>
+									<api:last-name>Redgrave</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Melhuish</api:last-name>
+									<api:initials>C</api:initials>
+									<api:first-names>C</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Pipe</api:last-name>
+									<api:initials>AG</api:initials>
+									<api:first-names>AG</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>G</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Pearson</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Gilhespy</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>I</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>I</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>TJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>T</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000225973200014&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rspb.2004.2882</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rspb.2004.2882"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rspb.2004.2882"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1471-2954</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965543"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">882XH</api:identifier>
+								<api:identifier scheme="pubmed">15590603</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0962-8452</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965543"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1556</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>whisker</api:keyword>
+								<api:keyword>follicle</api:keyword>
+								<api:keyword>model</api:keyword>
+								<api:keyword>mystacial</api:keyword>
+								<api:keyword>trigeminal</api:keyword>
+								<api:keyword>rat</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2509</api:begin-page>
+								<api:end-page>2516</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Empirically inspired simulated electro-mechanical model of the rat mystacial follicle-sinus complex</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>271</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="35937" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000225973200014" last-modified-when="2014-07-25T11:44:36.82+01:00">
+					<api:citation-count>18</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Mitchinson</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2038" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2038"/>
+									</api:links>
+									<api:last-name>Gurney</api:last-name>
+									<api:initials>KN</api:initials>
+									<api:first-names>KN</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>N</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1897" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1897"/>
+									</api:links>
+									<api:last-name>Redgrave</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Melhuish</api:last-name>
+									<api:initials>C</api:initials>
+									<api:first-names>C</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Pipe</api:last-name>
+									<api:initials>AG</api:initials>
+									<api:first-names>AG</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>G</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Pearson</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Gilhespy</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>I</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>I</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>TJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>T</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rspb.2004.2882</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rspb.2004.2882"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rspb.2004.2882"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0962-8452</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965543"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1556</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>P ROY SOC LOND B BIO</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>whisker</api:keyword>
+								<api:keyword>follicle</api:keyword>
+								<api:keyword>model</api:keyword>
+								<api:keyword>mystacial</api:keyword>
+								<api:keyword>trigeminal</api:keyword>
+								<api:keyword>rat</api:keyword>
+								<api:keyword>1ST-ORDER VIBRISSA AFFERENTS</api:keyword>
+								<api:keyword>TRIGEMINAL GANGLION</api:keyword>
+								<api:keyword>INNERVATION</api:keyword>
+								<api:keyword>NEURONS</api:keyword>
+								<api:keyword>MOUSE</api:keyword>
+								<api:keyword>CAT</api:keyword>
+								<api:keyword>MECHANORECEPTORS</api:keyword>
+								<api:keyword>RESPONSES</api:keyword>
+								<api:keyword>DYNAMICS</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2509</api:begin-page>
+								<api:end-page>2516</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>7</api:day>
+								<api:month>12</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Empirically inspired simulated electro-mechanical model of the rat mystacial follicle-sinus complex</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>271</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword origin="record-data" source="eprints">whisker</api:keyword>
+					<api:keyword origin="record-data" source="eprints">follicle</api:keyword>
+					<api:keyword origin="record-data" source="eprints">model</api:keyword>
+					<api:keyword origin="record-data" source="eprints">mystacial</api:keyword>
+					<api:keyword origin="record-data" source="eprints">trigeminal</api:keyword>
+					<api:keyword origin="record-data" source="eprints">rat</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Biomechanical Phenomena</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Mechanoreceptors</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Anatomic</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Rats</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Signal Transduction</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Vibrissae</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Mechanoreceptors</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Vibrissae</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Rats</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Signal Transduction</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Anatomic</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Biomechanical Phenomena</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">30 Agricultural, Veterinary and Food Sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">31 Biological Sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">41 Environmental Sciences</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Neurodegenerative</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Neurosciences</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Biomechanical Phenomena</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Mechanoreceptors</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Anatomic</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Rats</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Signal Transduction</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Vibrissae</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">whisker</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">follicle</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">model</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">mystacial</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">trigeminal</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">rat</api:keyword>
+					<api:keyword origin="record-data" source="wos">whisker</api:keyword>
+					<api:keyword origin="record-data" source="wos">follicle</api:keyword>
+					<api:keyword origin="record-data" source="wos">model</api:keyword>
+					<api:keyword origin="record-data" source="wos">mystacial</api:keyword>
+					<api:keyword origin="record-data" source="wos">trigeminal</api:keyword>
+					<api:keyword origin="record-data" source="wos">rat</api:keyword>
+					<api:keyword origin="record-data" source="wos">1ST-ORDER VIBRISSA AFFERENTS</api:keyword>
+					<api:keyword origin="record-data" source="wos">TRIGEMINAL GANGLION</api:keyword>
+					<api:keyword origin="record-data" source="wos">INNERVATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">NEURONS</api:keyword>
+					<api:keyword origin="record-data" source="wos">MOUSE</api:keyword>
+					<api:keyword origin="record-data" source="wos">CAT</api:keyword>
+					<api:keyword origin="record-data" source="wos">MECHANORECEPTORS</api:keyword>
+					<api:keyword origin="record-data" source="wos">RESPONSES</api:keyword>
+					<api:keyword origin="record-data" source="wos">DYNAMICS</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">06 Biological Sciences</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">07 Agricultural and Veterinary Sciences</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">11 Medical and Health Sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">30 Agricultural, veterinary and food sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">31 Biological sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">41 Environmental sciences</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="0962-8452" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965543" title="Proceedings of the Royal Society of London. Biological Sciences">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Proceedings of the Royal Society of London. Biological Sciences</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/6089/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

@@ -1,0 +1,1215 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/917"/>
+	<api:result>
+		<api:object category="publication" id="917" last-affected-when="2023-12-21T16:08:27.35+00:00" last-modified-when="2023-12-21T16:08:27.35+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/917" created-when="2010-05-17T13:47:27.387+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2000-03-11</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="1351722" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1016/S0140-6736(99)09095-9" last-modified-when="2022-09-12T00:34:36.2+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>Brian H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Brian</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="12012" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/12012"/>
+									</api:links>
+									<api:last-name>Tidy</api:last-name>
+									<api:initials>JA</api:initials>
+									<api:first-names>John A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>John</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Boston</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>Karen</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Karen</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Blackett</api:last-name>
+									<api:initials>AD</api:initials>
+									<api:first-names>Anthony D</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Anthony</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Rod H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Rod</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Sharp</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>Frank</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Frank</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/s0140-6736(99)09095-9</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/s0140-6736(99)09095-9"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/s0140-6736(99)09095-9"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0140-6736</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973300"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>9207</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>The Lancet</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>892</api:begin-page>
+								<api:end-page>895</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>3</api:month>
+								<api:year>2000</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Elsevier BV</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1016/s0140-6736(99)09095-9</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>14</api:day>
+								<api:month>4</api:month>
+								<api:year>2019</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Relation between tissue structure and imposed electrical current flow in cervical neoplasia</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>355</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="96482" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-0034635774" last-modified-when="2023-12-06T08:29:28.54+00:00">
+					<api:citation-count>178</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Background. When an electrical potential is applied to human tissue, the pattern of the resulting current flow is determined by the shapes, arrangements, and internal structure of the tissue cells. By measurement of the electrical current patterns over a range of frequencies, and use of an inverse modelling procedure, electrical variables describing the tissue structure can be calculated. We used this method to develop a screening technique for the detection of cervical precancers. Methods. We used a pencil probe (diameter 5 mm) to measure electrical impedance spectra from eight points on the cervix in 124 women with abnormal cervical smears. Variables that should be sensitive to the expected tissue changes were calculated. These were compared with the colposcopic results. Findings. The measured electrical impedance changes were those predicted on the basis of the expected tissue structures. Measurements made on normal squamous tissues were well separated from those made on precancerous tissues. We constructed receiver-operating-characteristic curves, comparing measurements made on normal tissue and that showing cervical intraepithelial neoplasia grade 2/3; the area under the curve was 0.951. These groups of women could be separated with a sensitivity of 0.92 and a specificity of 0.92. Interpretation. Characteristics of the electrical impedance spectra of tissues can be explained by changes in cell arrangements (layering) and in the size of the nuclei. This relation opens the way to deriving tissue structure from electrical impedance spectral measurements. We show that this approach can be used to give good separation of normal and precancerous cervical tissues.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7404161092</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="12012" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/12012"/>
+									</api:links>
+									<api:last-name>Tidy</api:last-name>
+									<api:initials>JA</api:initials>
+									<api:first-names>JA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">56529245800</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Boston</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">21736267000</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Blackett</api:last-name>
+									<api:initials>AD</api:initials>
+									<api:first-names>AD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">6701547612</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7102525654</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Sharp</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>F</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>F</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7102374177</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/S0140-6736(99)09095-9</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/S0140-6736(99)09095-9"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/S0140-6736(99)09095-9"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">10752706</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0140-6736</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973300"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>9207</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Lancet</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>892</api:begin-page>
+								<api:end-page>895</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>11</api:day>
+								<api:month>3</api:month>
+								<api:year>2000</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Relation between tissue structure and imposed electrical current flow in cervical neoplasia</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>355</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="917" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="10752706" last-modified-when="2022-12-20T23:26:14.61+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>BACKGROUND: When an electrical potential is applied to human tissue, the pattern of the resulting current flow is determined by the shapes, arrangements, and internal structure of the tissue cells. By measurement of the electrical current patterns over a range of frequencies, and use of an inverse modelling procedure, electrical variables describing the tissue structure can be calculated. We used this method to develop a screening technique for the detection of cervical precancers. METHODS: We used a pencil probe (diameter 5 mm) to measure electrical impedance spectra from eight points on the cervix in 124 women with abnormal cervical smears. Variables that should be sensitive to the expected tissue changes were calculated. These were compared with the colposcopic results. FINDINGS: The measured electrical impedance changes were those predicted on the basis of the expected tissue structures. Measurements made on normal squamous tissues were well separated from those made on precancerous tissues. We constructed receiver-operating-characteristic curves, comparing measurements made on normal tissue and that showing cervical intraepithelial neoplasia grade 2/3; the area under the curve was 0.951. These groups of women could be separated with a sensitivity of 0.92 and a specificity of 0.92. INTERPRETATION: Characteristics of the electrical impedance spectra of tissues can be explained by changes in cell arrangements (layering) and in the size of the nuclei. This relation opens the way to deriving tissue structure from electrical impedance spectral measurements. We show that this approach can be used to give good separation of normal and precancerous cervical tissues.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Department of Medical Physics, University of Sheffield, Royal Hallamshire Hospital, UK. b.h.brown@sheffield.ac.uk</api:line>
+										</api:address>
+									</api:addresses>
+									<api:email-address>b.h.brown@sheffield.ac.uk</api:email-address>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="12012" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/12012"/>
+									</api:links>
+									<api:last-name>Tidy</api:last-name>
+									<api:initials>JA</api:initials>
+									<api:first-names>JA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Boston</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Blackett</api:last-name>
+									<api:initials>AD</api:initials>
+									<api:first-names>AD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Sharp</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>F</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>F</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/10752706</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/S0140-6736(99)09095-9</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/S0140-6736(99)09095-9"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/S0140-6736(99)09095-9"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0140-6736</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973300"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>9207</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Lancet</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Biopsy</api:keyword>
+								<api:keyword scheme="mesh">Cervix Uteri</api:keyword>
+								<api:keyword scheme="mesh">Colposcopy</api:keyword>
+								<api:keyword scheme="mesh">Electric Impedance</api:keyword>
+								<api:keyword scheme="mesh">Electric Stimulation</api:keyword>
+								<api:keyword scheme="mesh">Electrodes</api:keyword>
+								<api:keyword scheme="mesh">Female</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Mass Screening</api:keyword>
+								<api:keyword scheme="mesh">Neoplasm Staging</api:keyword>
+								<api:keyword scheme="mesh">Precancerous Conditions</api:keyword>
+								<api:keyword scheme="mesh">Predictive Value of Tests</api:keyword>
+								<api:keyword scheme="mesh">ROC Curve</api:keyword>
+								<api:keyword scheme="mesh">Uterine Cervical Neoplasms</api:keyword>
+								<api:keyword scheme="mesh">Vaginal Smears</api:keyword>
+								<api:keyword scheme="mesh">Uterine Cervical Dysplasia</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>England</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>892</api:begin-page>
+								<api:end-page>895</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>S0140-6736(99)09095-9</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>11</api:day>
+								<api:month>3</api:month>
+								<api:year>2000</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>14</api:day>
+								<api:month>4</api:month>
+								<api:year>2000</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Relation between tissue structure and imposed electrical current flow in cervical neoplasia.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>355</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="882151" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:10752706" last-modified-when="2023-09-12T18:38:01.583+01:00">
+					<api:citation-count>85</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>&lt;h4&gt;Background&lt;/h4&gt;When an electrical potential is applied to human tissue, the pattern of the resulting current flow is determined by the shapes, arrangements, and internal structure of the tissue cells. By measurement of the electrical current patterns over a range of frequencies, and use of an inverse modelling procedure, electrical variables describing the tissue structure can be calculated. We used this method to develop a screening technique for the detection of cervical precancers.&lt;h4&gt;Methods&lt;/h4&gt;We used a pencil probe (diameter 5 mm) to measure electrical impedance spectra from eight points on the cervix in 124 women with abnormal cervical smears. Variables that should be sensitive to the expected tissue changes were calculated. These were compared with the colposcopic results.&lt;h4&gt;Findings&lt;/h4&gt;The measured electrical impedance changes were those predicted on the basis of the expected tissue structures. Measurements made on normal squamous tissues were well separated from those made on precancerous tissues. We constructed receiver-operating-characteristic curves, comparing measurements made on normal tissue and that showing cervical intraepithelial neoplasia grade 2/3; the area under the curve was 0.951. These groups of women could be separated with a sensitivity of 0.92 and a specificity of 0.92.&lt;h4&gt;Interpretation&lt;/h4&gt;Characteristics of the electrical impedance spectra of tissues can be explained by changes in cell arrangements (layering) and in the size of the nuclei. This relation opens the way to deriving tissue structure from electrical impedance spectral measurements. We show that this approach can be used to give good separation of normal and precancerous cervical tissues.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Department of Medical Physics, University of Sheffield, Royal Hallamshire Hospital, UK. b.h.brown@sheffield.ac.uk</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="12012" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/12012"/>
+									</api:links>
+									<api:last-name>Tidy</api:last-name>
+									<api:initials>JA</api:initials>
+									<api:first-names>JA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Boston</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Blackett</api:last-name>
+									<api:initials>AD</api:initials>
+									<api:first-names>AD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0003-0134-0632</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Sharp</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>F</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>F</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/s0140-6736(99)09095-9</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/s0140-6736(99)09095-9"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/s0140-6736(99)09095-9"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1474-547X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973300"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">10752706</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0140-6736</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973300"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>9207</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Lancet (London, England)</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Cervix Uteri</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Precancerous Conditions</api:keyword>
+								<api:keyword scheme="mesh">Colposcopy</api:keyword>
+								<api:keyword scheme="mesh">Vaginal Smears</api:keyword>
+								<api:keyword scheme="mesh">Biopsy</api:keyword>
+								<api:keyword scheme="mesh">Mass Screening</api:keyword>
+								<api:keyword scheme="mesh">Neoplasm Staging</api:keyword>
+								<api:keyword scheme="mesh">Predictive Value of Tests</api:keyword>
+								<api:keyword scheme="mesh">ROC Curve</api:keyword>
+								<api:keyword scheme="mesh">Electric Stimulation</api:keyword>
+								<api:keyword scheme="mesh">Electrodes</api:keyword>
+								<api:keyword scheme="mesh">Electric Impedance</api:keyword>
+								<api:keyword scheme="mesh">Uterine Cervical Dysplasia</api:keyword>
+								<api:keyword scheme="mesh">Uterine Cervical Neoplasms</api:keyword>
+								<api:keyword scheme="mesh">Female</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>892</api:begin-page>
+								<api:end-page>895</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>3</api:month>
+								<api:year>2000</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>7</api:day>
+								<api:month>2</api:month>
+								<api:year>2001</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Relation between tissue structure and imposed electrical current flow in cervical neoplasia.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>355</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2545199" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1035718110" last-modified-when="2023-12-21T16:08:27.357+00:00">
+					<api:citation-count>166</api:citation-count>
+					<api:native>
+						<api:field name="altmetric-attention-score" type="integer" display-name="Altmetric attention score">
+							<api:integer>3</api:integer>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>Brian H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Brian</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.014007640532.87</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="12012" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/12012"/>
+									</api:links>
+									<api:last-name>Tidy</api:last-name>
+									<api:initials>JA</api:initials>
+									<api:first-names>John A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>John</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Northern General Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01346464442.34</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Boston</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>Karen</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Karen</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01231733055.91</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Blackett</api:last-name>
+									<api:initials>AD</api:initials>
+									<api:first-names>Anthony D</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Anthony</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Northern General Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01235715304.14</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Rod H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Rod</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.010344316260.31</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Sharp</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>Frank</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Frank</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Northern General Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01042774526.77</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/s0140-6736(99)09095-9</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/s0140-6736(99)09095-9"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/s0140-6736(99)09095-9"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">10752706</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>24.75</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0140-6736</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973300"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>9207</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>The Lancet</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">3215 Reproductive Medicine</api:keyword>
+								<api:keyword scheme="for-2020">32 Biomedical and Clinical Sciences</api:keyword>
+								<api:keyword scheme="rcdc">Cancer</api:keyword>
+								<api:keyword scheme="rcdc">Cervical Cancer</api:keyword>
+								<api:keyword scheme="mesh">Biopsy</api:keyword>
+								<api:keyword scheme="mesh">Cervix Uteri</api:keyword>
+								<api:keyword scheme="mesh">Colposcopy</api:keyword>
+								<api:keyword scheme="mesh">Electric Impedance</api:keyword>
+								<api:keyword scheme="mesh">Electric Stimulation</api:keyword>
+								<api:keyword scheme="mesh">Electrodes</api:keyword>
+								<api:keyword scheme="mesh">Female</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Mass Screening</api:keyword>
+								<api:keyword scheme="mesh">Neoplasm Staging</api:keyword>
+								<api:keyword scheme="mesh">Precancerous Conditions</api:keyword>
+								<api:keyword scheme="mesh">Predictive Value of Tests</api:keyword>
+								<api:keyword scheme="mesh">ROC Curve</api:keyword>
+								<api:keyword scheme="mesh">Uterine Cervical Neoplasms</api:keyword>
+								<api:keyword scheme="mesh">Vaginal Smears</api:keyword>
+								<api:keyword scheme="mesh">Uterine Cervical Dysplasia</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Closed Access</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>892</api:begin-page>
+								<api:end-page>895</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>3</api:month>
+								<api:year>2000</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Elsevier</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>3.28</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Relation between tissue structure and imposed electrical current flow in cervical neoplasia</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>355</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="241394" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000085896000012" last-modified-when="2023-12-20T20:04:20.683+00:00">
+					<api:citation-count>143</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="12012" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/12012"/>
+									</api:links>
+									<api:last-name>Tidy</api:last-name>
+									<api:initials>JA</api:initials>
+									<api:first-names>JA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Boston</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Blackett</api:last-name>
+									<api:initials>AD</api:initials>
+									<api:first-names>AD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Sharp</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>F</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>F</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000085896000012&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/S0140-6736(99)09095-9</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/S0140-6736(99)09095-9"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/S0140-6736(99)09095-9"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">294DM</api:identifier>
+								<api:identifier scheme="pubmed">10752706</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0140-6736</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973300"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>9207</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>LANCET</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>892</api:begin-page>
+								<api:end-page>895</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2000</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Relation between tissue structure and imposed electrical current flow in cervical neoplasia</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>355</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="24363" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000085896000012" last-modified-when="2014-07-25T11:06:24.023+01:00">
+					<api:citation-count>60</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="12012" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/12012"/>
+									</api:links>
+									<api:last-name>Tidy</api:last-name>
+									<api:initials>JA</api:initials>
+									<api:first-names>JA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Boston</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Blackett</api:last-name>
+									<api:initials>AD</api:initials>
+									<api:first-names>AD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Sharp</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>F</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>F</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0140-6736</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973300"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>9207</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>LANCET</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>UTERINE CERVIX</api:keyword>
+								<api:keyword>CANCER</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>892</api:begin-page>
+								<api:end-page>895</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>11</api:day>
+								<api:month>3</api:month>
+								<api:year>2000</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Relation between tissue structure and imposed electrical current flow in cervical neoplasia</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>355</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Biopsy</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Cervix Uteri</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Colposcopy</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Electric Impedance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Electric Stimulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Electrodes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Female</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Mass Screening</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Neoplasm Staging</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Precancerous Conditions</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Predictive Value of Tests</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">ROC Curve</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Uterine Cervical Neoplasms</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Vaginal Smears</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Uterine Cervical Dysplasia</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Cervix Uteri</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Precancerous Conditions</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Colposcopy</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Vaginal Smears</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Biopsy</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Mass Screening</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Neoplasm Staging</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Predictive Value of Tests</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">ROC Curve</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Electric Stimulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Electrodes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Electric Impedance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Uterine Cervical Dysplasia</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Uterine Cervical Neoplasms</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Female</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">3215 Reproductive Medicine</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">32 Biomedical and Clinical Sciences</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Cancer</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Cervical Cancer</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Biopsy</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Cervix Uteri</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Colposcopy</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Electric Impedance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Electric Stimulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Electrodes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Female</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Mass Screening</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Neoplasm Staging</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Precancerous Conditions</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Predictive Value of Tests</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">ROC Curve</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Uterine Cervical Neoplasms</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Vaginal Smears</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Uterine Cervical Dysplasia</api:keyword>
+					<api:keyword origin="record-data" source="wos">UTERINE CERVIX</api:keyword>
+					<api:keyword origin="record-data" source="wos">CANCER</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">11 Medical and Health Sciences</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">General &amp; Internal Medicine</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">32 Biomedical and clinical sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">42 Health sciences</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="0140-6736" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973300" title="The Lancet">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>The Lancet</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/917/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

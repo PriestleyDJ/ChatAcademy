@@ -1,0 +1,1376 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11142"/>
+	<api:result>
+		<api:object category="publication" id="11142" last-affected-when="2023-12-10T16:11:37.18+00:00" last-modified-when="2023-12-10T16:11:37.18+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11142" created-when="2010-05-17T14:15:34.673+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2008-05-31</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="4212738" source-id="28" source-name="eprints" source-display-name="White Rose Research Online" id-at-source="117205" last-modified-when="2022-12-29T05:20:16.05+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Study of the effects of pressure on macromolecular
+structure improves our understanding of the forces
+governing structure, provides details on the relevance
+of cavities and packing in structure, increases
+our understanding of hydration and provides a basis
+to understand the biology of high-pressure organisms.
+A study of DNA, in particular, helps us to
+understand how pressure can affect gene activity.
+Here we present the first high-resolution experimental
+study of B-DNA structure at high pressure, using
+NMR data acquired at pressures up to 200 MPa
+(2 kbar). The structure of DNA compresses very
+little, but is distorted so as to widen the minor
+groove, and to compress hydrogen bonds, with AT
+pairs compressing more than GC pairs. The minor
+groove changes are suggested to lead to a compression
+of the hydration water in the minor groove.</api:text>
+						</api:field>
+						<api:field name="acceptance-date" type="date" display-name="Date of acceptance">
+							<api:date>
+								<api:day>15</api:day>
+								<api:month>5</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>DJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Ghosh</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Chary</api:last-name>
+									<api:initials>KVA</api:initials>
+									<api:first-names>KVA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>V</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Akasaka</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1646" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1646"/>
+									</api:links>
+									<api:last-name>Williamson</api:last-name>
+									<api:initials>MP</api:initials>
+									<api:first-names>MP</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1093/nar/gkn350</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1093/nar/gkn350"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1093/nar/gkn350"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1362-4962</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/955339"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0305-1048</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/955339"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>12</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Nucleic Acids Research</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>EGG-WHITE LYSOZYME</api:keyword>
+								<api:keyword>NUCLEIC-ACIDS</api:keyword>
+								<api:keyword>CRYSTAL-STRUCTURE</api:keyword>
+								<api:keyword>CHEMICAL-SHIFTS</api:keyword>
+								<api:keyword>CONFORMATIONAL-CHANGES</api:keyword>
+								<api:keyword>VOLUMETRIC PROPERTIES</api:keyword>
+								<api:keyword>ESCHERICHIA-COLI</api:keyword>
+								<api:keyword>PROTEIN-G</api:keyword>
+								<api:keyword>CRYSTALLOGRAPHY</api:keyword>
+								<api:keyword>HYDRATION</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="notes" type="text" display-name="Other information">
+							<api:text>© 2008 The Author(s)
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/
+by-nc/2.0/uk/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>4032</api:begin-page>
+								<api:end-page>4037</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>5</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="public-url" type="text" display-name="Public URL">
+							<api:text>https://eprints.whiterose.ac.uk/id/eprint/117205</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Oxford University Press</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://doi.org/10.1093/nar/gkn350</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>6</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>6</api:day>
+								<api:month>6</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="repository-status" type="text" display-name="Availability">
+							<api:text>Public</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Structural change in a B-DNA helix with hydrostatic pressure</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>36</api:text>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://eprints.whiterose.ac.uk/id/file/1750199">
+								<api:filename>Structural change in a B-DNA helix with hydrostatic pressure.pdf</api:filename>
+								<api:file-url>https://eprints.whiterose.ac.uk/117205/1/Structural change in a B-DNA helix with hydrostatic pressure.pdf</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:file-size>1903511</api:file-size>
+								<api:mime-type>application/pdf</api:mime-type>
+								<api:checksum algorithm="md5">1523E5F9E37E6A25A183EAA82218E9AE</api:checksum>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="1365724" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1093/nar/gkn350" last-modified-when="2022-09-12T03:12:55.037+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>David J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>David</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Ghosh</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mahua</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mahua</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Chary</api:last-name>
+									<api:initials>KVA</api:initials>
+									<api:first-names>KVA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>V</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Akasaka</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>Kazuyuki</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kazuyuki</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1646" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1646"/>
+									</api:links>
+									<api:last-name>Williamson</api:last-name>
+									<api:initials>MP</api:initials>
+									<api:first-names>Mike P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1093/nar/gkn350</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1093/nar/gkn350"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1093/nar/gkn350"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1362-4962</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/955339"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0305-1048</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/955339"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>12</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Nucleic Acids Research</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>5</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>4032</api:begin-page>
+								<api:end-page>4037</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>7</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Oxford University Press (OUP)</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1093/nar/gkn350</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>2</api:day>
+								<api:month>4</api:month>
+								<api:year>2018</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Structural change in a B-DNA helix with hydrostatic pressure</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>36</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="115324" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-47249155339" last-modified-when="2023-10-31T16:56:58.517+00:00">
+					<api:citation-count>48</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Study of the effects of pressure on macromolecular structure improves our understanding of the forces governing structure, provides details on the relevance of cavities and packing in structure, increases our understanding of hydration and provides a basis to understand the biology of high-pressure organisms. A study of DNA, in particular, helps us to understand how pressure can affect gene activity. Here we present the first high-resolution experimental study of B-DNA structure at high pressure, using NMR data acquired at pressures up to 200 MPa (2 kbar). The structure of DNA compresses very little, but is distorted so as to widen the minor groove, and to compress hydrogen bonds, with AT pairs compressing more than GC pairs. The minor groove changes are suggested to lead to a compression of the hydration water in the minor groove. © 2008 The Author(s).</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>DJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7102880530</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Ghosh</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="IN">
+											<api:line type="organisation">Tata Institute of Fundamental Research, Mumbai</api:line>
+											<api:line type="city">Mumbai</api:line>
+											<api:line type="country">India</api:line>
+										</api:address>
+										<api:address iso-country-code="IN">
+											<api:line type="organisation">Indian Institute of Science Education and Research Kolkata</api:line>
+											<api:line type="city">Mohanpur</api:line>
+											<api:line type="country">India</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">57214001188</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Chary</api:last-name>
+									<api:initials>KVA</api:initials>
+									<api:first-names>KVA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>V</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="IN">
+											<api:line type="organisation">Tata Institute of Fundamental Research, Mumbai</api:line>
+											<api:line type="city">Mumbai</api:line>
+											<api:line type="country">India</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">58384120300</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Akasaka</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="JP">
+											<api:line type="organisation">Kindai University</api:line>
+											<api:line type="city">Higashiosaka</api:line>
+											<api:line type="country">Japan</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">24545361400</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1646" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1646"/>
+									</api:links>
+									<api:last-name>Williamson</api:last-name>
+									<api:initials>MP</api:initials>
+									<api:first-names>MP</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">56025952600</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1093/nar/gkn350</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1093/nar/gkn350"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1093/nar/gkn350"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1362-4962</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/955339"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">18515837</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0305-1048</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/955339"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>12</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Nucleic Acids Research</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>4032</api:begin-page>
+								<api:end-page>4037</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>7</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Structural change in a B-DNA helix with hydrostatic pressure</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>36</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="11142" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="18515837" last-modified-when="2020-04-28T22:01:53.227+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Study of the effects of pressure on macromolecular structure improves our understanding of the forces governing structure, provides details on the relevance of cavities and packing in structure, increases our understanding of hydration and provides a basis to understand the biology of high-pressure organisms. A study of DNA, in particular, helps us to understand how pressure can affect gene activity. Here we present the first high-resolution experimental study of B-DNA structure at high pressure, using NMR data acquired at pressures up to 200 MPa (2 kbar). The structure of DNA compresses very little, but is distorted so as to widen the minor groove, and to compress hydrogen bonds, with AT pairs compressing more than GC pairs. The minor groove changes are suggested to lead to a compression of the hydration water in the minor groove.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>David J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>David</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Department of Molecular Biology and Biotechnology, University of Sheffield, Firth Court, Western Bank, Sheffield S10 2TN, UK.</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Ghosh</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mahua</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mahua</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Chary</api:last-name>
+									<api:initials>KVA</api:initials>
+									<api:first-names>KVA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>V</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Akasaka</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>Kazuyuki</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kazuyuki</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1646" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1646"/>
+									</api:links>
+									<api:last-name>Williamson</api:last-name>
+									<api:initials>MP</api:initials>
+									<api:first-names>Mike P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/18515837</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1093/nar/gkn350</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1093/nar/gkn350"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1093/nar/gkn350"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1362-4962</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/955339"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pmc">PMC2475645</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>12</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Nucleic Acids Res</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">DNA</api:keyword>
+								<api:keyword scheme="mesh">Hydrogen Bonding</api:keyword>
+								<api:keyword scheme="mesh">Hydrostatic Pressure</api:keyword>
+								<api:keyword scheme="mesh">Models, Molecular</api:keyword>
+								<api:keyword scheme="mesh">Nuclear Magnetic Resonance, Biomolecular</api:keyword>
+								<api:keyword scheme="mesh">Nucleic Acid Conformation</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>England</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>4032</api:begin-page>
+								<api:end-page>4037</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>gkn350</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>7</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>12</api:day>
+								<api:month>8</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Structural change in a B-DNA helix with hydrostatic pressure.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>36</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="888606" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:18515837" last-modified-when="2023-11-21T19:18:13.51+00:00">
+					<api:citation-count>29</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Study of the effects of pressure on macromolecular structure improves our understanding of the forces governing structure, provides details on the relevance of cavities and packing in structure, increases our understanding of hydration and provides a basis to understand the biology of high-pressure organisms. A study of DNA, in particular, helps us to understand how pressure can affect gene activity. Here we present the first high-resolution experimental study of B-DNA structure at high pressure, using NMR data acquired at pressures up to 200 MPa (2 kbar). The structure of DNA compresses very little, but is distorted so as to widen the minor groove, and to compress hydrogen bonds, with AT pairs compressing more than GC pairs. The minor groove changes are suggested to lead to a compression of the hydration water in the minor groove.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Department of Molecular Biology and Biotechnology, University of Sheffield, Firth Court, Western Bank, Sheffield S10 2TN, UK.</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>David J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>David</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Ghosh</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mahua</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mahua</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Chary</api:last-name>
+									<api:initials>KVA</api:initials>
+									<api:first-names>KVA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>V</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Akasaka</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>Kazuyuki</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kazuyuki</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1646" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1646"/>
+									</api:links>
+									<api:last-name>Williamson</api:last-name>
+									<api:initials>MP</api:initials>
+									<api:first-names>Mike P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0001-5572-1903</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1093/nar/gkn350</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1093/nar/gkn350"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1093/nar/gkn350"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1362-4962</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/955339"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">18515837</api:identifier>
+								<api:identifier scheme="pmc">PMC2475645</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>true</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0305-1048</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/955339"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>12</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Nucleic acids research</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">DNA</api:keyword>
+								<api:keyword scheme="mesh">Nuclear Magnetic Resonance, Biomolecular</api:keyword>
+								<api:keyword scheme="mesh">Nucleic Acid Conformation</api:keyword>
+								<api:keyword scheme="mesh">Hydrogen Bonding</api:keyword>
+								<api:keyword scheme="mesh">Hydrostatic Pressure</api:keyword>
+								<api:keyword scheme="mesh">Models, Molecular</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print-Electronic</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>5</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Open Access</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>4032</api:begin-page>
+								<api:end-page>4037</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>7</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher-licence" type="text" display-name="Publisher licence">
+							<api:text>CC BY-NC</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>3</api:day>
+								<api:month>6</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Structural change in a B-DNA helix with hydrostatic pressure.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>research-article</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>36</api:text>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://academic.oup.com/nar/article-pdf/36/12/4032/16748284/gkn350.pdf">
+								<api:file-url>https://academic.oup.com/nar/article-pdf/36/12/4032/16748284/gkn350.pdf</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+							<api:file proprietary-id="https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18515837/pdf/?tool=EBI">
+								<api:file-url>https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18515837/pdf/?tool=EBI</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+							<api:file proprietary-id="http://nar.oxfordjournals.org/cgi/reprint/36/12/4032.pdf">
+								<api:file-url>http://nar.oxfordjournals.org/cgi/reprint/36/12/4032.pdf</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+							<api:file proprietary-id="https://europepmc.org/articles/PMC2475645?pdf=render">
+								<api:file-url>https://europepmc.org/articles/PMC2475645?pdf=render</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2988986" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1036631590" last-modified-when="2023-12-10T16:11:37.183+00:00">
+					<api:citation-count>52</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>David J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>David</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="JP">
+											<api:line type="organisation">Kindai University</api:line>
+											<api:line type="city">Osaka</api:line>
+											<api:line type="country">Japan</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01253342714.62</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Ghosh</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mahua</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mahua</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="JP">
+											<api:line type="organisation">Kindai University</api:line>
+											<api:line type="city">Osaka</api:line>
+											<api:line type="country">Japan</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0601556421.81</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Chary</api:last-name>
+									<api:initials>KVA</api:initials>
+									<api:first-names>KVA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>V</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="JP">
+											<api:line type="organisation">Kindai University</api:line>
+											<api:line type="city">Osaka</api:line>
+											<api:line type="country">Japan</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Akasaka</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>Kazuyuki</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kazuyuki</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="JP">
+											<api:line type="organisation">Kindai University</api:line>
+											<api:line type="city">Osaka</api:line>
+											<api:line type="country">Japan</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.07612527111.10</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1646" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1646"/>
+									</api:links>
+									<api:last-name>Williamson</api:last-name>
+									<api:initials>MP</api:initials>
+									<api:first-names>Mike P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="JP">
+											<api:line type="organisation">Kindai University</api:line>
+											<api:line type="city">Osaka</api:line>
+											<api:line type="country">Japan</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.010760774442.21</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1093/nar/gkn350</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1093/nar/gkn350"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1093/nar/gkn350"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">18515837</api:identifier>
+								<api:identifier scheme="pmc">PMC2475645</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0305-1048</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/955339"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>12</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Nucleic Acids Research</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">31 Biological Sciences</api:keyword>
+								<api:keyword scheme="for-2020">41 Environmental Sciences</api:keyword>
+								<api:keyword scheme="for-2020">34 Chemical Sciences</api:keyword>
+								<api:keyword scheme="rcdc">Genetics</api:keyword>
+								<api:keyword scheme="hrcs-rac">1.1 Normal biological development and functioning</api:keyword>
+								<api:keyword scheme="hrcs-rac">1 Underpinning research</api:keyword>
+								<api:keyword scheme="hrcs-hc">Generic health relevance</api:keyword>
+								<api:keyword scheme="mesh">DNA</api:keyword>
+								<api:keyword scheme="mesh">Hydrogen Bonding</api:keyword>
+								<api:keyword scheme="mesh">Hydrostatic Pressure</api:keyword>
+								<api:keyword scheme="mesh">Models, Molecular</api:keyword>
+								<api:keyword scheme="mesh">Nuclear Magnetic Resonance, Biomolecular</api:keyword>
+								<api:keyword scheme="mesh">Nucleic Acid Conformation</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>5</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Gold OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>4032</api:begin-page>
+								<api:end-page>4037</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>7</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Oxford University Press (OUP)</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>1</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Structural change in a B-DNA helix with hydrostatic pressure</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>36</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="258988" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000257578600015" last-modified-when="2023-12-08T09:25:57.033+00:00">
+					<api:citation-count>46</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>David J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>David</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Ghosh</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mahua</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mahua</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Chary</api:last-name>
+									<api:initials>KVA</api:initials>
+									<api:first-names>KVA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>V</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Akasaka</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>Kazuyuki</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kazuyuki</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1646" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1646"/>
+									</api:links>
+									<api:last-name>Williamson</api:last-name>
+									<api:initials>MP</api:initials>
+									<api:first-names>Mike P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000257578600015&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1093/nar/gkn350</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1093/nar/gkn350"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1093/nar/gkn350"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">325HA</api:identifier>
+								<api:identifier scheme="pubmed">18515837</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0305-1048</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/955339"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>12</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>NUCLEIC ACIDS RESEARCH</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>4032</api:begin-page>
+								<api:end-page>4037</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Structural change in a B-DNA helix with hydrostatic pressure</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>36</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="47567" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000257578600015" last-modified-when="2014-07-25T12:17:57.9+01:00">
+					<api:citation-count>7</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>DJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Dept Mol Biol &amp; Biotechnol, Western Bank, Sheffield S10 2TN, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Ghosh</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="IN">
+											<api:line type="full">Tata Inst Fundamental Res, Dept Chem Sci, Mumbai 400005, Maharashtra, India</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Chary</api:last-name>
+									<api:initials>KVA</api:initials>
+									<api:first-names>KVA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+										<api:first-name>V</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="IN">
+											<api:line type="full">Tata Inst Fundamental Res, Dept Chem Sci, Mumbai 400005, Maharashtra, India</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Akasaka</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="JP">
+											<api:line type="full">Kinki Univ, Dept Biotechnol Sci, Sch Biol Oriented Sci &amp; Technol, Wakayama 6496493, Japan</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1646" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1646"/>
+									</api:links>
+									<api:last-name>Williamson</api:last-name>
+									<api:initials>MP</api:initials>
+									<api:first-names>MP</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Dept Mol Biol &amp; Biotechnol, Western Bank, Sheffield S10 2TN, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1093/nar/gkn350</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1093/nar/gkn350"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1093/nar/gkn350"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0305-1048</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/955339"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>12</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>NUCLEIC ACIDS RES</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>EGG-WHITE LYSOZYME</api:keyword>
+								<api:keyword>NUCLEIC-ACIDS</api:keyword>
+								<api:keyword>CRYSTAL-STRUCTURE</api:keyword>
+								<api:keyword>CHEMICAL-SHIFTS</api:keyword>
+								<api:keyword>CONFORMATIONAL-CHANGES</api:keyword>
+								<api:keyword>VOLUMETRIC PROPERTIES</api:keyword>
+								<api:keyword>ESCHERICHIA-COLI</api:keyword>
+								<api:keyword>PROTEIN-G</api:keyword>
+								<api:keyword>CRYSTALLOGRAPHY</api:keyword>
+								<api:keyword>HYDRATION</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>4032</api:begin-page>
+								<api:end-page>4037</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>7</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Structural change in a B-DNA helix with hydrostatic pressure</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>36</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword origin="record-data" source="eprints">EGG-WHITE LYSOZYME</api:keyword>
+					<api:keyword origin="record-data" source="eprints">NUCLEIC-ACIDS</api:keyword>
+					<api:keyword origin="record-data" source="eprints">CRYSTAL-STRUCTURE</api:keyword>
+					<api:keyword origin="record-data" source="eprints">CHEMICAL-SHIFTS</api:keyword>
+					<api:keyword origin="record-data" source="eprints">CONFORMATIONAL-CHANGES</api:keyword>
+					<api:keyword origin="record-data" source="eprints">VOLUMETRIC PROPERTIES</api:keyword>
+					<api:keyword origin="record-data" source="eprints">ESCHERICHIA-COLI</api:keyword>
+					<api:keyword origin="record-data" source="eprints">PROTEIN-G</api:keyword>
+					<api:keyword origin="record-data" source="eprints">CRYSTALLOGRAPHY</api:keyword>
+					<api:keyword origin="record-data" source="eprints">HYDRATION</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">DNA</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Hydrogen Bonding</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Hydrostatic Pressure</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Molecular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Nuclear Magnetic Resonance, Biomolecular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Nucleic Acid Conformation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">DNA</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Nuclear Magnetic Resonance, Biomolecular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Nucleic Acid Conformation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Hydrogen Bonding</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Hydrostatic Pressure</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Molecular</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">31 Biological Sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">41 Environmental Sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">34 Chemical Sciences</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Genetics</api:keyword>
+					<api:keyword scheme="hrcs-rac" origin="record-data" source="dimensions">1.1 Normal biological development and functioning</api:keyword>
+					<api:keyword scheme="hrcs-rac" origin="record-data" source="dimensions">1 Underpinning research</api:keyword>
+					<api:keyword scheme="hrcs-hc" origin="record-data" source="dimensions">Generic health relevance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">DNA</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Hydrogen Bonding</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Hydrostatic Pressure</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Molecular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Nuclear Magnetic Resonance, Biomolecular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Nucleic Acid Conformation</api:keyword>
+					<api:keyword origin="record-data" source="wos">EGG-WHITE LYSOZYME</api:keyword>
+					<api:keyword origin="record-data" source="wos">NUCLEIC-ACIDS</api:keyword>
+					<api:keyword origin="record-data" source="wos">CRYSTAL-STRUCTURE</api:keyword>
+					<api:keyword origin="record-data" source="wos">CHEMICAL-SHIFTS</api:keyword>
+					<api:keyword origin="record-data" source="wos">CONFORMATIONAL-CHANGES</api:keyword>
+					<api:keyword origin="record-data" source="wos">VOLUMETRIC PROPERTIES</api:keyword>
+					<api:keyword origin="record-data" source="wos">ESCHERICHIA-COLI</api:keyword>
+					<api:keyword origin="record-data" source="wos">PROTEIN-G</api:keyword>
+					<api:keyword origin="record-data" source="wos">CRYSTALLOGRAPHY</api:keyword>
+					<api:keyword origin="record-data" source="wos">HYDRATION</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">05 Environmental Sciences</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">06 Biological Sciences</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">08 Information and Computing Sciences</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Developmental Biology</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">31 Biological sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">34 Chemical sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">41 Environmental sciences</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="0305-1048" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/955339" title="Nucleic Acids Research (NAR)">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Nucleic Acids Research (NAR)</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11142/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

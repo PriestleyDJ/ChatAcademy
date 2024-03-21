@@ -1,0 +1,1422 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/7547"/>
+	<api:result>
+		<api:object category="publication" id="7547" last-affected-when="2023-12-25T01:18:20.51+00:00" last-modified-when="2023-12-25T01:18:20.51+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/7547" created-when="2010-05-17T14:03:35.473+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2009-07-09</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="1421083" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1080/02699200400026884" last-modified-when="2022-09-11T11:03:00.09+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Parker</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mark</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mark</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1102" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1102"/>
+									</api:links>
+									<api:last-name>Cunningham</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Stuart</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Stuart</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="10043" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/10043"/>
+									</api:links>
+									<api:last-name>Enderby</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Pam</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Pam</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="644" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/644"/>
+									</api:links>
+									<api:last-name>Hawley</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mark</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mark</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2031" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2031"/>
+									</api:links>
+									<api:last-name>Green</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Phil</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Phil</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1080/02699200400026884</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1080/02699200400026884"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1080/02699200400026884"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1464-5076</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/970080"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0269-9206</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/970080"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Clinical Linguistics &amp;amp; Phonetics</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>9</api:day>
+								<api:month>7</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>149</api:begin-page>
+								<api:end-page>156</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>1</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Informa UK Limited</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1080/02699200400026884</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>12</api:day>
+								<api:month>12</api:month>
+								<api:year>2016</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Automatic speech recognition and training for severely dysarthric users of assistive technology: The STARDUST project</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>20</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="106672" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-31644442806" last-modified-when="2023-11-14T14:16:21.603+00:00">
+					<api:citation-count>42</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The STARDUST project developed robust computer speech recognizers for use by eight people with severe dysarthria and concomitant physical disability to access assistive technologies. Independent computer speech recognizers trained with normal speech are of limited functional use by those with severe dysarthria due to limited and inconsistent proximity to &quot;normal&quot; articulatory patterns. Severe dysarthric output may also be characterized by a small mass of distinguishable phonetic tokens making the acoustic differentiation of target words difficult. Speaker dependent computer speech recognition using Hidden Markov Models was achieved by the identification of robust phonetic elements within the individual speaker output patterns. A new system of speech training using computer generated visual and auditory feedback reduced the inconsistent production of key phonetic tokens over time. © 2006 Taylor &amp; Francis.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Parker</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Sheffield Paediatric Speech and Language Therapy Service</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">56302974100</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1102" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1102"/>
+									</api:links>
+									<api:last-name>Cunningham</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">57561110900</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="10043" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/10043"/>
+									</api:links>
+									<api:last-name>Enderby</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">55458617500</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="644" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/644"/>
+									</api:links>
+									<api:last-name>Hawley</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Barnsley Hospital</api:line>
+											<api:line type="city">Barnsley</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7101995292</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2031" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2031"/>
+									</api:links>
+									<api:last-name>Green</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7402935470</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.jad.2006.02.007</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.jad.2006.02.007"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.jad.2006.02.007"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1464-5076</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/970080"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">16428231</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0269-9206</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/970080"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Clinical Linguistics and Phonetics</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>149</api:begin-page>
+								<api:end-page>156</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>4</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Automatic speech recognition and training for severely dysarthric users of assistive technology: The STARDUST project</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Review</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>20</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="7547" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="16428231" last-modified-when="2022-11-23T01:31:50.197+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The STARDUST project developed robust computer speech recognizers for use by eight people with severe dysarthria and concomitant physical disability to access assistive technologies. Independent computer speech recognizers trained with normal speech are of limited functional use by those with severe dysarthria due to limited and inconsistent proximity to &quot;normal&quot; articulatory patterns. Severe dysarthric output may also be characterized by a small mass of distinguishable phonetic tokens making the acoustic differentiation of target words difficult. Speaker dependent computer speech recognition using Hidden Markov Models was achieved by the identification of robust phonetic elements within the individual speaker output patterns. A new system of speech training using computer generated visual and auditory feedback reduced the inconsistent production of key phonetic tokens over time.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Parker</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mark</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mark</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Sheffield Speech and Language Therapy Agency, Sheffield, UK.</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1102" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1102"/>
+									</api:links>
+									<api:last-name>Cunningham</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Stuart</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Stuart</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="10043" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/10043"/>
+									</api:links>
+									<api:last-name>Enderby</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Pam</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Pam</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="644" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/644"/>
+									</api:links>
+									<api:last-name>Hawley</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mark</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mark</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2031" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2031"/>
+									</api:links>
+									<api:last-name>Green</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Phil</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Phil</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/16428231</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1080/02699200400026884</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1080/02699200400026884"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1080/02699200400026884"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0269-9206</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/970080"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Clin Linguist Phon</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Artificial Intelligence</api:keyword>
+								<api:keyword scheme="mesh">Cerebral Palsy</api:keyword>
+								<api:keyword scheme="mesh">Communication Aids for Disabled</api:keyword>
+								<api:keyword scheme="mesh">Dysarthria</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Multiple Sclerosis</api:keyword>
+								<api:keyword scheme="mesh">Sound Spectrography</api:keyword>
+								<api:keyword scheme="mesh">Speech Production Measurement</api:keyword>
+								<api:keyword scheme="mesh">Speech Therapy</api:keyword>
+								<api:keyword scheme="mesh">Therapy, Computer-Assisted</api:keyword>
+								<api:keyword scheme="mesh">Treatment Outcome</api:keyword>
+								<api:keyword scheme="mesh">Vocabulary</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>England</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>149</api:begin-page>
+								<api:end-page>156</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>Q5787437868613MX</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>24</api:day>
+								<api:month>5</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Automatic speech recognition and training for severely dysarthric users of assistive technology: the STARDUST project.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>20</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="886330" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:16428231" last-modified-when="2023-01-31T18:09:30.467+00:00">
+					<api:citation-count>10</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The STARDUST project developed robust computer speech recognizers for use by eight people with severe dysarthria and concomitant physical disability to access assistive technologies. Independent computer speech recognizers trained with normal speech are of limited functional use by those with severe dysarthria due to limited and inconsistent proximity to &quot;normal&quot; articulatory patterns. Severe dysarthric output may also be characterized by a small mass of distinguishable phonetic tokens making the acoustic differentiation of target words difficult. Speaker dependent computer speech recognition using Hidden Markov Models was achieved by the identification of robust phonetic elements within the individual speaker output patterns. A new system of speech training using computer generated visual and auditory feedback reduced the inconsistent production of key phonetic tokens over time.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Sheffield Speech and Language Therapy Agency, Sheffield, UK.</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Parker</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mark</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mark</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1102" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1102"/>
+									</api:links>
+									<api:last-name>Cunningham</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Stuart</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Stuart</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="10043" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/10043"/>
+									</api:links>
+									<api:last-name>Enderby</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Pam</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Pam</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="644" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/644"/>
+									</api:links>
+									<api:last-name>Hawley</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mark</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mark</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2031" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2031"/>
+									</api:links>
+									<api:last-name>Green</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Phil</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Phil</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1080/02699200400026884</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1080/02699200400026884"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1080/02699200400026884"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1464-5076</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/970080"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">16428231</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0269-9206</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/970080"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Clinical linguistics &amp; phonetics</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Multiple Sclerosis</api:keyword>
+								<api:keyword scheme="mesh">Cerebral Palsy</api:keyword>
+								<api:keyword scheme="mesh">Dysarthria</api:keyword>
+								<api:keyword scheme="mesh">Speech Production Measurement</api:keyword>
+								<api:keyword scheme="mesh">Treatment Outcome</api:keyword>
+								<api:keyword scheme="mesh">Speech Therapy</api:keyword>
+								<api:keyword scheme="mesh">Therapy, Computer-Assisted</api:keyword>
+								<api:keyword scheme="mesh">Sound Spectrography</api:keyword>
+								<api:keyword scheme="mesh">Communication Aids for Disabled</api:keyword>
+								<api:keyword scheme="mesh">Vocabulary</api:keyword>
+								<api:keyword scheme="mesh">Artificial Intelligence</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>149</api:begin-page>
+								<api:end-page>156</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>4</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>23</api:day>
+								<api:month>1</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Automatic speech recognition and training for severely dysarthric users of assistive technology: the STARDUST project.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>20</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="3410777" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1014129650" last-modified-when="2023-12-24T06:05:45.557+00:00">
+					<api:citation-count>177</api:citation-count>
+					<api:native>
+						<api:field name="altmetric-attention-score" type="integer" display-name="Altmetric attention score">
+							<api:integer>86</api:integer>
+						</api:field>
+						<api:field name="associated-identifiers" type="identifier-list" display-name="Associated Identifiers">
+							<api:identifiers>
+								<api:identifier scheme="dimensions-grant-id">grant.6715057</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Parker</api:last-name>
+									<api:initials>G</api:initials>
+									<api:first-names>Gordon</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Gordon</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="AU">
+											<api:line type="organisation">UNSW Sydney</api:line>
+											<api:line type="city">Sydney</api:line>
+											<api:line type="state">New South Wales</api:line>
+											<api:line type="country">Australia</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0765213255.22</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+								<api:person>
+									<api:last-name>Parker</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>Isabella</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Isabella</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="AU">
+											<api:line type="organisation">Black Dog Institute</api:line>
+											<api:line type="city">Sydney</api:line>
+											<api:line type="state">New South Wales</api:line>
+											<api:line type="country">Australia</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01106725753.16</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Brotchie</api:last-name>
+									<api:initials>H</api:initials>
+									<api:first-names>Heather</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Heather</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="AU">
+											<api:line type="organisation">Black Dog Institute</api:line>
+											<api:line type="city">Sydney</api:line>
+											<api:line type="state">New South Wales</api:line>
+											<api:line type="country">Australia</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01212600543.39</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.jad.2006.02.007</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.jad.2006.02.007"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.jad.2006.02.007"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">16546266</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>16.81</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0165-0327</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972320"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of Affective Disorders</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">5202 Biological Psychology</api:keyword>
+								<api:keyword scheme="for-2020">32 Biomedical and Clinical Sciences</api:keyword>
+								<api:keyword scheme="for-2020">52 Psychology</api:keyword>
+								<api:keyword scheme="rcdc">Nutrition</api:keyword>
+								<api:keyword scheme="rcdc">Mental Health</api:keyword>
+								<api:keyword scheme="rcdc">Behavioral and Social Science</api:keyword>
+								<api:keyword scheme="mesh">Affect</api:keyword>
+								<api:keyword scheme="mesh">Biological Evolution</api:keyword>
+								<api:keyword scheme="mesh">Brain</api:keyword>
+								<api:keyword scheme="mesh">Cacao</api:keyword>
+								<api:keyword scheme="mesh">Depression</api:keyword>
+								<api:keyword scheme="mesh">Homeostasis</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Neurotransmitter Agents</api:keyword>
+								<api:keyword scheme="mesh">Positron-Emission Tomography</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>20</api:day>
+								<api:month>3</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Closed Access</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>149</api:begin-page>
+								<api:end-page>159</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>6</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Elsevier</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>3.02</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Mood state effects of chocolate</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>92</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2474289" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1012815972" last-modified-when="2023-12-25T01:18:20.513+00:00">
+					<api:citation-count>31</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Parker</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mark</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mark</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Sheffield Speech and Language Therapy Agency, Sheffield, UK</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="state">England</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0715476641.87</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1102" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1102"/>
+									</api:links>
+									<api:last-name>Cunningham</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Stuart</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Stuart</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0763612041.76</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="10043" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/10043"/>
+									</api:links>
+									<api:last-name>Enderby</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Pam</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Pam</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01056251471.19</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="644" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/644"/>
+									</api:links>
+									<api:last-name>Hawley</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mark</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mark</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Barnsley Hospital NHS Foundation Trust</api:line>
+											<api:line type="city">Barnsley</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0611345510.31</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2031" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2031"/>
+									</api:links>
+									<api:last-name>Green</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Phil</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Phil</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0712117224.27</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1080/02699200400026884</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1080/02699200400026884"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1080/02699200400026884"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">16428231</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>6.85</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1476-9670</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/970080"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Clinical Linguistics &amp; Phonetics</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">4201 Allied Health and Rehabilitation Science</api:keyword>
+								<api:keyword scheme="for-2020">42 Health Sciences</api:keyword>
+								<api:keyword scheme="rcdc">Assistive Technology</api:keyword>
+								<api:keyword scheme="rcdc">Neurosciences</api:keyword>
+								<api:keyword scheme="rcdc">Clinical Research</api:keyword>
+								<api:keyword scheme="rcdc">Bioengineering</api:keyword>
+								<api:keyword scheme="rcdc">Rehabilitation</api:keyword>
+								<api:keyword scheme="mesh">Artificial Intelligence</api:keyword>
+								<api:keyword scheme="mesh">Cerebral Palsy</api:keyword>
+								<api:keyword scheme="mesh">Communication Aids for Disabled</api:keyword>
+								<api:keyword scheme="mesh">Dysarthria</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Multiple Sclerosis</api:keyword>
+								<api:keyword scheme="mesh">Sound Spectrography</api:keyword>
+								<api:keyword scheme="mesh">Speech Production Measurement</api:keyword>
+								<api:keyword scheme="mesh">Speech Therapy</api:keyword>
+								<api:keyword scheme="mesh">Therapy, Computer-Assisted</api:keyword>
+								<api:keyword scheme="mesh">Treatment Outcome</api:keyword>
+								<api:keyword scheme="mesh">Vocabulary</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>9</api:day>
+								<api:month>7</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Green OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>149</api:begin-page>
+								<api:end-page>156</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>1</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Taylor &amp; Francis</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.6</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Automatic speech recognition and training for severely dysarthric users of assistive technology: The STARDUST project</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>20</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="3776478" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000238130500002" last-modified-when="2023-12-08T08:00:07.797+00:00">
+					<api:citation-count>141</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Parker</api:last-name>
+									<api:initials>G</api:initials>
+									<api:first-names>G</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>G</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Parker</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>I</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>I</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Brotchie</api:last-name>
+									<api:initials>H</api:initials>
+									<api:first-names>H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000238130500002&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.jad.2006.02.007</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.jad.2006.02.007"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.jad.2006.02.007"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">050ZS</api:identifier>
+								<api:identifier scheme="pubmed">16546266</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0165-0327</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972320"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>JOURNAL OF AFFECTIVE DISORDERS</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>chocolate</api:keyword>
+								<api:keyword>chocolate consumption</api:keyword>
+								<api:keyword>negative mood state</api:keyword>
+								<api:keyword>depression</api:keyword>
+								<api:keyword>atypical depression</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>149</api:begin-page>
+								<api:end-page>159</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Mood state effects of chocolate</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Review</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>92</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="252811" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000235365700009" last-modified-when="2023-12-08T08:46:55.87+00:00">
+					<api:citation-count>35</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Parker</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1102" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1102"/>
+									</api:links>
+									<api:last-name>Cunningham</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="10043" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/10043"/>
+									</api:links>
+									<api:last-name>Enderby</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="644" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/644"/>
+									</api:links>
+									<api:last-name>Hawley</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2031" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2031"/>
+									</api:links>
+									<api:last-name>Green</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000235365700009&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1080/02699200400026884</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1080/02699200400026884"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1080/02699200400026884"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1464-5076</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/970080"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">012UL</api:identifier>
+								<api:identifier scheme="pubmed">16428231</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0269-9206</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/970080"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>CLINICAL LINGUISTICS &amp; PHONETICS</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>dysarthria</api:keyword>
+								<api:keyword>automatic speech recognition</api:keyword>
+								<api:keyword>articulation</api:keyword>
+								<api:keyword>assistive technology</api:keyword>
+								<api:keyword>speech training</api:keyword>
+								<api:keyword>treatment</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>149</api:begin-page>
+								<api:end-page>156</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Automatic speech recognition and training for severely dysarthric users of assistive technology: The STARDUST project</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+								<api:item>Proceedings Paper</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>20</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="39170" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000235365700009" last-modified-when="2015-03-27T07:39:17.05+00:00">
+					<api:citation-count>8</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Parker</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1102" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1102"/>
+									</api:links>
+									<api:last-name>Cunningham</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="10043" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/10043"/>
+									</api:links>
+									<api:last-name>Enderby</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="644" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/644"/>
+									</api:links>
+									<api:last-name>Hawley</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2031" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2031"/>
+									</api:links>
+									<api:last-name>Green</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1080/02699200400026884</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1080/02699200400026884"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1080/02699200400026884"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0269-9206</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/970080"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>CLINICAL LINGUISTICS &amp; PHONETICS</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>dysarthria</api:keyword>
+								<api:keyword>automatic speech recognition</api:keyword>
+								<api:keyword>articulation</api:keyword>
+								<api:keyword>assistive technology</api:keyword>
+								<api:keyword>speech training</api:keyword>
+								<api:keyword>treatment</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>149</api:begin-page>
+								<api:end-page>156</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>4</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Automatic speech recognition and training for severely dysarthric users of assistive technology: The STARDUST project</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>20</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Artificial Intelligence</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Cerebral Palsy</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Communication Aids for Disabled</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Dysarthria</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Multiple Sclerosis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Sound Spectrography</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Speech Production Measurement</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Speech Therapy</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Therapy, Computer-Assisted</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Treatment Outcome</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Vocabulary</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Multiple Sclerosis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Cerebral Palsy</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Dysarthria</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Speech Production Measurement</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Treatment Outcome</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Speech Therapy</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Therapy, Computer-Assisted</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Sound Spectrography</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Communication Aids for Disabled</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Vocabulary</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Artificial Intelligence</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">5202 Biological Psychology</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">32 Biomedical and Clinical Sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">52 Psychology</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Nutrition</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Mental Health</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Behavioral and Social Science</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Affect</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Biological Evolution</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Brain</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Cacao</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Depression</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Homeostasis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Neurotransmitter Agents</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Positron-Emission Tomography</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">4201 Allied Health and Rehabilitation Science</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">42 Health Sciences</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Assistive Technology</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Neurosciences</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Clinical Research</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Bioengineering</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Rehabilitation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Artificial Intelligence</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Cerebral Palsy</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Communication Aids for Disabled</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Dysarthria</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Multiple Sclerosis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Sound Spectrography</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Speech Production Measurement</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Speech Therapy</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Therapy, Computer-Assisted</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Treatment Outcome</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Vocabulary</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">chocolate</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">chocolate consumption</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">negative mood state</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">depression</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">atypical depression</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">dysarthria</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">automatic speech recognition</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">articulation</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">assistive technology</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">speech training</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">treatment</api:keyword>
+					<api:keyword origin="record-data" source="wos">dysarthria</api:keyword>
+					<api:keyword origin="record-data" source="wos">automatic speech recognition</api:keyword>
+					<api:keyword origin="record-data" source="wos">articulation</api:keyword>
+					<api:keyword origin="record-data" source="wos">assistive technology</api:keyword>
+					<api:keyword origin="record-data" source="wos">speech training</api:keyword>
+					<api:keyword origin="record-data" source="wos">treatment</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">1103 Clinical Sciences</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">1702 Cognitive Sciences</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">2004 Linguistics</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Speech-Language Pathology &amp; Audiology</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">4201 Allied health and rehabilitation science</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">4704 Linguistics</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="0269-9206" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/970080" title="Clinical Linguistics &amp; Phonetics">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Clinical Linguistics &amp; Phonetics</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/7547/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

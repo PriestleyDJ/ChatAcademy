@@ -1,0 +1,916 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/5763"/>
+	<api:result>
+		<api:object category="publication" id="5763" last-affected-when="2023-12-08T08:30:35.99+00:00" last-modified-when="2023-12-08T08:30:35.99+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/5763" created-when="2010-05-17T13:58:28.117+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2004-08-01</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="1351844" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1016/j.biosystems.2004.05.028" last-modified-when="2022-09-12T00:37:07.727+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Jackson</api:last-name>
+									<api:initials>D</api:initials>
+									<api:first-names>Duncan</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Duncan</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mike</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Ratnieks</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>Francis</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Francis</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.biosystems.2004.05.028</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.biosystems.2004.05.028"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.biosystems.2004.05.028"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0303-2647</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Biosystems</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>101</api:begin-page>
+								<api:end-page>112</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>8</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Elsevier BV</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1016/j.biosystems.2004.05.028</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>2</api:day>
+								<api:month>4</api:month>
+								<api:year>2020</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Coupled computational simulation and empirical research into the foraging system of Pharaoh’s ant (Monomorium pharaonis)</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>76</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="114773" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-4444256215" last-modified-when="2022-07-05T22:22:28.057+01:00">
+					<api:citation-count>16</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The Pharaoh's ant (Monomorium pharaonis), a significant pest in many human environments, is phenomenally successful at locating and exploiting available food resources. Several pheromones are utilized in the self-organized foraging of this ant but most aspects of the overall system are poorly characterised. Agent-based modelling of ants as individual complex X-machines facilitates study of the mechanisms underlying the emergence of trails and aids understanding of the process. Conducting simultaneous modelling, and simulation, alongside empirical biological studies is shown to drive the research by formulating hypotheses that must be tested before the model can be verified and extended. Integration of newly characterised behavioural processes into the overall model will enable testing of general theories giving insight into division of labour within insect societies. This study aims to establish a new paradigm in computational modelling applicable to all types of multi-agent biological systems, from tissues to animal societies, as a powerful tool to accelerate basic research. © 2004 Elsevier Ireland Ltd. All rights reserved.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Jackson</api:last-name>
+									<api:initials>D</api:initials>
+									<api:first-names>D</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">34570568800</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">22334007800</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Ratnieks</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>F</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>F</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7005934693</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.biosystems.2004.05.028</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.biosystems.2004.05.028"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.biosystems.2004.05.028"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15351134</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0303-2647</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BioSystems</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>101</api:begin-page>
+								<api:end-page>112</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>8</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Coupled computational simulation and empirical research into the foraging system of Pharaoh's ant (Monomorium pharaonis)</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Conference Proceeding</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>76</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="5763" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="15351134" last-modified-when="2022-11-22T23:26:11.183+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The Pharaoh's ant (Monomorium pharaonis), a significant pest in many human environments, is phenomenally successful at locating and exploiting available food resources. Several pheromones are utilized in the self-organized foraging of this ant but most aspects of the overall system are poorly characterised. Agent-based modelling of ants as individual complex X-machines facilitates study of the mechanisms underlying the emergence of trails and aids understanding of the process. Conducting simultaneous modelling, and simulation, alongside empirical biological studies is shown to drive the research by formulating hypotheses that must be tested before the model can be verified and extended. Integration of newly characterised behavioural processes into the overall model will enable testing of general theories giving insight into division of labour within insect societies. This study aims to establish a new paradigm in computational modelling applicable to all types of multi-agent biological systems, from tissues to animal societies, as a powerful tool to accelerate basic research.</api:text>
+						</api:field>
+						<api:field name="acceptance-date" type="date" display-name="Date of acceptance">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>8</api:month>
+								<api:year>2003</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Jackson</api:last-name>
+									<api:initials>D</api:initials>
+									<api:first-names>Duncan</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Duncan</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Department of Computer Science, University of Sheffield, Sheffield S1 4DP, UK. duncan@dcs.sheffield.ac.uk</api:line>
+										</api:address>
+									</api:addresses>
+									<api:email-address>duncan@dcs.sheffield.ac.uk</api:email-address>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mike</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Ratnieks</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>Francis</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Francis</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/15351134</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.biosystems.2004.05.028</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.biosystems.2004.05.028"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.biosystems.2004.05.028"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0303-2647</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Biosystems</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Ants</api:keyword>
+								<api:keyword scheme="mesh">Artificial Intelligence</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Feeding Behavior</api:keyword>
+								<api:keyword scheme="mesh">Locomotion</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Orientation</api:keyword>
+								<api:keyword scheme="mesh">Pheromones</api:keyword>
+								<api:keyword scheme="mesh">Population Dynamics</api:keyword>
+								<api:keyword scheme="mesh">Research Design</api:keyword>
+								<api:keyword scheme="mesh">Social Behavior</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>Ireland</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>101</api:begin-page>
+								<api:end-page>112</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>S0303264704000711</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>15</api:day>
+								<api:month>3</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Coupled computational simulation and empirical research into the foraging system of Pharaoh's ant (Monomorium pharaonis).</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Comparative Study</api:item>
+								<api:item>Evaluation Study</api:item>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>Validation Study</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>76</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="885193" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:15351134" last-modified-when="2023-01-31T17:56:04.787+00:00">
+					<api:citation-count>5</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The Pharaoh's ant (Monomorium pharaonis), a significant pest in many human environments, is phenomenally successful at locating and exploiting available food resources. Several pheromones are utilized in the self-organized foraging of this ant but most aspects of the overall system are poorly characterised. Agent-based modelling of ants as individual complex X-machines facilitates study of the mechanisms underlying the emergence of trails and aids understanding of the process. Conducting simultaneous modelling, and simulation, alongside empirical biological studies is shown to drive the research by formulating hypotheses that must be tested before the model can be verified and extended. Integration of newly characterised behavioural processes into the overall model will enable testing of general theories giving insight into division of labour within insect societies. This study aims to establish a new paradigm in computational modelling applicable to all types of multi-agent biological systems, from tissues to animal societies, as a powerful tool to accelerate basic research.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Department of Computer Science, University of Sheffield, Sheffield S1 4DP, UK. duncan@dcs.sheffield.ac.uk</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Jackson</api:last-name>
+									<api:initials>D</api:initials>
+									<api:first-names>Duncan</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Duncan</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mike</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Ratnieks</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>Francis</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Francis</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.biosystems.2004.05.028</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.biosystems.2004.05.028"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.biosystems.2004.05.028"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1872-8324</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15351134</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0303-2647</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Bio Systems</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Ants</api:keyword>
+								<api:keyword scheme="mesh">Pheromones</api:keyword>
+								<api:keyword scheme="mesh">Orientation</api:keyword>
+								<api:keyword scheme="mesh">Feeding Behavior</api:keyword>
+								<api:keyword scheme="mesh">Social Behavior</api:keyword>
+								<api:keyword scheme="mesh">Population Dynamics</api:keyword>
+								<api:keyword scheme="mesh">Locomotion</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Research Design</api:keyword>
+								<api:keyword scheme="mesh">Artificial Intelligence</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>101</api:begin-page>
+								<api:end-page>112</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>8</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>8</api:day>
+								<api:month>9</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Coupled computational simulation and empirical research into the foraging system of Pharaoh's ant (Monomorium pharaonis).</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Comparative Study</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>Validation Study</api:item>
+								<api:item>Evaluation Study</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>76</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2524599" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1031699380" last-modified-when="2023-11-23T13:23:10.663+00:00">
+					<api:citation-count>15</api:citation-count>
+					<api:native>
+						<api:field name="altmetric-attention-score" type="integer" display-name="Altmetric attention score">
+							<api:integer>3</api:integer>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Jackson</api:last-name>
+									<api:initials>D</api:initials>
+									<api:first-names>Duncan</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Duncan</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01110707033.94</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mike</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.015264460453.77</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Ratnieks</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>Francis</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Francis</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.010653620737.10</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.biosystems.2004.05.028</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.biosystems.2004.05.028"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.biosystems.2004.05.028"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15351134</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0303-2647</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Biosystems</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">31 Biological Sciences</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Ants</api:keyword>
+								<api:keyword scheme="mesh">Artificial Intelligence</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Feeding Behavior</api:keyword>
+								<api:keyword scheme="mesh">Locomotion</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Orientation</api:keyword>
+								<api:keyword scheme="mesh">Pheromones</api:keyword>
+								<api:keyword scheme="mesh">Population Dynamics</api:keyword>
+								<api:keyword scheme="mesh">Research Design</api:keyword>
+								<api:keyword scheme="mesh">Social Behavior</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Closed Access</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>101</api:begin-page>
+								<api:end-page>112</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>8</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Elsevier</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.15</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Coupled computational simulation and empirical research into the foraging system of Pharaoh’s ant (Monomorium pharaonis)</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>76</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="249764" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000224134800011" last-modified-when="2023-12-08T08:30:35.993+00:00">
+					<api:citation-count>13</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Jackson</api:last-name>
+									<api:initials>D</api:initials>
+									<api:first-names>D</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Ratnieks</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>F</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>F</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000224134800011&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.biosystems.2004.05.028</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.biosystems.2004.05.028"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.biosystems.2004.05.028"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1872-8324</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">857RA</api:identifier>
+								<api:identifier scheme="pubmed">15351134</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0303-2647</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BIOSYSTEMS</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>computational model</api:keyword>
+								<api:keyword>X-machine</api:keyword>
+								<api:keyword>ants</api:keyword>
+								<api:keyword>foraging patterns</api:keyword>
+								<api:keyword>pheromones</api:keyword>
+								<api:keyword>self-organising systems</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>101</api:begin-page>
+								<api:end-page>112</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Coupled computational simulation and empirical research into the foraging system of Pharaoh's ant (&lt;i&gt;Monomorium pharaonis&lt;/i&gt;)</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+								<api:item>Proceedings Paper</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>76</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="35228" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000224134800011" last-modified-when="2014-07-25T11:42:42.253+01:00">
+					<api:citation-count>5</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Jackson</api:last-name>
+									<api:initials>D</api:initials>
+									<api:first-names>D</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Ratnieks</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>F</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>F</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.biosystems.2004.05.028</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.biosystems.2004.05.028"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.biosystems.2004.05.028"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0303-2647</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BIOSYSTEMS</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>computational model</api:keyword>
+								<api:keyword>X-machine</api:keyword>
+								<api:keyword>ants</api:keyword>
+								<api:keyword>foraging patterns</api:keyword>
+								<api:keyword>pheromones</api:keyword>
+								<api:keyword>self-organising systems</api:keyword>
+								<api:keyword>TRAIL-FORMATION</api:keyword>
+								<api:keyword>EXPLORATION</api:keyword>
+								<api:keyword>FORMICIDAE</api:keyword>
+								<api:keyword>SOLENOPSIS</api:keyword>
+								<api:keyword>ECOLOGY</api:keyword>
+								<api:keyword>WORKERS</api:keyword>
+								<api:keyword>MODELS</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>101</api:begin-page>
+								<api:end-page>112</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>8</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Coupled computational simulation and empirical research into the foraging system of Pharaoh's ant (Monomorium pharaonis)</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>76</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Ants</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Artificial Intelligence</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Feeding Behavior</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Locomotion</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Orientation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Pheromones</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Population Dynamics</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Research Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Social Behavior</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Ants</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Pheromones</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Orientation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Feeding Behavior</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Social Behavior</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Population Dynamics</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Locomotion</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Research Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Artificial Intelligence</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Computer Simulation</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">31 Biological Sciences</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Ants</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Artificial Intelligence</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Feeding Behavior</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Locomotion</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Orientation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Pheromones</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Population Dynamics</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Research Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Social Behavior</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">computational model</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">X-machine</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">ants</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">foraging patterns</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">pheromones</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">self-organising systems</api:keyword>
+					<api:keyword origin="record-data" source="wos">computational model</api:keyword>
+					<api:keyword origin="record-data" source="wos">X-machine</api:keyword>
+					<api:keyword origin="record-data" source="wos">ants</api:keyword>
+					<api:keyword origin="record-data" source="wos">foraging patterns</api:keyword>
+					<api:keyword origin="record-data" source="wos">pheromones</api:keyword>
+					<api:keyword origin="record-data" source="wos">self-organising systems</api:keyword>
+					<api:keyword origin="record-data" source="wos">TRAIL-FORMATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">EXPLORATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">FORMICIDAE</api:keyword>
+					<api:keyword origin="record-data" source="wos">SOLENOPSIS</api:keyword>
+					<api:keyword origin="record-data" source="wos">ECOLOGY</api:keyword>
+					<api:keyword origin="record-data" source="wos">WORKERS</api:keyword>
+					<api:keyword origin="record-data" source="wos">MODELS</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">06 Biological Sciences</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">09 Engineering</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Bioinformatics</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">31 Biological sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">40 Engineering</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="0303-2647" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510" title="BioSystems">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>BioSystems</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/5763/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

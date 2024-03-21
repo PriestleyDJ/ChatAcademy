@@ -1,0 +1,1284 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11907"/>
+	<api:result>
+		<api:object category="publication" id="11907" last-affected-when="2023-12-25T01:08:21.223+00:00" last-modified-when="2023-12-25T01:08:21.223+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11907" created-when="2010-05-17T14:18:42.563+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:merge-history>
+				<api:merge when="2017-03-28T11:06:44.383+01:00">
+					<api:merged-object id="76411" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/deleted/publications/76411"/>
+					<api:merged-into-object id="11907" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11907"/>
+				</api:merge>
+			</api:merge-history>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2008-11-26</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="4207437" source-id="28" source-name="eprints" source-display-name="White Rose Research Online" id-at-source="104643" last-modified-when="2022-12-29T00:55:55.66+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Abstract
+Background: Most mathematical models of biochemical pathways consider either signalling
+events that take place within a single cell in isolation, or an 'average' cell which is considered to be
+representative of a cell population. Likewise, experimental measurements are often averaged over
+populations consisting of hundreds of thousands of cells. This approach ignores the fact that even
+within a genetically-homogeneous population, local conditions may influence cell signalling and
+result in phenotypic heterogeneity.
+We have developed a multi-scale computational model that accounts for emergent heterogeneity
+arising from the influences of intercellular signalling on individual cells within a population. Our
+approach was to develop an ODE model of juxtacrine EGFR-ligand activation of the MAPK
+intracellular pathway and to couple this to an agent-based representation of individual cells in an
+expanding epithelial cell culture population. This multi-scale, multi-paradigm approach has enabled
+us to simulate Extracellular signal-regulated kinase (Erk) activation in a population of cells and to
+examine the consequences of interpretation at a single cell or population-based level using virtual
+assays.
+Results: A model consisting of a single pair of interacting agents predicted very different Erk
+activation (phosphorylation) profiles, depending on the formation rate and stability of intercellular
+contacts, with the slow formation of stable contacts resulting in low but sustained activation of Erk,
+and transient contacts resulting in a transient Erk signal. Extension of this model to a population
+consisting of hundreds to thousands of interacting virtual cells revealed that the activated Erk
+profile measured across the entire cell population was very different and may appear to contradict
+individual cell findings, reflecting heterogeneity in population density across the culture. This
+prediction was supported by immunolabelling of an epithelial cell population grown in vitro, which
+confirmed heterogeneity of Erk activation.
+Conclusion: These results illustrate that mean experimental data obtained from analysing entire
+cell populations is an oversimplification, and should not be extrapolated to deduce the
+signal:response paradigm of individual cells. This multi-scale, multi-paradigm approach to biological
+simulation provides an important conceptual tool in addressing how information may be integrated
+over multiple scales to predict the behaviour of a biological system.
+</api:text>
+						</api:field>
+						<api:field name="acceptance-date" type="date" display-name="Date of acceptance">
+							<api:date>
+								<api:day>26</api:day>
+								<api:month>11</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Georgopoulos</api:last-name>
+									<api:initials>NT</api:initials>
+									<api:first-names>NT</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>N</api:first-name>
+										<api:first-name>T</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Southgate</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1752-0509-2-102</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1752-0509-2-102"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1752-0509-2-102"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1752-0509</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/959101"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1752-0509</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/959101"/>
+							</api:links>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BMC Systems Biology</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>GROWTH-FACTOR RECEPTOR</api:keyword>
+								<api:keyword>HUMAN UROTHELIAL CELLS</api:keyword>
+								<api:keyword>IN-VITRO</api:keyword>
+								<api:keyword>G1 PHASE</api:keyword>
+								<api:keyword>PROLIFERATION</api:keyword>
+								<api:keyword>AUTOCRINE</api:keyword>
+								<api:keyword>ADHESION</api:keyword>
+								<api:keyword>PROTEIN</api:keyword>
+								<api:keyword>DIFFERENTIATION</api:keyword>
+								<api:keyword>ACTIVATION</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="notes" type="text" display-name="Other information">
+							<api:text>© 2008 Walker et al; licensee BioMed Central Ltd.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0),
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</api:text>
+						</api:field>
+						<api:field name="number" type="text" display-name="Article number">
+							<api:text>102</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>26</api:day>
+								<api:month>11</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="public-url" type="text" display-name="Public URL">
+							<api:text>https://eprints.whiterose.ac.uk/id/eprint/104643</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>BioMed Central</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>https://doi.org/10.1186/1752-0509-2-102</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>13</api:day>
+								<api:month>9</api:month>
+								<api:year>2016</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>2</api:day>
+								<api:month>12</api:month>
+								<api:year>2016</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="repository-status" type="text" display-name="Availability">
+							<api:text>Public</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>From pathway to population - a multiscale model of juxtacrine EGFR-MAPK signalling</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>2</api:text>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://eprints.whiterose.ac.uk/id/file/1220509">
+								<api:filename>From pathway to population--a multiscale model of juxtacrine EGFR-MAPK signalling.pdf</api:filename>
+								<api:file-url>https://eprints.whiterose.ac.uk/104643/1/From pathway to population--a multiscale model of juxtacrine EGFR-MAPK signalling.pdf</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:file-size>1210526</api:file-size>
+								<api:mime-type>application/pdf</api:mime-type>
+								<api:checksum algorithm="md5">0B5AE1462CDDA4FD686D468D7837DC31</api:checksum>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="4195875" source-id="28" source-name="eprints" source-display-name="White Rose Research Online" id-at-source="9757" last-modified-when="2022-12-28T14:16:20.06+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>BACKGROUND:
+
+Most mathematical models of biochemical pathways consider either signalling events that take place within a single cell in isolation, or an 'average' cell which is considered to be representative of a cell population. Likewise, experimental measurements are often averaged over populations consisting of hundreds of thousands of cells. This approach ignores the fact that even within a genetically-homogeneous population, local conditions may influence cell signalling and result in phenotypic heterogeneity.We have developed a multi-scale computational model that accounts for emergent heterogeneity arising from the influences of intercellular signalling on individual cells within a population. Our approach was to develop an ODE model of juxtacrine EGFR-ligand activation of the MAPK intracellular pathway and to couple this to an agent-based representation of individual cells in an expanding epithelial cell culture population. This multi-scale, multi-paradigm approach has enabled us to simulate Extracellular signal-regulated kinase (Erk) activation in a population of cells and to examine the consequences of interpretation at a single cell or population-based level using virtual assays.
+
+RESULTS:
+
+A model consisting of a single pair of interacting agents predicted very different Erk activation (phosphorylation) profiles, depending on the formation rate and stability of intercellular contacts, with the slow formation of stable contacts resulting in low but sustained activation of Erk, and transient contacts resulting in a transient Erk signal. Extension of this model to a population consisting of hundreds to thousands of interacting virtual cells revealed that the activated Erk profile measured across the entire cell population was very different and may appear to contradict individual cell findings, reflecting heterogeneity in population density across the culture. This prediction was supported by immunolabelling of an epithelial cell population grown in vitro, which confirmed heterogeneity of Erk activation.
+
+CONCLUSION:
+
+These results illustrate that mean experimental data obtained from analysing entire cell populations is an oversimplification, and should not be extrapolated to deduce the signal:response paradigm of individual cells. This multi-scale, multi-paradigm approach to biological simulation provides an important conceptual tool in addressing how information may be integrated over multiple scales to predict the behaviour of a biological system.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Georgopoulos</api:last-name>
+									<api:initials>NT</api:initials>
+									<api:first-names>NT</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>N</api:first-name>
+										<api:first-name>T</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Southgate</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1752-0509-2-102</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1752-0509-2-102"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1752-0509-2-102"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1752-0509</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/959101"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BMC Systems Biology</api:text>
+						</api:field>
+						<api:field name="notes" type="text" display-name="Other information">
+							<api:text>© 2008 Walker et al; licensee BioMed Central Ltd.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>102</api:begin-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>11</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="public-url" type="text" display-name="Public URL">
+							<api:text>https://eprints.whiterose.ac.uk/id/eprint/9757</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>BioMed Central</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://www.biomedcentral.com/1752-0509/2/102</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>24</api:day>
+								<api:month>9</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>8</api:day>
+								<api:month>10</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="repository-status" type="text" display-name="Availability">
+							<api:text>Public</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>From pathway to population – a multiscale model of juxtacrine EGFR-MAPK signalling</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>2</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="1374993" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1186/1752-0509-2-102" last-modified-when="2022-09-10T07:09:19.69+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Georgopoulos</api:last-name>
+									<api:initials>NT</api:initials>
+									<api:first-names>NT</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>N</api:first-name>
+										<api:first-name>T</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Southgate</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1752-0509-2-102</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1752-0509-2-102"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1752-0509-2-102"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1752-0509</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/959101"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BMC Systems Biology</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="number" type="text" display-name="Article number">
+							<api:text>102</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>26</api:day>
+								<api:month>11</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>12</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Springer Science and Business Media LLC</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1186/1752-0509-2-102</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>23</api:day>
+								<api:month>9</api:month>
+								<api:year>2021</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>From pathway to population – a multiscale model of juxtacrine EGFR-MAPK signalling</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>2</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="118064" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-62349118916" last-modified-when="2023-03-21T16:44:47.26+00:00">
+					<api:citation-count>21</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Background: Most mathematical models of biochemical pathways consider either signalling events that take place within a single cell in isolation, or an 'average' cell which is considered to be representative of a cell population. Likewise, experimental measurements are often averaged over populations consisting of hundreds of thousands of cells. This approach ignores the fact that even within a genetically-homogeneous population, local conditions may influence cell signalling and result in phenotypic heterogeneity. We have developed a multi-scale computational model that accounts for emergent heterogeneity arising from the influences of intercellular signalling on individual cells within a population. Our approach was to develop an ODE model of juxtacrine EGFR-ligand activation of the MAPK intracellular pathway and to couple this to an agent-based representation of individual cells in an expanding epithelial cell culture population. This multi-scale, multi-paradigm approach has enabled us to simulate Extracellular signal-regulated kinase (Erk) activation in a population of cells and to examine the consequences of interpretation at a single cell or population-based level using virtual assays. Results: A model consisting of a single pair of interacting agents predicted very different Erk activation (phosphorylation) profiles, depending on the formation rate and stability of intercellular contacts, with the slow formation of stable contacts resulting in low but sustained activation of Erk, and transient contacts resulting in a transient Erk signal. Extension of this model to a population consisting of hundreds to thousands of interacting virtual cells revealed that the activated Erk profile measured across the entire cell population was very different and may appear to contradict individual cell findings, reflecting heterogeneity in population density across the culture. This prediction was supported by immunolabelling of an epithelial cell population grown in vitro, which confirmed heterogeneity of Erk activation. Conclusion: These results illustrate that mean experimental data obtained from analysing entire cell populations is an oversimplification, and should not be extrapolated to deduce the signal:response paradigm of individual cells. This multi-scale, multi-paradigm approach to biological simulation provides an important conceptual tool in addressing how information may be integrated over multiple scales to predict the behaviour of a biological system. © 2008 Walker et al; licensee BioMed Central Ltd.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">35375472500</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Georgopoulos</api:last-name>
+									<api:initials>NT</api:initials>
+									<api:first-names>NT</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>N</api:first-name>
+										<api:first-name>T</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of York</api:line>
+											<api:line type="city">York</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">12780494700</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Southgate</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of York</api:line>
+											<api:line type="city">York</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7006023540</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1752-0509-2-102</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1752-0509-2-102"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1752-0509-2-102"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1752-0509</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/959101"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">19036127</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BMC Systems Biology</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>26</api:day>
+								<api:month>11</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>From pathway to population - A multiscale model of juxtacrine EGFR-MAPK signalling</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>2</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="11907" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="19036127" last-modified-when="2020-04-28T22:05:46.517+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>BACKGROUND: Most mathematical models of biochemical pathways consider either signalling events that take place within a single cell in isolation, or an 'average' cell which is considered to be representative of a cell population. Likewise, experimental measurements are often averaged over populations consisting of hundreds of thousands of cells. This approach ignores the fact that even within a genetically-homogeneous population, local conditions may influence cell signalling and result in phenotypic heterogeneity. We have developed a multi-scale computational model that accounts for emergent heterogeneity arising from the influences of intercellular signalling on individual cells within a population. Our approach was to develop an ODE model of juxtacrine EGFR-ligand activation of the MAPK intracellular pathway and to couple this to an agent-based representation of individual cells in an expanding epithelial cell culture population. This multi-scale, multi-paradigm approach has enabled us to simulate Extracellular signal-regulated kinase (Erk) activation in a population of cells and to examine the consequences of interpretation at a single cell or population-based level using virtual assays. RESULTS: A model consisting of a single pair of interacting agents predicted very different Erk activation (phosphorylation) profiles, depending on the formation rate and stability of intercellular contacts, with the slow formation of stable contacts resulting in low but sustained activation of Erk, and transient contacts resulting in a transient Erk signal. Extension of this model to a population consisting of hundreds to thousands of interacting virtual cells revealed that the activated Erk profile measured across the entire cell population was very different and may appear to contradict individual cell findings, reflecting heterogeneity in population density across the culture. This prediction was supported by immunolabelling of an epithelial cell population grown in vitro, which confirmed heterogeneity of Erk activation. CONCLUSION: These results illustrate that mean experimental data obtained from analysing entire cell populations is an oversimplification, and should not be extrapolated to deduce the signal:response paradigm of individual cells. This multi-scale, multi-paradigm approach to biological simulation provides an important conceptual tool in addressing how information may be integrated over multiple scales to predict the behaviour of a biological system.</api:text>
+						</api:field>
+						<api:field name="acceptance-date" type="date" display-name="Date of acceptance">
+							<api:date>
+								<api:day>26</api:day>
+								<api:month>11</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Department of Computer Science, University of Sheffield, Kroto Research Institute, North Campus, Broad Lane, Sheffield, S3 7HQ, UK. d.c.walker@sheffield.ac.uk</api:line>
+										</api:address>
+									</api:addresses>
+									<api:email-address>d.c.walker@sheffield.ac.uk</api:email-address>
+								</api:person>
+								<api:person>
+									<api:last-name>Georgopoulos</api:last-name>
+									<api:initials>NT</api:initials>
+									<api:first-names>NT</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>N</api:first-name>
+										<api:first-name>T</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Southgate</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/19036127</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1752-0509-2-102</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1752-0509-2-102"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1752-0509-2-102"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1752-0509</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/959101"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pmc">PMC2651861</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BMC Syst Biol</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Cadherins</api:keyword>
+								<api:keyword scheme="mesh">Calcium</api:keyword>
+								<api:keyword scheme="mesh">Cricetinae</api:keyword>
+								<api:keyword scheme="mesh">Enzyme Activation</api:keyword>
+								<api:keyword scheme="mesh">ErbB Receptors</api:keyword>
+								<api:keyword scheme="mesh">Extracellular Signal-Regulated MAP Kinases</api:keyword>
+								<api:keyword scheme="mesh">Extracellular Space</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">MAP Kinase Signaling System</api:keyword>
+								<api:keyword scheme="mesh">Microscopy, Fluorescence</api:keyword>
+								<api:keyword scheme="mesh">Mitogen-Activated Protein Kinases</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Phosphorylation</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>England</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>102</api:begin-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>1752-0509-2-102</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>26</api:day>
+								<api:month>11</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published online</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>30</api:day>
+								<api:month>3</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>From pathway to population--a multiscale model of juxtacrine EGFR-MAPK signalling.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>2</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="889069" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:19036127" last-modified-when="2023-11-21T19:19:33.637+00:00">
+					<api:citation-count>8</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>&lt;h4&gt;Background&lt;/h4&gt;Most mathematical models of biochemical pathways consider either signalling events that take place within a single cell in isolation, or an 'average' cell which is considered to be representative of a cell population. Likewise, experimental measurements are often averaged over populations consisting of hundreds of thousands of cells. This approach ignores the fact that even within a genetically-homogeneous population, local conditions may influence cell signalling and result in phenotypic heterogeneity. We have developed a multi-scale computational model that accounts for emergent heterogeneity arising from the influences of intercellular signalling on individual cells within a population. Our approach was to develop an ODE model of juxtacrine EGFR-ligand activation of the MAPK intracellular pathway and to couple this to an agent-based representation of individual cells in an expanding epithelial cell culture population. This multi-scale, multi-paradigm approach has enabled us to simulate Extracellular signal-regulated kinase (Erk) activation in a population of cells and to examine the consequences of interpretation at a single cell or population-based level using virtual assays.&lt;h4&gt;Results&lt;/h4&gt;A model consisting of a single pair of interacting agents predicted very different Erk activation (phosphorylation) profiles, depending on the formation rate and stability of intercellular contacts, with the slow formation of stable contacts resulting in low but sustained activation of Erk, and transient contacts resulting in a transient Erk signal. Extension of this model to a population consisting of hundreds to thousands of interacting virtual cells revealed that the activated Erk profile measured across the entire cell population was very different and may appear to contradict individual cell findings, reflecting heterogeneity in population density across the culture. This prediction was supported by immunolabelling of an epithelial cell population grown in vitro, which confirmed heterogeneity of Erk activation.&lt;h4&gt;Conclusion&lt;/h4&gt;These results illustrate that mean experimental data obtained from analysing entire cell populations is an oversimplification, and should not be extrapolated to deduce the signal:response paradigm of individual cells. This multi-scale, multi-paradigm approach to biological simulation provides an important conceptual tool in addressing how information may be integrated over multiple scales to predict the behaviour of a biological system.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Department of Computer Science, University of Sheffield, Kroto Research Institute, North Campus, Broad Lane, Sheffield, S3 7HQ, UK. d.c.walker@sheffield.ac.uk</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Georgopoulos</api:last-name>
+									<api:initials>NT</api:initials>
+									<api:first-names>NT</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>N</api:first-name>
+										<api:first-name>T</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-6330-4947</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Southgate</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-0135-480X</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1752-0509-2-102</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1752-0509-2-102"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1752-0509-2-102"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1752-0509</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/959101"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">19036127</api:identifier>
+								<api:identifier scheme="pmc">PMC2651861</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>true</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1752-0509</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/959101"/>
+							</api:links>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BMC systems biology</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Extracellular Space</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Calcium</api:keyword>
+								<api:keyword scheme="mesh">Mitogen-Activated Protein Kinases</api:keyword>
+								<api:keyword scheme="mesh">Extracellular Signal-Regulated MAP Kinases</api:keyword>
+								<api:keyword scheme="mesh">Cadherins</api:keyword>
+								<api:keyword scheme="mesh">Microscopy, Fluorescence</api:keyword>
+								<api:keyword scheme="mesh">MAP Kinase Signaling System</api:keyword>
+								<api:keyword scheme="mesh">Enzyme Activation</api:keyword>
+								<api:keyword scheme="mesh">Phosphorylation</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Cricetinae</api:keyword>
+								<api:keyword scheme="mesh">ErbB Receptors</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Electronic</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>26</api:day>
+								<api:month>11</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Open Access</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>102</api:begin-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>11</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher-licence" type="text" display-name="Publisher licence">
+							<api:text>CC BY</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>11</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>From pathway to population--a multiscale model of juxtacrine EGFR-MAPK signalling.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>research-article</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>2</api:text>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://bmcsystbiol.biomedcentral.com/counter/pdf/10.1186/1752-0509-2-102">
+								<api:file-url>https://bmcsystbiol.biomedcentral.com/counter/pdf/10.1186/1752-0509-2-102</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+							<api:file proprietary-id="http://www.biomedcentral.com/content/pdf/1752-0509-2-102.pdf">
+								<api:file-url>http://www.biomedcentral.com/content/pdf/1752-0509-2-102.pdf</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+							<api:file proprietary-id="https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19036127/pdf/?tool=EBI">
+								<api:file-url>https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19036127/pdf/?tool=EBI</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+							<api:file proprietary-id="https://europepmc.org/articles/PMC2651861?pdf=render">
+								<api:file-url>https://europepmc.org/articles/PMC2651861?pdf=render</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2471070" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1046945657" last-modified-when="2023-12-25T01:08:21.23+00:00">
+					<api:citation-count>23</api:citation-count>
+					<api:native>
+						<api:field name="altmetric-attention-score" type="integer" display-name="Altmetric attention score">
+							<api:integer>3</api:integer>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>D</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>DC</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.010613171652.14</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+								<api:person>
+									<api:last-name>Georgopoulos</api:last-name>
+									<api:initials>N</api:initials>
+									<api:first-names>NT</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>NT</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of York</api:line>
+											<api:line type="city">York</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.016356044114.55</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Southgate</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of York</api:line>
+											<api:line type="city">York</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01060006757.26</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1752-0509-2-102</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1752-0509-2-102"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1752-0509-2-102"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">19036127</api:identifier>
+								<api:identifier scheme="pmc">PMC2651861</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>1.64</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1752-0509</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/959101"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BMC Systems Biology</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">3101 Biochemistry and Cell Biology</api:keyword>
+								<api:keyword scheme="for-2020">31 Biological Sciences</api:keyword>
+								<api:keyword scheme="rcdc">Bioengineering</api:keyword>
+								<api:keyword scheme="hrcs-rac">1 Underpinning research</api:keyword>
+								<api:keyword scheme="hrcs-rac">1.1 Normal biological development and functioning</api:keyword>
+								<api:keyword scheme="hrcs-hc">Generic health relevance</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Cadherins</api:keyword>
+								<api:keyword scheme="mesh">Calcium</api:keyword>
+								<api:keyword scheme="mesh">Cricetinae</api:keyword>
+								<api:keyword scheme="mesh">Enzyme Activation</api:keyword>
+								<api:keyword scheme="mesh">ErbB Receptors</api:keyword>
+								<api:keyword scheme="mesh">Extracellular Signal-Regulated MAP Kinases</api:keyword>
+								<api:keyword scheme="mesh">Extracellular Space</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">MAP Kinase Signaling System</api:keyword>
+								<api:keyword scheme="mesh">Microscopy, Fluorescence</api:keyword>
+								<api:keyword scheme="mesh">Mitogen-Activated Protein Kinases</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Phosphorylation</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>26</api:day>
+								<api:month>11</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Gold OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>102</api:begin-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>12</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Springer Nature</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.3</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>From pathway to population – a multiscale model of juxtacrine EGFR-MAPK signalling</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>2</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="260771" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000264388700001" last-modified-when="2023-12-08T09:45:53.193+00:00">
+					<api:citation-count>17</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Georgopoulos</api:last-name>
+									<api:initials>NT</api:initials>
+									<api:first-names>NT</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>N</api:first-name>
+										<api:first-name>T</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Southgate</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000264388700001&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1752-0509-2-102</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1752-0509-2-102"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1752-0509-2-102"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">421WJ</api:identifier>
+								<api:identifier scheme="pubmed">19036127</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1752-0509</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/959101"/>
+							</api:links>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BMC SYSTEMS BIOLOGY</api:text>
+						</api:field>
+						<api:field name="number" type="text" display-name="Article number">
+							<api:text>ARTN 102</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>From pathway to population - a multiscale model of juxtacrine EGFR-MAPK signalling</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>2</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="50044" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000264388700001" last-modified-when="2014-07-25T12:23:57.677+01:00">
+					<api:citation-count>2</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Dept Comp Sci, Kroto Res Inst, Sheffield S3 7HQ, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Georgopoulos</api:last-name>
+									<api:initials>NT</api:initials>
+									<api:first-names>NT</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>N</api:first-name>
+										<api:first-name>T</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ York, Jack Birch Unit Mol Carcinogenesis, Dept Biol, York YO10 5YW, N Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Southgate</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ York, Jack Birch Unit Mol Carcinogenesis, Dept Biol, York YO10 5YW, N Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1752-0509-2-102</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1752-0509-2-102"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1752-0509-2-102"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1752-0509</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/959101"/>
+							</api:links>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BMC SYST BIOL</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>GROWTH-FACTOR RECEPTOR</api:keyword>
+								<api:keyword>HUMAN UROTHELIAL CELLS</api:keyword>
+								<api:keyword>IN-VITRO</api:keyword>
+								<api:keyword>G1 PHASE</api:keyword>
+								<api:keyword>PROLIFERATION</api:keyword>
+								<api:keyword>AUTOCRINE</api:keyword>
+								<api:keyword>ADHESION</api:keyword>
+								<api:keyword>PROTEIN</api:keyword>
+								<api:keyword>DIFFERENTIATION</api:keyword>
+								<api:keyword>ACTIVATION</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="number" type="text" display-name="Article number">
+							<api:text>102</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination/>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>26</api:day>
+								<api:month>11</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>From pathway to population - a multiscale model of juxtacrine EGFR-MAPK signalling</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>2</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword origin="record-data" source="eprints">GROWTH-FACTOR RECEPTOR</api:keyword>
+					<api:keyword origin="record-data" source="eprints">HUMAN UROTHELIAL CELLS</api:keyword>
+					<api:keyword origin="record-data" source="eprints">IN-VITRO</api:keyword>
+					<api:keyword origin="record-data" source="eprints">G1 PHASE</api:keyword>
+					<api:keyword origin="record-data" source="eprints">PROLIFERATION</api:keyword>
+					<api:keyword origin="record-data" source="eprints">AUTOCRINE</api:keyword>
+					<api:keyword origin="record-data" source="eprints">ADHESION</api:keyword>
+					<api:keyword origin="record-data" source="eprints">PROTEIN</api:keyword>
+					<api:keyword origin="record-data" source="eprints">DIFFERENTIATION</api:keyword>
+					<api:keyword origin="record-data" source="eprints">ACTIVATION</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Cadherins</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Calcium</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Cricetinae</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Enzyme Activation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">ErbB Receptors</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Extracellular Signal-Regulated MAP Kinases</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Extracellular Space</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">MAP Kinase Signaling System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Microscopy, Fluorescence</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Mitogen-Activated Protein Kinases</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Phosphorylation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Extracellular Space</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Calcium</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Mitogen-Activated Protein Kinases</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Extracellular Signal-Regulated MAP Kinases</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Cadherins</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Microscopy, Fluorescence</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">MAP Kinase Signaling System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Enzyme Activation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Phosphorylation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Cricetinae</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">ErbB Receptors</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">3101 Biochemistry and Cell Biology</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">31 Biological Sciences</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Bioengineering</api:keyword>
+					<api:keyword scheme="hrcs-rac" origin="record-data" source="dimensions">1 Underpinning research</api:keyword>
+					<api:keyword scheme="hrcs-rac" origin="record-data" source="dimensions">1.1 Normal biological development and functioning</api:keyword>
+					<api:keyword scheme="hrcs-hc" origin="record-data" source="dimensions">Generic health relevance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Cadherins</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Calcium</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Cricetinae</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Enzyme Activation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">ErbB Receptors</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Extracellular Signal-Regulated MAP Kinases</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Extracellular Space</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">MAP Kinase Signaling System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Microscopy, Fluorescence</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Mitogen-Activated Protein Kinases</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Phosphorylation</api:keyword>
+					<api:keyword origin="record-data" source="wos">GROWTH-FACTOR RECEPTOR</api:keyword>
+					<api:keyword origin="record-data" source="wos">HUMAN UROTHELIAL CELLS</api:keyword>
+					<api:keyword origin="record-data" source="wos">IN-VITRO</api:keyword>
+					<api:keyword origin="record-data" source="wos">G1 PHASE</api:keyword>
+					<api:keyword origin="record-data" source="wos">PROLIFERATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">AUTOCRINE</api:keyword>
+					<api:keyword origin="record-data" source="wos">ADHESION</api:keyword>
+					<api:keyword origin="record-data" source="wos">PROTEIN</api:keyword>
+					<api:keyword origin="record-data" source="wos">DIFFERENTIATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">ACTIVATION</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0601 Biochemistry and Cell Biology</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0803 Computer Software</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">1199 Other Medical and Health Sciences</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Bioinformatics</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">3102 Bioinformatics and computational biology</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">3205 Medical biochemistry and metabolomics</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="1752-0509" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/959101" title="BMC Systems Biology">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>BMC Systems Biology</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11907/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

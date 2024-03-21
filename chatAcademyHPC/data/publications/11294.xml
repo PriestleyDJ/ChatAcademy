@@ -1,0 +1,1629 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11294"/>
+	<api:result>
+		<api:object category="publication" id="11294" last-affected-when="2023-12-25T01:21:35.677+00:00" last-modified-when="2023-12-25T01:21:35.677+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11294" created-when="2010-05-17T14:18:29.007+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2008-07-04</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="1374991" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1098/rsta.2008.0081" last-modified-when="2022-09-10T07:09:09.407+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>&lt;jats:p&gt;
+            The inherent complexity of biomedical systems is well recognized; they are multiscale, multiscience systems, bridging a wide range of temporal and spatial scales. While the importance of multiscale modelling in this context is increasingly recognized, there is little underpinning literature on the methodology and generic description of the process. The COAST (complex autonoma simulation technique) project aims to address this by developing a multiscale, multiscience framework, coined
+            &lt;jats:italic&gt;complex autonoma&lt;/jats:italic&gt;
+            (CxA), based on a hierarchical aggregation of coupled cellular automata (CA) and agent-based models (ABMs). The key tenet of COAST is that a multiscale system can be decomposed into
+            &lt;jats:italic&gt;N&lt;/jats:italic&gt;
+            single-scale CA or ABMs that mutually interact across the scales. Decomposition is facilitated by building a scale separation map on which each single-scale system is represented according to its spatial and temporal characteristics. Processes having well-separated scales are thus easily identified as the components of the multiscale model. This paper focuses on methodology, introduces the concept of the CxA and demonstrates its use in the generation of a multiscale model of the physical and biological processes implicated in a challenging and clinically relevant problem, namely coronary artery in-stent restenosis.
+          &lt;/jats:p&gt;</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Evans</api:last-name>
+									<api:initials>DJW</api:initials>
+									<api:first-names>DJW</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>J</api:first-name>
+										<api:first-name>W</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2078" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2078"/>
+									</api:links>
+									<api:last-name>Lawford</api:last-name>
+									<api:initials>PV</api:initials>
+									<api:first-names>PV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2036" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2036"/>
+									</api:links>
+									<api:last-name>Gunn</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>D</api:initials>
+									<api:first-names>D</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2058" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2058"/>
+									</api:links>
+									<api:last-name>Hose</api:last-name>
+									<api:initials>DR</api:initials>
+									<api:first-names>DR</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Chopard</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Krafczyk</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Bernsdorf</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Hoekstra</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsta.2008.0081</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsta.2008.0081"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsta.2008.0081"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1471-2962</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1364-503X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1879</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>4</api:day>
+								<api:month>7</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>3343</api:begin-page>
+								<api:end-page>3360</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>9</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>The Royal Society</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1098/rsta.2008.0081</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>18</api:day>
+								<api:month>2</api:month>
+								<api:year>2021</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The application of multiscale modelling to the process of development and prevention of stenosis in a stented coronary artery</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>366</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="115711" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-49549114073" last-modified-when="2023-12-12T16:58:31.373+00:00">
+					<api:citation-count>85</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The inherent complexity of biomedical systems is well recognized; they are multiscale, multiscience systems, bridging a wide range of temporal and spatial scales. While the importance of multiscale modelling in this context is increasingly recognized, there is little underpinning literature on the methodology and generic description of the process. The COAST (complex autonoma simulation technique) project aims to address this by developing a multiscale, multiscience framework, coined complex autonoma (CxA), based on a hierarchical aggregation of coupled cellular automata (CA) and agent-based models (ABMs). The key tenet of COAST is that a multiscale system can be decomposed into N single-scale CA or ABMs that mutually interact across the scales. Decomposition is facilitated by building a scale separation map on which each single-scale system is represented according to its spatial and temporal characteristics. Processes having well-separated scales are thus easily identified as the components of the multiscale model. This paper focuses on methodology, introduces the concept of the CxA and demonstrates its use in the generation of a multiscale model of the physical and biological processes implicated in a challenging and clinically relevant problem, namely coronary artery in-stent restenosis. © 2008 The Royal Society.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Evans</api:last-name>
+									<api:initials>DJW</api:initials>
+									<api:first-names>DJW</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>J</api:first-name>
+										<api:first-name>W</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">24433100300</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2078" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2078"/>
+									</api:links>
+									<api:last-name>Lawford</api:last-name>
+									<api:initials>PV</api:initials>
+									<api:first-names>PV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7003514022</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2036" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2036"/>
+									</api:links>
+									<api:last-name>Gunn</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7201609106</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>D</api:initials>
+									<api:first-names>D</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">35375472500</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2058" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2058"/>
+									</api:links>
+									<api:last-name>Hose</api:last-name>
+									<api:initials>DR</api:initials>
+									<api:first-names>DR</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">24298504100</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7102525654</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Chopard</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="CH">
+											<api:line type="organisation">Université de Genève</api:line>
+											<api:line type="city">Geneva</api:line>
+											<api:line type="country">Switzerland</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7003282463</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Krafczyk</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="DE">
+											<api:line type="organisation">Technische Universität Braunschweig</api:line>
+											<api:line type="city">Braunschweig</api:line>
+											<api:line type="country">Germany</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">6603418597</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Bernsdorf</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="DE">
+											<api:line type="organisation">NEC Laboratories Europe GmbH</api:line>
+											<api:line type="city">Heidelberg</api:line>
+											<api:line type="country">Germany</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">55966976600</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Hoekstra</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="NL">
+											<api:line type="organisation">Universiteit van Amsterdam</api:line>
+											<api:line type="city">Amsterdam</api:line>
+											<api:line type="country">Netherlands</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7007050341</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsta.2008.0081</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsta.2008.0081"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsta.2008.0081"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">18603527</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1364-503X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1879</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>3343</api:begin-page>
+								<api:end-page>3360</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>9</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The application of multiscale modelling to the process of development and prevention of stenosis in a stented coronary artery</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>366</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="11294" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="18603527" last-modified-when="2020-04-29T13:08:35.48+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The inherent complexity of biomedical systems is well recognized; they are multiscale, multiscience systems, bridging a wide range of temporal and spatial scales. While the importance of multiscale modelling in this context is increasingly recognized, there is little underpinning literature on the methodology and generic description of the process. The COAST (complex autonoma simulation technique) project aims to address this by developing a multiscale, multiscience framework, coined complex autonoma (CxA), based on a hierarchical aggregation of coupled cellular automata (CA) and agent-based models (ABMs). The key tenet of COAST is that a multiscale system can be decomposed into N single-scale CA or ABMs that mutually interact across the scales. Decomposition is facilitated by building a scale separation map on which each single-scale system is represented according to its spatial and temporal characteristics. Processes having well-separated scales are thus easily identified as the components of the multiscale model. This paper focuses on methodology, introduces the concept of the CxA and demonstrates its use in the generation of a multiscale model of the physical and biological processes implicated in a challenging and clinically relevant problem, namely coronary artery in-stent restenosis.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Evans</api:last-name>
+									<api:initials>DJW</api:initials>
+									<api:first-names>DJW</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>J</api:first-name>
+										<api:first-name>W</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Academic Unit of Medical Physics, University of Sheffield, Sheffield S10 2TN, UK. davids.evans@sheffield.ac.uk</api:line>
+										</api:address>
+									</api:addresses>
+									<api:email-address>davids.evans@sheffield.ac.uk</api:email-address>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2078" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2078"/>
+									</api:links>
+									<api:last-name>Lawford</api:last-name>
+									<api:initials>PV</api:initials>
+									<api:first-names>PV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2036" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2036"/>
+									</api:links>
+									<api:last-name>Gunn</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>D</api:initials>
+									<api:first-names>D</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2058" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2058"/>
+									</api:links>
+									<api:last-name>Hose</api:last-name>
+									<api:initials>DR</api:initials>
+									<api:first-names>DR</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Chopard</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Krafczyk</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Bernsdorf</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Hoekstra</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/18603527</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsta.2008.0081</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsta.2008.0081"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsta.2008.0081"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1364-503X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1879</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Philos Trans A Math Phys Eng Sci</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Blood Vessel Prosthesis</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Coronary Artery Disease</api:keyword>
+								<api:keyword scheme="mesh">Coronary Restenosis</api:keyword>
+								<api:keyword scheme="mesh">Coronary Vessels</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Models, Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Stents</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>England</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>3343</api:begin-page>
+								<api:end-page>3360</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>Q5R78740875W3M84</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>9</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>17</api:day>
+								<api:month>10</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The application of multiscale modelling to the process of development and prevention of stenosis in a stented coronary artery.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>366</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="888720" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:18603527" last-modified-when="2023-09-12T18:58:33.277+01:00">
+					<api:citation-count>31</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The inherent complexity of biomedical systems is well recognized; they are multiscale, multiscience systems, bridging a wide range of temporal and spatial scales. While the importance of multiscale modelling in this context is increasingly recognized, there is little underpinning literature on the methodology and generic description of the process. The COAST (complex autonoma simulation technique) project aims to address this by developing a multiscale, multiscience framework, coined complex autonoma (CxA), based on a hierarchical aggregation of coupled cellular automata (CA) and agent-based models (ABMs). The key tenet of COAST is that a multiscale system can be decomposed into N single-scale CA or ABMs that mutually interact across the scales. Decomposition is facilitated by building a scale separation map on which each single-scale system is represented according to its spatial and temporal characteristics. Processes having well-separated scales are thus easily identified as the components of the multiscale model. This paper focuses on methodology, introduces the concept of the CxA and demonstrates its use in the generation of a multiscale model of the physical and biological processes implicated in a challenging and clinically relevant problem, namely coronary artery in-stent restenosis.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Academic Unit of Medical Physics, University of Sheffield, Sheffield S10 2TN, UK. davids.evans@sheffield.ac.uk</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Evans</api:last-name>
+									<api:initials>DJW</api:initials>
+									<api:first-names>DJW</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>J</api:first-name>
+										<api:first-name>W</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2078" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2078"/>
+									</api:links>
+									<api:last-name>Lawford</api:last-name>
+									<api:initials>PV</api:initials>
+									<api:first-names>PV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2036" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2036"/>
+									</api:links>
+									<api:last-name>Gunn</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>D</api:initials>
+									<api:first-names>D</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2058" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2058"/>
+									</api:links>
+									<api:last-name>Hose</api:last-name>
+									<api:initials>DR</api:initials>
+									<api:first-names>DR</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0003-0134-0632</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Chopard</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Krafczyk</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-8509-0871</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Bernsdorf</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Hoekstra</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsta.2008.0081</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsta.2008.0081"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsta.2008.0081"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1471-2962</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">18603527</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1364-503X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1879</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Philosophical transactions. Series A, Mathematical, physical, and engineering sciences</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Coronary Vessels</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Coronary Restenosis</api:keyword>
+								<api:keyword scheme="mesh">Blood Vessel Prosthesis</api:keyword>
+								<api:keyword scheme="mesh">Stents</api:keyword>
+								<api:keyword scheme="mesh">Models, Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Coronary Artery Disease</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>3343</api:begin-page>
+								<api:end-page>3360</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>9</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>11</api:day>
+								<api:month>8</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The application of multiscale modelling to the process of development and prevention of stenosis in a stented coronary artery.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>366</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2475288" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1009859733" last-modified-when="2023-12-25T01:21:35.683+00:00">
+					<api:citation-count>84</api:citation-count>
+					<api:native>
+						<api:field name="associated-identifiers" type="identifier-list" display-name="Associated Identifiers">
+							<api:identifiers>
+								<api:identifier scheme="dimensions-grant-id">grant.3761363</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Evans</api:last-name>
+									<api:initials>DJW</api:initials>
+									<api:first-names>DJW</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>J</api:first-name>
+										<api:first-name>W</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01163436254.12</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2078" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2078"/>
+									</api:links>
+									<api:last-name>Lawford</api:last-name>
+									<api:initials>PV</api:initials>
+									<api:first-names>PV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.010276414467.89</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2036" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2036"/>
+									</api:links>
+									<api:last-name>Gunn</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01205244674.14</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>D</api:initials>
+									<api:first-names>D</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.010613171652.14</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2058" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2058"/>
+									</api:links>
+									<api:last-name>Hose</api:last-name>
+									<api:initials>DR</api:initials>
+									<api:first-names>DR</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01153060721.50</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01056377716.23</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Chopard</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="CH">
+											<api:line type="organisation">University of Geneva</api:line>
+											<api:line type="city">Geneva</api:line>
+											<api:line type="country">Switzerland</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.016275067565.80</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Krafczyk</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="DE">
+											<api:line type="organisation">Technische Universität Braunschweig</api:line>
+											<api:line type="city">Braunschweig</api:line>
+											<api:line type="country">Germany</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0600542505.47</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Bernsdorf</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="DE">
+											<api:line type="organisation">NEC Laboratories Europe, NEC Europe Ltd., Sankt Augustin 53757, Germany</api:line>
+											<api:line type="city">Sankt Augustin</api:line>
+											<api:line type="state">North Rhine-Westphalia</api:line>
+											<api:line type="country">Germany</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01344427353.82</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Hoekstra</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="NL">
+											<api:line type="organisation">University of Amsterdam</api:line>
+											<api:line type="city">Amsterdam</api:line>
+											<api:line type="country">Netherlands</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0664646054.15</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsta.2008.0081</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsta.2008.0081"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsta.2008.0081"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">18603527</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>10.2</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1364-503X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1879</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">40 Engineering</api:keyword>
+								<api:keyword scheme="for-2020">4003 Biomedical Engineering</api:keyword>
+								<api:keyword scheme="rcdc">Bioengineering</api:keyword>
+								<api:keyword scheme="rcdc">Cardiovascular</api:keyword>
+								<api:keyword scheme="rcdc">Heart Disease</api:keyword>
+								<api:keyword scheme="rcdc">Heart Disease - Coronary Heart Disease</api:keyword>
+								<api:keyword scheme="mesh">Blood Vessel Prosthesis</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Coronary Artery Disease</api:keyword>
+								<api:keyword scheme="mesh">Coronary Restenosis</api:keyword>
+								<api:keyword scheme="mesh">Coronary Vessels</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Models, Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Stents</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>4</api:day>
+								<api:month>7</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Closed Access</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>3343</api:begin-page>
+								<api:end-page>3360</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>9</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>The Royal Society</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>1.31</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The application of multiscale modelling to the process of development and prevention of stenosis in a stented coronary artery</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>366</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="259169" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000258322900008" last-modified-when="2023-12-20T20:45:35.15+00:00">
+					<api:citation-count>75</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Evans</api:last-name>
+									<api:initials>DJW</api:initials>
+									<api:first-names>DJW</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>J</api:first-name>
+										<api:first-name>W</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2078" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2078"/>
+									</api:links>
+									<api:last-name>Lawford</api:last-name>
+									<api:initials>PV</api:initials>
+									<api:first-names>PV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2036" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2036"/>
+									</api:links>
+									<api:last-name>Gunn</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>D</api:initials>
+									<api:first-names>D</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2058" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2058"/>
+									</api:links>
+									<api:last-name>Hose</api:last-name>
+									<api:initials>DR</api:initials>
+									<api:first-names>DR</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Chopard</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Krafczyk</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Bernsdorf</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Hoekstra</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000258322900008&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsta.2008.0081</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsta.2008.0081"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsta.2008.0081"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1471-2962</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">335WC</api:identifier>
+								<api:identifier scheme="pubmed">18603527</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1364-503X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1879</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>complex automata</api:keyword>
+								<api:keyword>multiscale modelling</api:keyword>
+								<api:keyword>scale separation map</api:keyword>
+								<api:keyword>restenosis</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>3343</api:begin-page>
+								<api:end-page>3360</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The application of multiscale modelling to the process of development and prevention of stenosis in a stented coronary artery</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>366</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="47888" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000258322900008" last-modified-when="2014-07-25T12:19:42.733+01:00">
+					<api:citation-count>13</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Evans</api:last-name>
+									<api:initials>DJW</api:initials>
+									<api:first-names>DJW</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>J</api:first-name>
+										<api:first-name>W</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Acad Unit Med Phys, Sheffield S10 2TN, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2078" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2078"/>
+									</api:links>
+									<api:last-name>Lawford</api:last-name>
+									<api:initials>PV</api:initials>
+									<api:first-names>PV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Acad Unit Med Phys, Sheffield S10 2TN, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2036" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2036"/>
+									</api:links>
+									<api:last-name>Gunn</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Cardiovasc Res Unit, Sheffield S10 2TN, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>D</api:initials>
+									<api:first-names>D</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Dept Comp Sci, Sheffield S10 2TN, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2058" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2058"/>
+									</api:links>
+									<api:last-name>Hose</api:last-name>
+									<api:initials>DR</api:initials>
+									<api:first-names>DR</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Acad Unit Med Phys, Sheffield S10 2TN, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Dept Comp Sci, Sheffield S10 2TN, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Chopard</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="CH">
+											<api:line type="full">Univ Geneva, Dept Comp Sci, CH-1211 Geneva, Switzerland</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Krafczyk</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="DE">
+											<api:line type="full">Tech Univ Carolo Wilhelmina Braunschweig, Inst Comp Applicat Civil Engn, D-38106 Braunschweig, Germany</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Bernsdorf</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="DE">
+											<api:line type="full">NEC Europe Ltd, NEC Labs Europe, D-53757 St Augustin, Germany</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Hoekstra</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="NL">
+											<api:line type="full">Univ Amsterdam, NL-1018 Amsterdam, Netherlands</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsta.2008.0081</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsta.2008.0081"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsta.2008.0081"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1364-503X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1879</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>PHILOS T R SOC A</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>complex automata</api:keyword>
+								<api:keyword>multiscale modelling</api:keyword>
+								<api:keyword>scale separation map</api:keyword>
+								<api:keyword>restenosis</api:keyword>
+								<api:keyword>SMOOTH-MUSCLE-CELLS</api:keyword>
+								<api:keyword>ATHEROSCLEROTIC LESIONS</api:keyword>
+								<api:keyword>PHENOTYPIC MODULATION</api:keyword>
+								<api:keyword>NEOINTIMA FORMATION</api:keyword>
+								<api:keyword>MECHANICAL STRETCH</api:keyword>
+								<api:keyword>ELUTING STENTS</api:keyword>
+								<api:keyword>RESTENOSIS</api:keyword>
+								<api:keyword>INJURY</api:keyword>
+								<api:keyword>BIOLOGY</api:keyword>
+								<api:keyword>SYSTEMS</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>3343</api:begin-page>
+								<api:end-page>3360</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>9</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The application of multiscale modelling to the process of development and prevention of stenosis in a stented coronary artery</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>366</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Blood Vessel Prosthesis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Coronary Artery Disease</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Coronary Restenosis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Coronary Vessels</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Stents</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Coronary Vessels</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Coronary Restenosis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Blood Vessel Prosthesis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Stents</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Coronary Artery Disease</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">40 Engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">4003 Biomedical Engineering</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Bioengineering</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Cardiovascular</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Heart Disease</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Heart Disease - Coronary Heart Disease</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Blood Vessel Prosthesis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Coronary Artery Disease</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Coronary Restenosis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Coronary Vessels</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Stents</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">complex automata</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">multiscale modelling</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">scale separation map</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">restenosis</api:keyword>
+					<api:keyword origin="record-data" source="wos">complex automata</api:keyword>
+					<api:keyword origin="record-data" source="wos">multiscale modelling</api:keyword>
+					<api:keyword origin="record-data" source="wos">scale separation map</api:keyword>
+					<api:keyword origin="record-data" source="wos">restenosis</api:keyword>
+					<api:keyword origin="record-data" source="wos">SMOOTH-MUSCLE-CELLS</api:keyword>
+					<api:keyword origin="record-data" source="wos">ATHEROSCLEROTIC LESIONS</api:keyword>
+					<api:keyword origin="record-data" source="wos">PHENOTYPIC MODULATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">NEOINTIMA FORMATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">MECHANICAL STRETCH</api:keyword>
+					<api:keyword origin="record-data" source="wos">ELUTING STENTS</api:keyword>
+					<api:keyword origin="record-data" source="wos">RESTENOSIS</api:keyword>
+					<api:keyword origin="record-data" source="wos">INJURY</api:keyword>
+					<api:keyword origin="record-data" source="wos">BIOLOGY</api:keyword>
+					<api:keyword origin="record-data" source="wos">SYSTEMS</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">General Science &amp; Technology</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="1364-503X" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944" title="Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11294/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

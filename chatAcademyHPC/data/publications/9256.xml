@@ -1,0 +1,1254 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/9256"/>
+	<api:result>
+		<api:object category="publication" id="9256" last-affected-when="2023-12-24T15:41:03.11+00:00" last-modified-when="2023-12-24T15:41:03.11+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/9256" created-when="2010-05-17T14:09:02.01+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2007-03-20</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="1351921" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1098/rsif.2007.0227" last-modified-when="2022-09-12T00:39:00.1+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>&lt;jats:p&gt;Closely coupled&lt;jats:italic&gt;in vitro&lt;/jats:italic&gt;and&lt;jats:italic&gt;in virtuo&lt;/jats:italic&gt;models have been used to explore the self-organization of normal human keratinocytes (NHK). Although it can be observed experimentally, we lack the tools to explore many biological rules that govern NHK self-organization. An agent-based computational model was developed, based on rules derived from literature, which predicts the dynamic multicellular morphogenesis of NHK and of a keratinocyte cell line (HaCat cells) under varying extracellular Ca&lt;jats:sup&gt;++&lt;/jats:sup&gt;concentrations. The model enables&lt;jats:italic&gt;in virtuo&lt;/jats:italic&gt;exploration of the relative importance of biological rules and was used to test hypotheses&lt;jats:italic&gt;in virtuo&lt;/jats:italic&gt;which were subsequently examined&lt;jats:italic&gt;in vitro&lt;/jats:italic&gt;. Results indicated that cell–cell and cell–substrate adhesions were critically important to NHK self-organization. In contrast, cell cycle length and the number of divisions that transit-amplifying cells could undergo proved non-critical to the final organization. Two further hypotheses, to explain the growth behaviour of HaCat cells, were explored&lt;jats:italic&gt;in virtuo&lt;/jats:italic&gt;—an inability to differentiate and a differing sensitivity to extracellular calcium.&lt;jats:italic&gt;In vitro&lt;/jats:italic&gt;experimentation provided some support for both hypotheses. For NHKs, the prediction was made that the position of stem cells would influence the pattern of cell migration post-wounding. This was then confirmed experimentally using a scratch wound model.&lt;/jats:p&gt;</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Sun</api:last-name>
+									<api:initials>T</api:initials>
+									<api:first-names>Tao</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Tao</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="48" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/48"/>
+									</api:links>
+									<api:last-name>McMinn</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Phil</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Phil</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="4363" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/4363"/>
+									</api:links>
+									<api:last-name>Coakley</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Simon</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Simon</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mike</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>Rod</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Rod</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2093" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2093"/>
+									</api:links>
+									<api:last-name>MacNeil</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Sheila</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Sheila</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsif.2007.0227</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsif.2007.0227"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsif.2007.0227"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1742-5662</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974703"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1742-5689</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974703"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>17</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of The Royal Society Interface</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>20</api:day>
+								<api:month>3</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1077</api:begin-page>
+								<api:end-page>1092</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>22</api:day>
+								<api:month>12</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>The Royal Society</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1098/rsif.2007.0227</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>11</api:day>
+								<api:month>8</api:month>
+								<api:year>2021</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>An integrated systems biology approach to understanding the rules of keratinocyte colony formation</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="112306" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-35348815299" last-modified-when="2022-11-15T16:13:49.48+00:00">
+					<api:citation-count>59</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Closely coupled in vitro and in virtuo models have been used to explore the self-organization of normal human keratinocytes (NHK). Although it can be observed experimentally, we lack the tools to explore many biological rules that govern NHK self-organization. An agent-based computational model was developed, based on rules derived from literature, which predicts the dynamic multicellular morphogenesis of NHK and of a keratinocyte cell line (HaCat cells) under varying extracellular Ca++ concentrations. The model enables in virtuo exploration of the relative importance of biological rules and was used to test hypotheses in virtuo which were subsequently examined in vitro. Results indicated that cell-cell and cell-substrate adhesions were critically important to NHK self-organization. In contrast, cell cycle length and the number of divisions that transit-amplifying cells could undergo proved non-critical to the final organization. Two further hypotheses, to explain the growth behaviour of HaCat cells, were explored in virtuo-an inability to differentiate and a differing sensitivity to extracellular calcium. In vitro experimentation provided some support for both hypotheses. For NHKs, the prediction was made that the position of stem cells would influence the pattern of cell migration post-wounding. This was then confirmed experimentally using a scratch wound model. © 2007 The Royal Society.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Sun</api:last-name>
+									<api:initials>T</api:initials>
+									<api:first-names>T</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>T</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">54586177500</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="48" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/48"/>
+									</api:links>
+									<api:last-name>McMinn</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">22433576800</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="4363" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/4363"/>
+									</api:links>
+									<api:last-name>Coakley</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">24178008200</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">22334007800</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>R</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7102525654</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2093" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2093"/>
+									</api:links>
+									<api:last-name>MacNeil</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">35547661800</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsif.2007.0227</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsif.2007.0227"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsif.2007.0227"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1742-5662</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974703"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">17374590</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1742-5689</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974703"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>17</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of the Royal Society Interface</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1077</api:begin-page>
+								<api:end-page>1092</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>22</api:day>
+								<api:month>12</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>An integrated systems biology approach to understanding the rules of keratinocyte colony formation</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="9256" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="17374590" last-modified-when="2020-04-28T21:55:48.83+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Closely coupled in vitro and in virtuo models have been used to explore the self-organization of normal human keratinocytes (NHK). Although it can be observed experimentally, we lack the tools to explore many biological rules that govern NHK self-organization. An agent-based computational model was developed, based on rules derived from literature, which predicts the dynamic multicellular morphogenesis of NHK and of a keratinocyte cell line (HaCat cells) under varying extracellular Ca++ concentrations. The model enables in virtuo exploration of the relative importance of biological rules and was used to test hypotheses in virtuo which were subsequently examined in vitro. Results indicated that cell-cell and cell-substrate adhesions were critically important to NHK self-organization. In contrast, cell cycle length and the number of divisions that transit-amplifying cells could undergo proved non-critical to the final organization. Two further hypotheses, to explain the growth behaviour of HaCat cells, were explored in virtuo-an inability to differentiate and a differing sensitivity to extracellular calcium. In vitro experimentation provided some support for both hypotheses. For NHKs, the prediction was made that the position of stem cells would influence the pattern of cell migration post-wounding. This was then confirmed experimentally using a scratch wound model.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Sun</api:last-name>
+									<api:initials>T</api:initials>
+									<api:first-names>Tao</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Tao</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Department of Engineering Materials, University of Sheffield, Kroto Research Institute, Sheffield, UK.</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="48" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/48"/>
+									</api:links>
+									<api:last-name>McMinn</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Phil</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Phil</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="4363" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/4363"/>
+									</api:links>
+									<api:last-name>Coakley</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Simon</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Simon</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mike</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>Rod</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Rod</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2093" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2093"/>
+									</api:links>
+									<api:last-name>Macneil</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Sheila</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Sheila</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/17374590</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsif.2007.0227</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsif.2007.0227"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsif.2007.0227"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pmc">PMC2396345</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1742-5689</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974703"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>17</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>J R Soc Interface</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Cell Differentiation</api:keyword>
+								<api:keyword scheme="mesh">Cell Division</api:keyword>
+								<api:keyword scheme="mesh">Cell Line</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Keratinocytes</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Stem Cells</api:keyword>
+								<api:keyword scheme="mesh">Systems Biology</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>England</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1077</api:begin-page>
+								<api:end-page>1092</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>3246107828844571</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>22</api:day>
+								<api:month>12</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>18</api:day>
+								<api:month>1</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>An integrated systems biology approach to understanding the rules of keratinocyte colony formation.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="887463" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:17374590" last-modified-when="2023-01-31T18:17:35.84+00:00">
+					<api:citation-count>29</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Closely coupled in vitro and in virtuo models have been used to explore the self-organization of normal human keratinocytes (NHK). Although it can be observed experimentally, we lack the tools to explore many biological rules that govern NHK self-organization. An agent-based computational model was developed, based on rules derived from literature, which predicts the dynamic multicellular morphogenesis of NHK and of a keratinocyte cell line (HaCat cells) under varying extracellular Ca++ concentrations. The model enables in virtuo exploration of the relative importance of biological rules and was used to test hypotheses in virtuo which were subsequently examined in vitro. Results indicated that cell-cell and cell-substrate adhesions were critically important to NHK self-organization. In contrast, cell cycle length and the number of divisions that transit-amplifying cells could undergo proved non-critical to the final organization. Two further hypotheses, to explain the growth behaviour of HaCat cells, were explored in virtuo-an inability to differentiate and a differing sensitivity to extracellular calcium. In vitro experimentation provided some support for both hypotheses. For NHKs, the prediction was made that the position of stem cells would influence the pattern of cell migration post-wounding. This was then confirmed experimentally using a scratch wound model.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Department of Engineering Materials, University of Sheffield, Kroto Research Institute, Sheffield, UK.</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Sun</api:last-name>
+									<api:initials>T</api:initials>
+									<api:first-names>Tao</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Tao</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="48" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/48"/>
+									</api:links>
+									<api:last-name>McMinn</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Phil</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Phil</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="4363" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/4363"/>
+									</api:links>
+									<api:last-name>Coakley</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Simon</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Simon</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mike</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>Rod</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Rod</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0003-0134-0632</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2093" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2093"/>
+									</api:links>
+									<api:last-name>Macneil</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Sheila</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Sheila</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsif.2007.0227</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsif.2007.0227"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsif.2007.0227"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1742-5662</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974703"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">17374590</api:identifier>
+								<api:identifier scheme="pmc">PMC2396345</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1742-5689</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974703"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>17</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of the Royal Society, Interface</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Cell Line</api:keyword>
+								<api:keyword scheme="mesh">Keratinocytes</api:keyword>
+								<api:keyword scheme="mesh">Stem Cells</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Systems Biology</api:keyword>
+								<api:keyword scheme="mesh">Cell Division</api:keyword>
+								<api:keyword scheme="mesh">Cell Differentiation</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1077</api:begin-page>
+								<api:end-page>1092</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>12</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>22</api:day>
+								<api:month>3</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>An integrated systems biology approach to understanding the rules of keratinocyte colony formation.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>research-article</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2981044" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1040562182" last-modified-when="2023-12-24T15:41:03.117+00:00">
+					<api:citation-count>53</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Sun</api:last-name>
+									<api:initials>T</api:initials>
+									<api:first-names>Tao</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Tao</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01361674711.65</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="48" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/48"/>
+									</api:links>
+									<api:last-name>McMinn</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Phil</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Phil</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.016513367563.46</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="4363" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/4363"/>
+									</api:links>
+									<api:last-name>Coakley</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Simon</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Simon</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01064516117.51</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mike</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.015264460453.77</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>Rod</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Rod</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.011737257260.91</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2093" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2093"/>
+									</api:links>
+									<api:last-name>MacNeil</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Sheila</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Sheila</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01356644433.15</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsif.2007.0227</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsif.2007.0227"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsif.2007.0227"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">17374590</api:identifier>
+								<api:identifier scheme="pmc">PMC2396345</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>5.24</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1742-5689</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974703"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>17</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of The Royal Society Interface</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">3101 Biochemistry and Cell Biology</api:keyword>
+								<api:keyword scheme="for-2020">40 Engineering</api:keyword>
+								<api:keyword scheme="for-2020">31 Biological Sciences</api:keyword>
+								<api:keyword scheme="for-2020">4003 Biomedical Engineering</api:keyword>
+								<api:keyword scheme="rcdc">Stem Cell Research</api:keyword>
+								<api:keyword scheme="hrcs-rac">1 Underpinning research</api:keyword>
+								<api:keyword scheme="hrcs-rac">1.1 Normal biological development and functioning</api:keyword>
+								<api:keyword scheme="mesh">Cell Differentiation</api:keyword>
+								<api:keyword scheme="mesh">Cell Division</api:keyword>
+								<api:keyword scheme="mesh">Cell Line</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Keratinocytes</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Stem Cells</api:keyword>
+								<api:keyword scheme="mesh">Systems Biology</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>20</api:day>
+								<api:month>3</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Green OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1077</api:begin-page>
+								<api:end-page>1092</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>22</api:day>
+								<api:month>12</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>The Royal Society</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.94</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>An integrated systems biology approach to understanding the rules of keratinocyte colony formation</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="257170" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000250723800005" last-modified-when="2023-12-08T09:15:12.237+00:00">
+					<api:citation-count>49</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Sun</api:last-name>
+									<api:initials>T</api:initials>
+									<api:first-names>Tao</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Tao</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="48" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/48"/>
+									</api:links>
+									<api:last-name>McMinn</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Phil</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Phil</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="4363" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/4363"/>
+									</api:links>
+									<api:last-name>Coakley</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Simon</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Simon</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mike</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>Rod</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Rod</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2093" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2093"/>
+									</api:links>
+									<api:last-name>MacNeil</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Sheila</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Sheila</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000250723800005&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsif.2007.0227</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsif.2007.0227"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsif.2007.0227"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1742-5662</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974703"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">228IO</api:identifier>
+								<api:identifier scheme="pubmed">17374590</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1742-5689</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974703"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>17</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>JOURNAL OF THE ROYAL SOCIETY INTERFACE</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>computational modelling</api:keyword>
+								<api:keyword>keratinocyte</api:keyword>
+								<api:keyword>HaCat cell</api:keyword>
+								<api:keyword>calcium</api:keyword>
+								<api:keyword>wound healing</api:keyword>
+								<api:keyword>individual-based model</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1077</api:begin-page>
+								<api:end-page>1092</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>An integrated systems biology approach to understanding the rules of keratinocyte colony formation</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="45099" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000250723800005" last-modified-when="2014-07-25T12:07:28.723+01:00">
+					<api:citation-count>14</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Sun</api:last-name>
+									<api:initials>T</api:initials>
+									<api:first-names>T</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>T</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="48" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/48"/>
+									</api:links>
+									<api:last-name>McMinn</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="4363" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/4363"/>
+									</api:links>
+									<api:last-name>Coakley</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>R</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2093" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2093"/>
+									</api:links>
+									<api:last-name>MacNeil</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsif.2007.0227</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsif.2007.0227"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsif.2007.0227"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1742-5689</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974703"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>17</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>J R SOC INTERFACE</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>computational modelling</api:keyword>
+								<api:keyword>keratinocyte</api:keyword>
+								<api:keyword>HaCat cell</api:keyword>
+								<api:keyword>calcium</api:keyword>
+								<api:keyword>wound healing</api:keyword>
+								<api:keyword>individual-based model</api:keyword>
+								<api:keyword>CELL-CYCLE PROGRESSION</api:keyword>
+								<api:keyword>HUMAN EPIDERMAL-KERATINOCYTES</api:keyword>
+								<api:keyword>IN-VITRO</api:keyword>
+								<api:keyword>EXTRACELLULAR-MATRIX</api:keyword>
+								<api:keyword>GROWTH-FACTOR</api:keyword>
+								<api:keyword>STEM-CELLS</api:keyword>
+								<api:keyword>TERMINAL DIFFERENTIATION</api:keyword>
+								<api:keyword>SIGNAL-TRANSDUCTION</api:keyword>
+								<api:keyword>INDUCED APOPTOSIS</api:keyword>
+								<api:keyword>PROLIFERATION</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1077</api:begin-page>
+								<api:end-page>1092</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>22</api:day>
+								<api:month>12</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>An integrated systems biology approach to understanding the rules of keratinocyte colony formation</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Cell Differentiation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Cell Division</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Cell Line</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Keratinocytes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Stem Cells</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Systems Biology</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Cell Line</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Keratinocytes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Stem Cells</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Systems Biology</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Cell Division</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Cell Differentiation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Computer Simulation</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">3101 Biochemistry and Cell Biology</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">40 Engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">31 Biological Sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">4003 Biomedical Engineering</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Stem Cell Research</api:keyword>
+					<api:keyword scheme="hrcs-rac" origin="record-data" source="dimensions">1 Underpinning research</api:keyword>
+					<api:keyword scheme="hrcs-rac" origin="record-data" source="dimensions">1.1 Normal biological development and functioning</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Cell Differentiation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Cell Division</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Cell Line</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Keratinocytes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Stem Cells</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Systems Biology</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">computational modelling</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">keratinocyte</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">HaCat cell</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">calcium</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">wound healing</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">individual-based model</api:keyword>
+					<api:keyword origin="record-data" source="wos">computational modelling</api:keyword>
+					<api:keyword origin="record-data" source="wos">keratinocyte</api:keyword>
+					<api:keyword origin="record-data" source="wos">HaCat cell</api:keyword>
+					<api:keyword origin="record-data" source="wos">calcium</api:keyword>
+					<api:keyword origin="record-data" source="wos">wound healing</api:keyword>
+					<api:keyword origin="record-data" source="wos">individual-based model</api:keyword>
+					<api:keyword origin="record-data" source="wos">CELL-CYCLE PROGRESSION</api:keyword>
+					<api:keyword origin="record-data" source="wos">HUMAN EPIDERMAL-KERATINOCYTES</api:keyword>
+					<api:keyword origin="record-data" source="wos">IN-VITRO</api:keyword>
+					<api:keyword origin="record-data" source="wos">EXTRACELLULAR-MATRIX</api:keyword>
+					<api:keyword origin="record-data" source="wos">GROWTH-FACTOR</api:keyword>
+					<api:keyword origin="record-data" source="wos">STEM-CELLS</api:keyword>
+					<api:keyword origin="record-data" source="wos">TERMINAL DIFFERENTIATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">SIGNAL-TRANSDUCTION</api:keyword>
+					<api:keyword origin="record-data" source="wos">INDUCED APOPTOSIS</api:keyword>
+					<api:keyword origin="record-data" source="wos">PROLIFERATION</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">General Science &amp; Technology</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="1742-5689" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974703" title="Journal of the Royal Society Interface">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Journal of the Royal Society Interface</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/9256/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

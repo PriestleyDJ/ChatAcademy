@@ -1,0 +1,857 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/5384"/>
+	<api:result>
+		<api:object category="publication" id="5384" last-affected-when="2023-12-25T01:06:36.633+00:00" last-modified-when="2023-12-25T01:06:36.633+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/5384" created-when="2010-05-17T13:56:10.053+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2004-06-01</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="1365108" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1016/j.pbiomolbio.2003.12.002" last-modified-when="2022-09-12T02:55:26.45+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>Arun V</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Arun</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.pbiomolbio.2003.12.002</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.pbiomolbio.2003.12.002"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.pbiomolbio.2003.12.002"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0079-6107</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965661"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Progress in Biophysics and Molecular Biology</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>473</api:begin-page>
+								<api:end-page>499</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>6</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Elsevier BV</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1016/j.pbiomolbio.2003.12.002</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>13</api:day>
+								<api:month>1</api:month>
+								<api:year>2021</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Propagation of normal beats and re-entry in a computational model of ventricular cardiac tissue with regional differences in action potential shape and duration</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>85</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="153609" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-2442442432" last-modified-when="2021-07-07T13:58:27.88+01:00">
+					<api:citation-count>36</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>There is substantial experimental evidence from studies using both intact tissue and isolated single cells to support the existence of different cell types within the ventricular wall of the heart, each possessing different electrical properties. However other studies have failed to find these differences, and instead support the idea that electrical coupling in vivo between regions with different cell types smoothes out differences in action potential shape and duration. In this study we have used a computational model of electrical activation in heterogenous 2D and 3D cardiac tissue to investigate the propagation of both normal beats and arrhythmias. We used the Luo-Rudy dynamic model for guinea pig ventricular cells, with simplified Ca2+ handling and transmural heterogeneity in IKs and Ito. With normal cell-to-cell coupling, a layer of M cells was not necessary for the formation of an upright T wave in the simulated electrocardiogram, and the amplitude and configuration of the T wave was not greatly affected by the thickness and configuration of the M cell layer. Transmural gradients in repolarisation pushed re-entrant waves with an intramural filament towards either the base or the apex of the ventricles, and caused transient break up of re-entry with a transmural filament. © 2004 Elsevier Ltd. All rights reserved.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">56243052600</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>AV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Leeds</api:line>
+											<api:line type="city">Leeds</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7103148727</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.pbiomolbio.2003.12.002</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.pbiomolbio.2003.12.002"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.pbiomolbio.2003.12.002"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15142758</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0079-6107</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965661"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Progress in Biophysics and Molecular Biology</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>473</api:begin-page>
+								<api:end-page>499</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>6</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Propagation of normal beats and re-entry in a computational model of ventricular cardiac tissue with regional differences in action potential shape and duration</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Conference Proceeding</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>85</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="5384" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="15142758" last-modified-when="2022-11-23T01:14:57.347+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>There is substantial experimental evidence from studies using both intact tissue and isolated single cells to support the existence of different cell types within the ventricular wall of the heart, each possessing different electrical properties. However other studies have failed to find these differences, and instead support the idea that electrical coupling in vivo between regions with different cell types smoothes out differences in action potential shape and duration. In this study we have used a computational model of electrical activation in heterogenous 2D and 3D cardiac tissue to investigate the propagation of both normal beats and arrhythmias. We used the Luo-Rudy dynamic model for guinea pig ventricular cells, with simplified Ca2+ handling and transmural heterogeneity in IKs and Ito. With normal cell-to-cell coupling, a layer of M cells was not necessary for the formation of an upright T wave in the simulated electrocardiogram, and the amplitude and configuration of the T wave was not greatly affected by the thickness and configuration of the M cell layer. Transmural gradients in repolarisation pushed re-entrant waves with an intramural filament towards either the base or the apex of the ventricles, and caused transient break up of re-entry with a transmural filament.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Department of Computer Science, University of Sheffield and School of Biomedical Sciences, Regent Court, 211 Portobello Street, Sheffield S1 4DP, UK. r.h.clayton@sheffield.ac.uk</api:line>
+										</api:address>
+									</api:addresses>
+									<api:email-address>r.h.clayton@sheffield.ac.uk</api:email-address>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>Arun V</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Arun</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/15142758</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.pbiomolbio.2003.12.002</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.pbiomolbio.2003.12.002"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.pbiomolbio.2003.12.002"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0079-6107</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965661"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Prog Biophys Mol Biol</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Action Potentials</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Arrhythmias, Cardiac</api:keyword>
+								<api:keyword scheme="mesh">Body Surface Potential Mapping</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Guinea Pigs</api:keyword>
+								<api:keyword scheme="mesh">Heart Conduction System</api:keyword>
+								<api:keyword scheme="mesh">Heart Rate</api:keyword>
+								<api:keyword scheme="mesh">Heart Ventricles</api:keyword>
+								<api:keyword scheme="mesh">Models, Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Myocytes, Cardiac</api:keyword>
+								<api:keyword scheme="mesh">Synaptic Transmission</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>England</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>473</api:begin-page>
+								<api:end-page>499</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>S0079610703001135</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>16</api:day>
+								<api:month>7</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Propagation of normal beats and re-entry in a computational model of ventricular cardiac tissue with regional differences in action potential shape and duration.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Comparative Study</api:item>
+								<api:item>Evaluation Study</api:item>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>Validation Study</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>85</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="884979" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:15142758" last-modified-when="2021-01-19T18:06:10.083+00:00">
+					<api:citation-count>20</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>There is substantial experimental evidence from studies using both intact tissue and isolated single cells to support the existence of different cell types within the ventricular wall of the heart, each possessing different electrical properties. However other studies have failed to find these differences, and instead support the idea that electrical coupling in vivo between regions with different cell types smoothes out differences in action potential shape and duration. In this study we have used a computational model of electrical activation in heterogenous 2D and 3D cardiac tissue to investigate the propagation of both normal beats and arrhythmias. We used the Luo-Rudy dynamic model for guinea pig ventricular cells, with simplified Ca2+ handling and transmural heterogeneity in IKs and Ito. With normal cell-to-cell coupling, a layer of M cells was not necessary for the formation of an upright T wave in the simulated electrocardiogram, and the amplitude and configuration of the T wave was not greatly affected by the thickness and configuration of the M cell layer. Transmural gradients in repolarisation pushed re-entrant waves with an intramural filament towards either the base or the apex of the ventricles, and caused transient break up of re-entry with a transmural filament.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Department of Computer Science, University of Sheffield and School of Biomedical Sciences, Regent Court, 211 Portobello Street, Sheffield S1 4DP, UK. r.h.clayton@sheffield.ac.uk</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-8438-7518</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>Arun V</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Arun</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.pbiomolbio.2003.12.002</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.pbiomolbio.2003.12.002"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.pbiomolbio.2003.12.002"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1873-1732</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965661"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15142758</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0079-6107</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965661"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Progress in biophysics and molecular biology</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Heart Conduction System</api:keyword>
+								<api:keyword scheme="mesh">Heart Ventricles</api:keyword>
+								<api:keyword scheme="mesh">Myocytes, Cardiac</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Guinea Pigs</api:keyword>
+								<api:keyword scheme="mesh">Body Surface Potential Mapping</api:keyword>
+								<api:keyword scheme="mesh">Synaptic Transmission</api:keyword>
+								<api:keyword scheme="mesh">Action Potentials</api:keyword>
+								<api:keyword scheme="mesh">Heart Rate</api:keyword>
+								<api:keyword scheme="mesh">Models, Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Arrhythmias, Cardiac</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>473</api:begin-page>
+								<api:end-page>499</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>6</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>15</api:day>
+								<api:month>5</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Propagation of normal beats and re-entry in a computational model of ventricular cardiac tissue with regional differences in action potential shape and duration.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Comparative Study</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>Validation Study</api:item>
+								<api:item>Evaluation Study</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>85</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2470590" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1031224447" last-modified-when="2023-12-25T01:06:36.64+00:00">
+					<api:citation-count>46</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01320006245.84</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>Arun V</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Arun</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Leeds</api:line>
+											<api:line type="city">Leeds</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01077530175.27</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.pbiomolbio.2003.12.002</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.pbiomolbio.2003.12.002"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.pbiomolbio.2003.12.002"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15142758</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>2.33</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0079-6107</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965661"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Progress in Biophysics and Molecular Biology</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">3101 Biochemistry and Cell Biology</api:keyword>
+								<api:keyword scheme="for-2020">31 Biological Sciences</api:keyword>
+								<api:keyword scheme="rcdc">Heart Disease</api:keyword>
+								<api:keyword scheme="rcdc">Cardiovascular</api:keyword>
+								<api:keyword scheme="hrcs-hc">Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Action Potentials</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Arrhythmias, Cardiac</api:keyword>
+								<api:keyword scheme="mesh">Body Surface Potential Mapping</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Guinea Pigs</api:keyword>
+								<api:keyword scheme="mesh">Heart Conduction System</api:keyword>
+								<api:keyword scheme="mesh">Heart Rate</api:keyword>
+								<api:keyword scheme="mesh">Heart Ventricles</api:keyword>
+								<api:keyword scheme="mesh">Models, Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Myocytes, Cardiac</api:keyword>
+								<api:keyword scheme="mesh">Synaptic Transmission</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Hybrid OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>473</api:begin-page>
+								<api:end-page>499</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>6</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Elsevier</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.64</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Propagation of normal beats and re-entry in a computational model of ventricular cardiac tissue with regional differences in action potential shape and duration</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>85</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="249132" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000221803700020" last-modified-when="2023-12-08T08:26:04.417+00:00">
+					<api:citation-count>36</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="researcherid">CAF-3400-2022</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>AV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000221803700020&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.pbiomolbio.2003.12.002</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.pbiomolbio.2003.12.002"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.pbiomolbio.2003.12.002"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1873-1732</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965661"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">826BK</api:identifier>
+								<api:identifier scheme="pubmed">15142758</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0079-6107</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965661"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>PROGRESS IN BIOPHYSICS &amp; MOLECULAR BIOLOGY</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>computer model</api:keyword>
+								<api:keyword>re-entry</api:keyword>
+								<api:keyword>repolarisation</api:keyword>
+								<api:keyword>heterogeneity</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>473</api:begin-page>
+								<api:end-page>499</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Propagation of normal beats and re-entry in a computational model of ventricular cardiac tissue with regional differences in action potential shape and duration</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+								<api:item>Proceedings Paper</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>85</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="34399" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000221803700020" last-modified-when="2014-07-25T11:40:32.707+01:00">
+					<api:citation-count>24</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>AV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.pbiomolbio.2003.12.002</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.pbiomolbio.2003.12.002"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.pbiomolbio.2003.12.002"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0079-6107</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965661"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>PROGRESS IN BIOPHYSICS &amp; MOLECULAR BIOLOGY</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>computer model</api:keyword>
+								<api:keyword>re-entry</api:keyword>
+								<api:keyword>repolarisation</api:keyword>
+								<api:keyword>heterogeneity</api:keyword>
+								<api:keyword>LONG-QT SYNDROME</api:keyword>
+								<api:keyword>TRANSIENT OUTWARD CURRENT</api:keyword>
+								<api:keyword>CURRENT I-KR</api:keyword>
+								<api:keyword>CELLULAR BASIS</api:keyword>
+								<api:keyword>T-WAVE</api:keyword>
+								<api:keyword>M-CELLS</api:keyword>
+								<api:keyword>ELECTRICAL HETEROGENEITY</api:keyword>
+								<api:keyword>TRANSMURAL DISPERSION</api:keyword>
+								<api:keyword>ENDOCARDIAL MYOCYTES</api:keyword>
+								<api:keyword>CLINICAL MANAGEMENT</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>473</api:begin-page>
+								<api:end-page>499</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>6</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Propagation of normal beats and re-entry in a computational model of ventricular cardiac tissue with regional differences in action potential shape and duration</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>85</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Action Potentials</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Arrhythmias, Cardiac</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Body Surface Potential Mapping</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Guinea Pigs</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Heart Conduction System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Heart Rate</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Heart Ventricles</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Myocytes, Cardiac</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Synaptic Transmission</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Heart Conduction System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Heart Ventricles</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Myocytes, Cardiac</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Guinea Pigs</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Body Surface Potential Mapping</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Synaptic Transmission</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Action Potentials</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Heart Rate</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Arrhythmias, Cardiac</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">3101 Biochemistry and Cell Biology</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">31 Biological Sciences</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Heart Disease</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Cardiovascular</api:keyword>
+					<api:keyword scheme="hrcs-hc" origin="record-data" source="dimensions">Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Action Potentials</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Arrhythmias, Cardiac</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Body Surface Potential Mapping</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Guinea Pigs</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Heart Conduction System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Heart Rate</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Heart Ventricles</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Myocytes, Cardiac</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Synaptic Transmission</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">computer model</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">re-entry</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">repolarisation</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">heterogeneity</api:keyword>
+					<api:keyword origin="record-data" source="wos">computer model</api:keyword>
+					<api:keyword origin="record-data" source="wos">re-entry</api:keyword>
+					<api:keyword origin="record-data" source="wos">repolarisation</api:keyword>
+					<api:keyword origin="record-data" source="wos">heterogeneity</api:keyword>
+					<api:keyword origin="record-data" source="wos">LONG-QT SYNDROME</api:keyword>
+					<api:keyword origin="record-data" source="wos">TRANSIENT OUTWARD CURRENT</api:keyword>
+					<api:keyword origin="record-data" source="wos">CURRENT I-KR</api:keyword>
+					<api:keyword origin="record-data" source="wos">CELLULAR BASIS</api:keyword>
+					<api:keyword origin="record-data" source="wos">T-WAVE</api:keyword>
+					<api:keyword origin="record-data" source="wos">M-CELLS</api:keyword>
+					<api:keyword origin="record-data" source="wos">ELECTRICAL HETEROGENEITY</api:keyword>
+					<api:keyword origin="record-data" source="wos">TRANSMURAL DISPERSION</api:keyword>
+					<api:keyword origin="record-data" source="wos">ENDOCARDIAL MYOCYTES</api:keyword>
+					<api:keyword origin="record-data" source="wos">CLINICAL MANAGEMENT</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0601 Biochemistry and Cell Biology</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Biophysics</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">3101 Biochemistry and cell biology</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="0079-6107" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965661" title="Progress in Biophysics and Molecular Biology">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Progress in Biophysics and Molecular Biology</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/5384/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

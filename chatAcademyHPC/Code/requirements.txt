@@ -1,0 +1,19 @@
+--find-links https://download.pytorch.org/whl/cu118
+torch
+transformers
+accelerate==0.20.3
+bitsandbytes
+datasets
+peft
+trl
+beautifulsoup4
+lxml
+tensorflow
+spacy
+datasets 
+span-marker 
+scikit-learn
+llama-index
+llama-index-llms-huggingface
+llama-index-embeddings-huggingface
+llama-index-readers-file

@@ -1,0 +1,983 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/8726"/>
+	<api:result>
+		<api:object category="publication" id="8726" last-affected-when="2023-12-26T22:57:24.957+00:00" last-modified-when="2023-12-26T22:57:24.957+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/8726" created-when="2010-05-17T14:06:13.65+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2006-09-08</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="1346207" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1016/j.biosystems.2006.09.007" last-modified-when="2022-09-11T23:12:39.203+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="18902" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/18902"/>
+									</api:links>
+									<api:last-name>Stamatopoulou</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>I</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>I</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="19047" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/19047"/>
+									</api:links>
+									<api:last-name>Kefalas</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="573" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/573"/>
+									</api:links>
+									<api:last-name>Gheorghe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.biosystems.2006.09.007</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.biosystems.2006.09.007"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.biosystems.2006.09.007"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0303-2647</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Biosystems</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>142</api:begin-page>
+								<api:end-page>149</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>2</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Elsevier BV</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1016/j.biosystems.2006.09.007</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>13</api:day>
+								<api:month>1</api:month>
+								<api:year>2019</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Modelling the dynamic structure of biological state-based systems</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>87</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="164823" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-33846062172" last-modified-when="2022-10-04T16:06:52.703+01:00">
+					<api:citation-count>8</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The paper discusses the modelling aspects of systems with dynamic processes and dynamic structure. A combination of models bringing together the benefits of two paradigms, Population P Systems and Communicating X-machines, is introduced. A simple case study is used in order to illustrate the potential of the combined use of the two methods. © 2006 Elsevier Ireland Ltd. All rights reserved.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="18902" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/18902"/>
+									</api:links>
+									<api:last-name>Stamatopoulou</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>I</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>I</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GR">
+											<api:line type="organisation">CITY College, Thessaloniki</api:line>
+											<api:line type="city">Thessaloniki</api:line>
+											<api:line type="country">Greece</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">55967567500</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="19047" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/19047"/>
+									</api:links>
+									<api:last-name>Kefalas</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GR">
+											<api:line type="organisation">CITY College, Thessaloniki</api:line>
+											<api:line type="city">Thessaloniki</api:line>
+											<api:line type="country">Greece</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7003685102</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="573" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/573"/>
+									</api:links>
+									<api:last-name>Gheorghe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">22334050700</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.biosystems.2006.09.007</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.biosystems.2006.09.007"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.biosystems.2006.09.007"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">17113705</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0303-2647</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BioSystems</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>142</api:begin-page>
+								<api:end-page>149</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>2</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Modelling the dynamic structure of biological state-based systems</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>87</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="8726" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="17113705" last-modified-when="2020-04-29T04:28:29.337+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The paper discusses the modelling aspects of systems with dynamic processes and dynamic structure. A combination of models bringing together the benefits of two paradigms, Population P Systems and Communicating X-machines, is introduced. A simple case study is used in order to illustrate the potential of the combined use of the two methods.</api:text>
+						</api:field>
+						<api:field name="acceptance-date" type="date" display-name="Date of acceptance">
+							<api:date>
+								<api:day>15</api:day>
+								<api:month>7</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="18902" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/18902"/>
+									</api:links>
+									<api:last-name>Stamatopoulou</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>I</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>I</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GR">
+											<api:line type="full">South-East European Research Centre, 17 Mitropoleos Street, Thessaloniki 54624, Greece. istamatopoulou@seerc.info</api:line>
+										</api:address>
+									</api:addresses>
+									<api:email-address>istamatopoulou@seerc.info</api:email-address>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="19047" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/19047"/>
+									</api:links>
+									<api:last-name>Kefalas</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="573" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/573"/>
+									</api:links>
+									<api:last-name>Gheorghe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/17113705</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.biosystems.2006.09.007</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.biosystems.2006.09.007"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.biosystems.2006.09.007"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0303-2647</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Biosystems</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Cell Communication</api:keyword>
+								<api:keyword scheme="mesh">Cell Movement</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Systems Biology</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>Ireland</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>142</api:begin-page>
+								<api:end-page>149</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>S0303-2647(06)00159-6</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>2</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>3</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Modelling the dynamic structure of biological state-based systems.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>87</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="887130" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:17113705" last-modified-when="2022-09-13T18:14:08.89+01:00">
+					<api:citation-count>1</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The paper discusses the modelling aspects of systems with dynamic processes and dynamic structure. A combination of models bringing together the benefits of two paradigms, Population P Systems and Communicating X-machines, is introduced. A simple case study is used in order to illustrate the potential of the combined use of the two methods.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GR">
+									<api:line type="full">South-East European Research Centre, 17 Mitropoleos Street, Thessaloniki 54624, Greece. istamatopoulou@seerc.info</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="18902" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/18902"/>
+									</api:links>
+									<api:last-name>Stamatopoulou</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>I</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>I</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0003-3753-1481</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="19047" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/19047"/>
+									</api:links>
+									<api:last-name>Kefalas</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-6846-7374</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="573" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/573"/>
+									</api:links>
+									<api:last-name>Gheorghe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.biosystems.2006.09.007</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.biosystems.2006.09.007"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.biosystems.2006.09.007"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1872-8324</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">17113705</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0303-2647</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Bio Systems</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Systems Biology</api:keyword>
+								<api:keyword scheme="mesh">Cell Communication</api:keyword>
+								<api:keyword scheme="mesh">Cell Movement</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print-Electronic</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>8</api:day>
+								<api:month>9</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>142</api:begin-page>
+								<api:end-page>149</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>2</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>15</api:day>
+								<api:month>1</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Modelling the dynamic structure of biological state-based systems.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>87</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2489492" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1037390220" last-modified-when="2023-11-27T01:21:52.55+00:00">
+					<api:citation-count>8</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="18902" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/18902"/>
+									</api:links>
+									<api:last-name>Stamatopoulou</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>I</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>I</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GR">
+											<api:line type="organisation">South East European Research Centre</api:line>
+											<api:line type="city">Thessaloniki</api:line>
+											<api:line type="country">Greece</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.016147727721.18</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="19047" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/19047"/>
+									</api:links>
+									<api:last-name>Kefalas</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GR">
+											<api:line type="organisation">Department of Computer Science, CITY College, 13 Tsimiski Street, Thessaloniki 54624, Greece</api:line>
+											<api:line type="city">Thessaloniki</api:line>
+											<api:line type="country">Greece</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.016372742221.15</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="573" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/573"/>
+									</api:links>
+									<api:last-name>Gheorghe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.011355043215.85</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.biosystems.2006.09.007</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.biosystems.2006.09.007"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.biosystems.2006.09.007"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">17113705</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0303-2647</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Biosystems</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">31 Biological Sciences</api:keyword>
+								<api:keyword scheme="for-2020">40 Engineering</api:keyword>
+								<api:keyword scheme="mesh">Cell Communication</api:keyword>
+								<api:keyword scheme="mesh">Cell Movement</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Systems Biology</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>8</api:day>
+								<api:month>9</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Closed Access</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>142</api:begin-page>
+								<api:end-page>149</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>2</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Elsevier</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.08</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Modelling the dynamic structure of biological state-based systems</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>87</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="255280" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000244128500007" last-modified-when="2023-12-08T09:02:11.097+00:00">
+					<api:citation-count>7</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="18902" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/18902"/>
+									</api:links>
+									<api:last-name>Stamatopoulou</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>I</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>I</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="19047" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/19047"/>
+									</api:links>
+									<api:last-name>Kefalas</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="573" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/573"/>
+									</api:links>
+									<api:last-name>Gheorghe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000244128500007&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.biosystems.2006.09.007</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.biosystems.2006.09.007"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.biosystems.2006.09.007"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1872-8324</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">135BJ</api:identifier>
+								<api:identifier scheme="pubmed">17113705</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0303-2647</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BIOSYSTEMS</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>formal modelling</api:keyword>
+								<api:keyword>dynamic reconfiguration</api:keyword>
+								<api:keyword>X-machines</api:keyword>
+								<api:keyword>population P systems</api:keyword>
+								<api:keyword>biologically-inspired systems</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>142</api:begin-page>
+								<api:end-page>149</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Modelling the dynamic structure of biological state-based systems</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+								<api:item>Proceedings Paper</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>87</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="42511" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000244128500007" last-modified-when="2014-07-25T12:04:34.86+01:00">
+					<api:citation-count>3</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="18902" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/18902"/>
+									</api:links>
+									<api:last-name>Stamatopoulou</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>I</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>I</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="19047" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/19047"/>
+									</api:links>
+									<api:last-name>Kefalas</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="573" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/573"/>
+									</api:links>
+									<api:last-name>Gheorghe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.biosystems.2006.09.007</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.biosystems.2006.09.007"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.biosystems.2006.09.007"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0303-2647</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BIOSYSTEMS</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>formal modelling</api:keyword>
+								<api:keyword>dynamic reconfiguration</api:keyword>
+								<api:keyword>X-machines</api:keyword>
+								<api:keyword>population P systems</api:keyword>
+								<api:keyword>biologically-inspired systems</api:keyword>
+								<api:keyword>AGENTS</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>142</api:begin-page>
+								<api:end-page>149</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>2</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Modelling the dynamic structure of biological state-based systems</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>87</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="74072" source-id="6" source-name="dblp" source-display-name="DBLP" id-at-source="journals/biosystems/StamatopoulouKG07" last-modified-when="2021-09-14T20:32:03.3+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="18902" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/18902"/>
+									</api:links>
+									<api:last-name>Stamatopoulou</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>Ioanna</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ioanna</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="19047" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/19047"/>
+									</api:links>
+									<api:last-name>Kefalas</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Petros</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Petros</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="573" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/573"/>
+									</api:links>
+									<api:last-name>Gheorghe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Marian</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Marian</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1016/j.biosystems.2006.09.007</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1016/j.biosystems.2006.09.007"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1016/j.biosystems.2006.09.007"/>
+							</api:links>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Biosyst.</api:text>
+						</api:field>
+						<api:field name="number" type="text" display-name="Article number">
+							<api:text>2-3</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>142</api:begin-page>
+								<api:end-page>149</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Modelling the dynamic structure of biological state-based systems.</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>87</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Cell Communication</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Cell Movement</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Systems Biology</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Systems Biology</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Cell Communication</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Cell Movement</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Computer Simulation</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">31 Biological Sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">40 Engineering</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Cell Communication</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Cell Movement</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Systems Biology</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">formal modelling</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">dynamic reconfiguration</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">X-machines</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">population P systems</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">biologically-inspired systems</api:keyword>
+					<api:keyword origin="record-data" source="wos">formal modelling</api:keyword>
+					<api:keyword origin="record-data" source="wos">dynamic reconfiguration</api:keyword>
+					<api:keyword origin="record-data" source="wos">X-machines</api:keyword>
+					<api:keyword origin="record-data" source="wos">population P systems</api:keyword>
+					<api:keyword origin="record-data" source="wos">biologically-inspired systems</api:keyword>
+					<api:keyword origin="record-data" source="wos">AGENTS</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">06 Biological Sciences</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">09 Engineering</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Bioinformatics</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">31 Biological sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">40 Engineering</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="0303-2647" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965510" title="BioSystems">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>BioSystems</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/8726/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

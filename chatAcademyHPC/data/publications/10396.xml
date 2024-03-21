@@ -1,0 +1,1166 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/10396"/>
+	<api:result>
+		<api:object category="publication" id="10396" last-affected-when="2023-12-22T03:08:47.81+00:00" last-modified-when="2023-12-22T03:08:47.81+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/10396" created-when="2010-05-17T14:12:01.74+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2007-12-12</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="1395555" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1002/prot.21832" last-modified-when="2023-10-21T00:59:58.557+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;The solution structure of the GB1 domain of protein G at a pressure of 2 kbar is presented. The structure was calculated as a change from an energy‐minimised low‐pressure structure using &lt;jats:sup&gt;1&lt;/jats:sup&gt;H chemical shifts. Two separate changes can be characterised: a compression/distortion, which is linear with pressure; and a stabilisation of an alternative folded state. On application of pressure, linear chemical shift changes reveal that the backbone structure changes by about 0.2 Å root mean square, and is compressed by about 1% overall. The α‐helix compresses, particularly at the C‐terminal end, and moves toward the β‐sheet, while the β‐sheet is twisted, with the corners closest to the α‐helix curling up towards it. The largest changes in structure are along the second β‐strand, which becomes more twisted. This strand is where the protein binds to IgG. Curved chemical shift changes with pressure indicate that high pressure also populates an alternative structure with a distortion towards the C‐terminal end of the helix, which is likely to be caused by insertion of a water molecule. Proteins 2008. © 2007 Wiley‐Liss, Inc.&lt;/jats:p&gt;</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>David J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>David</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Tunnicliffe</api:last-name>
+									<api:initials>RB</api:initials>
+									<api:first-names>Richard B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Kamatari</api:last-name>
+									<api:initials>YO</api:initials>
+									<api:first-names>Yuji O</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Yuji</api:first-name>
+										<api:first-name>O</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Akasaka</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>Kazuyuki</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kazuyuki</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1646" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1646"/>
+									</api:links>
+									<api:last-name>Williamson</api:last-name>
+									<api:initials>MP</api:initials>
+									<api:first-names>Mike P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1002/prot.21832</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1002/prot.21832"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1002/prot.21832"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1097-0134</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973258"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0887-3585</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973258"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Proteins: Structure, Function, and Bioinformatics</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>12</api:day>
+								<api:month>12</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1432</api:begin-page>
+								<api:end-page>1440</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>15</api:day>
+								<api:month>5</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Wiley</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1002/prot.21832</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>15</api:day>
+								<api:month>10</api:month>
+								<api:year>2023</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Pressure‐induced changes in the solution structure of the GB1 domain of protein G</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>71</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="114341" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-42449128777" last-modified-when="2023-09-19T16:32:22.757+01:00">
+					<api:citation-count>49</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The solution structure of the GB1 domain of protein G at a pressure of 2 kbar is presented. The structure was calculated as a change from an energy-minimised low-pressure structure using 1H chemical shifts. Two separate changes can be characterised: a compression/distortion, which is linear with pressure; and a stabilbation of an alternative folded state. On application of pressure, linear chemical shift changes reveal that the backbone structure changes by about 0.2 Å root mean square, and is compressed by about 1% overall. The α-helix compresses, particularly at the C-terminal end, and moves toward the β-sheet, while the β-sheet is twisted, with the corners closest to the α-helix curling up towards it. The largest changes in structure are along the second β-strand, which becomes more twisted. This strand is where the protein binds to IgG. Curved chemical shift changes with pressure indicate that high pressure also populates an alternative structure with a distortion towards the C-terminal end of the helix, which is likely to be caused by insertion of a water molecule. © 2007 Wiley-Liss, Inc.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>DJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7102880530</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Tunnicliffe</api:last-name>
+									<api:initials>RB</api:initials>
+									<api:first-names>RB</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">9133999900</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Kamatari</api:last-name>
+									<api:initials>YO</api:initials>
+									<api:first-names>YO</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Y</api:first-name>
+										<api:first-name>O</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="JP">
+											<api:line type="organisation">RIKEN SPring-8 Center</api:line>
+											<api:line type="city">Sayo</api:line>
+											<api:line type="country">Japan</api:line>
+										</api:address>
+										<api:address iso-country-code="JP">
+											<api:line type="organisation">Riken Yokohama Institute</api:line>
+											<api:line type="city">Yokohama</api:line>
+											<api:line type="country">Japan</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">6602904365</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Akasaka</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="JP">
+											<api:line type="organisation">RIKEN SPring-8 Center</api:line>
+											<api:line type="city">Sayo</api:line>
+											<api:line type="country">Japan</api:line>
+										</api:address>
+										<api:address iso-country-code="JP">
+											<api:line type="organisation">Kindai University</api:line>
+											<api:line type="city">Higashiosaka</api:line>
+											<api:line type="country">Japan</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">24545361400</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1646" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1646"/>
+									</api:links>
+									<api:last-name>Williamson</api:last-name>
+									<api:initials>MP</api:initials>
+									<api:first-names>MP</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">56025952600</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1002/prot.21832</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1002/prot.21832"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1002/prot.21832"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1097-0134</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973258"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">18076052</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0887-3585</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973258"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Proteins: Structure, Function and Genetics</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1432</api:begin-page>
+								<api:end-page>1440</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>15</api:day>
+								<api:month>5</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Pressure-induced changes in the solution structure of the GB1 domain of protein G</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>71</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="10396" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="18076052" last-modified-when="2020-04-29T12:00:19.107+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The solution structure of the GB1 domain of protein G at a pressure of 2 kbar is presented. The structure was calculated as a change from an energy-minimised low-pressure structure using (1)H chemical shifts. Two separate changes can be characterised: a compression/distortion, which is linear with pressure; and a stabilisation of an alternative folded state. On application of pressure, linear chemical shift changes reveal that the backbone structure changes by about 0.2 A root mean square, and is compressed by about 1% overall. The alpha-helix compresses, particularly at the C-terminal end, and moves toward the beta-sheet, while the beta-sheet is twisted, with the corners closest to the alpha-helix curling up towards it. The largest changes in structure are along the second beta-strand, which becomes more twisted. This strand is where the protein binds to IgG. Curved chemical shift changes with pressure indicate that high pressure also populates an alternative structure with a distortion towards the C-terminal end of the helix, which is likely to be caused by insertion of a water molecule.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>David J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>David</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Department of Molecular Biology and Biotechnology, University of Sheffield, Firth Court, Western Bank, Sheffield S10 2TN, United Kingdom.</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Tunnicliffe</api:last-name>
+									<api:initials>RB</api:initials>
+									<api:first-names>Richard B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Kamatari</api:last-name>
+									<api:initials>YO</api:initials>
+									<api:first-names>Yuji O</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Yuji</api:first-name>
+										<api:first-name>O</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Akasaka</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>Kazuyuki</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kazuyuki</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1646" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1646"/>
+									</api:links>
+									<api:last-name>Williamson</api:last-name>
+									<api:initials>MP</api:initials>
+									<api:first-names>Mike P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/18076052</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1002/prot.21832</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1002/prot.21832"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1002/prot.21832"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1097-0134</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973258"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Proteins</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Amino Acid Motifs</api:keyword>
+								<api:keyword scheme="mesh">Amino Acid Sequence</api:keyword>
+								<api:keyword scheme="mesh">Bacterial Proteins</api:keyword>
+								<api:keyword scheme="mesh">Molecular Sequence Data</api:keyword>
+								<api:keyword scheme="mesh">Pressure</api:keyword>
+								<api:keyword scheme="mesh">Protein Binding</api:keyword>
+								<api:keyword scheme="mesh">Protein Conformation</api:keyword>
+								<api:keyword scheme="mesh">Protein Structure, Secondary</api:keyword>
+								<api:keyword scheme="mesh">Protein Structure, Tertiary</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>United States</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1432</api:begin-page>
+								<api:end-page>1440</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>15</api:day>
+								<api:month>5</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>15</api:day>
+								<api:month>8</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Pressure-induced changes in the solution structure of the GB1 domain of protein G.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Comparative Study</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>71</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="888186" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:18076052" last-modified-when="2023-11-21T19:16:30.64+00:00">
+					<api:citation-count>32</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The solution structure of the GB1 domain of protein G at a pressure of 2 kbar is presented. The structure was calculated as a change from an energy-minimised low-pressure structure using (1)H chemical shifts. Two separate changes can be characterised: a compression/distortion, which is linear with pressure; and a stabilisation of an alternative folded state. On application of pressure, linear chemical shift changes reveal that the backbone structure changes by about 0.2 A root mean square, and is compressed by about 1% overall. The alpha-helix compresses, particularly at the C-terminal end, and moves toward the beta-sheet, while the beta-sheet is twisted, with the corners closest to the alpha-helix curling up towards it. The largest changes in structure are along the second beta-strand, which becomes more twisted. This strand is where the protein binds to IgG. Curved chemical shift changes with pressure indicate that high pressure also populates an alternative structure with a distortion towards the C-terminal end of the helix, which is likely to be caused by insertion of a water molecule.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Department of Molecular Biology and Biotechnology, University of Sheffield, Firth Court, Western Bank, Sheffield S10 2TN, United Kingdom.</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>David J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>David</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Tunnicliffe</api:last-name>
+									<api:initials>RB</api:initials>
+									<api:first-names>Richard B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Kamatari</api:last-name>
+									<api:initials>YO</api:initials>
+									<api:first-names>Yuji O</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Yuji</api:first-name>
+										<api:first-name>O</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0001-9573-5162</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Akasaka</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>Kazuyuki</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kazuyuki</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1646" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1646"/>
+									</api:links>
+									<api:last-name>Williamson</api:last-name>
+									<api:initials>MP</api:initials>
+									<api:first-names>Mike P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0001-5572-1903</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1002/prot.21832</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1002/prot.21832"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1002/prot.21832"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1097-0134</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973258"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">18076052</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0887-3585</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973258"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Proteins</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Bacterial Proteins</api:keyword>
+								<api:keyword scheme="mesh">Amino Acid Sequence</api:keyword>
+								<api:keyword scheme="mesh">Amino Acid Motifs</api:keyword>
+								<api:keyword scheme="mesh">Protein Conformation</api:keyword>
+								<api:keyword scheme="mesh">Protein Structure, Secondary</api:keyword>
+								<api:keyword scheme="mesh">Protein Structure, Tertiary</api:keyword>
+								<api:keyword scheme="mesh">Protein Binding</api:keyword>
+								<api:keyword scheme="mesh">Pressure</api:keyword>
+								<api:keyword scheme="mesh">Molecular Sequence Data</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1432</api:begin-page>
+								<api:end-page>1440</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>5</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>14</api:day>
+								<api:month>12</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Pressure-induced changes in the solution structure of the GB1 domain of protein G.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Comparative Study</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>71</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2639799" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1029201804" last-modified-when="2023-12-22T03:08:47.817+00:00">
+					<api:citation-count>53</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>David J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>David</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01253342714.62</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Tunnicliffe</api:last-name>
+									<api:initials>RB</api:initials>
+									<api:first-names>Richard B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0624123472.69</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Kamatari</api:last-name>
+									<api:initials>YO</api:initials>
+									<api:first-names>Yuji O</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Yuji</api:first-name>
+										<api:first-name>O</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="JP">
+											<api:line type="organisation">SPring-8</api:line>
+											<api:line type="city">Sayō</api:line>
+											<api:line type="country">Japan</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01224046463.08</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Akasaka</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>Kazuyuki</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kazuyuki</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="JP">
+											<api:line type="organisation">SPring-8</api:line>
+											<api:line type="city">Sayō</api:line>
+											<api:line type="country">Japan</api:line>
+										</api:address>
+										<api:address iso-country-code="JP">
+											<api:line type="organisation">Kindai University</api:line>
+											<api:line type="city">Osaka</api:line>
+											<api:line type="country">Japan</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.07612527111.10</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1646" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1646"/>
+									</api:links>
+									<api:last-name>Williamson</api:last-name>
+									<api:initials>MP</api:initials>
+									<api:first-names>Mike P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.010760774442.21</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1002/prot.21832</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1002/prot.21832"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1002/prot.21832"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">18076052</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>3.86</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0887-3585</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973258"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Proteins Structure Function and Bioinformatics</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">3101 Biochemistry and Cell Biology</api:keyword>
+								<api:keyword scheme="for-2020">31 Biological Sciences</api:keyword>
+								<api:keyword scheme="mesh">Amino Acid Motifs</api:keyword>
+								<api:keyword scheme="mesh">Amino Acid Sequence</api:keyword>
+								<api:keyword scheme="mesh">Bacterial Proteins</api:keyword>
+								<api:keyword scheme="mesh">Molecular Sequence Data</api:keyword>
+								<api:keyword scheme="mesh">Pressure</api:keyword>
+								<api:keyword scheme="mesh">Protein Binding</api:keyword>
+								<api:keyword scheme="mesh">Protein Conformation</api:keyword>
+								<api:keyword scheme="mesh">Protein Structure, Secondary</api:keyword>
+								<api:keyword scheme="mesh">Protein Structure, Tertiary</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>12</api:day>
+								<api:month>12</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Closed Access</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1432</api:begin-page>
+								<api:end-page>1440</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>15</api:day>
+								<api:month>5</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Wiley</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>1.21</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Pressure‐induced changes in the solution structure of the GB1 domain of protein G</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>71</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="258408" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000255269200032" last-modified-when="2023-12-08T09:22:42.377+00:00">
+					<api:citation-count>47</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>David J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>David</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Tunnicliffe</api:last-name>
+									<api:initials>RB</api:initials>
+									<api:first-names>Richard B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Kamatari</api:last-name>
+									<api:initials>YO</api:initials>
+									<api:first-names>Yuji O</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Yuji</api:first-name>
+										<api:first-name>O</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Akasaka</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>Kazuyuki</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kazuyuki</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1646" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1646"/>
+									</api:links>
+									<api:last-name>Williamson</api:last-name>
+									<api:initials>MP</api:initials>
+									<api:first-names>Mike P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mike</api:first-name>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000255269200032&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1002/prot.21832</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1002/prot.21832"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1002/prot.21832"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1097-0134</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973258"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">292MC</api:identifier>
+								<api:identifier scheme="pubmed">18076052</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0887-3585</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973258"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>pressure</api:keyword>
+								<api:keyword>chemical shift</api:keyword>
+								<api:keyword>protein G</api:keyword>
+								<api:keyword>compression</api:keyword>
+								<api:keyword>structural change</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1432</api:begin-page>
+								<api:end-page>1440</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Pressure-induced changes in the solution structure of the GB1 domain of protein G</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>71</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="46826" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000255269200032" last-modified-when="2014-07-25T12:13:56.237+01:00">
+					<api:citation-count>10</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>DJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Dept Mol Biol &amp; Biotechnol, Sheffield S10 2TN, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Tunnicliffe</api:last-name>
+									<api:initials>RB</api:initials>
+									<api:first-names>RB</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Dept Mol Biol &amp; Biotechnol, Sheffield S10 2TN, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Kamatari</api:last-name>
+									<api:initials>YO</api:initials>
+									<api:first-names>YO</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Y</api:first-name>
+										<api:first-name>O</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="JP">
+											<api:line type="full">RIKEN, Harima Inst, SPring Ctr 8, Mikazuki, Hyogo 6795148, Japan</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Akasaka</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="JP">
+											<api:line type="full">RIKEN, Harima Inst, SPring Ctr 8, Mikazuki, Hyogo 6795148, Japan</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1646" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1646"/>
+									</api:links>
+									<api:last-name>Williamson</api:last-name>
+									<api:initials>MP</api:initials>
+									<api:first-names>MP</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Dept Mol Biol &amp; Biotechnol, Sheffield S10 2TN, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1002/prot.21832</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1002/prot.21832"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1002/prot.21832"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0887-3585</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973258"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>PROTEINS</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>pressure</api:keyword>
+								<api:keyword>chemical shift</api:keyword>
+								<api:keyword>protein G</api:keyword>
+								<api:keyword>compression</api:keyword>
+								<api:keyword>structural change</api:keyword>
+								<api:keyword>IMMUNOGLOBULIN-BINDING DOMAIN</api:keyword>
+								<api:keyword>PROTON CHEMICAL-SHIFTS</api:keyword>
+								<api:keyword>EGG-WHITE LYSOZYME</api:keyword>
+								<api:keyword>HYDROSTATIC-PRESSURE</api:keyword>
+								<api:keyword>CRYSTAL-STRUCTURE</api:keyword>
+								<api:keyword>SECONDARY STRUCTURE</api:keyword>
+								<api:keyword>GLOBULAR-PROTEINS</api:keyword>
+								<api:keyword>DEPENDENT CHANGES</api:keyword>
+								<api:keyword>NMR</api:keyword>
+								<api:keyword>CRYSTALLOGRAPHY</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1432</api:begin-page>
+								<api:end-page>1440</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>15</api:day>
+								<api:month>5</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Pressure-induced changes in the solution structure of the GB1 domain of protein G</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>71</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Amino Acid Motifs</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Amino Acid Sequence</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Bacterial Proteins</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Molecular Sequence Data</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Pressure</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Protein Binding</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Protein Conformation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Protein Structure, Secondary</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Protein Structure, Tertiary</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Bacterial Proteins</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Amino Acid Sequence</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Amino Acid Motifs</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Protein Conformation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Protein Structure, Secondary</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Protein Structure, Tertiary</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Protein Binding</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Pressure</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Molecular Sequence Data</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">3101 Biochemistry and Cell Biology</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">31 Biological Sciences</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Amino Acid Motifs</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Amino Acid Sequence</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Bacterial Proteins</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Molecular Sequence Data</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Pressure</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Protein Binding</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Protein Conformation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Protein Structure, Secondary</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Protein Structure, Tertiary</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">pressure</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">chemical shift</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">protein G</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">compression</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">structural change</api:keyword>
+					<api:keyword origin="record-data" source="wos">pressure</api:keyword>
+					<api:keyword origin="record-data" source="wos">chemical shift</api:keyword>
+					<api:keyword origin="record-data" source="wos">protein G</api:keyword>
+					<api:keyword origin="record-data" source="wos">compression</api:keyword>
+					<api:keyword origin="record-data" source="wos">structural change</api:keyword>
+					<api:keyword origin="record-data" source="wos">IMMUNOGLOBULIN-BINDING DOMAIN</api:keyword>
+					<api:keyword origin="record-data" source="wos">PROTON CHEMICAL-SHIFTS</api:keyword>
+					<api:keyword origin="record-data" source="wos">EGG-WHITE LYSOZYME</api:keyword>
+					<api:keyword origin="record-data" source="wos">HYDROSTATIC-PRESSURE</api:keyword>
+					<api:keyword origin="record-data" source="wos">CRYSTAL-STRUCTURE</api:keyword>
+					<api:keyword origin="record-data" source="wos">SECONDARY STRUCTURE</api:keyword>
+					<api:keyword origin="record-data" source="wos">GLOBULAR-PROTEINS</api:keyword>
+					<api:keyword origin="record-data" source="wos">DEPENDENT CHANGES</api:keyword>
+					<api:keyword origin="record-data" source="wos">NMR</api:keyword>
+					<api:keyword origin="record-data" source="wos">CRYSTALLOGRAPHY</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">01 Mathematical Sciences</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">06 Biological Sciences</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">08 Information and Computing Sciences</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Bioinformatics</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">31 Biological sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">49 Mathematical sciences</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="0887-3585" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973258" title="Proteins: Structure, Function and Bioinformatics">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Proteins: Structure, Function and Bioinformatics</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/10396/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

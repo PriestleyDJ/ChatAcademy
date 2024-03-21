@@ -1,0 +1,1050 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11692"/>
+	<api:result>
+		<api:object category="publication" id="11692" last-affected-when="2023-12-08T09:44:08.78+00:00" last-modified-when="2023-12-08T09:44:08.78+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11692" created-when="2010-05-17T14:18:37.73+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2008-10-11</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="4195447" source-id="28" source-name="eprints" source-display-name="White Rose Research Online" id-at-source="8739" last-modified-when="2022-12-28T13:58:57.007+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Afterdepolarisations are associated with arrhythmias in the heart, but are difficult to study experimentally. In this study we used a simplified computational model of 1D and 2D cardiac ventricular tissue, where we could control the size of the region generating afterdepolarisations, as well as the properties of the afterdepolarisation waveform. Provided the size of the afterdepolarisation region was greater than around 1 mm, propagating extrasystoles were produced in both 1D and 2D. The number of extrasystoles produced depended on the amplitude, period, and duration of the oscillatory EAD waveform. In 2D, re-entry was also initiated for specific combinations of EAD amplitude, period, and duration, with the afterdepolarisation region acting as a common pathway. The main finding from this modelling study is therefore that afterdepolarisations can act as potent sources of propagating extrasystoles, as well as a source of re-entrant activation. 
+</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Scarle</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s11517-008-0405-0</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s11517-008-0405-0"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s11517-008-0405-0"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1741-0444</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967545"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Medical and Biological Engineering and Computing</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>Heart</api:keyword>
+								<api:keyword>Re-entry</api:keyword>
+								<api:keyword>Fibrillation</api:keyword>
+								<api:keyword>Excitable media</api:keyword>
+								<api:keyword>Early afterdepolarisations</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="notes" type="text" display-name="Other information">
+							<api:text>© 2009 Springer. This is an author produced version of a paper subsequently published in Medical and Biological Engineering and Computing. Uploaded in accordance with the publisher's self-archiving policy.
+
+</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>291</api:begin-page>
+								<api:end-page>300</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>3</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="public-url" type="text" display-name="Public URL">
+							<api:text>https://eprints.whiterose.ac.uk/id/eprint/8739</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Springer</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1007/s11517-008-0405-0</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>24</api:day>
+								<api:month>6</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>23</api:day>
+								<api:month>7</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="repository-status" type="text" display-name="Availability">
+							<api:text>Public</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Early afterdepolarisations and ventricular arrhythmias in cardiac tissue: a computational study 
+</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>47</api:text>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://eprints.whiterose.ac.uk/id/file/143121">
+								<api:filename>Claytonrh3.pdf</api:filename>
+								<api:file-url>https://eprints.whiterose.ac.uk/8739/2/Claytonrh3.pdf</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:file-size>4323484</api:file-size>
+								<api:mime-type>application/pdf</api:mime-type>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="1441807" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1007/s11517-008-0405-0" last-modified-when="2022-09-11T16:17:34.767+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Scarle</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Simon</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Simon</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s11517-008-0405-0</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s11517-008-0405-0"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s11517-008-0405-0"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1741-0444</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967545"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0140-0118</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967545"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Medical &amp;amp; Biological Engineering &amp;amp; Computing</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>11</api:day>
+								<api:month>10</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>291</api:begin-page>
+								<api:end-page>300</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>3</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Springer Science and Business Media LLC</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1007/s11517-008-0405-0</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>6</api:month>
+								<api:year>2019</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Early afterdepolarisations and ventricular arrhythmias in cardiac tissue: a computational study</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>47</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="153713" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-62149084492" last-modified-when="2020-09-02T01:35:06.837+01:00">
+					<api:citation-count>3</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Afterdepolarisations are associated with arrhythmias in the heart, but are difficult to study experimentally. In this study we used a simplified computational model of 1D and 2D cardiac ventricular tissue, where we could control the size of the region generating afterdepolarisations, as well as the properties of the afterdepolarisation waveform. Provided the size of the afterdepolarisation region was greater than around 1 mm, propagating extrasystoles were produced in both 1D and 2D. The number of extrasystoles produced depended on the amplitude, period, and duration of the oscillatory EAD waveform. In 2D, re-entry was also initiated for specific combinations of EAD amplitude, period, and duration, with the afterdepolarisation region acting as a common pathway. The main finding from this modelling study is therefore that afterdepolarisations can act as potent sources of propagating extrasystoles, as well as a source of re-entrant activation. © nternational Federation for Medical and Biological Engineering 2008.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Scarle</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Rare Ltd.</api:line>
+											<api:line type="city">Twycross</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">9736602300</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">56243052600</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s11517-008-0405-0</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s11517-008-0405-0"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s11517-008-0405-0"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">18850126</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0140-0118</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967545"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Medical and Biological Engineering and Computing</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>291</api:begin-page>
+								<api:end-page>300</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>1</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Early afterdepolarisations and ventricular arrhythmias in cardiac tissue: A computational study</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>47</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="11692" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="18850126" last-modified-when="2020-04-29T12:28:46.577+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Afterdepolarisations are associated with arrhythmias in the heart, but are difficult to study experimentally. In this study we used a simplified computational model of 1D and 2D cardiac ventricular tissue, where we could control the size of the region generating afterdepolarisations, as well as the properties of the afterdepolarisation waveform. Provided the size of the afterdepolarisation region was greater than around 1 mm, propagating extrasystoles were produced in both 1D and 2D. The number of extrasystoles produced depended on the amplitude, period, and duration of the oscillatory EAD waveform. In 2D, re-entry was also initiated for specific combinations of EAD amplitude, period, and duration, with the afterdepolarisation region acting as a common pathway. The main finding from this modelling study is therefore that afterdepolarisations can act as potent sources of propagating extrasystoles, as well as a source of re-entrant activation.</api:text>
+						</api:field>
+						<api:field name="acceptance-date" type="date" display-name="Date of acceptance">
+							<api:date>
+								<api:day>3</api:day>
+								<api:month>9</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Scarle</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Simon</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Simon</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Department of Computer Science, University of Sheffield, Regent Court, 211 Portobello Street, Sheffield S14DP, UK.</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/18850126</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s11517-008-0405-0</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s11517-008-0405-0"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s11517-008-0405-0"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1741-0444</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967545"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Med Biol Eng Comput</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Action Potentials</api:keyword>
+								<api:keyword scheme="mesh">Arrhythmias, Cardiac</api:keyword>
+								<api:keyword scheme="mesh">Computational Biology</api:keyword>
+								<api:keyword scheme="mesh">Heart Conduction System</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Models, Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Ventricular Premature Complexes</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>United States</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>291</api:begin-page>
+								<api:end-page>300</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>3</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>26</api:day>
+								<api:month>3</api:month>
+								<api:year>2010</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Early afterdepolarisations and ventricular arrhythmias in cardiac tissue: a computational study.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>47</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="888928" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:18850126" last-modified-when="2023-01-31T18:28:33.327+00:00">
+					<api:citation-count>3</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Afterdepolarisations are associated with arrhythmias in the heart, but are difficult to study experimentally. In this study we used a simplified computational model of 1D and 2D cardiac ventricular tissue, where we could control the size of the region generating afterdepolarisations, as well as the properties of the afterdepolarisation waveform. Provided the size of the afterdepolarisation region was greater than around 1 mm, propagating extrasystoles were produced in both 1D and 2D. The number of extrasystoles produced depended on the amplitude, period, and duration of the oscillatory EAD waveform. In 2D, re-entry was also initiated for specific combinations of EAD amplitude, period, and duration, with the afterdepolarisation region acting as a common pathway. The main finding from this modelling study is therefore that afterdepolarisations can act as potent sources of propagating extrasystoles, as well as a source of re-entrant activation.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Department of Computer Science, University of Sheffield, Regent Court, 211 Portobello Street, Sheffield S14DP, UK.</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Scarle</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Simon</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Simon</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-8438-7518</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s11517-008-0405-0</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s11517-008-0405-0"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s11517-008-0405-0"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1741-0444</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967545"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">18850126</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0140-0118</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967545"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Medical &amp; biological engineering &amp; computing</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Heart Conduction System</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Ventricular Premature Complexes</api:keyword>
+								<api:keyword scheme="mesh">Computational Biology</api:keyword>
+								<api:keyword scheme="mesh">Action Potentials</api:keyword>
+								<api:keyword scheme="mesh">Models, Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Arrhythmias, Cardiac</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print-Electronic</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>11</api:day>
+								<api:month>10</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>291</api:begin-page>
+								<api:end-page>300</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>3</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>14</api:day>
+								<api:month>10</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Early afterdepolarisations and ventricular arrhythmias in cardiac tissue: a computational study.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>47</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2470582" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1049741750" last-modified-when="2023-11-27T00:21:32.63+00:00">
+					<api:citation-count>4</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Scarle</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Simon</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Simon</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Rare Ltd., Manor Park, Twycross, CV9 3QN, Warwickshire, UK</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.014444665003.47</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01320006245.84</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s11517-008-0405-0</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s11517-008-0405-0"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s11517-008-0405-0"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">18850126</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>0.49</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1357-5481</api:text>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Medical &amp; Biological Engineering &amp; Computing</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">40 Engineering</api:keyword>
+								<api:keyword scheme="for-2020">4003 Biomedical Engineering</api:keyword>
+								<api:keyword scheme="rcdc">Cardiovascular</api:keyword>
+								<api:keyword scheme="rcdc">Heart Disease</api:keyword>
+								<api:keyword scheme="hrcs-hc">Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Action Potentials</api:keyword>
+								<api:keyword scheme="mesh">Arrhythmias, Cardiac</api:keyword>
+								<api:keyword scheme="mesh">Computational Biology</api:keyword>
+								<api:keyword scheme="mesh">Heart Conduction System</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Models, Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Ventricular Premature Complexes</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>11</api:day>
+								<api:month>10</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Green OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>291</api:begin-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>3</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Springer Nature</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.09</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Early afterdepolarisations and ventricular arrhythmias in cardiac tissue: a computational study</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>47</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="260674" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000263830000006" last-modified-when="2023-12-08T09:44:08.787+00:00">
+					<api:citation-count>3</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Scarle</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Simon</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Simon</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="researcherid">CAF-3400-2022</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000263830000006&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s11517-008-0405-0</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s11517-008-0405-0"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s11517-008-0405-0"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1741-0444</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967545"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">413YB</api:identifier>
+								<api:identifier scheme="pubmed">18850126</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0140-0118</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967545"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>MEDICAL &amp; BIOLOGICAL ENGINEERING &amp; COMPUTING</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>Heart</api:keyword>
+								<api:keyword>Re-entry</api:keyword>
+								<api:keyword>Fibrillation</api:keyword>
+								<api:keyword>Excitable media</api:keyword>
+								<api:keyword>Early afterdepolarisations</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>291</api:begin-page>
+								<api:end-page>300</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Early afterdepolarisations and ventricular arrhythmias in cardiac tissue: a computational study</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>47</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="49862" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000263830000006" last-modified-when="2014-07-25T12:22:35.48+01:00">
+					<api:citation-count>0</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Scarle</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Dept Comp Sci, Sheffield S1 4DP, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Dept Comp Sci, Sheffield S1 4DP, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s11517-008-0405-0</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s11517-008-0405-0"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s11517-008-0405-0"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0140-0118</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967545"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>MED BIOL ENG COMPUT</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>Heart</api:keyword>
+								<api:keyword>Re-entry</api:keyword>
+								<api:keyword>Fibrillation</api:keyword>
+								<api:keyword>Excitable media</api:keyword>
+								<api:keyword>Early afterdepolarisations</api:keyword>
+								<api:keyword>LONG-QT SYNDROME</api:keyword>
+								<api:keyword>ACTION-POTENTIAL PROPAGATION</api:keyword>
+								<api:keyword>ELECTRICAL-ACTIVITY</api:keyword>
+								<api:keyword>TRIGGERED ACTIVITY</api:keyword>
+								<api:keyword>LOCAL-CONTROL</api:keyword>
+								<api:keyword>DE-POINTES</api:keyword>
+								<api:keyword>MODEL</api:keyword>
+								<api:keyword>CALCIUM</api:keyword>
+								<api:keyword>REENTRY</api:keyword>
+								<api:keyword>MECHANISMS</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>291</api:begin-page>
+								<api:end-page>300</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>3</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Early afterdepolarisations and ventricular arrhythmias in cardiac tissue: a computational study</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>47</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="512827" source-id="6" source-name="dblp" source-display-name="DBLP" id-at-source="journals/mbec/ScarleC09" last-modified-when="2021-09-14T15:34:40.963+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Scarle</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>Simon</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Simon</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s11517-008-0405-0</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s11517-008-0405-0"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s11517-008-0405-0"/>
+							</api:links>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Medical Biol. Eng. Comput.</api:text>
+						</api:field>
+						<api:field name="number" type="text" display-name="Article number">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>291</api:begin-page>
+								<api:end-page>300</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Early afterdepolarisations and ventricular arrhythmias in cardiac tissue: a computational study.</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>47</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword origin="record-data" source="eprints">Heart</api:keyword>
+					<api:keyword origin="record-data" source="eprints">Re-entry</api:keyword>
+					<api:keyword origin="record-data" source="eprints">Fibrillation</api:keyword>
+					<api:keyword origin="record-data" source="eprints">Excitable media</api:keyword>
+					<api:keyword origin="record-data" source="eprints">Early afterdepolarisations</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Action Potentials</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Arrhythmias, Cardiac</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Computational Biology</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Heart Conduction System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Ventricular Premature Complexes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Heart Conduction System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Ventricular Premature Complexes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Computational Biology</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Action Potentials</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Arrhythmias, Cardiac</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">40 Engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">4003 Biomedical Engineering</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Cardiovascular</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Heart Disease</api:keyword>
+					<api:keyword scheme="hrcs-hc" origin="record-data" source="dimensions">Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Action Potentials</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Arrhythmias, Cardiac</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Computational Biology</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Heart Conduction System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Ventricular Premature Complexes</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">Heart</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">Re-entry</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">Fibrillation</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">Excitable media</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">Early afterdepolarisations</api:keyword>
+					<api:keyword origin="record-data" source="wos">Heart</api:keyword>
+					<api:keyword origin="record-data" source="wos">Re-entry</api:keyword>
+					<api:keyword origin="record-data" source="wos">Fibrillation</api:keyword>
+					<api:keyword origin="record-data" source="wos">Excitable media</api:keyword>
+					<api:keyword origin="record-data" source="wos">Early afterdepolarisations</api:keyword>
+					<api:keyword origin="record-data" source="wos">LONG-QT SYNDROME</api:keyword>
+					<api:keyword origin="record-data" source="wos">ACTION-POTENTIAL PROPAGATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">ELECTRICAL-ACTIVITY</api:keyword>
+					<api:keyword origin="record-data" source="wos">TRIGGERED ACTIVITY</api:keyword>
+					<api:keyword origin="record-data" source="wos">LOCAL-CONTROL</api:keyword>
+					<api:keyword origin="record-data" source="wos">DE-POINTES</api:keyword>
+					<api:keyword origin="record-data" source="wos">MODEL</api:keyword>
+					<api:keyword origin="record-data" source="wos">CALCIUM</api:keyword>
+					<api:keyword origin="record-data" source="wos">REENTRY</api:keyword>
+					<api:keyword origin="record-data" source="wos">MECHANISMS</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0903 Biomedical Engineering</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0906 Electrical and Electronic Engineering</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Biomedical Engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">4003 Biomedical engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">4603 Computer vision and multimedia computation</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">4611 Machine learning</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="0140-0118" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967545" title="Medical and Biological Engineering and Computing">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Medical and Biological Engineering and Computing</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11692/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

@@ -1,0 +1,1041 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11458"/>
+	<api:result>
+		<api:object category="publication" id="11458" last-affected-when="2023-12-25T01:25:45.953+00:00" last-modified-when="2023-12-25T01:25:45.953+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11458" created-when="2010-05-17T14:18:32.527+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2007-10-11</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="116930" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-56149114249" last-modified-when="2023-11-14T17:02:02.933+00:00">
+					<api:citation-count>63</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The Clinical E-Science Framework (CLEF) project is building a framework for the capture, integration and presentation of clinical information: for clinical research, evidence-based health care and genotype-meets-phenotype informatics. A significant portion of the information required by such a framework originates as text, even in EHR-savvy organizations. CLEF uses Information Extraction (IE) to make this unstructured information available. An important part of IE is the identification of semantic entities and relationships. Typical approaches require human annotated documents to provide both evaluation standards and material for system development. CLEF has a corpus of clinical narratives, histopathology reports and imaging reports from 20 thousand patients. We describe the selection of a subset of this corpus for manual annotation of clinical entities and relationships. We describe an annotation methodology and report encouraging initial results of inter-annotator agreement. Comparisons are made between different text sub-genres, and between annotators with different skills.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2986" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2986"/>
+									</api:links>
+									<api:last-name>Roberts</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7404499087</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2026" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2026"/>
+									</api:links>
+									<api:last-name>Gaizauskas</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>R</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">57207525309</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2050" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2050"/>
+									</api:links>
+									<api:last-name>Hepple</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">8213310200</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Davis</api:last-name>
+									<api:initials>N</api:initials>
+									<api:first-names>N</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>N</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">8129719400</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Demetriou</api:last-name>
+									<api:initials>G</api:initials>
+									<api:first-names>G</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>G</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">57112065700</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Guo</api:last-name>
+									<api:initials>Y</api:initials>
+									<api:first-names>Y</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Y</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">8129719600</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Kola</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">25646261300</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="321" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/321"/>
+									</api:links>
+									<api:last-name>Roberts</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>I</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>I</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">55726787900</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Setzer</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">12761047100</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Tapuria</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">25647006300</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Wheeldin</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">25646811900</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1559-4076</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/993578"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">18693911</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>AMIA ... Annual Symposium proceedings / AMIA Symposium. AMIA Symposium</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>625</api:begin-page>
+								<api:end-page>629</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>1</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The CLEF corpus: semantic annotation of clinical text.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="11458" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="18693911" last-modified-when="2022-11-22T21:12:58.287+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The Clinical E-Science Framework (CLEF) project is building a framework for the capture, integration and presentation of clinical information: for clinical research, evidence-based health care and genotype-meets-phenotype informatics. A significant portion of the information required by such a framework originates as text, even in EHR-savvy organizations. CLEF uses Information Extraction (IE) to make this unstructured information available. An important part of IE is the identification of semantic entities and relationships. Typical approaches require human annotated documents to provide both evaluation standards and material for system development. CLEF has a corpus of clinical narratives, histopathology reports and imaging reports from 20 thousand patients. We describe the selection of a subset of this corpus for manual annotation of clinical entities and relationships. We describe an annotation methodology and report encouraging initial results of inter-annotator agreement. Comparisons are made between different text sub-genres, and between annotators with different skills.</api:text>
+						</api:field>
+						<api:field name="acceptance-date" type="date" display-name="Date of acceptance">
+							<api:date>
+								<api:day>11</api:day>
+								<api:month>10</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2986" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2986"/>
+									</api:links>
+									<api:last-name>Roberts</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Angus</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Angus</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Natural Language Processing Group, University of Sheffield, UK.</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2026" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2026"/>
+									</api:links>
+									<api:last-name>Gaizauskas</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>Robert</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Robert</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2050" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2050"/>
+									</api:links>
+									<api:last-name>Hepple</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mark</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mark</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Davis</api:last-name>
+									<api:initials>N</api:initials>
+									<api:first-names>Neil</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Neil</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Demetriou</api:last-name>
+									<api:initials>G</api:initials>
+									<api:first-names>George</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>George</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Guo</api:last-name>
+									<api:initials>Y</api:initials>
+									<api:first-names>Yikun</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Yikun</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Kola</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>Jay</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Jay</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="321" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/321"/>
+									</api:links>
+									<api:last-name>Roberts</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>Ian</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ian</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Setzer</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Andrea</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Andrea</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Tapuria</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Archana</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Archana</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Wheeldin</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Bill</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Bill</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/18693911</api:text>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1942-597X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/993578"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pmc">PMC2655900</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>AMIA Annu Symp Proc</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Information Storage and Retrieval</api:keyword>
+								<api:keyword scheme="mesh">Medical Records Systems, Computerized</api:keyword>
+								<api:keyword scheme="mesh">Natural Language Processing</api:keyword>
+								<api:keyword scheme="mesh">Semantics</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>United States</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>625</api:begin-page>
+								<api:end-page>629</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>11</api:day>
+								<api:month>10</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published online</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>18</api:day>
+								<api:month>11</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The CLEF corpus: semantic annotation of clinical text.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>2007</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="888791" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:18693911" last-modified-when="2023-11-21T19:18:35.057+00:00">
+					<api:citation-count>18</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The Clinical E-Science Framework (CLEF) project is building a framework for the capture, integration and presentation of clinical information: for clinical research, evidence-based health care and genotype-meets-phenotype informatics. A significant portion of the information required by such a framework originates as text, even in EHR-savvy organizations. CLEF uses Information Extraction (IE) to make this unstructured information available. An important part of IE is the identification of semantic entities and relationships. Typical approaches require human annotated documents to provide both evaluation standards and material for system development. CLEF has a corpus of clinical narratives, histopathology reports and imaging reports from 20 thousand patients. We describe the selection of a subset of this corpus for manual annotation of clinical entities and relationships. We describe an annotation methodology and report encouraging initial results of inter-annotator agreement. Comparisons are made between different text sub-genres, and between annotators with different skills.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Natural Language Processing Group, University of Sheffield, UK.</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2986" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2986"/>
+									</api:links>
+									<api:last-name>Roberts</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Angus</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Angus</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2026" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2026"/>
+									</api:links>
+									<api:last-name>Gaizauskas</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>Robert</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Robert</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-3356-5126</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2050" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2050"/>
+									</api:links>
+									<api:last-name>Hepple</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mark</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mark</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0003-1488-257X</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Davis</api:last-name>
+									<api:initials>N</api:initials>
+									<api:first-names>Neil</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Neil</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Demetriou</api:last-name>
+									<api:initials>G</api:initials>
+									<api:first-names>George</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>George</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Guo</api:last-name>
+									<api:initials>Y</api:initials>
+									<api:first-names>Yikun</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Yikun</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Kola</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>Jay</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Jay</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="321" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/321"/>
+									</api:links>
+									<api:last-name>Roberts</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>Ian</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ian</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Setzer</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Andrea</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Andrea</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Tapuria</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Archana</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Archana</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Wheeldin</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Bill</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Bill</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1942-597X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/993578"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">18693911</api:identifier>
+								<api:identifier scheme="pmc">PMC2655900</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>AMIA ... Annual Symposium proceedings. AMIA Symposium</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Medical Records Systems, Computerized</api:keyword>
+								<api:keyword scheme="mesh">Semantics</api:keyword>
+								<api:keyword scheme="mesh">Natural Language Processing</api:keyword>
+								<api:keyword scheme="mesh">Information Storage and Retrieval</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Electronic</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>11</api:day>
+								<api:month>10</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>625</api:begin-page>
+								<api:end-page>629</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>10</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>13</api:day>
+								<api:month>8</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The CLEF corpus: semantic annotation of clinical text.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>research-article</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18693911/pdf/?tool=EBI">
+								<api:file-url>https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18693911/pdf/?tool=EBI</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+							<api:file proprietary-id="https://europepmc.org/articles/PMC2655900?pdf=render">
+								<api:file-url>https://europepmc.org/articles/PMC2655900?pdf=render</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2476530" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1077688113" last-modified-when="2023-12-25T01:25:45.957+00:00">
+					<api:citation-count>45</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2986" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2986"/>
+									</api:links>
+									<api:last-name>Roberts</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Angus</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Angus</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01205340241.49</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2026" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2026"/>
+									</api:links>
+									<api:last-name>Gaizauskas</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>Robert</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Robert</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0653077656.14</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2050" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2050"/>
+									</api:links>
+									<api:last-name>Hepple</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mark</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mark</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0721213056.02</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Davis</api:last-name>
+									<api:initials>N</api:initials>
+									<api:first-names>Neil</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Neil</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.011730554541.86</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Demetriou</api:last-name>
+									<api:initials>G</api:initials>
+									<api:first-names>George</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>George</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0767326256.29</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Guo</api:last-name>
+									<api:initials>Y</api:initials>
+									<api:first-names>Yikun</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Yikun</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0763452215.48</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Kola</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>Jay</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Jay</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0716135661.82</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="321" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/321"/>
+									</api:links>
+									<api:last-name>Roberts</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>Ian</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ian</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.011332675627.68</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Setzer</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Andrea</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Andrea</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01151670056.10</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Tapuria</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Archana</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Archana</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01204133505.30</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Wheeldin</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Bill</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Bill</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">18693911</api:identifier>
+								<api:identifier scheme="pmc">PMC2655900</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>10.28</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1531-605X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/994823"/>
+							</api:links>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>AMIA Annual Symposium Proceedings</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">4605 Data Management and Data Science</api:keyword>
+								<api:keyword scheme="for-2020">46 Information and Computing Sciences</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Information Storage and Retrieval</api:keyword>
+								<api:keyword scheme="mesh">Medical Records Systems, Computerized</api:keyword>
+								<api:keyword scheme="mesh">Natural Language Processing</api:keyword>
+								<api:keyword scheme="mesh">Semantics</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>11</api:day>
+								<api:month>10</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Closed Access</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>625</api:begin-page>
+								<api:end-page>629</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.87</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The CLEF corpus: semantic annotation of clinical text.</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>2007</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="1290791" source-id="6" source-name="dblp" source-display-name="DBLP" id-at-source="conf/amia/RobertsGHDDGKRSTW07" last-modified-when="2021-08-17T21:36:21.203+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2986" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2986"/>
+									</api:links>
+									<api:last-name>Roberts</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Angus</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Angus</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2026" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2026"/>
+									</api:links>
+									<api:last-name>Gaizauskas</api:last-name>
+									<api:initials>RJ</api:initials>
+									<api:first-names>Robert J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Robert</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2050" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2050"/>
+									</api:links>
+									<api:last-name>Hepple</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Mark</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Mark</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Davis</api:last-name>
+									<api:initials>N</api:initials>
+									<api:first-names>Neil</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Neil</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Demetriou</api:last-name>
+									<api:initials>G</api:initials>
+									<api:first-names>George</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>George</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Guo</api:last-name>
+									<api:initials>Y</api:initials>
+									<api:first-names>Yikun</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Yikun</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Kola</api:last-name>
+									<api:initials>JS</api:initials>
+									<api:first-names>Jay Subbarao</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Jay</api:first-name>
+										<api:first-name>Subbarao</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="321" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/321"/>
+									</api:links>
+									<api:last-name>Roberts</api:last-name>
+									<api:initials>I</api:initials>
+									<api:first-names>Ian</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ian</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Setzer</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Andrea</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Andrea</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Tapuria</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Archana</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Archana</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Wheeldin</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Bill</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Bill</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>AMIA</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>AMIA</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>https://knowledge.amia.org/amia-55142-a2007a-1.623841</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The CLEF Corpus: Semantic Annotation of Clinical Text.</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Information Storage and Retrieval</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Medical Records Systems, Computerized</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Natural Language Processing</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Semantics</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Medical Records Systems, Computerized</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Semantics</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Natural Language Processing</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Information Storage and Retrieval</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">4605 Data Management and Data Science</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">46 Information and Computing Sciences</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Information Storage and Retrieval</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Medical Records Systems, Computerized</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Natural Language Processing</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Semantics</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="1942-597X" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/993578" title="AMIA ... Annual Symposium proceedings / AMIA Symposium. AMIA Symposium">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>AMIA ... Annual Symposium proceedings / AMIA Symposium. AMIA Symposium</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11458/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

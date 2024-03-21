@@ -1,0 +1,1055 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/6142"/>
+	<api:result>
+		<api:object category="publication" id="6142" last-affected-when="2023-12-11T01:07:28.5+00:00" last-modified-when="2023-12-11T01:07:28.5+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/6142" created-when="2010-05-17T13:58:38.253+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2004-09-01</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="4194120" source-id="28" source-name="eprints" source-display-name="White Rose Research Online" id-at-source="420" last-modified-when="2022-12-28T12:54:23.78+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>In this paper we take the view that computational models of biological systems should satisfy two conditions –
+they should be able to predict function at a systems biology level, and robust techniques of validation against
+biological models must be available. A modelling paradigm for developing a predictive computational model of
+cellular interaction is described, and methods of providing robust validation against biological models are
+explored, followed by a consideration of software issues.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RHRSSAU</api:initials>
+									<api:first-names>RHR smallwood shef ac uk</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+										<api:first-name>R</api:first-name>
+										<api:first-name>smallwood</api:first-name>
+										<api:first-name>shef</api:first-name>
+										<api:first-name>ac</api:first-name>
+										<api:first-name>uk</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>WML</api:initials>
+									<api:first-names>WML</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>W</api:first-name>
+										<api:first-name>M</api:first-name>
+										<api:first-name>L</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s10735-004-2660-1</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s10735-004-2660-1"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s10735-004-2660-1"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1567-2379</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/979656"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>7</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of Molecular Histology</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>Computational biology</api:keyword>
+								<api:keyword>modelling</api:keyword>
+								<api:keyword>individual-based modelling</api:keyword>
+								<api:keyword>validation</api:keyword>
+								<api:keyword>prediction</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="notes" type="text" display-name="Other information">
+							<api:text>© 2004 Kluwer Academic Publishers.
+Further information at http://www.dcs.shef.ac.uk/~rod/Integrative_Systems_Biology.html</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>659</api:begin-page>
+								<api:end-page>665</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>9</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="public-url" type="text" display-name="Public URL">
+							<api:text>https://eprints.whiterose.ac.uk/id/eprint/420</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://www.springeronline.com/sgw/cda/frontpage/0,11855,5-124-70-35662258-0,00.html</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>5</api:day>
+								<api:month>8</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>4</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="repository-status" type="text" display-name="Availability">
+							<api:text>Public</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Development and validation of computational models of cellular interaction</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>35</api:text>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://eprints.whiterose.ac.uk/id/file/6341">
+								<api:filename>Smallwood_2004_Development_and_validation_of_computational_models.pdf</api:filename>
+								<api:file-url>https://eprints.whiterose.ac.uk/420/1/Smallwood_2004_Development_and_validation_of_computational_models.pdf</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:file-size>179541</api:file-size>
+								<api:mime-type>application/pdf</api:mime-type>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="1375072" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1007/s10735-004-2660-1" last-modified-when="2022-09-10T07:10:05.51+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>WML</api:initials>
+									<api:first-names>WML</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>W</api:first-name>
+										<api:first-name>M</api:first-name>
+										<api:first-name>L</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s10735-004-2660-1</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s10735-004-2660-1"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s10735-004-2660-1"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1573-6865</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/979656"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1567-2379</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/979656"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>7</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>The Histochemical Journal</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>659</api:begin-page>
+								<api:end-page>665</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>9</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Springer Science and Business Media LLC</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1007/s10735-004-2660-1</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>7</api:month>
+								<api:year>2021</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Development and validation of computational models of cellular interaction</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>35</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="103483" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-16644367322" last-modified-when="2023-11-22T07:07:50.263+00:00">
+					<api:citation-count>19</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>In this paper we take the view that computational models of biological systems should satisfy two conditions - they should be able to predict function at a systems biology level, and robust techniques of validation against biological models must be available. A modelling paradigm for developing a predictive computational model of cellular interaction is described, and methods of providing robust validation against biological models are explored, followed by a consideration of software issues. © 2004 Kluwer Academic Publishers.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7102525654</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>WML</api:initials>
+									<api:first-names>WML</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>W</api:first-name>
+										<api:first-name>M</api:first-name>
+										<api:first-name>L</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">56861042600</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">35375472500</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s10735-004-2660-1</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s10735-004-2660-1"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s10735-004-2660-1"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15614621</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1567-2379</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/979656"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>7</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of Molecular Histology</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>659</api:begin-page>
+								<api:end-page>665</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>9</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Development and validation of computational models of cellular interaction</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Review</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>35</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="6142" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="15614621" last-modified-when="2020-04-29T09:52:53.12+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>In this paper we take the view that computational models of biological systems should satisfy two conditions - they should be able to predict function at a systems biology level, and robust techniques of validation against biological models must be available. A modelling paradigm for developing a predictive computational model of cellular interaction is described, and methods of providing robust validation against biological models are explored, followed by a consideration of software issues.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Department of Computer Science, University of Sheffield, 211 Portobello Street, Sheffield, S1 4DP, UK.</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>WML</api:initials>
+									<api:first-names>WML</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>W</api:first-name>
+										<api:first-name>M</api:first-name>
+										<api:first-name>L</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/15614621</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s10735-004-2660-1</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s10735-004-2660-1"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s10735-004-2660-1"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1567-2379</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/979656"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>7</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>J Mol Histol</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Cell Physiological Phenomena</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Epithelium</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Software</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>Netherlands</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>659</api:begin-page>
+								<api:end-page>665</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>9</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>23</api:day>
+								<api:month>3</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Development and validation of computational models of cellular interaction.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+								<api:item>Validation Study</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>35</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="885452" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:15614621" last-modified-when="2023-01-31T18:05:12.46+00:00">
+					<api:citation-count>9</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>In this paper we take the view that computational models of biological systems should satisfy two conditions - they should be able to predict function at a systems biology level, and robust techniques of validation against biological models must be available. A modelling paradigm for developing a predictive computational model of cellular interaction is described, and methods of providing robust validation against biological models are explored, followed by a consideration of software issues.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Department of Computer Science, University of Sheffield, 211 Portobello Street, Sheffield, S1 4DP, UK.</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0003-0134-0632</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>WML</api:initials>
+									<api:first-names>WML</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>W</api:first-name>
+										<api:first-name>M</api:first-name>
+										<api:first-name>L</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s10735-004-2660-1</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s10735-004-2660-1"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s10735-004-2660-1"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1567-2387</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/979656"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15614621</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1567-2379</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/979656"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>7</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of molecular histology</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Epithelium</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Software</api:keyword>
+								<api:keyword scheme="mesh">Cell Physiological Phenomena</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>659</api:begin-page>
+								<api:end-page>665</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>9</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>23</api:day>
+								<api:month>12</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Development and validation of computational models of cellular interaction.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Validation Study</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>35</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2471061" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1005193741" last-modified-when="2023-12-11T01:07:28.507+00:00">
+					<api:citation-count>19</api:citation-count>
+					<api:native>
+						<api:field name="altmetric-attention-score" type="integer" display-name="Altmetric attention score">
+							<api:integer>3</api:integer>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01056377716.23</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>WML</api:initials>
+									<api:first-names>WML</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>W</api:first-name>
+										<api:first-name>M</api:first-name>
+										<api:first-name>L</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.010613171652.14</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s10735-004-2660-1</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s10735-004-2660-1"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s10735-004-2660-1"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15614621</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>0.96</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1567-2379</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/979656"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>7</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of Molecular Histology</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">3101 Biochemistry and Cell Biology</api:keyword>
+								<api:keyword scheme="for-2020">31 Biological Sciences</api:keyword>
+								<api:keyword scheme="rcdc">Networking and Information Technology R&amp;D (NITRD)</api:keyword>
+								<api:keyword scheme="rcdc">Bioengineering</api:keyword>
+								<api:keyword scheme="hrcs-rac">1.1 Normal biological development and functioning</api:keyword>
+								<api:keyword scheme="hrcs-rac">1 Underpinning research</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Cell Physiological Phenomena</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Epithelium</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Software</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Green OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>659</api:begin-page>
+								<api:end-page>665</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>9</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Springer Nature</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.2</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Development and validation of computational models of cellular interaction</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>35</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="250293" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000225904000002" last-modified-when="2023-12-08T08:33:33.05+00:00">
+					<api:citation-count>18</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>WML</api:initials>
+									<api:first-names>WML</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>W</api:first-name>
+										<api:first-name>M</api:first-name>
+										<api:first-name>L</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000225904000002&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">881XY</api:identifier>
+								<api:identifier scheme="pubmed">15614621</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1567-2379</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/979656"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>7</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>JOURNAL OF MOLECULAR HISTOLOGY</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>659</api:begin-page>
+								<api:end-page>665</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Development and validation of computational models of cellular interaction</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>35</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="35944" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000225904000002" last-modified-when="2014-11-14T07:52:46.94+00:00">
+					<api:citation-count>8</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11621" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11621"/>
+									</api:links>
+									<api:last-name>Holcombe</api:last-name>
+									<api:initials>WML</api:initials>
+									<api:first-names>WML</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>W</api:first-name>
+										<api:first-name>M</api:first-name>
+										<api:first-name>L</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1567-2379</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/979656"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>7</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>J MOL HISTOL</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>CONTACT-INHIBITED CELLS</api:keyword>
+								<api:keyword>ANCHORAGE-DEPENDENT CELLS</api:keyword>
+								<api:keyword>ERYTHROCYTE CYTOSKELETON</api:keyword>
+								<api:keyword>DIFFERENTIAL ADHESION</api:keyword>
+								<api:keyword>COMPUTER-SIMULATIONS</api:keyword>
+								<api:keyword>THEORETICAL-MODELS</api:keyword>
+								<api:keyword>LARGE-DEFORMATION</api:keyword>
+								<api:keyword>AUTOMATON MODEL</api:keyword>
+								<api:keyword>PROLIFERATION</api:keyword>
+								<api:keyword>TENSEGRITY</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>659</api:begin-page>
+								<api:end-page>665</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>9</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Development and validation of computational models of cellular interaction</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>35</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword origin="record-data" source="eprints">Computational biology</api:keyword>
+					<api:keyword origin="record-data" source="eprints">modelling</api:keyword>
+					<api:keyword origin="record-data" source="eprints">individual-based modelling</api:keyword>
+					<api:keyword origin="record-data" source="eprints">validation</api:keyword>
+					<api:keyword origin="record-data" source="eprints">prediction</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Cell Physiological Phenomena</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Epithelium</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Software</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Epithelium</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Software</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Cell Physiological Phenomena</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">3101 Biochemistry and Cell Biology</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">31 Biological Sciences</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Networking and Information Technology R&amp;D (NITRD)</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Bioengineering</api:keyword>
+					<api:keyword scheme="hrcs-rac" origin="record-data" source="dimensions">1.1 Normal biological development and functioning</api:keyword>
+					<api:keyword scheme="hrcs-rac" origin="record-data" source="dimensions">1 Underpinning research</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Cell Physiological Phenomena</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Epithelium</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Software</api:keyword>
+					<api:keyword origin="record-data" source="wos">CONTACT-INHIBITED CELLS</api:keyword>
+					<api:keyword origin="record-data" source="wos">ANCHORAGE-DEPENDENT CELLS</api:keyword>
+					<api:keyword origin="record-data" source="wos">ERYTHROCYTE CYTOSKELETON</api:keyword>
+					<api:keyword origin="record-data" source="wos">DIFFERENTIAL ADHESION</api:keyword>
+					<api:keyword origin="record-data" source="wos">COMPUTER-SIMULATIONS</api:keyword>
+					<api:keyword origin="record-data" source="wos">THEORETICAL-MODELS</api:keyword>
+					<api:keyword origin="record-data" source="wos">LARGE-DEFORMATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">AUTOMATON MODEL</api:keyword>
+					<api:keyword origin="record-data" source="wos">PROLIFERATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">TENSEGRITY</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0601 Biochemistry and Cell Biology</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">1102 Cardiorespiratory Medicine and Haematology</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">1103 Clinical Sciences</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Biochemistry &amp; Molecular Biology</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">3101 Biochemistry and cell biology</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">3202 Clinical sciences</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="1567-2379" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/979656" title="Journal of Molecular Histology">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Journal of Molecular Histology</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/6142/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

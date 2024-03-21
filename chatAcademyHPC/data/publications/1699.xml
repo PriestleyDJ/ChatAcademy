@@ -1,0 +1,1058 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/1699"/>
+	<api:result>
+		<api:object category="publication" id="1699" last-affected-when="2023-12-24T09:33:09.27+00:00" last-modified-when="2023-12-24T09:33:09.27+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/1699" created-when="2010-05-17T13:47:46.557+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2001-02-02</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="1518205" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1088/0967-3334/22/1/307" last-modified-when="2022-09-11T07:35:14.63+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Wilson</api:last-name>
+									<api:initials>AJ</api:initials>
+									<api:first-names>AJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Milnes</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Waterworth</api:last-name>
+									<api:initials>AR</api:initials>
+									<api:first-names>AR</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1088/0967-3334/22/1/307</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1088/0967-3334/22/1/307"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1088/0967-3334/22/1/307"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1361-6579</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0967-3334</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Physiological Measurement</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>2</api:day>
+								<api:month>2</api:month>
+								<api:year>2001</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>49</api:begin-page>
+								<api:end-page>54</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>2</api:month>
+								<api:year>2001</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>IOP Publishing</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1088/0967-3334/22/1/307</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>11</api:day>
+								<api:month>4</api:month>
+								<api:year>2020</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Mk3.5: a modular, multi-frequency successor to the Mk3a EIS/EIT system</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>22</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2354736" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-0035115099" last-modified-when="2023-11-22T02:08:22.32+00:00">
+					<api:citation-count>129</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>This paper describes the Sheffield Mk3.5 EIT/EIS system which measures both the real and imaginary part of impedance at 30 frequencies between 2 kHz and 1.6 MHz. The system uses eight electrodes with an adjacent drive/receive electrode data acquisition protocol. The system is modular, containing eight identical data acquisition boards, which contain DSPs to generate the drive frequencies and to perform the FFT used for demodulation. The current drive is in three sequentially applied packets, where each packet contains ten summed sine waves. The data acquisition system is interfaced to a host PC through an optically isolated high speed serial link (RS485) running at 2 Mbaud 12 Mbits s-1). Measurements on a saline filled tank show that the average signal to noise performance of the system is 40 dB measured across all frequencies and that this figure is independent of frequency of measurement. These results suggest that the current system is 10 dB better in absolute terms than the previous Sheffield (Mk3a) system.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Wilson</api:last-name>
+									<api:initials>AJ</api:initials>
+									<api:first-names>AJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">56420120400</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Milnes</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">6701720618</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Waterworth</api:last-name>
+									<api:initials>AR</api:initials>
+									<api:first-names>AR</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">6602410335</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7102525654</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7404161092</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1088/0967-3334/22/1/307</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1088/0967-3334/22/1/307"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1088/0967-3334/22/1/307"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">11236889</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0967-3334</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Physiological Measurement</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>49</api:begin-page>
+								<api:end-page>54</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>1</api:month>
+								<api:year>2001</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Mk3.5: A modular, multi-frequency successor to the Mk3a EIS/EIT system</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Conference Proceeding</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>22</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="1699" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="11236889" last-modified-when="2020-04-29T06:13:02.99+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>This paper describes the Sheffield Mk3.5 EIT/EIS system which measures both the real and imaginary part of impedance at 30 frequencies between 2 kHz and 1.6 MHz. The system uses eight electrodes with an adjacent drive/receive electrode data acquisition protocol. The system is modular, containing eight identical data acquisition boards, which contain DSPs to generate the drive frequencies and to perform the FFT used for demodulation. The current drive is in three sequentially applied packets, where each packet contains ten summed sine waves. The data acquisition system is interfaced to a host PC through an optically isolated high speed serial link (RS485) running at 2 Mbaud (2 Mbits s(-1)). Measurements on a saline filled tank show that the average signal to noise performance of the system is 40 dB measured across all frequencies and that this figure is independent of frequency of measurement. These results suggest that the current system is 10 dB better in absolute terms than the previous Sheffield (Mk3a) system.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Wilson</api:last-name>
+									<api:initials>AJ</api:initials>
+									<api:first-names>AJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Department of Medical Physics and Clinical Engineering, Royal Hallamshire Hospital, Sheffield, UK.</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Milnes</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Waterworth</api:last-name>
+									<api:initials>AR</api:initials>
+									<api:first-names>AR</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/11236889</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1088/0967-3334/22/1/307</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1088/0967-3334/22/1/307"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1088/0967-3334/22/1/307"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0967-3334</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Physiol Meas</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Electric Impedance</api:keyword>
+								<api:keyword scheme="mesh">Electrodes</api:keyword>
+								<api:keyword scheme="mesh">Equipment Design</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Signal Processing, Computer-Assisted</api:keyword>
+								<api:keyword scheme="mesh">Software</api:keyword>
+								<api:keyword scheme="mesh">Tomography</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>England</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>49</api:begin-page>
+								<api:end-page>54</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>2</api:month>
+								<api:year>2001</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>6</api:month>
+								<api:year>2001</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Mk3.5: a modular, multi-frequency successor to the Mk3a EIS/EIT system.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Comparative Study</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>22</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="882614" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:11236889" last-modified-when="2023-01-31T17:48:43.27+00:00">
+					<api:citation-count>46</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>This paper describes the Sheffield Mk3.5 EIT/EIS system which measures both the real and imaginary part of impedance at 30 frequencies between 2 kHz and 1.6 MHz. The system uses eight electrodes with an adjacent drive/receive electrode data acquisition protocol. The system is modular, containing eight identical data acquisition boards, which contain DSPs to generate the drive frequencies and to perform the FFT used for demodulation. The current drive is in three sequentially applied packets, where each packet contains ten summed sine waves. The data acquisition system is interfaced to a host PC through an optically isolated high speed serial link (RS485) running at 2 Mbaud (2 Mbits s(-1)). Measurements on a saline filled tank show that the average signal to noise performance of the system is 40 dB measured across all frequencies and that this figure is independent of frequency of measurement. These results suggest that the current system is 10 dB better in absolute terms than the previous Sheffield (Mk3a) system.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Department of Medical Physics and Clinical Engineering, Royal Hallamshire Hospital, Sheffield, UK.</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Wilson</api:last-name>
+									<api:initials>AJ</api:initials>
+									<api:first-names>AJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Milnes</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Waterworth</api:last-name>
+									<api:initials>AR</api:initials>
+									<api:first-names>AR</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0003-0134-0632</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1088/0967-3334/22/1/307</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1088/0967-3334/22/1/307"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1088/0967-3334/22/1/307"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1361-6579</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">11236889</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0967-3334</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Physiological measurement</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Tomography</api:keyword>
+								<api:keyword scheme="mesh">Equipment Design</api:keyword>
+								<api:keyword scheme="mesh">Electrodes</api:keyword>
+								<api:keyword scheme="mesh">Electric Impedance</api:keyword>
+								<api:keyword scheme="mesh">Signal Processing, Computer-Assisted</api:keyword>
+								<api:keyword scheme="mesh">Software</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>49</api:begin-page>
+								<api:end-page>54</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>2</api:month>
+								<api:year>2001</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>10</api:day>
+								<api:month>3</api:month>
+								<api:year>2001</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Mk3.5: a modular, multi-frequency successor to the Mk3a EIS/EIT system.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Comparative Study</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>22</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2912935" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1059122382" last-modified-when="2023-12-24T09:33:09.273+00:00">
+					<api:citation-count>126</api:citation-count>
+					<api:native>
+						<api:field name="altmetric-attention-score" type="integer" display-name="Altmetric attention score">
+							<api:integer>3</api:integer>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Wilson</api:last-name>
+									<api:initials>AJ</api:initials>
+									<api:first-names>AJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01243314532.71</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Milnes</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01342263532.45</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Waterworth</api:last-name>
+									<api:initials>AR</api:initials>
+									<api:first-names>AR</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01317333444.93</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01056377716.23</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Royal Hallamshire Hospital</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.014007640532.87</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1088/0967-3334/22/1/307</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1088/0967-3334/22/1/307"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1088/0967-3334/22/1/307"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">11236889</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>29.15</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0967-3334</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Physiological Measurement</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">40 Engineering</api:keyword>
+								<api:keyword scheme="for-2020">4008 Electrical Engineering</api:keyword>
+								<api:keyword scheme="mesh">Electric Impedance</api:keyword>
+								<api:keyword scheme="mesh">Electrodes</api:keyword>
+								<api:keyword scheme="mesh">Equipment Design</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Signal Processing, Computer-Assisted</api:keyword>
+								<api:keyword scheme="mesh">Software</api:keyword>
+								<api:keyword scheme="mesh">Tomography</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>2</api:day>
+								<api:month>2</api:month>
+								<api:year>2001</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Closed Access</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>49</api:begin-page>
+								<api:end-page>54</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>2</api:month>
+								<api:year>2001</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>IOP Publishing</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>2.36</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Mk3.5: a modular, multi-frequency successor to the Mk3a EIS/EIT system</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>22</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="242880" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000167256200008" last-modified-when="2023-12-20T20:06:13.123+00:00">
+					<api:citation-count>109</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Wilson</api:last-name>
+									<api:initials>AJ</api:initials>
+									<api:first-names>AJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Milnes</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Waterworth</api:last-name>
+									<api:initials>AR</api:initials>
+									<api:first-names>AR</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000167256200008&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1088/0967-3334/22/1/307</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1088/0967-3334/22/1/307"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1088/0967-3334/22/1/307"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">407DL</api:identifier>
+								<api:identifier scheme="pubmed">11236889</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0967-3334</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>PHYSIOLOGICAL MEASUREMENT</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>impedance spectroscopy</api:keyword>
+								<api:keyword>instrumentation</api:keyword>
+								<api:keyword>modular</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>49</api:begin-page>
+								<api:end-page>54</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2001</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Mk3.5: a modular, multi-frequency successor to the Mk3a EIS/EIT system</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>22</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="26384" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000167256200008" last-modified-when="2014-07-25T11:11:12.99+01:00">
+					<api:citation-count>47</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Wilson</api:last-name>
+									<api:initials>AJ</api:initials>
+									<api:first-names>AJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Milnes</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Waterworth</api:last-name>
+									<api:initials>AR</api:initials>
+									<api:first-names>AR</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1597" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1597"/>
+									</api:links>
+									<api:last-name>Smallwood</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0967-3334</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>PHYSIOL MEAS</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>impedance spectroscopy</api:keyword>
+								<api:keyword>instrumentation</api:keyword>
+								<api:keyword>modular</api:keyword>
+								<api:keyword>LUNG</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>49</api:begin-page>
+								<api:end-page>54</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>2</api:month>
+								<api:year>2001</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Mk3.5: a modular, multi-frequency successor to the Mk3a EIS/EIT system</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>22</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Electric Impedance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Electrodes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Equipment Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Signal Processing, Computer-Assisted</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Software</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Tomography</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Tomography</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Equipment Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Electrodes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Electric Impedance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Signal Processing, Computer-Assisted</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Software</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">40 Engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">4008 Electrical Engineering</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Electric Impedance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Electrodes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Equipment Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Signal Processing, Computer-Assisted</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Software</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Tomography</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">impedance spectroscopy</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">instrumentation</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">modular</api:keyword>
+					<api:keyword origin="record-data" source="wos">impedance spectroscopy</api:keyword>
+					<api:keyword origin="record-data" source="wos">instrumentation</api:keyword>
+					<api:keyword origin="record-data" source="wos">modular</api:keyword>
+					<api:keyword origin="record-data" source="wos">LUNG</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0903 Biomedical Engineering</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0906 Electrical and Electronic Engineering</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">1116 Medical Physiology</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Biomedical Engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">3208 Medical physiology</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">4003 Biomedical engineering</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="0967-3334" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972898" title="Physiological Measurement">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Physiological Measurement</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/1699/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

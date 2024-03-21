@@ -1,0 +1,970 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/4932"/>
+	<api:result>
+		<api:object category="publication" id="4932" last-affected-when="2023-12-25T01:06:41.333+00:00" last-modified-when="2023-12-25T01:06:41.333+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/4932" created-when="2010-05-17T13:54:13.19+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2004-01-08</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="4195449" source-id="28" source-name="eprints" source-display-name="White Rose Research Online" id-at-source="8741" last-modified-when="2022-12-28T13:59:00.023+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The aim of this paper was to quantify the behavior of filaments in a computational model of re-entrant ventricular fibrillation. We simulated cardiac activation in an anisotropic monodomain with excitation described by the Fenton-Karma model with Beeler-Reuter restitution, and geometry by the Auckland canine ventricle. We initiated re-entry in the left and right ventricular free walls, as well as the septum. The number of filaments increased during the first 1.5 s before reaching a plateau with a mean value of about 36 in each simulation. Most re-entrant filaments were between 10 and 20 mm long. The proportion of filaments touching the epicardial surface was 65%, but most of these were visible for much less than one period of re-entry. This paper shows that useful information about filament dynamics can be gleaned from models of fibrillation in complex geometries, and suggests that the interplay of filament creation and destruction may offer a target for antifibrillatory therapy</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>AV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1109/TBME.2003.820356</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1109/TBME.2003.820356"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1109/TBME.2003.820356"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0018-9294</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967535"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>IEEE Transactions on Biomedical Engineering Bme</api:text>
+						</api:field>
+						<api:field name="notes" type="text" display-name="Other information">
+							<api:text>© Copyright 2004 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE. 
+
+
+</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>28</api:begin-page>
+								<api:end-page>34</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>8</api:day>
+								<api:month>1</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="public-url" type="text" display-name="Public URL">
+							<api:text>https://eprints.whiterose.ac.uk/id/eprint/8741</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Institute of Electrical and Electronics Engineers</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1109/TBME.2003.820356</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>25</api:day>
+								<api:month>6</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>10</api:day>
+								<api:month>7</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="repository-status" type="text" display-name="Availability">
+							<api:text>Public</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Filament behavior in a computational model of ventricular fibrillation in the canine heart
+
+</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>51</api:text>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://eprints.whiterose.ac.uk/id/file/143141">
+								<api:filename>Clayton_Filament.pdf</api:filename>
+								<api:file-url>https://eprints.whiterose.ac.uk/8741/1/Clayton_Filament.pdf</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:file-size>596294</api:file-size>
+								<api:mime-type>application/pdf</api:mime-type>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="1482328" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1109/TBME.2003.820356" last-modified-when="2022-09-10T09:28:44.533+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>AV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1109/tbme.2003.820356</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1109/tbme.2003.820356"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1109/tbme.2003.820356"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0018-9294</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967535"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>IEEE Transactions on Biomedical Engineering</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>28</api:begin-page>
+								<api:end-page>34</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>1</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Institute of Electrical and Electronics Engineers (IEEE)</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1109/tbme.2003.820356</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>29</api:day>
+								<api:month>11</api:month>
+								<api:year>2021</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Filament Behavior in a Computational Model of Ventricular Fibrillation in the Canine Heart</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>51</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="153612" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-0347185343" last-modified-when="2023-02-28T22:54:54.79+00:00">
+					<api:citation-count>28</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The aim of this paper was to quantify the behavior of filaments in a computational model of re-entrant ventricular fibrillation. We simulated cardiac activation in an anisotropic monodomain with excitation described by the Fenton-Karma model with Beeler-Reuter restitution, and geometry by the Auckland canine ventricle. We initiated re-entry in the left and right ventricular free walls, as well as the septum. The number of filaments increased during the first 1.5 s before reaching a plateau with a mean value of about 36 in each simulation. Most re-entrant filaments were between 10 and 20 mm long. The proportion of filaments touching the epicardial surface was 65%, but most of these were visible for much less than one period of re-entry. This paper shows that useful information about filament dynamics can be gleaned from models of fibrillation in complex geometries, and suggests that the interplay of filament creation and destruction may offer a target for antifibrillatory therapy.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">56243052600</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>AV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Leeds</api:line>
+											<api:line type="city">Leeds</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7103148727</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1109/TBME.2003.820356</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1109/TBME.2003.820356"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1109/TBME.2003.820356"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">14723491</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0018-9294</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967535"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>IEEE Transactions on Biomedical Engineering</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>28</api:begin-page>
+								<api:end-page>34</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>1</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Filament Behavior in a Computational Model of Ventricular Fibrillation in the Canine Heart</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>51</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="4932" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="14723491" last-modified-when="2020-04-29T09:36:21.713+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The aim of this paper was to quantify the behavior of filaments in a computational model of re-entrant ventricular fibrillation. We simulated cardiac activation in an anisotropic monodomain with excitation described by the Fenton-Karma model with Beeler-Reuter restitution, and geometry by the Auckland canine ventricle. We initiated re-entry in the left and right ventricular free walls, as well as the septum. The number of filaments increased during the first 1.5 s before reaching a plateau with a mean value of about 36 in each simulation. Most re-entrant filaments were between 10 and 20 mm long. The proportion of filaments touching the epicardial surface was 65%, but most of these were visible for much less than one period of re-entry. This paper shows that useful information about filament dynamics can be gleaned from models of fibrillation in complex geometries, and suggests that the interplay of filament creation and destruction may offer a target for antifibrillatory therapy.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Department of Computer Science, University of Sheffield, Regent Court, 211 Portobello Street, Sheffield S1 4DP, UK. r.h.clayton@sheffield.ac.uk</api:line>
+										</api:address>
+									</api:addresses>
+									<api:email-address>r.h.clayton@sheffield.ac.uk</api:email-address>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>Arun V</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Arun</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/14723491</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1109/TBME.2003.820356</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1109/TBME.2003.820356"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1109/TBME.2003.820356"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0018-9294</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967535"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>IEEE Trans Biomed Eng</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Action Potentials</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Body Surface Potential Mapping</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Dogs</api:keyword>
+								<api:keyword scheme="mesh">Heart Conduction System</api:keyword>
+								<api:keyword scheme="mesh">Heart Ventricles</api:keyword>
+								<api:keyword scheme="mesh">Models, Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Models, Neurological</api:keyword>
+								<api:keyword scheme="mesh">Muscle Fibers, Skeletal</api:keyword>
+								<api:keyword scheme="mesh">Myocardial Contraction</api:keyword>
+								<api:keyword scheme="mesh">Pericardium</api:keyword>
+								<api:keyword scheme="mesh">Tachycardia, Atrioventricular Nodal Reentry</api:keyword>
+								<api:keyword scheme="mesh">Ventricular Fibrillation</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>United States</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>28</api:begin-page>
+								<api:end-page>34</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>1</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>16</api:day>
+								<api:month>3</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Filament behavior in a computational model of ventricular fibrillation in the canine heart.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Comparative Study</api:item>
+								<api:item>Evaluation Study</api:item>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>Validation Study</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>51</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="884684" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:14723491" last-modified-when="2023-06-06T18:40:09.07+01:00">
+					<api:citation-count>19</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The aim of this paper was to quantify the behavior of filaments in a computational model of re-entrant ventricular fibrillation. We simulated cardiac activation in an anisotropic monodomain with excitation described by the Fenton-Karma model with Beeler-Reuter restitution, and geometry by the Auckland canine ventricle. We initiated re-entry in the left and right ventricular free walls, as well as the septum. The number of filaments increased during the first 1.5 s before reaching a plateau with a mean value of about 36 in each simulation. Most re-entrant filaments were between 10 and 20 mm long. The proportion of filaments touching the epicardial surface was 65%, but most of these were visible for much less than one period of re-entry. This paper shows that useful information about filament dynamics can be gleaned from models of fibrillation in complex geometries, and suggests that the interplay of filament creation and destruction may offer a target for antifibrillatory therapy.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Department of Computer Science, University of Sheffield, Regent Court, 211 Portobello Street, Sheffield S1 4DP, UK. r.h.clayton@sheffield.ac.uk</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-8438-7518</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>Arun V</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Arun</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1109/tbme.2003.820356</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1109/tbme.2003.820356"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1109/tbme.2003.820356"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1558-2531</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967535"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">14723491</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0018-9294</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967535"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>IEEE transactions on bio-medical engineering</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Heart Conduction System</api:keyword>
+								<api:keyword scheme="mesh">Heart Ventricles</api:keyword>
+								<api:keyword scheme="mesh">Pericardium</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Dogs</api:keyword>
+								<api:keyword scheme="mesh">Tachycardia, Atrioventricular Nodal Reentry</api:keyword>
+								<api:keyword scheme="mesh">Ventricular Fibrillation</api:keyword>
+								<api:keyword scheme="mesh">Body Surface Potential Mapping</api:keyword>
+								<api:keyword scheme="mesh">Action Potentials</api:keyword>
+								<api:keyword scheme="mesh">Myocardial Contraction</api:keyword>
+								<api:keyword scheme="mesh">Models, Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Models, Neurological</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Muscle Fibers, Skeletal</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>28</api:begin-page>
+								<api:end-page>34</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>1</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>16</api:day>
+								<api:month>1</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Filament behavior in a computational model of ventricular fibrillation in the canine heart.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Comparative Study</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>Validation Study</api:item>
+								<api:item>Evaluation Study</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>51</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2470573" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1061525996" last-modified-when="2023-12-25T01:06:41.34+00:00">
+					<api:citation-count>27</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01320006245.84</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>AV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01077530175.27</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1109/tbme.2003.820356</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1109/tbme.2003.820356"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1109/tbme.2003.820356"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">14723491</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>3.15</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0018-9294</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967535"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>IEEE Transactions on Biomedical Engineering</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">40 Engineering</api:keyword>
+								<api:keyword scheme="for-2020">4003 Biomedical Engineering</api:keyword>
+								<api:keyword scheme="rcdc">Heart Disease</api:keyword>
+								<api:keyword scheme="rcdc">Cardiovascular</api:keyword>
+								<api:keyword scheme="hrcs-hc">Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Action Potentials</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Body Surface Potential Mapping</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Dogs</api:keyword>
+								<api:keyword scheme="mesh">Heart Conduction System</api:keyword>
+								<api:keyword scheme="mesh">Heart Ventricles</api:keyword>
+								<api:keyword scheme="mesh">Models, Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Models, Neurological</api:keyword>
+								<api:keyword scheme="mesh">Muscle Fibers, Skeletal</api:keyword>
+								<api:keyword scheme="mesh">Myocardial Contraction</api:keyword>
+								<api:keyword scheme="mesh">Pericardium</api:keyword>
+								<api:keyword scheme="mesh">Tachycardia, Atrioventricular Nodal Reentry</api:keyword>
+								<api:keyword scheme="mesh">Ventricular Fibrillation</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Green OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>28</api:begin-page>
+								<api:end-page>34</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>1</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Institute of Electrical and Electronics Engineers (IEEE)</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.54</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Filament behavior in a computational model of ventricular fibrillation in the canine heart</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>51</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="248104" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000187506800004" last-modified-when="2023-12-08T08:16:06.017+00:00">
+					<api:citation-count>28</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="researcherid">CAF-3400-2022</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>AV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000187506800004&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1109/TBME.2003.820356</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1109/TBME.2003.820356"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1109/TBME.2003.820356"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">756WD</api:identifier>
+								<api:identifier scheme="pubmed">14723491</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0018-9294</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967535"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>cardiac arrhythmia</api:keyword>
+								<api:keyword>computational model</api:keyword>
+								<api:keyword>fibrillation</api:keyword>
+								<api:keyword>re-entry</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>28</api:begin-page>
+								<api:end-page>34</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Filament behavior in a computational model of ventricular fibrillation in the canine heart</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>51</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="32987" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000187506800004" last-modified-when="2014-07-25T11:37:51.393+01:00">
+					<api:citation-count>20</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>AV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1109/TBME.2003.820356</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1109/TBME.2003.820356"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1109/TBME.2003.820356"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0018-9294</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967535"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>IEEE T BIO-MED ENG</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>cardiac arrhythmia</api:keyword>
+								<api:keyword>computational model</api:keyword>
+								<api:keyword>fibrillation</api:keyword>
+								<api:keyword>re-entry</api:keyword>
+								<api:keyword>ACTION-POTENTIAL PROPAGATION</api:keyword>
+								<api:keyword>CARDIAC ELECTRICAL-ACTIVITY</api:keyword>
+								<api:keyword>FIBER ROTATION</api:keyword>
+								<api:keyword>WAVE DYNAMICS</api:keyword>
+								<api:keyword>REENTRY</api:keyword>
+								<api:keyword>TISSUE</api:keyword>
+								<api:keyword>MECHANISMS</api:keyword>
+								<api:keyword>EXCITATION</api:keyword>
+								<api:keyword>ORGANIZATION</api:keyword>
+								<api:keyword>INSTABILITY</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>28</api:begin-page>
+								<api:end-page>34</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>1</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Filament behavior in a computational model of ventricular fibrillation in the canine heart</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>51</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Action Potentials</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Body Surface Potential Mapping</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Dogs</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Heart Conduction System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Heart Ventricles</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Neurological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Muscle Fibers, Skeletal</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Myocardial Contraction</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Pericardium</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Tachycardia, Atrioventricular Nodal Reentry</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Ventricular Fibrillation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Heart Conduction System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Heart Ventricles</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Pericardium</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Dogs</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Tachycardia, Atrioventricular Nodal Reentry</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Ventricular Fibrillation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Body Surface Potential Mapping</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Action Potentials</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Myocardial Contraction</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Neurological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Muscle Fibers, Skeletal</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">40 Engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">4003 Biomedical Engineering</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Heart Disease</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Cardiovascular</api:keyword>
+					<api:keyword scheme="hrcs-hc" origin="record-data" source="dimensions">Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Action Potentials</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Body Surface Potential Mapping</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Dogs</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Heart Conduction System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Heart Ventricles</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Neurological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Muscle Fibers, Skeletal</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Myocardial Contraction</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Pericardium</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Tachycardia, Atrioventricular Nodal Reentry</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Ventricular Fibrillation</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">cardiac arrhythmia</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">computational model</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">fibrillation</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">re-entry</api:keyword>
+					<api:keyword origin="record-data" source="wos">cardiac arrhythmia</api:keyword>
+					<api:keyword origin="record-data" source="wos">computational model</api:keyword>
+					<api:keyword origin="record-data" source="wos">fibrillation</api:keyword>
+					<api:keyword origin="record-data" source="wos">re-entry</api:keyword>
+					<api:keyword origin="record-data" source="wos">ACTION-POTENTIAL PROPAGATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">CARDIAC ELECTRICAL-ACTIVITY</api:keyword>
+					<api:keyword origin="record-data" source="wos">FIBER ROTATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">WAVE DYNAMICS</api:keyword>
+					<api:keyword origin="record-data" source="wos">REENTRY</api:keyword>
+					<api:keyword origin="record-data" source="wos">TISSUE</api:keyword>
+					<api:keyword origin="record-data" source="wos">MECHANISMS</api:keyword>
+					<api:keyword origin="record-data" source="wos">EXCITATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">ORGANIZATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">INSTABILITY</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0801 Artificial Intelligence and Image Processing</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0903 Biomedical Engineering</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0906 Electrical and Electronic Engineering</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Biomedical Engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">4003 Biomedical engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">4009 Electronics, sensors and digital hardware</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">4603 Computer vision and multimedia computation</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="0018-9294" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/967535" title="IEEE Transactions on Biomedical Engineering">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>IEEE Transactions on Biomedical Engineering</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/4932/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

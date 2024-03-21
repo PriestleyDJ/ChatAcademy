@@ -1,0 +1,785 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/8870"/>
+	<api:result>
+		<api:object category="publication" id="8870" last-affected-when="2023-12-10T03:04:08.347+00:00" last-modified-when="2023-12-10T03:04:08.347+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/8870" created-when="2010-05-17T14:06:19.427+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2006-01-01</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="1448093" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.3758/BF03192804" last-modified-when="2022-09-11T23:02:54.867+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Karn</api:last-name>
+									<api:initials>JS</api:initials>
+									<api:first-names>JS</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1995" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1995"/>
+									</api:links>
+									<api:last-name>Cowling</api:last-name>
+									<api:initials>AJ</api:initials>
+									<api:first-names>AJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.3758/bf03192804</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.3758/bf03192804"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.3758/bf03192804"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1554-3528</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/968249"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1554-351X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/968249"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Behavior Research Methods</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>495</api:begin-page>
+								<api:end-page>503</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>8</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Springer Science and Business Media LLC</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.3758/bf03192804</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>4</api:day>
+								<api:month>11</api:month>
+								<api:year>2019</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Using ethnographic methods to carry out human factors research in software engineering</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>38</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="153670" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-33947493596" last-modified-when="2023-09-27T03:12:54.913+01:00">
+					<api:citation-count>15</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>This article describes how ethnographic methods were used to observe and analyze student teams working on software engineering (SE) projects. The aim of this research was to uncover the effects of the interplay of different personality types, as measured by a test based on the Myers-Briggs Type Indicator (MBIT), on the workings of an SE team. Using ethnographic methods allowed the researchers to record the effects of personality type on behavior toward teammates and how this related to the amount of disruption and positive ideas brought forward from each member, also examined in detail were issues that were either dogged by disruption or that did not have sufficient discussion devoted to them and the impact that they had on the outcomes of the project. Initial findings indicate that ethnographic methods are a valuable weapon to have in one's arsenal when carrying out research into human factors of SE. Copyright 2006 Psychonomic Society, Inc.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Karn</api:last-name>
+									<api:initials>JS</api:initials>
+									<api:first-names>JS</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">36781216600</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1995" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1995"/>
+									</api:links>
+									<api:last-name>Cowling</api:last-name>
+									<api:initials>AJ</api:initials>
+									<api:first-names>AJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">6701532601</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.3758/BF03192804</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.3758/BF03192804"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.3758/BF03192804"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">17186760</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1554-351X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/968249"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Behavior Research Methods</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>495</api:begin-page>
+								<api:end-page>503</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>1</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Using ethnographic methods to carry out human factors research in software engineering</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Conference Proceeding</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>38</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="8870" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="17186760" last-modified-when="2020-04-29T10:24:58.263+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>This article describes how ethnographic methods were used to observe and analyze student teams working on software engineering (SE) projects. The aim of this research was to uncover the effects of the interplay of different personality types, as measured by a test based on the Myers-Briggs Type Indicator (MBTI), on the workings of an SE team. Using ethnographic methods allowed the researchers to record the effects of personality type on behavior toward teammates and how this related to the amount of disruption and positive ideas brought forward from each member, also examined in detail were issues that were either dogged by disruption or that did not have sufficient discussion devoted to them and the impact that they had on the outcomes of the project. Initial findings indicate that ethnographic methods are a valuable weapon to have in one's arsenal when carrying out research into human factors of SE.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Karn</api:last-name>
+									<api:initials>JS</api:initials>
+									<api:first-names>JS</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Department of Computer Science, University of Sheffield, Sheffield S1 4DP, England. j.karn@sheffield.ac.uk</api:line>
+										</api:address>
+									</api:addresses>
+									<api:email-address>j.karn@sheffield.ac.uk</api:email-address>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1995" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1995"/>
+									</api:links>
+									<api:last-name>Cowling</api:last-name>
+									<api:initials>AJ</api:initials>
+									<api:first-names>AJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/17186760</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.3758/bf03192804</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.3758/bf03192804"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.3758/bf03192804"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1554-351X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/968249"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Behav Res Methods</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Anthropology, Cultural</api:keyword>
+								<api:keyword scheme="mesh">Cooperative Behavior</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Interpersonal Relations</api:keyword>
+								<api:keyword scheme="mesh">Leadership</api:keyword>
+								<api:keyword scheme="mesh">Personality</api:keyword>
+								<api:keyword scheme="mesh">Psychology, Social</api:keyword>
+								<api:keyword scheme="mesh">Software</api:keyword>
+								<api:keyword scheme="mesh">Software Design</api:keyword>
+								<api:keyword scheme="mesh">Task Performance and Analysis</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>United States</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>495</api:begin-page>
+								<api:end-page>503</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>8</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>23</api:day>
+								<api:month>1</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Using ethnographic methods to carry out human factors research in software engineering.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Evaluation Study</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>38</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="887234" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:17186760" last-modified-when="2021-01-19T18:16:12.033+00:00">
+					<api:citation-count>0</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>This article describes how ethnographic methods were used to observe and analyze student teams working on software engineering (SE) projects. The aim of this research was to uncover the effects of the interplay of different personality types, as measured by a test based on the Myers-Briggs Type Indicator (MBTI), on the workings of an SE team. Using ethnographic methods allowed the researchers to record the effects of personality type on behavior toward teammates and how this related to the amount of disruption and positive ideas brought forward from each member, also examined in detail were issues that were either dogged by disruption or that did not have sufficient discussion devoted to them and the impact that they had on the outcomes of the project. Initial findings indicate that ethnographic methods are a valuable weapon to have in one's arsenal when carrying out research into human factors of SE.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Department of Computer Science, University of Sheffield, Sheffield S1 4DP, England. j.karn@sheffield.ac.uk</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Karn</api:last-name>
+									<api:initials>JS</api:initials>
+									<api:first-names>JS</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1995" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1995"/>
+									</api:links>
+									<api:last-name>Cowling</api:last-name>
+									<api:initials>AJ</api:initials>
+									<api:first-names>AJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.3758/bf03192804</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.3758/bf03192804"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.3758/bf03192804"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1554-3528</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/968249"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">17186760</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1554-351X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/968249"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Behavior research methods</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Cooperative Behavior</api:keyword>
+								<api:keyword scheme="mesh">Personality</api:keyword>
+								<api:keyword scheme="mesh">Leadership</api:keyword>
+								<api:keyword scheme="mesh">Psychology, Social</api:keyword>
+								<api:keyword scheme="mesh">Interpersonal Relations</api:keyword>
+								<api:keyword scheme="mesh">Task Performance and Analysis</api:keyword>
+								<api:keyword scheme="mesh">Anthropology, Cultural</api:keyword>
+								<api:keyword scheme="mesh">Software</api:keyword>
+								<api:keyword scheme="mesh">Software Design</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>495</api:begin-page>
+								<api:end-page>503</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>8</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>26</api:day>
+								<api:month>12</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Using ethnographic methods to carry out human factors research in software engineering.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Evaluation Study</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>38</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2844894" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1023342712" last-modified-when="2023-12-10T03:04:08.353+00:00">
+					<api:citation-count>15</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Karn</api:last-name>
+									<api:initials>JS</api:initials>
+									<api:first-names>JS</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0653770437.42</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1995" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1995"/>
+									</api:links>
+									<api:last-name>Cowling</api:last-name>
+									<api:initials>AJ</api:initials>
+									<api:first-names>AJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.011201164145.27</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.3758/bf03192804</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.3758/bf03192804"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.3758/bf03192804"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">17186760</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>1.77</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1554-351X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/968249"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Behavior Research Methods</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">5202 Biological Psychology</api:keyword>
+								<api:keyword scheme="for-2020">5204 Cognitive and Computational Psychology</api:keyword>
+								<api:keyword scheme="for-2020">49 Mathematical Sciences</api:keyword>
+								<api:keyword scheme="for-2020">4905 Statistics</api:keyword>
+								<api:keyword scheme="for-2020">52 Psychology</api:keyword>
+								<api:keyword scheme="rcdc">Behavioral and Social Science</api:keyword>
+								<api:keyword scheme="rcdc">Prevention</api:keyword>
+								<api:keyword scheme="mesh">Anthropology, Cultural</api:keyword>
+								<api:keyword scheme="mesh">Cooperative Behavior</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Interpersonal Relations</api:keyword>
+								<api:keyword scheme="mesh">Leadership</api:keyword>
+								<api:keyword scheme="mesh">Personality</api:keyword>
+								<api:keyword scheme="mesh">Psychology, Social</api:keyword>
+								<api:keyword scheme="mesh">Software</api:keyword>
+								<api:keyword scheme="mesh">Software Design</api:keyword>
+								<api:keyword scheme="mesh">Task Performance and Analysis</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Bronze OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>495</api:begin-page>
+								<api:end-page>503</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>8</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Springer Nature</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Using ethnographic methods to carry out human factors research in software engineering</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>38</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="254762" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000242425200018" last-modified-when="2023-12-08T08:56:56.493+00:00">
+					<api:citation-count>7</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Karn</api:last-name>
+									<api:initials>JS</api:initials>
+									<api:first-names>JS</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1995" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1995"/>
+									</api:links>
+									<api:last-name>Cowling</api:last-name>
+									<api:initials>AJ</api:initials>
+									<api:first-names>AJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000242425200018&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.3758/BF03192804</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.3758/BF03192804"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.3758/BF03192804"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">111BG</api:identifier>
+								<api:identifier scheme="pubmed">17186760</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1554-351X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/968249"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BEHAVIOR RESEARCH METHODS</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>495</api:begin-page>
+								<api:end-page>503</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Using ethnographic methods to carry out human factors research in software engineering</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+								<api:item>Proceedings Paper</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>38</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="41828" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000242425200018" last-modified-when="2014-07-25T12:05:24.703+01:00">
+					<api:citation-count>0</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Karn</api:last-name>
+									<api:initials>JS</api:initials>
+									<api:first-names>JS</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1995" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1995"/>
+									</api:links>
+									<api:last-name>Cowling</api:last-name>
+									<api:initials>AJ</api:initials>
+									<api:first-names>AJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1554-351X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/968249"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>3</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BEHAVIOR RESEARCH METHODS</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>495</api:begin-page>
+								<api:end-page>503</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>8</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Using ethnographic methods to carry out human factors research in software engineering</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>38</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Anthropology, Cultural</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Cooperative Behavior</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Interpersonal Relations</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Leadership</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Personality</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Psychology, Social</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Software</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Software Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Task Performance and Analysis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Cooperative Behavior</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Personality</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Leadership</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Psychology, Social</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Interpersonal Relations</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Task Performance and Analysis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Anthropology, Cultural</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Software</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Software Design</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">5202 Biological Psychology</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">5204 Cognitive and Computational Psychology</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">49 Mathematical Sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">4905 Statistics</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">52 Psychology</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Behavioral and Social Science</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Prevention</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Anthropology, Cultural</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Cooperative Behavior</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Interpersonal Relations</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Leadership</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Personality</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Psychology, Social</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Software</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Software Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Task Performance and Analysis</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0801 Artificial Intelligence and Image Processing</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">1701 Psychology</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">1702 Cognitive Sciences</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Experimental Psychology</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">4905 Statistics</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">5202 Biological psychology</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">5204 Cognitive and computational psychology</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="1554-351X" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/968249" title="Behavior Research Methods">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Behavior Research Methods</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/8870/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>
