@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+   <api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+   <api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/grants/950595"/>
+   <api:result>
+      <api:object category="grant" id="950595" last-affected-when="2019-02-01T18:58:54.45+00:00" last-modified-when="2019-02-01T18:58:54.45+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/grants/950595" created-when="2017-02-09T12:59:25.98+00:00" type-id="1" type-display-name="Grant" type="grant">
+         <api:privacy-level>Public</api:privacy-level>
+         <api:privacy-level-locked>false</api:privacy-level-locked>
+         <api:ever-approved>true</api:ever-approved>
+         <api:reporting-date-1>2010-09-30</api:reporting-date-1>
+         <api:allow-type-switching>true</api:allow-type-switching>
+         <api:records>
+            <api:record format="native" id="1928033" source-id="1" source-name="manual" source-display-name="Manual" id-at-source="6EDD0264-CDC3-4770-9719-A977E14D86FC" last-modified-when="2017-02-09T12:59:26.03+00:00">
+               <api:native>
+                  <api:field name="amount" type="money" display-name="Amount">
+                     <api:money iso-currency="GBP">79953.97</api:money>
+                  </api:field>
+                  <api:field name="end-date" type="date" display-name="End date">
+                     <api:date>
+                        <api:day>29</api:day>
+                        <api:month>9</api:month>
+                        <api:year>2011</api:year>
+                     </api:date>
+                  </api:field>
+                  <api:field name="funder-name" type="text" display-name="Funder name">
+                     <api:text>Economic and Social Research Council</api:text>
+                  </api:field>
+                  <api:field name="funder-reference" type="text" display-name="Funder reference">
+                     <api:text>RES-000-22-4154</api:text>
+                  </api:field>
+                  <api:field name="start-date" type="date" display-name="Start date">
+                     <api:date>
+                        <api:day>30</api:day>
+                        <api:month>9</api:month>
+                        <api:year>2010</api:year>
+                     </api:date>
+                  </api:field>
+                  <api:field name="status" type="text" display-name="Status">
+                     <api:text>COMPLETE</api:text>
+                  </api:field>
+                  <api:field name="title" type="text" display-name="Title">
+                     <api:text>The role of lay/non-legal members in employment rights cases</api:text>
+                  </api:field>
+               </api:native>
+            </api:record>
+         </api:records>
+         <api:fields/>
+         <api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/grants/950595/relationships"/>
+      </api:object>
+   </api:result>
+</api:response>

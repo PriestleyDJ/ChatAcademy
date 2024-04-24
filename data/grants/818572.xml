@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+   <api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+   <api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/grants/818572"/>
+   <api:result>
+      <api:object category="grant" id="818572" last-affected-when="2019-02-01T18:58:51.66+00:00" last-modified-when="2019-02-01T18:58:51.66+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/grants/818572" created-when="2016-05-23T14:00:54.177+01:00" type-id="1" type-display-name="Grant" type="grant">
+         <api:privacy-level>Public</api:privacy-level>
+         <api:privacy-level-locked>false</api:privacy-level-locked>
+         <api:ever-approved>true</api:ever-approved>
+         <api:reporting-date-1>2013-03-01</api:reporting-date-1>
+         <api:allow-type-switching>true</api:allow-type-switching>
+         <api:records>
+            <api:record format="native" id="1581594" source-id="1" source-name="manual" source-display-name="Manual" id-at-source="9DD35CCC-A305-429A-9275-E0B3C7E87102" last-modified-when="2016-05-23T14:01:46.797+01:00">
+               <api:native>
+                  <api:field name="amount" type="money" display-name="Amount">
+                     <api:money iso-currency="GBP">84960</api:money>
+                  </api:field>
+                  <api:field name="funder-name" type="text" display-name="Funder name">
+                     <api:text>Conacyt</api:text>
+                  </api:field>
+                  <api:field name="funder-reference" type="text" display-name="Funder reference">
+                     <api:text>NA</api:text>
+                  </api:field>
+                  <api:field name="start-date" type="date" display-name="Start date">
+                     <api:date>
+                        <api:day>1</api:day>
+                        <api:month>3</api:month>
+                        <api:year>2013</api:year>
+                     </api:date>
+                  </api:field>
+                  <api:field name="title" type="text" display-name="Title">
+                     <api:text>Conacyt Fellowship</api:text>
+                  </api:field>
+               </api:native>
+            </api:record>
+         </api:records>
+         <api:fields/>
+         <api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/grants/818572/relationships"/>
+      </api:object>
+   </api:result>
+</api:response>

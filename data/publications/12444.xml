@@ -1,0 +1,2301 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/12444"/>
+	<api:result>
+		<api:object category="publication" id="12444" last-affected-when="2023-12-11T01:22:29.667+00:00" last-modified-when="2023-12-11T01:22:29.667+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/12444" created-when="2010-05-17T14:21:44.317+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:merge-history>
+				<api:merge when="2016-12-20T14:33:06.093+00:00">
+					<api:merged-object id="76607" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/deleted/publications/76607"/>
+					<api:merged-into-object id="12444" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/12444"/>
+				</api:merge>
+			</api:merge-history>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2009-04-01</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="1376622" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1158/0008-5472.CAN-08-4266" last-modified-when="2022-09-10T07:24:56.67+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;
+               &lt;jats:p&gt;Recent large-scale studies have been successful in identifying common, low-penetrance variants associated with common cancers. One such variant in the caspase-8 (CASP8) gene, D302H (rs1045485), has been confirmed to be associated with breast cancer risk, although the functional effect of this polymorphism (if any) is not yet clear. In order to further map the CASP8 gene with respect to breast cancer susceptibility, we performed extensive haplotype analyses using single nucleotide polymorphisms (SNP) chosen to tag all common variations in the gene (tSNP). We used a staged study design based on 3,200 breast cancer and 3,324 control subjects from the United Kingdom, Utah, and Germany. Using a haplotype-mining algorithm in the UK cohort, we identified a four-SNP haplotype that was significantly associated with breast cancer and that was superior to any other single or multi-locus combination (P = 8.0 × 10−5), with a per allele odds ratio and 95% confidence interval of 1.30 (1.12–1.49). The result remained significant after adjustment for the multiple testing inherent in mining techniques (false discovery rate, q = 0.044). As expected, this haplotype includes the D302H locus. Multicenter analyses on a subset of the tSNPs yielded consistent results. This risk haplotype is likely to carry one or more underlying breast cancer susceptibility alleles, making it an excellent candidate for resequencing in homozygous individuals. An understanding of the mode of action of these alleles will aid risk assessment and may lead to the identification of novel treatment targets in breast cancer. [Cancer Res 2009;69(7):2724–8]&lt;/jats:p&gt;</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="709" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/709"/>
+									</api:links>
+									<api:last-name>Shephard</api:last-name>
+									<api:initials>ND</api:initials>
+									<api:first-names>Neil Duncan</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Neil</api:first-name>
+										<api:first-name>Duncan</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Abo</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>Ryan</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ryan</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2961" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2961"/>
+									</api:links>
+									<api:last-name>Rigas</api:last-name>
+									<api:initials>SH</api:initials>
+									<api:first-names>Sushila Harkisandas</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Sushila</api:first-name>
+										<api:first-name>Harkisandas</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Frank</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Bernd</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Bernd</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="3704" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/3704"/>
+									</api:links>
+									<api:last-name>Lin</api:last-name>
+									<api:initials>W-Y</api:initials>
+									<api:first-names>Wei-Yu</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Wei-Yu</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1804" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1804"/>
+									</api:links>
+									<api:last-name>Brock</api:last-name>
+									<api:initials>IW</api:initials>
+									<api:first-names>Ian Wallace</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ian</api:first-name>
+										<api:first-name>Wallace</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Shippen</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Adam</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Adam</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2166" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2166"/>
+									</api:links>
+									<api:last-name>Balasubramanian</api:last-name>
+									<api:initials>SP</api:initials>
+									<api:first-names>Sabapathy Prakash</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Sabapathy</api:first-name>
+										<api:first-name>Prakash</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1880" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1880"/>
+									</api:links>
+									<api:last-name>Reed</api:last-name>
+									<api:initials>MWR</api:initials>
+									<api:first-names>Malcolm Walter Ronald</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Malcolm</api:first-name>
+										<api:first-name>Walter</api:first-name>
+										<api:first-name>Ronald</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Bartram</api:last-name>
+									<api:initials>CR</api:initials>
+									<api:first-names>Claus Rainer</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Claus</api:first-name>
+										<api:first-name>Rainer</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Meindl</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Alfons</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Alfons</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Schmutzler</api:last-name>
+									<api:initials>RK</api:initials>
+									<api:first-names>Rita Katharina</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Rita</api:first-name>
+										<api:first-name>Katharina</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Engel</api:last-name>
+									<api:initials>C</api:initials>
+									<api:first-names>Christoph</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Christoph</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Burwinkel</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Barbara</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Barbara</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Cannon-Albright</api:last-name>
+									<api:initials>LA</api:initials>
+									<api:first-names>Lisa Anne</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Lisa</api:first-name>
+										<api:first-name>Anne</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Allen-Brady</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>Kristina</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kristina</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Camp</api:last-name>
+									<api:initials>NJ</api:initials>
+									<api:first-names>Nicola Jane</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Nicola</api:first-name>
+										<api:first-name>Jane</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1843" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1843"/>
+									</api:links>
+									<api:last-name>Cox</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Angela</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Angela</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1158/0008-5472.can-08-4266</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1158/0008-5472.can-08-4266"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1158/0008-5472.can-08-4266"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1538-7445</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973697"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0008-5472</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973697"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>7</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Cancer Research</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>4</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2724</api:begin-page>
+								<api:end-page>2728</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>4</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>American Association for Cancer Research (AACR)</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1158/0008-5472.can-08-4266</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>17</api:day>
+								<api:month>6</api:month>
+								<api:year>2022</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>A Breast Cancer Risk Haplotype in the Caspase-8 Gene</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>69</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="118682" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-66149134084" last-modified-when="2023-08-16T03:10:27.403+01:00">
+					<api:citation-count>26</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Recent large-scale studies have been successful in identifying common, low-penetrance variants associated with common cancers.One such variant in the caspase-8 (CASP8) gene, D302H (rsl045485), has been confirmed to be associated with breast cancer risk, although the functional effect of this polymorphism (if any) is not yet clear. In order to further map the CASPS gene with respect to breast cancer susceptibility, we performed extensive haplotype analyses using single nucleotide polymorphisms (SNP) chosen to tag all common variations in the gene (tSNP). We used a staged study design based on 3,200 breast cancer and 3,324 control subjects from the United Kingdom, Utah, and Germany. Using a haplotype- mining algorithm in the UK cohort, we identified a four-SNF haplotype that was significantly associated with breast cancer and that was superior to any other single or multi-locus combination (P = 8.0 x 10&quot;5), with a per allele odds ratio and 95% confidence interval of 1.30 (1.12-1.49). The result remained significant after adjustment for the multiple testing inherent in mining techniques (false discovery rate, q = 0.044). As expected, this haplotype includes the D302H locus. Multicenter analyses on a subset of the tSNPs yielded consistent results. This risk haplotype is likely to carry one or more underlying breast cancer susceptibility alleles, making it an excellent candidate for «sequencing in homozygous individuals. An understanding of the mode of action of these alleles will aid risk assessment and may lead to the identification of novel treatment targets in breast cancer. ©2009 American Association for Cancer Research.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="709" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/709"/>
+									</api:links>
+									<api:last-name>Shephard</api:last-name>
+									<api:initials>ND</api:initials>
+									<api:first-names>ND</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>N</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Institute for Cancer Studies</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">35752517300</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Abo</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>R</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="US">
+											<api:line type="organisation">University of Utah School of Medicine</api:line>
+											<api:line type="city">Salt Lake City</api:line>
+											<api:line type="country">United States</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">24802120600</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2961" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2961"/>
+									</api:links>
+									<api:last-name>Rigas</api:last-name>
+									<api:initials>SH</api:initials>
+									<api:first-names>SH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Institute for Cancer Studies</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">24471854500</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Frank</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="DE">
+											<api:line type="organisation">Division of Molecular Genetic Epidemiology</api:line>
+											<api:line type="city">Heidelberg</api:line>
+											<api:line type="country">Germany</api:line>
+										</api:address>
+										<api:address iso-country-code="DE">
+											<api:line type="organisation">German Cancer Research Center</api:line>
+											<api:line type="city">Heidelberg</api:line>
+											<api:line type="country">Germany</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">57197918430</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="3704" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/3704"/>
+									</api:links>
+									<api:last-name>Lin</api:last-name>
+									<api:initials>WY</api:initials>
+									<api:first-names>WY</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>W</api:first-name>
+										<api:first-name>Y</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Institute for Cancer Studies</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">55723149400</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1804" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1804"/>
+									</api:links>
+									<api:last-name>Brock</api:last-name>
+									<api:initials>IW</api:initials>
+									<api:first-names>IW</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>I</api:first-name>
+										<api:first-name>W</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Institute for Cancer Studies</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">57207908043</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Shippen</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Institute for Cancer Studies</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">26635965500</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2166" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2166"/>
+									</api:links>
+									<api:last-name>Balasubramanian</api:last-name>
+									<api:initials>SP</api:initials>
+									<api:first-names>SP</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The Sheffield Medical School</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">23108358500</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1880" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1880"/>
+									</api:links>
+									<api:last-name>Reed</api:last-name>
+									<api:initials>MWR</api:initials>
+									<api:first-names>MWR</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+										<api:first-name>W</api:first-name>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The Sheffield Medical School</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">57220808510</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Bartram</api:last-name>
+									<api:initials>CR</api:initials>
+									<api:first-names>CR</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>C</api:first-name>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="DE">
+											<api:line type="organisation">Universität Heidelberg</api:line>
+											<api:line type="city">Heidelberg</api:line>
+											<api:line type="country">Germany</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">16486450700</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Meindl</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="DE">
+											<api:line type="organisation">Klinikum Rechts der Isar</api:line>
+											<api:line type="city">Munich</api:line>
+											<api:line type="country">Germany</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">57203175471</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Schmutzler</api:last-name>
+									<api:initials>RK</api:initials>
+									<api:first-names>RK</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="DE">
+											<api:line type="organisation">Universität zu Köln</api:line>
+											<api:line type="city">Koln</api:line>
+											<api:line type="country">Germany</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7103336805</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Engel</api:last-name>
+									<api:initials>C</api:initials>
+									<api:first-names>C</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="DE">
+											<api:line type="organisation">Universität Leipzig</api:line>
+											<api:line type="city">Leipzig</api:line>
+											<api:line type="country">Germany</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7102989729</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Burwinkel</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="DE">
+											<api:line type="organisation">Division of Molecular Genetic Epidemiology</api:line>
+											<api:line type="city">Heidelberg</api:line>
+											<api:line type="country">Germany</api:line>
+										</api:address>
+										<api:address iso-country-code="DE">
+											<api:line type="organisation">Universität Heidelberg</api:line>
+											<api:line type="city">Heidelberg</api:line>
+											<api:line type="country">Germany</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">6603547962</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Cannon-Albright</api:last-name>
+									<api:initials>LA</api:initials>
+									<api:first-names>LA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>L</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="US">
+											<api:line type="organisation">University of Utah School of Medicine</api:line>
+											<api:line type="city">Salt Lake City</api:line>
+											<api:line type="country">United States</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7005635741</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Allen-Brady</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="US">
+											<api:line type="organisation">University of Utah School of Medicine</api:line>
+											<api:line type="city">Salt Lake City</api:line>
+											<api:line type="country">United States</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">8860524600</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Camp</api:last-name>
+									<api:initials>NJ</api:initials>
+									<api:first-names>NJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>N</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="US">
+											<api:line type="organisation">University of Utah School of Medicine</api:line>
+											<api:line type="city">Salt Lake City</api:line>
+											<api:line type="country">United States</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7003563293</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1843" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1843"/>
+									</api:links>
+									<api:last-name>Cox</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Institute for Cancer Studies</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The Sheffield Medical School</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7402563876</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1158/0008-5472.CAN-08-4266</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1158/0008-5472.CAN-08-4266"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1158/0008-5472.CAN-08-4266"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1538-7445</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973697"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">19318553</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0008-5472</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973697"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>7</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Cancer Research</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2727</api:begin-page>
+								<api:end-page>2728</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>4</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>A breast cancer risk haplotype in the caspase-8 gene</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>69</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="12444" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="19318553" last-modified-when="2022-11-22T21:15:28.633+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Recent large-scale studies have been successful in identifying common, low-penetrance variants associated with common cancers. One such variant in the caspase-8 (CASP8) gene, D302H (rs1045485), has been confirmed to be associated with breast cancer risk, although the functional effect of this polymorphism (if any) is not yet clear. In order to further map the CASP8 gene with respect to breast cancer susceptibility, we performed extensive haplotype analyses using single nucleotide polymorphisms (SNP) chosen to tag all common variations in the gene (tSNP). We used a staged study design based on 3,200 breast cancer and 3,324 control subjects from the United Kingdom, Utah, and Germany. Using a haplotype-mining algorithm in the UK cohort, we identified a four-SNP haplotype that was significantly associated with breast cancer and that was superior to any other single or multi-locus combination (P=8.0 x 10(-5)), with a per allele odds ratio and 95% confidence interval of 1.30 (1.12-1.49). The result remained significant after adjustment for the multiple testing inherent in mining techniques (false discovery rate, q=0.044). As expected, this haplotype includes the D302H locus. Multicenter analyses on a subset of the tSNPs yielded consistent results. This risk haplotype is likely to carry one or more underlying breast cancer susceptibility alleles, making it an excellent candidate for resequencing in homozygous individuals. An understanding of the mode of action of these alleles will aid risk assessment and may lead to the identification of novel treatment targets in breast cancer.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="709" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/709"/>
+									</api:links>
+									<api:last-name>Shephard</api:last-name>
+									<api:initials>ND</api:initials>
+									<api:first-names>Neil Duncan</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Neil</api:first-name>
+										<api:first-name>Duncan</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Institute for Cancer Studies, School of Medicine and Biomedical Sciences, University of Sheffield, Sheffield, United Kingdom.</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Abo</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>Ryan</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ryan</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2961" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2961"/>
+									</api:links>
+									<api:last-name>Rigas</api:last-name>
+									<api:initials>SH</api:initials>
+									<api:first-names>Sushila Harkisandas</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Sushila</api:first-name>
+										<api:first-name>Harkisandas</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Frank</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Bernd</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Bernd</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="3704" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/3704"/>
+									</api:links>
+									<api:last-name>Lin</api:last-name>
+									<api:initials>W-Y</api:initials>
+									<api:first-names>Wei-Yu</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Wei-Yu</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1804" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1804"/>
+									</api:links>
+									<api:last-name>Brock</api:last-name>
+									<api:initials>IW</api:initials>
+									<api:first-names>Ian Wallace</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ian</api:first-name>
+										<api:first-name>Wallace</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Shippen</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Adam</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Adam</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2166" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2166"/>
+									</api:links>
+									<api:last-name>Balasubramanian</api:last-name>
+									<api:initials>SP</api:initials>
+									<api:first-names>Sabapathy Prakash</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Sabapathy</api:first-name>
+										<api:first-name>Prakash</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1880" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1880"/>
+									</api:links>
+									<api:last-name>Reed</api:last-name>
+									<api:initials>MWR</api:initials>
+									<api:first-names>Malcolm Walter Ronald</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Malcolm</api:first-name>
+										<api:first-name>Walter</api:first-name>
+										<api:first-name>Ronald</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Bartram</api:last-name>
+									<api:initials>CR</api:initials>
+									<api:first-names>Claus Rainer</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Claus</api:first-name>
+										<api:first-name>Rainer</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Meindl</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Alfons</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Alfons</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Schmutzler</api:last-name>
+									<api:initials>RK</api:initials>
+									<api:first-names>Rita Katharina</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Rita</api:first-name>
+										<api:first-name>Katharina</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Engel</api:last-name>
+									<api:initials>C</api:initials>
+									<api:first-names>Christoph</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Christoph</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Burwinkel</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Barbara</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Barbara</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Cannon-Albright</api:last-name>
+									<api:initials>LA</api:initials>
+									<api:first-names>Lisa Anne</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Lisa</api:first-name>
+										<api:first-name>Anne</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Allen-Brady</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>Kristina</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kristina</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Camp</api:last-name>
+									<api:initials>NJ</api:initials>
+									<api:first-names>Nicola Jane</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Nicola</api:first-name>
+										<api:first-name>Jane</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1843" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1843"/>
+									</api:links>
+									<api:last-name>Cox</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Angela</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Angela</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/19318553</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1158/0008-5472.CAN-08-4266</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1158/0008-5472.CAN-08-4266"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1158/0008-5472.CAN-08-4266"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1538-7445</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973697"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="nihms">NIHMS98800</api:identifier>
+								<api:identifier scheme="pmc">PMC2730164</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>7</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Cancer Res</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Breast Neoplasms</api:keyword>
+								<api:keyword scheme="mesh">Case-Control Studies</api:keyword>
+								<api:keyword scheme="mesh">Caspase 8</api:keyword>
+								<api:keyword scheme="mesh">Chromosome Mapping</api:keyword>
+								<api:keyword scheme="mesh">Female</api:keyword>
+								<api:keyword scheme="mesh">Genetic Predisposition to Disease</api:keyword>
+								<api:keyword scheme="mesh">Haplotypes</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Polymorphism, Single Nucleotide</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>United States</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2724</api:begin-page>
+								<api:end-page>2728</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>0008-5472.CAN-08-4266</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>4</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>2</api:day>
+								<api:month>6</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>A breast cancer risk haplotype in the caspase-8 gene.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, N.I.H., Extramural</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>69</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="889403" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:19318553" last-modified-when="2023-11-21T19:20:25.657+00:00">
+					<api:citation-count>22</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Recent large-scale studies have been successful in identifying common, low-penetrance variants associated with common cancers. One such variant in the caspase-8 (CASP8) gene, D302H (rs1045485), has been confirmed to be associated with breast cancer risk, although the functional effect of this polymorphism (if any) is not yet clear. In order to further map the CASP8 gene with respect to breast cancer susceptibility, we performed extensive haplotype analyses using single nucleotide polymorphisms (SNP) chosen to tag all common variations in the gene (tSNP). We used a staged study design based on 3,200 breast cancer and 3,324 control subjects from the United Kingdom, Utah, and Germany. Using a haplotype-mining algorithm in the UK cohort, we identified a four-SNP haplotype that was significantly associated with breast cancer and that was superior to any other single or multi-locus combination (P=8.0 x 10(-5)), with a per allele odds ratio and 95% confidence interval of 1.30 (1.12-1.49). The result remained significant after adjustment for the multiple testing inherent in mining techniques (false discovery rate, q=0.044). As expected, this haplotype includes the D302H locus. Multicenter analyses on a subset of the tSNPs yielded consistent results. This risk haplotype is likely to carry one or more underlying breast cancer susceptibility alleles, making it an excellent candidate for resequencing in homozygous individuals. An understanding of the mode of action of these alleles will aid risk assessment and may lead to the identification of novel treatment targets in breast cancer.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Institute for Cancer Studies, School of Medicine and Biomedical Sciences, University of Sheffield, Sheffield, United Kingdom.</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="709" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/709"/>
+									</api:links>
+									<api:last-name>Shephard</api:last-name>
+									<api:initials>ND</api:initials>
+									<api:first-names>Neil Duncan</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Neil</api:first-name>
+										<api:first-name>Duncan</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Abo</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>Ryan</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ryan</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2961" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2961"/>
+									</api:links>
+									<api:last-name>Rigas</api:last-name>
+									<api:initials>SH</api:initials>
+									<api:first-names>Sushila Harkisandas</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Sushila</api:first-name>
+										<api:first-name>Harkisandas</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-0401-7681</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Frank</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Bernd</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Bernd</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="3704" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/3704"/>
+									</api:links>
+									<api:last-name>Lin</api:last-name>
+									<api:initials>W-Y</api:initials>
+									<api:first-names>Wei-Yu</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Wei-Yu</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-9267-7988</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1804" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1804"/>
+									</api:links>
+									<api:last-name>Brock</api:last-name>
+									<api:initials>IW</api:initials>
+									<api:first-names>Ian Wallace</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ian</api:first-name>
+										<api:first-name>Wallace</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Shippen</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Adam</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Adam</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2166" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2166"/>
+									</api:links>
+									<api:last-name>Balasubramanian</api:last-name>
+									<api:initials>SP</api:initials>
+									<api:first-names>Sabapathy Prakash</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Sabapathy</api:first-name>
+										<api:first-name>Prakash</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0001-5953-2843</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1880" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1880"/>
+									</api:links>
+									<api:last-name>Reed</api:last-name>
+									<api:initials>MWR</api:initials>
+									<api:first-names>Malcolm Walter Ronald</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Malcolm</api:first-name>
+										<api:first-name>Walter</api:first-name>
+										<api:first-name>Ronald</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0001-7442-2132</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Bartram</api:last-name>
+									<api:initials>CR</api:initials>
+									<api:first-names>Claus Rainer</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Claus</api:first-name>
+										<api:first-name>Rainer</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Meindl</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Alfons</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Alfons</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Schmutzler</api:last-name>
+									<api:initials>RK</api:initials>
+									<api:first-names>Rita Katharina</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Rita</api:first-name>
+										<api:first-name>Katharina</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Engel</api:last-name>
+									<api:initials>C</api:initials>
+									<api:first-names>Christoph</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Christoph</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-7247-282X</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Burwinkel</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Barbara</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Barbara</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Cannon-Albright</api:last-name>
+									<api:initials>LA</api:initials>
+									<api:first-names>Lisa Anne</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Lisa</api:first-name>
+										<api:first-name>Anne</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Allen-Brady</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>Kristina</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kristina</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Camp</api:last-name>
+									<api:initials>NJ</api:initials>
+									<api:first-names>Nicola Jane</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Nicola</api:first-name>
+										<api:first-name>Jane</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1843" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1843"/>
+									</api:links>
+									<api:last-name>Cox</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Angela</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Angela</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-5138-1099</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1158/0008-5472.can-08-4266</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1158/0008-5472.can-08-4266"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1158/0008-5472.can-08-4266"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1538-7445</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973697"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">19318553</api:identifier>
+								<api:identifier scheme="pmc">PMC2730164</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0008-5472</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973697"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>7</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Cancer research</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Breast Neoplasms</api:keyword>
+								<api:keyword scheme="mesh">Genetic Predisposition to Disease</api:keyword>
+								<api:keyword scheme="mesh">Case-Control Studies</api:keyword>
+								<api:keyword scheme="mesh">Chromosome Mapping</api:keyword>
+								<api:keyword scheme="mesh">Haplotypes</api:keyword>
+								<api:keyword scheme="mesh">Polymorphism, Single Nucleotide</api:keyword>
+								<api:keyword scheme="mesh">Female</api:keyword>
+								<api:keyword scheme="mesh">Caspase 8</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print-Electronic</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>24</api:day>
+								<api:month>3</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2724</api:begin-page>
+								<api:end-page>2728</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>4</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>26</api:day>
+								<api:month>3</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>A breast cancer risk haplotype in the caspase-8 gene. </api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>IM</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>research-article</api:item>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, N.I.H., Extramural</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>69</api:text>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://aacrjournals.org/cancerres/article-pdf/69/7/2724/2622823/2724.pdf">
+								<api:file-url>https://aacrjournals.org/cancerres/article-pdf/69/7/2724/2622823/2724.pdf</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+							</api:file>
+							<api:file proprietary-id="http://cancerres.aacrjournals.org/cgi/reprint/69/7/2724.pdf">
+								<api:file-url>http://cancerres.aacrjournals.org/cgi/reprint/69/7/2724.pdf</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:embargo-release-date>2010-04-01</api:embargo-release-date>
+								<api:is-open-access>true</api:is-open-access>
+							</api:file>
+							<api:file proprietary-id="https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19318553/pdf/?tool=EBI">
+								<api:file-url>https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19318553/pdf/?tool=EBI</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+							</api:file>
+							<api:file proprietary-id="https://europepmc.org/articles/PMC2730164?pdf=render">
+								<api:file-url>https://europepmc.org/articles/PMC2730164?pdf=render</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2475759" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1029907465" last-modified-when="2023-12-11T01:22:29.673+00:00">
+					<api:citation-count>26</api:citation-count>
+					<api:native>
+						<api:field name="associated-identifiers" type="identifier-list" display-name="Associated Identifiers">
+							<api:identifiers>
+								<api:identifier scheme="dimensions-grant-id">grant.7388803</api:identifier>
+								<api:identifier scheme="dimensions-grant-id">grant.100074948</api:identifier>
+								<api:identifier scheme="dimensions-grant-id">grant.2408650</api:identifier>
+								<api:identifier scheme="dimensions-grant-id">grant.2432973</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="709" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/709"/>
+									</api:links>
+									<api:last-name>Shephard</api:last-name>
+									<api:initials>ND</api:initials>
+									<api:first-names>Neil Duncan</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Neil</api:first-name>
+										<api:first-name>Duncan</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01222414616.26</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Abo</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>Ryan</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ryan</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0720632103.20</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2961" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2961"/>
+									</api:links>
+									<api:last-name>Rigas</api:last-name>
+									<api:initials>SH</api:initials>
+									<api:first-names>Sushila Harkisandas</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Sushila</api:first-name>
+										<api:first-name>Harkisandas</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Frank</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Bernd</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Bernd</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01060712074.94</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="3704" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/3704"/>
+									</api:links>
+									<api:last-name>Lin</api:last-name>
+									<api:initials>W-Y</api:initials>
+									<api:first-names>Wei-Yu</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Wei-Yu</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0614413126.77</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1804" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1804"/>
+									</api:links>
+									<api:last-name>Brock</api:last-name>
+									<api:initials>IW</api:initials>
+									<api:first-names>Ian Wallace</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ian</api:first-name>
+										<api:first-name>Wallace</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0662526326.18</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Shippen</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Adam</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Adam</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0730641526.86</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2166" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2166"/>
+									</api:links>
+									<api:last-name>Balasubramanian</api:last-name>
+									<api:initials>SP</api:initials>
+									<api:first-names>Sabapathy Prakash</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Sabapathy</api:first-name>
+										<api:first-name>Prakash</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.014570615620.47</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1880" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1880"/>
+									</api:links>
+									<api:last-name>Reed</api:last-name>
+									<api:initials>MWR</api:initials>
+									<api:first-names>Malcolm Walter Ronald</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Malcolm</api:first-name>
+										<api:first-name>Walter</api:first-name>
+										<api:first-name>Ronald</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.012772514640.05</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Bartram</api:last-name>
+									<api:initials>CR</api:initials>
+									<api:first-names>Claus Rainer</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Claus</api:first-name>
+										<api:first-name>Rainer</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.013462133057.56</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Meindl</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Alfons</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Alfons</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01214037731.22</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Schmutzler</api:last-name>
+									<api:initials>RK</api:initials>
+									<api:first-names>Rita Katharina</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Rita</api:first-name>
+										<api:first-name>Katharina</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0660747026.21</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Engel</api:last-name>
+									<api:initials>C</api:initials>
+									<api:first-names>Christoph</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Christoph</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.016175557773.35</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Burwinkel</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Barbara</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Barbara</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01023473371.51</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Cannon-Albright</api:last-name>
+									<api:initials>LA</api:initials>
+									<api:first-names>Lisa Anne</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Lisa</api:first-name>
+										<api:first-name>Anne</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0621671247.41</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Allen-Brady</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>Kristina</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kristina</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01051754056.20</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Camp</api:last-name>
+									<api:initials>NJ</api:initials>
+									<api:first-names>Nicola Jane</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Nicola</api:first-name>
+										<api:first-name>Jane</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01171467023.17</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1843" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1843"/>
+									</api:links>
+									<api:last-name>Cox</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Angela</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Angela</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01002616026.32</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1158/0008-5472.can-08-4266</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1158/0008-5472.can-08-4266"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1158/0008-5472.can-08-4266"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">19318553</api:identifier>
+								<api:identifier scheme="pmc">PMC2730164</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>2.68</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0008-5472</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973697"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>7</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Cancer Research</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">31 Biological Sciences</api:keyword>
+								<api:keyword scheme="for-2020">32 Biomedical and Clinical Sciences</api:keyword>
+								<api:keyword scheme="for-2020">3105 Genetics</api:keyword>
+								<api:keyword scheme="for-2020">3211 Oncology and Carcinogenesis</api:keyword>
+								<api:keyword scheme="rcdc">Cancer</api:keyword>
+								<api:keyword scheme="rcdc">Clinical Research</api:keyword>
+								<api:keyword scheme="rcdc">Human Genome</api:keyword>
+								<api:keyword scheme="rcdc">Breast Cancer</api:keyword>
+								<api:keyword scheme="rcdc">Genetics</api:keyword>
+								<api:keyword scheme="hrcs-rac">2 Aetiology</api:keyword>
+								<api:keyword scheme="hrcs-rac">2.1 Biological and endogenous factors</api:keyword>
+								<api:keyword scheme="hrcs-hc">Cancer</api:keyword>
+								<api:keyword scheme="mesh">Breast Neoplasms</api:keyword>
+								<api:keyword scheme="mesh">Case-Control Studies</api:keyword>
+								<api:keyword scheme="mesh">Caspase 8</api:keyword>
+								<api:keyword scheme="mesh">Chromosome Mapping</api:keyword>
+								<api:keyword scheme="mesh">Female</api:keyword>
+								<api:keyword scheme="mesh">Genetic Predisposition to Disease</api:keyword>
+								<api:keyword scheme="mesh">Haplotypes</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Polymorphism, Single Nucleotide</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>4</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Bronze OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2724</api:begin-page>
+								<api:end-page>2728</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>4</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>American Association for Cancer Research (AACR)</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.51</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>A Breast Cancer Risk Haplotype in the Caspase-8 Gene</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>69</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="260830" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000264908100007" last-modified-when="2023-12-08T09:46:26.37+00:00">
+					<api:citation-count>26</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="709" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/709"/>
+									</api:links>
+									<api:last-name>Shephard</api:last-name>
+									<api:initials>ND</api:initials>
+									<api:first-names>Neil Duncan</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Neil</api:first-name>
+										<api:first-name>Duncan</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Abo</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>Ryan</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ryan</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2961" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2961"/>
+									</api:links>
+									<api:last-name>Rigas</api:last-name>
+									<api:initials>SH</api:initials>
+									<api:first-names>Sushila Harkisandas</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Sushila</api:first-name>
+										<api:first-name>Harkisandas</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Frank</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Bernd</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Bernd</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="3704" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/3704"/>
+									</api:links>
+									<api:last-name>Lin</api:last-name>
+									<api:initials>W-Y</api:initials>
+									<api:first-names>Wei-Yu</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Wei-Yu</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1804" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1804"/>
+									</api:links>
+									<api:last-name>Brock</api:last-name>
+									<api:initials>IW</api:initials>
+									<api:first-names>Ian Wallace</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ian</api:first-name>
+										<api:first-name>Wallace</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Shippen</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Adam</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Adam</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2166" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2166"/>
+									</api:links>
+									<api:last-name>Balasubramanian</api:last-name>
+									<api:initials>SP</api:initials>
+									<api:first-names>Sabapathy Prakash</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Sabapathy</api:first-name>
+										<api:first-name>Prakash</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1880" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1880"/>
+									</api:links>
+									<api:last-name>Reed</api:last-name>
+									<api:initials>MWR</api:initials>
+									<api:first-names>Malcolm Walter Ronald</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Malcolm</api:first-name>
+										<api:first-name>Walter</api:first-name>
+										<api:first-name>Ronald</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Bartram</api:last-name>
+									<api:initials>CR</api:initials>
+									<api:first-names>Claus Rainer</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Claus</api:first-name>
+										<api:first-name>Rainer</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Meindl</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Alfons</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Alfons</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Schmutzler</api:last-name>
+									<api:initials>RK</api:initials>
+									<api:first-names>Rita Katharina</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Rita</api:first-name>
+										<api:first-name>Katharina</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Engel</api:last-name>
+									<api:initials>C</api:initials>
+									<api:first-names>Christoph</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Christoph</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Burwinkel</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Barbara</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Barbara</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Cannon-Albright</api:last-name>
+									<api:initials>LA</api:initials>
+									<api:first-names>Lisa Anne</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Lisa</api:first-name>
+										<api:first-name>Anne</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Allen-Brady</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>Kristina</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Kristina</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Camp</api:last-name>
+									<api:initials>NJ</api:initials>
+									<api:first-names>Nicola Jane</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Nicola</api:first-name>
+										<api:first-name>Jane</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1843" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1843"/>
+									</api:links>
+									<api:last-name>Cox</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>Angela</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Angela</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000264908100007&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1158/0008-5472.CAN-08-4266</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1158/0008-5472.CAN-08-4266"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1158/0008-5472.CAN-08-4266"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1538-7445</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973697"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">429GE</api:identifier>
+								<api:identifier scheme="pubmed">19318553</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0008-5472</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973697"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>7</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>CANCER RESEARCH</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2724</api:begin-page>
+								<api:end-page>2728</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>A Breast Cancer Risk Haplotype in the Caspase-8 Gene</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>69</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="50172" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000264908100007" last-modified-when="2014-07-25T12:26:56.66+01:00">
+					<api:citation-count>9</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="709" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/709"/>
+									</api:links>
+									<api:last-name>Shephard</api:last-name>
+									<api:initials>ND</api:initials>
+									<api:first-names>ND</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>N</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Inst Canc Studies, Sch Med &amp; Biomed Sci, Sheffield S10 2RX, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Abo</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>R</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="US">
+											<api:line type="full">Univ Utah, Sch Med, Dept Biomed Informat, Salt Lake City, UT USA</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2961" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2961"/>
+									</api:links>
+									<api:last-name>Rigas</api:last-name>
+									<api:initials>SH</api:initials>
+									<api:first-names>SH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Inst Canc Studies, Sch Med &amp; Biomed Sci, Sheffield S10 2RX, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Frank</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="DE">
+											<api:line type="full">Univ Heidelberg, Dept Obstet &amp; Gynaecol, German Canc Res Ctr, Div Mol Epidemiol, Heidelberg, Germany</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="3704" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/3704"/>
+									</api:links>
+									<api:last-name>Lin</api:last-name>
+									<api:initials>WY</api:initials>
+									<api:first-names>WY</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>W</api:first-name>
+										<api:first-name>Y</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Inst Canc Studies, Sch Med &amp; Biomed Sci, Sheffield S10 2RX, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1804" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1804"/>
+									</api:links>
+									<api:last-name>Brock</api:last-name>
+									<api:initials>IW</api:initials>
+									<api:first-names>IW</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>I</api:first-name>
+										<api:first-name>W</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Inst Canc Studies, Sch Med &amp; Biomed Sci, Sheffield S10 2RX, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Shippen</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Inst Canc Studies, Sch Med &amp; Biomed Sci, Sheffield S10 2RX, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2166" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2166"/>
+									</api:links>
+									<api:last-name>Balasubramanian</api:last-name>
+									<api:initials>SP</api:initials>
+									<api:first-names>SP</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Acad Unit Surg Oncol, Sch Med &amp; Biomed Sci, Sheffield S10 2RX, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1880" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1880"/>
+									</api:links>
+									<api:last-name>Reed</api:last-name>
+									<api:initials>MWR</api:initials>
+									<api:first-names>MWR</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+										<api:first-name>W</api:first-name>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Acad Unit Surg Oncol, Sch Med &amp; Biomed Sci, Sheffield S10 2RX, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Bartram</api:last-name>
+									<api:initials>CR</api:initials>
+									<api:first-names>CR</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>C</api:first-name>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="DE">
+											<api:line type="full">Univ Heidelberg, Dept Obstet &amp; Gynaecol, Inst Human Genet, Heidelberg, Germany</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Meindl</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="DE">
+											<api:line type="full">Tech Univ Munich, Klinikum Rechts Isar, Dept Obstet &amp; Gynaecol, D-8000 Munich, Germany</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Schmutzler</api:last-name>
+									<api:initials>RK</api:initials>
+									<api:first-names>RK</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="DE">
+											<api:line type="full">Univ Cologne, Ctr Integrated Oncol, Cologne, Germany</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Engel</api:last-name>
+									<api:initials>C</api:initials>
+									<api:first-names>C</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="DE">
+											<api:line type="full">Univ Leipzig, Inst Med Informat Stat &amp; Epidemiol, Leipzig, Germany</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Burwinkel</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="DE">
+											<api:line type="full">Univ Heidelberg, Dept Obstet &amp; Gynaecol, Div Mol Biol Breast Canc, Heidelberg, Germany</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Cannon-Albright</api:last-name>
+									<api:initials>LA</api:initials>
+									<api:first-names>LA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>L</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="US">
+											<api:line type="full">Univ Utah, Sch Med, Dept Biomed Informat, Salt Lake City, UT USA</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Allen-Brady</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="US">
+											<api:line type="full">Univ Utah, Sch Med, Dept Biomed Informat, Salt Lake City, UT USA</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Camp</api:last-name>
+									<api:initials>NJ</api:initials>
+									<api:first-names>NJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>N</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="US">
+											<api:line type="full">Univ Utah, Sch Med, Dept Biomed Informat, Salt Lake City, UT USA</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1843" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1843"/>
+									</api:links>
+									<api:last-name>Cox</api:last-name>
+									<api:initials>A</api:initials>
+									<api:first-names>A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Inst Canc Studies, Sch Med &amp; Biomed Sci, Sheffield S10 2RX, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1158/0008-5472.CAN-08-4266</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1158/0008-5472.CAN-08-4266"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1158/0008-5472.CAN-08-4266"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0008-5472</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973697"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>7</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>CANCER RES</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>GENOME-WIDE ASSOCIATION</api:keyword>
+								<api:keyword>CASP8 GENE</api:keyword>
+								<api:keyword>PROMOTER POLYMORPHISM</api:keyword>
+								<api:keyword>COMMON VARIANT</api:keyword>
+								<api:keyword>REDUCED RISK</api:keyword>
+								<api:keyword>SUSCEPTIBILITY</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2724</api:begin-page>
+								<api:end-page>2728</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>4</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>A Breast Cancer Risk Haplotype in the Caspase-8 Gene</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>69</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Breast Neoplasms</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Case-Control Studies</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Caspase 8</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Chromosome Mapping</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Female</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Genetic Predisposition to Disease</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Haplotypes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Polymorphism, Single Nucleotide</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Breast Neoplasms</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Genetic Predisposition to Disease</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Case-Control Studies</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Chromosome Mapping</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Haplotypes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Polymorphism, Single Nucleotide</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Female</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Caspase 8</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">31 Biological Sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">32 Biomedical and Clinical Sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">3105 Genetics</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">3211 Oncology and Carcinogenesis</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Cancer</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Clinical Research</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Human Genome</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Breast Cancer</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Genetics</api:keyword>
+					<api:keyword scheme="hrcs-rac" origin="record-data" source="dimensions">2 Aetiology</api:keyword>
+					<api:keyword scheme="hrcs-rac" origin="record-data" source="dimensions">2.1 Biological and endogenous factors</api:keyword>
+					<api:keyword scheme="hrcs-hc" origin="record-data" source="dimensions">Cancer</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Breast Neoplasms</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Case-Control Studies</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Caspase 8</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Chromosome Mapping</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Female</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Genetic Predisposition to Disease</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Haplotypes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Polymorphism, Single Nucleotide</api:keyword>
+					<api:keyword origin="record-data" source="wos">GENOME-WIDE ASSOCIATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">CASP8 GENE</api:keyword>
+					<api:keyword origin="record-data" source="wos">PROMOTER POLYMORPHISM</api:keyword>
+					<api:keyword origin="record-data" source="wos">COMMON VARIANT</api:keyword>
+					<api:keyword origin="record-data" source="wos">REDUCED RISK</api:keyword>
+					<api:keyword origin="record-data" source="wos">SUSCEPTIBILITY</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">1112 Oncology and Carcinogenesis</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Oncology &amp; Carcinogenesis</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">3101 Biochemistry and cell biology</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">3211 Oncology and carcinogenesis</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="0008-5472" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973697" title="Cancer Research">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Cancer Research</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/12444/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

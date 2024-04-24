@@ -1,0 +1,1221 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/12714"/>
+	<api:result>
+		<api:object category="publication" id="12714" last-affected-when="2023-12-24T13:40:34.227+00:00" last-modified-when="2023-12-24T13:40:34.227+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/12714" created-when="2010-05-17T14:21:51.173+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2009-06-28</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="1348840" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1098/rsta.2009.0038" last-modified-when="2022-09-11T23:28:30.303+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>&lt;jats:p&gt;
+            This paper describes ‘Archaeotools’, a major e-Science project in archaeology. The aim of the project is to use faceted classification and natural language processing to create an advanced infrastructure for archaeological research. The project aims to integrate over 1×10
+            &lt;jats:sup&gt;6&lt;/jats:sup&gt;
+            structured database records referring to archaeological sites and monuments in the UK, with information extracted from semi-structured grey literature reports, and unstructured antiquarian journal accounts, in a single faceted browser interface. The project has illuminated the variable level of vocabulary control and standardization that currently exists within national and local monument inventories. Nonetheless, it has demonstrated that the relatively well-defined ontologies and thesauri that exist in archaeology mean that a high level of success can be achieved using information extraction techniques. This has great potential for unlocking and making accessible the information held in grey literature and antiquarian accounts, and has lessons for allied disciplines.
+          &lt;/jats:p&gt;</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Jeffrey</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Richards</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="686" privacy="internal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/686"/>
+									</api:links>
+									<api:last-name>Ciravegna</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>F</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>F</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Waller</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Chapman</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="200" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/200"/>
+									</api:links>
+									<api:last-name>Zhang</api:last-name>
+									<api:initials>Z</api:initials>
+									<api:first-names>Z</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Z</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsta.2009.0038</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsta.2009.0038"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsta.2009.0038"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1471-2962</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1364-503X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1897</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>6</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2507</api:begin-page>
+								<api:end-page>2519</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>6</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>The Royal Society</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1098/rsta.2009.0038</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>18</api:day>
+								<api:month>2</api:month>
+								<api:year>2021</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The Archaeotools project: faceted classification and natural language processing in an archaeological context</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>367</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="119096" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-67650287080" last-modified-when="2023-03-15T03:43:17.803+00:00">
+					<api:citation-count>35</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>This paper describes 'Archaeotools., a major e-Science project in archaeology. The aim of the project is to use faceted classification and natural language processing to create an advanced infrastructure for archaeological research. The project aims to integrate over 1×106 structured database records referring to archaeological sites and monuments in the UK, with information extracted from semi-structured grey literature reports, and unstructured antiquarian journal accounts, in a single faceted browser interface. The project has illuminated the variable level of vocabulary control and standardization that currently exists within national and local monument inventories. Nonetheless, it has demonstrated that the relatively well-defined ontologies and thesauri that exist in archaeology mean that a high level of success can be achieved using information extraction techniques. This has great potential for unlocking and making accessible the information held in grey literature and antiquarian accounts, and has lessons for allied disciplines. © 2009 The Royal Society.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Jeffrey</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of York</api:line>
+											<api:line type="city">York</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">27267709000</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Richards</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of York</api:line>
+											<api:line type="city">York</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">8762551700</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="686" privacy="internal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/686"/>
+									</api:links>
+									<api:last-name>Ciravegna</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>F</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>F</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">8957737400</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Waller</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of York</api:line>
+											<api:line type="city">York</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">57196980361</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Chapman</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">8983725400</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="200" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/200"/>
+									</api:links>
+									<api:last-name>Zhang</api:last-name>
+									<api:initials>Z</api:initials>
+									<api:first-names>Z</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Z</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">14326468700</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsta.2009.0038</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsta.2009.0038"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsta.2009.0038"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1364-503X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1897</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2507</api:begin-page>
+								<api:end-page>2519</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>6</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The Archaeotools project: Faceted classsification and natural language processing in an archaeological context</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>367</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="12714" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="19451106" last-modified-when="2020-04-29T13:27:55.737+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>This paper describes 'Archaeotools', a major e-Science project in archaeology. The aim of the project is to use faceted classification and natural language processing to create an advanced infrastructure for archaeological research. The project aims to integrate over 1 x 10(6) structured database records referring to archaeological sites and monuments in the UK, with information extracted from semi-structured grey literature reports, and unstructured antiquarian journal accounts, in a single faceted browser interface. The project has illuminated the variable level of vocabulary control and standardization that currently exists within national and local monument inventories. Nonetheless, it has demonstrated that the relatively well-defined ontologies and thesauri that exist in archaeology mean that a high level of success can be achieved using information extraction techniques. This has great potential for unlocking and making accessible the information held in grey literature and antiquarian accounts, and has lessons for allied disciplines.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Jeffrey</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Archaeology Data Service, Department of Archaeology, The King's Manor, University of York, York Y01 7EP, UK. sj523@york.ac.uk</api:line>
+										</api:address>
+									</api:addresses>
+									<api:email-address>sj523@york.ac.uk</api:email-address>
+								</api:person>
+								<api:person>
+									<api:last-name>Richards</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="686" privacy="internal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/686"/>
+									</api:links>
+									<api:last-name>Ciravegna</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>F</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>F</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Waller</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Chapman</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="200" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/200"/>
+									</api:links>
+									<api:last-name>Zhang</api:last-name>
+									<api:initials>Z</api:initials>
+									<api:first-names>Z</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Z</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/19451106</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsta.2009.0038</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsta.2009.0038"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsta.2009.0038"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1364-503X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1897</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Philos Trans A Math Phys Eng Sci</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>England</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2507</api:begin-page>
+								<api:end-page>2519</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>367/1897/2507</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>6</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>7</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The Archaeotools project: faceted classification and natural language processing in an archaeological context.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>367</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="889582" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:19451106" last-modified-when="2023-11-07T18:59:09.89+00:00">
+					<api:citation-count>1</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>This paper describes 'Archaeotools', a major e-Science project in archaeology. The aim of the project is to use faceted classification and natural language processing to create an advanced infrastructure for archaeological research. The project aims to integrate over 1 x 10(6) structured database records referring to archaeological sites and monuments in the UK, with information extracted from semi-structured grey literature reports, and unstructured antiquarian journal accounts, in a single faceted browser interface. The project has illuminated the variable level of vocabulary control and standardization that currently exists within national and local monument inventories. Nonetheless, it has demonstrated that the relatively well-defined ontologies and thesauri that exist in archaeology mean that a high level of success can be achieved using information extraction techniques. This has great potential for unlocking and making accessible the information held in grey literature and antiquarian accounts, and has lessons for allied disciplines.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Archaeology Data Service, Department of Archaeology, The King's Manor, University of York, York Y01 7EP, UK. sj523@york.ac.uk</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Jeffrey</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0003-2084-4174</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Richards</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0003-3938-899X</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="686" privacy="internal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/686"/>
+									</api:links>
+									<api:last-name>Ciravegna</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>F</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>F</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0001-5817-4810</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Waller</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Chapman</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0003-2665-0901</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="200" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/200"/>
+									</api:links>
+									<api:last-name>Zhang</api:last-name>
+									<api:initials>Z</api:initials>
+									<api:first-names>Z</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Z</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-8587-8618</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsta.2009.0038</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsta.2009.0038"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsta.2009.0038"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1471-2962</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">19451106</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1364-503X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1897</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Philosophical transactions. Series A, Mathematical, physical, and engineering sciences</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2507</api:begin-page>
+								<api:end-page>2519</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>6</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>19</api:day>
+								<api:month>5</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The Archaeotools project: faceted classification and natural language processing in an archaeological context.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>367</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2945842" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1018224005" last-modified-when="2023-12-24T13:40:34.23+00:00">
+					<api:citation-count>38</api:citation-count>
+					<api:native>
+						<api:field name="associated-identifiers" type="identifier-list" display-name="Associated Identifiers">
+							<api:identifiers>
+								<api:identifier scheme="dimensions-grant-id">grant.2779901</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Jeffrey</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of York</api:line>
+											<api:line type="city">York</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01157777150.75</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+								<api:person>
+									<api:last-name>Richards</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of York</api:line>
+											<api:line type="city">York</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.07546402463.44</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="686" privacy="internal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/686"/>
+									</api:links>
+									<api:last-name>Ciravegna</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>F</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>F</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.016076750221.09</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Waller</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of York</api:line>
+											<api:line type="city">York</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0600133532.63</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Chapman</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.011344123157.13</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="200" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/200"/>
+									</api:links>
+									<api:last-name>Zhang</api:last-name>
+									<api:initials>Z</api:initials>
+									<api:first-names>Z</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Z</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.012672570753.14</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsta.2009.0038</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsta.2009.0038"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsta.2009.0038"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">19451106</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>22.78</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1364-503X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1897</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">4301 Archaeology</api:keyword>
+								<api:keyword scheme="for-2020">4303 Historical Studies</api:keyword>
+								<api:keyword scheme="for-2020">43 History, Heritage and Archaeology</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>6</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Green OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2507</api:begin-page>
+								<api:end-page>2519</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>6</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>The Royal Society</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.06</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The Archaeotools project: faceted classification and natural language processing in an archaeological context</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>367</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="261229" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000266098400008" last-modified-when="2023-12-08T09:49:54.55+00:00">
+					<api:citation-count>25</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Jeffrey</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Richards</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="686" privacy="internal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/686"/>
+									</api:links>
+									<api:last-name>Ciravegna</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>F</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>F</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Waller</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Chapman</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="200" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/200"/>
+									</api:links>
+									<api:last-name>Zhang</api:last-name>
+									<api:initials>Z</api:initials>
+									<api:first-names>Z</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Z</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000266098400008&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsta.2009.0038</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsta.2009.0038"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsta.2009.0038"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1471-2962</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">446CQ</api:identifier>
+								<api:identifier scheme="pubmed">19451106</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1364-503X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1897</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>archaeology</api:keyword>
+								<api:keyword>grey literature</api:keyword>
+								<api:keyword>faceted classification</api:keyword>
+								<api:keyword>information extraction</api:keyword>
+								<api:keyword>natural language processing</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2507</api:begin-page>
+								<api:end-page>2519</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The Archaeotools project: faceted classification and natural language processing in an archaeological context</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+								<api:item>Proceedings Paper</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>367</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="50630" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000266098400008" last-modified-when="2014-07-25T12:29:06.957+01:00">
+					<api:citation-count>0</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Jeffrey</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ York, Dept Archaeol, Archaeol Data Serv, York Y01 7EP, N Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Richards</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ York, Dept Archaeol, Archaeol Data Serv, York Y01 7EP, N Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="686" privacy="internal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/686"/>
+									</api:links>
+									<api:last-name>Ciravegna</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>F</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>F</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Dept Comp Sci, Web Intelligence Technol Lab, Nat Language Proc Grp, Sheffield S1 4DP, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Waller</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ York, Dept Archaeol, Archaeol Data Serv, York Y01 7EP, N Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Chapman</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Dept Comp Sci, Web Intelligence Technol Lab, Nat Language Proc Grp, Sheffield S1 4DP, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="200" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/200"/>
+									</api:links>
+									<api:last-name>Zhang</api:last-name>
+									<api:initials>Z</api:initials>
+									<api:first-names>Z</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Z</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Dept Comp Sci, Web Intelligence Technol Lab, Nat Language Proc Grp, Sheffield S1 4DP, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rsta.2009.0038</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rsta.2009.0038"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rsta.2009.0038"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1364-503X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1897</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>archaeology</api:keyword>
+								<api:keyword>grey literature</api:keyword>
+								<api:keyword>faceted classification</api:keyword>
+								<api:keyword>information extraction</api:keyword>
+								<api:keyword>natural language processing</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>2507</api:begin-page>
+								<api:end-page>2519</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>6</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The Archaeotools project: faceted classification and natural language processing in an archaeological context</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>367</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="341611" source-id="1" source-name="manual" source-display-name="Manual" id-at-source="CA689A51-EF73-4D30-9652-16D4CABFA26D" last-modified-when="2014-07-25T12:29:06.96+01:00">
+					<api:verification-status>unverified</api:verification-status>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>This paper describes &amp;#65533;Archaeotools&amp;#65533;, a major e-Science project in archaeology. The aim of the project is to use faceted classification and natural language processing to create a cyberinfrastructure for archaeological research. The project aims to integrate over one million structured database records referring to archaeological sites and monuments in the United Kingdom, with information extracted from semi-structured grey literature reports, and unstructured antiquarian journal accounts, in a single faceted browse interface. The project has illuminated the variable level of vocabulary control and standardisation that currently exists within national and local monument inventories. Nonetheless it has demonstrated that the relatively well-defined ontologies and thesauri that exist in archaeology mean that a high level of success can be achieved using information extraction techniques. This has great potential for unlocking and making accessible the information held in grey literature and antiquarian accounts, and has lessons for allied disciplines.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Jeffrey</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Julian</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>R</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="686" privacy="internal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/686"/>
+									</api:links>
+									<api:last-name>Ciravegna</api:last-name>
+									<api:initials>F</api:initials>
+									<api:first-names>F</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>F</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Waller</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Chapman</api:last-name>
+									<api:initials>S</api:initials>
+									<api:first-names>S</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="200" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/200"/>
+									</api:links>
+									<api:last-name>Zhang</api:last-name>
+									<api:initials>Z</api:initials>
+									<api:first-names>Z</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Z</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Philosophical Transactions of the Royal Society A</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>23</api:day>
+								<api:month>11</api:month>
+								<api:year>2011</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>The Archaeotools project: faceted classification and natural language processing in an archaeological</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+							</api:items>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">4301 Archaeology</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">4303 Historical Studies</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">43 History, Heritage and Archaeology</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">archaeology</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">grey literature</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">faceted classification</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">information extraction</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">natural language processing</api:keyword>
+					<api:keyword origin="record-data" source="wos">archaeology</api:keyword>
+					<api:keyword origin="record-data" source="wos">grey literature</api:keyword>
+					<api:keyword origin="record-data" source="wos">faceted classification</api:keyword>
+					<api:keyword origin="record-data" source="wos">information extraction</api:keyword>
+					<api:keyword origin="record-data" source="wos">natural language processing</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">General Science &amp; Technology</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="1364-503X" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/980944" title="Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/12714/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

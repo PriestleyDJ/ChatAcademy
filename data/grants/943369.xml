@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+   <api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+   <api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/grants/943369"/>
+   <api:result>
+      <api:object category="grant" id="943369" last-affected-when="2019-02-01T18:58:53.707+00:00" last-modified-when="2019-02-01T18:58:53.707+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/grants/943369" created-when="2016-12-22T21:29:58.767+00:00" type-id="1" type-display-name="Grant" type="grant">
+         <api:privacy-level>Public</api:privacy-level>
+         <api:privacy-level-locked>false</api:privacy-level-locked>
+         <api:ever-approved>true</api:ever-approved>
+         <api:reporting-date-1>2016-06-20</api:reporting-date-1>
+         <api:allow-type-switching>true</api:allow-type-switching>
+         <api:records>
+            <api:record format="native" id="1904386" source-id="1" source-name="manual" source-display-name="Manual" id-at-source="B892FCFA-7DA9-4744-B00A-FBA4F8081144" last-modified-when="2016-12-22T21:29:59.027+00:00">
+               <api:native>
+                  <api:field name="amount" type="money" display-name="Amount">
+                     <api:money iso-currency="GBP">9767</api:money>
+                  </api:field>
+                  <api:field name="application-date" type="date" display-name="Application date">
+                     <api:date>
+                        <api:day>30</api:day>
+                        <api:month>7</api:month>
+                        <api:year>2015</api:year>
+                     </api:date>
+                  </api:field>
+                  <api:field name="award-date" type="date" display-name="Award date">
+                     <api:date>
+                        <api:day>26</api:day>
+                        <api:month>10</api:month>
+                        <api:year>2015</api:year>
+                     </api:date>
+                  </api:field>
+                  <api:field name="end-date" type="date" display-name="End date">
+                     <api:date>
+                        <api:day>31</api:day>
+                        <api:month>7</api:month>
+                        <api:year>2017</api:year>
+                     </api:date>
+                  </api:field>
+                  <api:field name="funder-name" type="text" display-name="Funder name">
+                     <api:text>Royal College of Emergency Medicine</api:text>
+                  </api:field>
+                  <api:field name="funder-reference" type="text" display-name="Funder reference">
+                     <api:text>RCEMGrant2015</api:text>
+                  </api:field>
+                  <api:field name="funding-type" type="text" display-name="Programme type">
+                     <api:text>Research Grant</api:text>
+                  </api:field>
+                  <api:field name="programme" type="text" display-name="Programme">
+                     <api:text>RCEM Research Grants 2015</api:text>
+                  </api:field>
+                  <api:field name="start-date" type="date" display-name="Start date">
+                     <api:date>
+                        <api:day>20</api:day>
+                        <api:month>6</api:month>
+                        <api:year>2016</api:year>
+                     </api:date>
+                  </api:field>
+                  <api:field name="status" type="text" display-name="Status">
+                     <api:text>Live</api:text>
+                  </api:field>
+                  <api:field name="title" type="text" display-name="Title">
+                     <api:text>Identifying Depression in Older Patients in the Emergency Department – Assessing the Efficacy of a Two-Stage Screening Tool.</api:text>
+                  </api:field>
+               </api:native>
+            </api:record>
+         </api:records>
+         <api:fields/>
+         <api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/grants/943369/relationships"/>
+      </api:object>
+   </api:result>
+</api:response>

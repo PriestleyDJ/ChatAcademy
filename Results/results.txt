@@ -1,0 +1,10 @@
+*** Current Config ***
+The llm is: meta-llama/Meta-Llama-3-8B
+The evaluation llm is: meta-llama/Llama-2-7b-chat-hf
+The chunk size is: 768
+The chunk overlap is: 50
+The embedding model is: BAAI/bge-small-en-v1.5
+There are 173 examples in the dataset.
+faithfulness Score: 0.0 
+relevancy Score: 0.0 
+correctness Score: 0.6666666666666666 

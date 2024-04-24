@@ -1,9 +1,13 @@
 --find-links https://download.pytorch.org/whl/cu118
 torch
 transformers
-accelerate==0.20.3
+accelerate
+bitsandbytes
+bert-score
 beautifulsoup4
+deepeval
 lxml
+spacy
 scikit-learn
 llama-index
 llama-index-llms-huggingface

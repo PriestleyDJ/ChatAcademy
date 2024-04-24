@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+   <api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+   <api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/grants/1045804"/>
+   <api:result>
+      <api:object category="grant" id="1045804" last-affected-when="2019-02-01T18:58:56.53+00:00" last-modified-when="2019-02-01T18:58:56.53+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/grants/1045804" created-when="2017-10-30T10:36:05.95+00:00" type-id="1" type-display-name="Grant" type="grant">
+         <api:privacy-level>Public</api:privacy-level>
+         <api:privacy-level-locked>false</api:privacy-level-locked>
+         <api:ever-approved>true</api:ever-approved>
+         <api:reporting-date-1>2015-02-16</api:reporting-date-1>
+         <api:allow-type-switching>true</api:allow-type-switching>
+         <api:records>
+            <api:record format="native" id="2255991" source-id="1" source-name="manual" source-display-name="Manual" id-at-source="8642380C-2922-4EAE-B5F2-ED806E70A712" last-modified-when="2017-10-30T10:36:06.13+00:00">
+               <api:native>
+                  <api:field name="amount" type="money" display-name="Amount">
+                     <api:money iso-currency="GBP">1200</api:money>
+                  </api:field>
+                  <api:field name="funder-name" type="text" display-name="Funder name">
+                     <api:text>Santander Research Mobility Award</api:text>
+                  </api:field>
+                  <api:field name="funder-reference" type="text" display-name="Funder reference">
+                     <api:text>X/009107-12-11</api:text>
+                  </api:field>
+                  <api:field name="start-date" type="date" display-name="Start date">
+                     <api:date>
+                        <api:day>16</api:day>
+                        <api:month>2</api:month>
+                        <api:year>2015</api:year>
+                     </api:date>
+                  </api:field>
+                  <api:field name="title" type="text" display-name="Title">
+                     <api:text>The Eighteenth Century English Phonology Database</api:text>
+                  </api:field>
+               </api:native>
+            </api:record>
+         </api:records>
+         <api:fields/>
+         <api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/grants/1045804/relationships"/>
+      </api:object>
+   </api:result>
+</api:response>

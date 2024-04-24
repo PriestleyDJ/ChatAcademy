@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+   <api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+   <api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/grants/1047868"/>
+   <api:result>
+      <api:object category="grant" id="1047868" last-affected-when="2019-02-01T18:58:56.593+00:00" last-modified-when="2019-02-01T18:58:56.593+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/grants/1047868" created-when="2017-11-17T18:09:28.43+00:00" type-id="1" type-display-name="Grant" type="grant">
+         <api:privacy-level>Public</api:privacy-level>
+         <api:privacy-level-locked>false</api:privacy-level-locked>
+         <api:ever-approved>true</api:ever-approved>
+         <api:reporting-date-1>2017-01-27</api:reporting-date-1>
+         <api:allow-type-switching>true</api:allow-type-switching>
+         <api:records>
+            <api:record format="native" id="2262159" source-id="1" source-name="manual" source-display-name="Manual" id-at-source="AEA464F0-64C6-4FF1-8844-E12EB9D4E577" last-modified-when="2017-11-17T18:09:28.483+00:00">
+               <api:native>
+                  <api:field name="amount" type="money" display-name="Amount">
+                     <api:money iso-currency="GBP">555</api:money>
+                  </api:field>
+                  <api:field name="funder-name" type="text" display-name="Funder name">
+                     <api:text>University of Sheffield</api:text>
+                  </api:field>
+                  <api:field name="funder-reference" type="text" display-name="Funder reference">
+                     <api:text>Widening Participation Funding</api:text>
+                  </api:field>
+                  <api:field name="start-date" type="date" display-name="Start date">
+                     <api:date>
+                        <api:day>27</api:day>
+                        <api:month>1</api:month>
+                        <api:year>2017</api:year>
+                     </api:date>
+                  </api:field>
+                  <api:field name="title" type="text" display-name="Title">
+                     <api:text>Religion, Theology and the Bible day for 15-19 students</api:text>
+                  </api:field>
+               </api:native>
+            </api:record>
+         </api:records>
+         <api:fields/>
+         <api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/grants/1047868/relationships"/>
+      </api:object>
+   </api:result>
+</api:response>

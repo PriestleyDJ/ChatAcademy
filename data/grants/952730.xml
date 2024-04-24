@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+   <api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+   <api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/grants/952730"/>
+   <api:result>
+      <api:object category="grant" id="952730" last-affected-when="2019-02-01T18:58:54.45+00:00" last-modified-when="2019-02-01T18:58:54.45+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/grants/952730" created-when="2017-02-16T11:48:51.57+00:00" type-id="1" type-display-name="Grant" type="grant">
+         <api:privacy-level>Public</api:privacy-level>
+         <api:privacy-level-locked>false</api:privacy-level-locked>
+         <api:ever-approved>true</api:ever-approved>
+         <api:reporting-date-1>2014-10-01</api:reporting-date-1>
+         <api:allow-type-switching>true</api:allow-type-switching>
+         <api:records>
+            <api:record format="native" id="1932199" source-id="1" source-name="manual" source-display-name="Manual" id-at-source="0A861B94-7C77-494B-B98F-DE6E572ECC2F" last-modified-when="2017-02-16T11:48:51.74+00:00">
+               <api:native>
+                  <api:field name="amount" type="money" display-name="Amount">
+                     <api:money iso-currency="GBP">41589</api:money>
+                  </api:field>
+                  <api:field name="application-date" type="date" display-name="Application date">
+                     <api:date>
+                        <api:day>1</api:day>
+                        <api:month>2</api:month>
+                        <api:year>2014</api:year>
+                     </api:date>
+                  </api:field>
+                  <api:field name="award-date" type="date" display-name="Award date">
+                     <api:date>
+                        <api:day>24</api:day>
+                        <api:month>6</api:month>
+                        <api:year>2014</api:year>
+                     </api:date>
+                  </api:field>
+                  <api:field name="end-date" type="date" display-name="End date">
+                     <api:date>
+                        <api:day>1</api:day>
+                        <api:month>2</api:month>
+                        <api:year>2017</api:year>
+                     </api:date>
+                  </api:field>
+                  <api:field name="funder-name" type="text" display-name="Funder name">
+                     <api:text>University of Sheffield</api:text>
+                  </api:field>
+                  <api:field name="funder-reference" type="text" display-name="Funder reference">
+                     <api:text>129461083</api:text>
+                  </api:field>
+                  <api:field name="start-date" type="date" display-name="Start date">
+                     <api:date>
+                        <api:day>1</api:day>
+                        <api:month>10</api:month>
+                        <api:year>2014</api:year>
+                     </api:date>
+                  </api:field>
+                  <api:field name="status" type="text" display-name="Status">
+                     <api:text>Live</api:text>
+                  </api:field>
+                  <api:field name="title" type="text" display-name="Title">
+                     <api:text>Arts and Humanities Doctoral Academy Scholarship</api:text>
+                  </api:field>
+               </api:native>
+            </api:record>
+         </api:records>
+         <api:fields/>
+         <api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/grants/952730/relationships"/>
+      </api:object>
+   </api:result>
+</api:response>

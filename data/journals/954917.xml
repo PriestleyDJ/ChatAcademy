@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+    <api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+    <api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/954917"/>
+    <api:result>
+        <api:object category="journal" id="954917" last-affected-when="2019-02-01T19:03:06.697+00:00" last-modified-when="2019-02-01T19:03:06.697+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/954917" created-when="2017-03-07T16:36:24.86+00:00" type-id="1" type-display-name="Journal" type="journal">
+            <api:privacy-level>Public</api:privacy-level>
+            <api:privacy-level-locked>false</api:privacy-level-locked>
+            <api:ever-approved>true</api:ever-approved>
+            <api:allow-type-switching>true</api:allow-type-switching>
+            <api:records>
+                <api:record format="native" id="1939733" source-id="9" source-name="doaj" source-display-name="Directory of Open Access Journals" id-at-source="0104-9933" last-modified-when="2017-03-07T16:36:24.86+00:00">
+                    <api:native>
+                        <api:field name="cc-licence" type="text" display-name="CC licence">
+                            <api:text>CC BY-NC-SA</api:text>
+                        </api:field>
+                        <api:field name="issns" type="issn-list" display-name="ISSNs">
+                            <api:issns>
+                                <api:issn>0104-9933</api:issn>
+                                <api:issn>1982-2391</api:issn>
+                            </api:issns>
+                        </api:field>
+                        <api:field name="publication-fee" type="text" display-name="Publication fee">
+                            <api:text>No</api:text>
+                        </api:field>
+                        <api:field name="publisher" type="text" display-name="Publisher">
+                            <api:text>Universidade do Estado do Rio de Janeiro</api:text>
+                        </api:field>
+                        <api:field name="start-year-oa" type="date" display-name="Start year Open Access">
+                            <api:date>
+                                <api:year>2008</api:year>
+                            </api:date>
+                        </api:field>
+                        <api:field name="submission-info-url" type="text" display-name="Submission info URL">
+                            <api:text>http://www.e-publicacoes.uerj.br/index.php/logos/about/submissions#authorGuidelines</api:text>
+                        </api:field>
+                        <api:field name="title" type="text" display-name="Title">
+                            <api:text>Logos</api:text>
+                        </api:field>
+                    </api:native>
+                </api:record>
+                <api:record format="native" id="2107691" source-id="8" source-name="sherpa-romeo" source-display-name="SHERPA/RoMEO" id-at-source="1982-2391" last-modified-when="2017-04-07T21:10:18.113+01:00">
+                    <api:native>
+                        <api:field name="issns" type="issn-list" display-name="ISSNs">
+                            <api:issns>
+                                <api:issn>1982-2391</api:issn>
+                            </api:issns>
+                        </api:field>
+                        <api:field name="publisher" type="text" display-name="Publisher">
+                            <api:text>Universidade do Estado do Rio de Janeiro</api:text>
+                        </api:field>
+                        <api:field name="title" type="text" display-name="Title">
+                            <api:text>Logos</api:text>
+                        </api:field>
+                    </api:native>
+                </api:record>
+                <api:record format="native" id="2095366" source-id="8" source-name="sherpa-romeo" source-display-name="SHERPA/RoMEO" id-at-source="0104-9933" last-modified-when="2017-04-07T00:03:44.98+01:00">
+                    <api:native>
+                        <api:field name="issns" type="issn-list" display-name="ISSNs">
+                            <api:issns>
+                                <api:issn>0104-9933</api:issn>
+                            </api:issns>
+                        </api:field>
+                        <api:field name="publisher" type="text" display-name="Publisher">
+                            <api:text>Universidade do Estado do Rio de Janeiro</api:text>
+                        </api:field>
+                        <api:field name="title" type="text" display-name="Title">
+                            <api:text>Logos</api:text>
+                        </api:field>
+                    </api:native>
+                </api:record>
+            </api:records>
+            <api:fields/>
+            <api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/954917/relationships"/>
+        </api:object>
+    </api:result>
+</api:response>
