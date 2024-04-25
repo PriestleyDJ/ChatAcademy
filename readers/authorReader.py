@@ -98,23 +98,27 @@ def authorReader(autFiles):
     department = readDepartment(root)
     arrival_date = readArrivalDate(root)
     username = readUsername(root)
-    id_ = readID(root)
+    id = readID(root)
+    currentString = ""
+    if current_member:
+      currentString ="They are a current member of the university."
+    else:
+      currentString ="They are not a current member of the university."
     doc = Document(
-      text = title + " " + first_name + " " + last_name,
+      text = f"{title} {first_name} {last_name} is an {role} at the University of sheffield. They joined the university on {arrival_date} and are part of the {department} department. Their email is {email} an their username is {username}. " + currentString,
       metadata={
           "title": title,
           "initials": initials,
           "first name": first_name,
-          "last_name": last_name,
+          "last name": last_name,
           "role": role,
-          "current member": current_member,
+          "current member": str(current_member),
           "email": email,
           "department": department,
           "arrival_date": arrival_date,
           "username": username,
-          "ID": id_,
-          "type" : "person"
+          "ID": id
           }
-    )
+  )
     authorDocs.append(doc)
   return authorDocs

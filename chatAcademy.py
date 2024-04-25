@@ -29,10 +29,8 @@ import asyncio
 import random
 import bert_score
 nest_asyncio.apply()
-oAI_token =  #insert openAI key here
+oAI_token = sys.argv[1]
 os.environ['OPENAI_API_KEY'] = oAI_token
-
-hf_token = sys.argv[1]
 
 #CONTROL PANEL - USE THIS TO CHANE THINGS FOR EXPERIMENTATION
 

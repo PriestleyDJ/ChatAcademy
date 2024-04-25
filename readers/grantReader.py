@@ -41,7 +41,7 @@ def endDateReader(root):
       endMonth = "N/A"
   return endMonth, endYear
 
-def grantStartDateReader(root):
+def startDateReader(root):
   present = True
   startYear = ""
   startMonth = ""
@@ -87,7 +87,7 @@ def statusReader(root):
     statusRef = "N/A"
   return statusRef
 
-def grantTitleReader(root):
+def titleReader(root):
   title = ""
   try:
     title = root.find("api:field", {"name": "title", "type":"text"}).text
@@ -106,23 +106,33 @@ def grantReader(files):
     endDate = endDateReader(root)
     funder = funderReader(root)
     funderRef = funderReferenceReader(root)
-    startDate = grantStartDateReader(root)
+    startDate = startDateReader(root)
     status = statusReader(root)
-    title = grantTitleReader(root)
+    title = titleReader(root)
+    completeStr = ""
+    startStr= ""
+    endStr= ""
+    if startDate[0] != "N/A" and startDate[1] != "N/A":
+      startStr=f" The grant started on {startDate[0]}/{startDate[1]}. "
+    if endDate[0] != "N/A" and endDate[1] != "N/A":
+      endStr=f"The grant ended on {endDate[0]}/{endDate[1]}. "
+    if status != "N/A":
+      completeStr=f"The status of the grant is {status}."
     doc = Document(
-      text = title,
+      text = (f"The grant {title} is funded by {funder}. It is valued at {str(amount)} {currency}." + startStr + endStr + completeStr).replace("\n",""),
       metadata={
-            "amount": int(amount),
-            "currency": currency,
-            "end month": endDate[0],
-            "end year": endDate[1],
-            "start month": startDate[0],
-            "start year": startDate[1],
-            "funder name": funder,
-            "funder reference": funderRef,
-            "status": status,
-            "type": "grant"
-            }
+          "name": title,
+          "amount": int(amount),
+          "currency": currency,
+          "end month": endDate[0],
+          "end year": endDate[1],
+          "start month": startDate[0],
+          "start year": startDate[1],
+          "funder name": funder,
+          "funder reference": funderRef,
+          "status": status,
+          "type": "grant"
+          }
     )
     grantDocs.append(doc)
   return grantDocs

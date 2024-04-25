@@ -43,7 +43,7 @@ def endDateReader(root):
       endMonth = "N/A"
   return endMonth, endYear
 
-def journalStartDateReader(root):
+def startDateReader(root):
   startYear = ""
   try:
     startYear = root.find("api:field", {"name": "start-year-oa", "type":"date", "display-name":"Start year Open Access"}).text.strip()
@@ -75,7 +75,7 @@ def urlReader(root):
     statusRef = "N/A"
   return statusRef
 
-def journalTitleReader(root):
+def titleReader(root):
   title = ""
   try:
     title = root.find("api:field", {"name": "title", "type":"text"}).text
@@ -89,24 +89,30 @@ def journalReader(files):
     with open(path, 'r') as f:
       data = f.read()
     root = BeautifulSoup(data, "xml")
-    title = journalTitleReader(root)
+    title = titleReader(root)
     licence = licenceReader(root)
     issns = issnReader(root)
     pubFee = pubFeeReader(root)
     publisher = publisherReader(root)
-    startDate = journalStartDateReader(root)
+    startDate = startDateReader(root)
     url = urlReader(root)
+
+    urlStr = ""
+    if url != "N/A":
+      urlStr = f"The url of the journal is {url}"
+
     doc = Document(
-      text = title,
+      text = f"{title} is published by {publisher} and started publishing in {startDate}." + urlStr,
       metadata={
-            "licence": licence,
-            "issns": issns,
-            "publication fee": pubFee,
-            "publisher": publisher,
-            "start date": startDate,
-            "url": url,
-            "type": "journal"
-            }
+          "title": title,
+          "licence": licence,
+          "issns": issns,
+          "publication fee": pubFee,
+          "publisher": publisher,
+          "start date": startDate,
+          "url": url,
+          "type": "journal"
+          }
     )
     journalDocs.append(doc)
   return journalDocs

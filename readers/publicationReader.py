@@ -80,8 +80,20 @@ def publicationReader(pubFiles):
     date = pubDateReader(root)
     doi = doiReader(root)
     journal = pubJournalReader(root)
+    authorsStr = ""
+    keywordStr = ""
+    if authorList != "N/A":
+      for author in authorList:
+        authorsStr = authorsStr + f", {author['first name']} {author['last name']}"
+      start, _, end = authorsStr[1:].rpartition(", ")
+      authorsStr = " The authors of this paper are" + start + " and " + end+ "."
+    if keywords != "N/A":
+      for keyword in keywords:
+        keywordStr = keywordStr + f", {keyword}"
+      start, _, end = keywordStr[1:].rpartition(", ")
+      keywordStr = " The keywords associated with this paper are " + start + " and " + end + "."
     doc = Document(
-      text = abstract,
+      text = f"{title} \n {abstract} \n The authors are {authorsStr} \n This publication was published on {date[0]}/{date[1]}/{date[2]}.\n{authorsStr}\n{keywordStr}",
       metadata={
             "authors": authorList,
             "title": title,
