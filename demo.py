@@ -36,7 +36,8 @@ nest_asyncio.apply()
 baseModel = "meta-llama/Llama-2-7b-chat-hf"
 
 #Control the embedding models in use
-embedModel = "local:BAAI/bge-small-en-v1.5"
+# embedModel = "local:BAAI/bge-small-en-v1.5"
+embedModel = "BAAI/bge-small-en-v1.5"
 
 #Control the chunk Size and Overlap (Due to metadata, using less than 700 is not possible.)
 chunkSize = 768
