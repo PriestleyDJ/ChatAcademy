@@ -29,8 +29,6 @@ import asyncio
 import random
 
 nest_asyncio.apply()
-oAI_token = sys.argv[1]
-os.environ['OPENAI_API_KEY'] = oAI_token
 
 #CONTROL PANEL - USE THIS TO CHANE THINGS FOR EXPERIMENTATION
 
