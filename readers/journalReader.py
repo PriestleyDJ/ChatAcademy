@@ -11,8 +11,12 @@ def licenceReader(root):
   return licence
 
 def issnReader(root):
+
   root = root.find("api:field", {"name": "issns", "type":"issn-list", "display-name":"ISSNs"})
-  issnData = root.find_all("api:issn")
+  try:
+      issnData = root.find_all("api:issn")
+  except AttributeError:
+      issnData = []
   issnList = []
   for issn in issnData:
     try:
@@ -70,7 +74,7 @@ def publisherReader(root):
 def urlReader(root):
   statusRef = ""
   try:
-    statusRef = root.find("api:field", {"name": "submission-info-url", "type":"text"}).text
+    statusRef = root.find("api:field", {"name": "submission-info-url", "type":"text"}).text.strip()
   except AttributeError:
     statusRef = "N/A"
   return statusRef
@@ -78,7 +82,7 @@ def urlReader(root):
 def titleReader(root):
   title = ""
   try:
-    title = root.find("api:field", {"name": "title", "type":"text"}).text
+    title = root.find("api:field", {"name": "title", "type":"text"}).text.strip()
   except AttributeError:
     title = "N/A"
   return title

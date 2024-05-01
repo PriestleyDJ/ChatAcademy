@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/38869"/>
+	<api:result>
+		<api:object category="user" id="38869" proprietary-id="10085700" authenticating-authority="MUSE" username="AC1CLE" last-affected-when="2023-12-21T13:18:03.277+00:00" last-modified-when="2023-11-07T17:32:21.867+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/38869" created-when="2023-10-24T16:45:25.937+01:00" type-id="1" type-display-name="Person" type="person">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:is-current-staff>true</api:is-current-staff>
+			<api:is-academic>true</api:is-academic>
+			<api:is-student>false</api:is-student>
+			<api:is-login-allowed>true</api:is-login-allowed>
+			<api:title>Ms</api:title>
+			<api:initials>CL</api:initials>
+			<api:last-name>Edmonds</api:last-name>
+			<api:first-name>Chelsea</api:first-name>
+			<api:email-address>C.L.EDMONDS@SHEFFIELD.AC.UK</api:email-address>
+			<api:primary-group-descriptor>COM</api:primary-group-descriptor>
+			<api:arrive-date>2023-10-16</api:arrive-date>
+			<api:institutional-email-is-public>true</api:institutional-email-is-public>
+			<api:claimed>true</api:claimed>
+			<api:organisation-defined-data field-number="1" field-name="DATE_OF_BIRTH">08/07/1994</api:organisation-defined-data>
+			<api:organisation-defined-data field-number="2" field-name="UOA"/>
+			<api:organisation-defined-data field-number="3" field-name="PLANNING_UNIT">FCE</api:organisation-defined-data>
+			<api:organisation-defined-data field-number="4" field-name="DEPARTMENT">COM</api:organisation-defined-data>
+			<api:organisation-defined-data field-number="5" field-name="HESA_ID">2311590019058</api:organisation-defined-data>
+			<api:organisation-defined-data field-number="6" field-name="RESEARCH_GROUP_1"/>
+			<api:organisation-defined-data field-number="7" field-name="RESEARCH_GROUP_2"/>
+			<api:organisation-defined-data field-number="8" field-name="RESEARCH_GROUP_3"/>
+			<api:organisation-defined-data field-number="9" field-name="RESEARCH_GROUP_4"/>
+			<api:organisation-defined-data field-number="10" field-name="PERSONNEL_AREA">ACAD</api:organisation-defined-data>
+			<!--Additional generic field values would appear here, but are witheld because your account does not have access to sensitive HR data.-->
+			<api:user-search-settings>
+				<api:default>
+					<api:affiliation>&quot;Sheffield&quot;</api:affiliation>
+					<api:name>&quot;Edmonds, C. L.&quot; OR &quot;Edmonds, Chelsea&quot;</api:name>
+				</api:default>
+			</api:user-search-settings>
+			<api:records>
+				<api:record format="native" id="4368500" source-id="1" source-name="manual" source-display-name="Manual" id-at-source="0977BF4F-C295-469E-8971-ACC46E337938" last-modified-when="2023-10-24T16:45:25.943+01:00">
+					<api:native/>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/38869/relationships"/>
+			<api:user-identifier-associations user-id="38869" proprietary-id="10085700" username="AC1CLE">
+				<api:user-identifier-association scheme="email-address" status="claimed" decision="always-me">C.L.EDMONDS@SHEFFIELD.AC.UK</api:user-identifier-association>
+				<api:user-identifier-association scheme="figshare-for-institutions-user-account-id" status="claimed" decision="always-me">10085700</api:user-identifier-association>
+				<api:user-identifier-association scheme="orcid" status="claimed" decision="always-me">0000-0002-8559-9133</api:user-identifier-association>
+			</api:user-identifier-associations>
+		</api:object>
+	</api:result>
+</api:response>
