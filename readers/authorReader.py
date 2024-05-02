@@ -36,7 +36,7 @@ def readCurrent(root):
   except AttributeError:
     isCurrent = False
 
-  return str(isCurrent)
+  return isCurrent
 
 def readEmail(root):
   email = ""
@@ -69,44 +69,45 @@ def readUsername(root):
   username = ""
   try:
     username = root.find("api:object", {"category": "user", "type":"person"})["username"]
-  except TypeError:
+  except AttributeError:
     username = "N/A"
 
   return username
 
 def readID(root):
-  id_ = ""
+  id = ""
   try:
-    id_ = root.find("api:object", {"category": "user", "type":"person"})["id"]
-  except TypeError:
-    id_ = "N/A"
-  return id_
+    id = root.find("api:object", {"category": "user", "type":"person"})["id"]
+  except AttributeError:
+    id = "N/A"
+  return id
 
 def authorReader(autFiles):
   authorDocs = []
   for path in autFiles:
-    with open(path, 'r') as f:
-      data = f.read()
-    root = BeautifulSoup(data, "xml")
-    title = root.find("api:title").text
-    initials = root.find("api:initials").text
-    first_name = root.find("api:first-name").text
-    last_name = root.find("api:last-name").text
-    role = readRole(root)
-    current_member = readCurrent(root)
-    email = readEmail(root)
-    department = readDepartment(root)
-    arrival_date = readArrivalDate(root)
-    username = readUsername(root)
-    id = readID(root)
-    currentString = ""
-    if current_member:
-      currentString ="They are a current member of the university."
-    else:
-      currentString ="They are not a current member of the university."
-    doc = Document(
-      text = f"{title} {first_name} {last_name} is an {role} at the University of sheffield. They joined the university on {arrival_date} and are part of the {department} department. Their email is {email} an their username is {username}. " + currentString,
-      metadata={
+    try:
+      with open(path, 'r') as f:
+        data = f.read()
+      root = BeautifulSoup(data, "xml")
+      title = root.find("api:title").text
+      initials = root.find("api:initials").text
+      first_name = root.find("api:first-name").text
+      last_name = root.find("api:last-name").text
+      role = readRole(root)
+      current_member = readCurrent(root)
+      email = readEmail(root)
+      department = readDepartment(root)
+      arrival_date = readArrivalDate(root)
+      username = readUsername(root)
+      id = readID(root)
+      currentString = ""
+      if current_member:
+        currentString ="They are a current member of the university."
+      else:
+        currentString ="They are not a current member of the university."
+      doc = Document(
+        text = f"{title} {first_name} {last_name} is an {role} at the University of sheffield. They joined the university on {arrival_date} and are part of the {department} department. Their email is {email} an their username is {username}. " + currentString,
+        metadata={
           "title": title,
           "initials": initials,
           "first name": first_name,
@@ -119,6 +120,8 @@ def authorReader(autFiles):
           "username": username,
           "ID": id
           }
-  )
-    authorDocs.append(doc)
+      )
+      authorDocs.append(doc)
+    except UnicodeDecodeError:
+      print("file corrupted")
   return authorDocs

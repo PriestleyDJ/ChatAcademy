@@ -6,7 +6,7 @@ def amountReader(root):
   amount = ""
   try:
      amount = root.find("api:field", {"name": "amount", "type":"money"}).text
-     amount = "".join(filter(str.isdigit, amount))
+     amount = int("".join(filter(str.isdigit, amount)))
   except AttributeError:
      amount = "N/A"
   return amount
@@ -23,22 +23,19 @@ def endDateReader(root):
   present = True
   endYear = ""
   endMonth = ""
+  root = root.find("api:field", {"name": "end-date", "type":"date", "display-name":"End date"})
   try:
-    root = root.find("api:field", {"name": "end-date", "type":"date", "display-name":"End date"})
+    endYear = int(root.find("api:year").text)
   except AttributeError:
     endYear = "N/A"
+  except TypeError:
+    endYear = "N/A"
+  try:
+    endMonth = int(root.find("api:month").text)
+  except AttributeError:
     endMonth = "N/A"
-    present = False
-
-  if(present):
-    try:
-      endYear = int(root.find("api:year").text)
-    except AttributeError:
-      endYear = "N/A"
-    try:
-      endMonth = calendar.month_name[int(root.find("api:month").text)]
-    except AttributeError:
-      endMonth = "N/A"
+  except TypeError:
+    endMonth = "N/A"
   return endMonth, endYear
 
 def startDateReader(root):
@@ -47,7 +44,7 @@ def startDateReader(root):
   startMonth = ""
   try:
     root = root.find("api:field", {"name": "start-date", "type":"date", "display-name":"Start date"})
-  except AttributeError:
+  except TypeError:
     startYear = "N/A"
     startMonth = "N/A"
     present = False
@@ -122,7 +119,7 @@ def grantReader(files):
       text = (f"The grant {title} is funded by {funder}. It is valued at {str(amount)} {currency}." + startStr + endStr + completeStr).replace("\n",""),
       metadata={
           "name": title,
-          "amount": int(amount),
+          "amount": amount,
           "currency": currency,
           "end month": endDate[0],
           "end year": endDate[1],

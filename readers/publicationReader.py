@@ -55,6 +55,51 @@ def doiReader(root):
 
 def keywordsReader(root):
   try:
+     keywords = []
+     keywordsXML = root.find("api:keywords")
+     keywordsList = keywordsXML.find_all("api:keyword")
+     for key in keywordsList:
+        keywords.append(key.text)
+  except AttributeError:
+     keywords = "N/A"
+  return keywords
+
+def pubJournalReader(root):
+  try:
+     journal = root.find("api:field", {"name": "journal", "type":"text", "display-name":"Journal"}).find("api:text").text
+  except AttributeError:
+     journal = "N/A"
+  return journal
+
+def pubDateReader(root):
+  data = root.find("api:field", {"name": "publication-date", "type":"date", "display-name":"Publication date"})
+  day = None
+  month = None
+  year = None
+  try:
+    year = data.find("api:year").text
+  except AttributeError:
+    year = "N/A"
+  try:
+    month = calendar.month_name[int(data.find("api:month").text)]
+  except AttributeError:
+    month = "N/A"
+  try:
+    day = data.find("api:day").text
+  except AttributeError:
+    day = "N/A"
+
+  return day, month, year
+
+def doiReader(root):
+  try:
+     doi = root.find("api:field", {"name": "doi", "type":"text", "display-name":"DOI"}).find("api:text").text
+  except AttributeError:
+     doi= "N/A"
+  return doi
+
+def keywordsReader(root):
+  try:
      keywords = root.find("api:field", {"name": "keywords", "type":"keyword-list", "display-name":"Keywords"}).find_all("api:keyword").text
   except AttributeError:
      keywords = "N/A"
