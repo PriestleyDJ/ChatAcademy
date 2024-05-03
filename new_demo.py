@@ -41,7 +41,7 @@ hfToken = sys.argv[1]
 #CONTROL PANEL - USE THIS TO CHANE THINGS FOR EXPERIMENTATION
 
 #Control the language models in use
-baseModel = "DreadN0ugh7/llama-7b-chat-academy"
+baseModel = "meta-llama/Llama-2-13b-chat-hf"
 
 #Control the embedding models in use
 embedModel = "BAAI/bge-small-en-v1.5"
