@@ -15,7 +15,6 @@ from llama_index.core.evaluation import FaithfulnessEvaluator,RelevancyEvaluator
 from llama_index.core.llama_dataset import LabelledRagDataset, CreatedBy, CreatedByType, LabelledRagDataExample
 from llama_index.llms.huggingface import HuggingFaceLLM
 from llama_index.llms.openai import OpenAI
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 
 from readers.authorReader import authorReader
 from readers.grantReader import grantReader
@@ -37,7 +36,7 @@ nest_asyncio.apply()
 baseModel = "meta-llama/Llama-2-7b-chat-hf"
 
 #Control the embedding models in use
-embedModel = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
+embedModel = "local:BAAI/bge-small-en-v1.5"
 
 #Control the chunk Size and Overlap (Due to metadata, using less than 700 is not possible.)
 chunkSize = 1024
