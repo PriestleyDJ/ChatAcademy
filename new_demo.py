@@ -110,7 +110,7 @@ if customReaders == True:
 #Sets the config settings for the system
 Settings.chunk_size = chunkSize
 Settings.chunk_overlap = chunkOverlap
-Settings.embed_model = HuggingFaceEmbedding(model_name = embedModel)
+Settings.embed_model = HuggingFaceEmbedding(model_name = embedModel, cache_dir="/tmp/llama_index/models--BAAI--bge-small-en-v1.5")
 
 #Generates the index from the documents
 index = VectorStoreIndex.from_documents(docs)
