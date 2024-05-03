@@ -11,15 +11,17 @@ from llama_index.core import VectorStoreIndex, PromptTemplate, Settings, Documen
 from llama_index.core.evaluation import FaithfulnessEvaluator,RelevancyEvaluator,CorrectnessEvaluator, BatchEvalRunner
 from llama_index.core.llama_dataset import LabelledRagDataset, CreatedBy, CreatedByType, LabelledRagDataExample
 from llama_index.llms.huggingface import HuggingFaceLLM
+from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.llms.openai import OpenAI
 from llama_index.readers.file import XMLReader
 
 from readers.authorReader import authorReader
 from readers.grantReader import grantReader
 from readers.journalReader import journalReader
-from readers.publicationReader import publicationReader
+from readers.publicationReader import publicationReader # type: ignore
 
 from bs4 import BeautifulSoup
+from datasets import load_dataset # type: ignore
 from pathlib import Path
 import torch
 import calendar
@@ -34,35 +36,25 @@ import numpy as np
 import gradio as gr
 
 nest_asyncio.apply()
-oAI_token = sys.argv[1]
-hfToken = sys.argv[2]
-os.environ['OPENAI_API_KEY'] = oAI_token
+hfToken = sys.argv[1]
 
 #CONTROL PANEL - USE THIS TO CHANE THINGS FOR EXPERIMENTATION
 
 #Control the language models in use
-baseModel = "meta-llama/Llama-2-13b-chat-hf"
-evalModel = "meta-llama/Llama-2-13b-chat-hf"
+baseModel = "DreadN0ugh7/llama-7b-chat-academy"
 
 #Control the embedding models in use
-embedModel = "local:BAAI/bge-small-en-v1.5"
+embedModel = "BAAI/bge-small-en-v1.5"
 
 #Control whether to use custom readers or the default readers
 customReaders = True
 
-#Control the chunk Size and Overlap (Due to metadata, using less than 700 is not possible.)
-chunkSize = 804
+#Control the chunk Size and Overlap (Due to metadata, using less than 900 is not possible.)
+chunkSize = 1024
 chunkOverlap = 50
 
 #Control the number of documents retrieved from the index
 topK_Retrieved = 10
-
-#Control which dataset is loaded and where the results are saved.
-dataSetFileName = "DefaultEvaluationSet"
-saveFileName = "results13bTop10"
-
-#Control how many questions are used to test on the LLM (Using more will take longer)
-sampleSize = 200
 
 #END OF THE CONTROL PANEL
 
@@ -87,9 +79,6 @@ llm = HuggingFaceLLM(
     device_map="auto"
 )
 
-
-#DO NOT CHANGE THIS LINE UNDER ANY CIRCUMNSTANCE, UNLESS YOU WANT TO COST ME UNNECCESARY MONEY.
-gptLLM  = OpenAI("gpt-3.5-turbo-0125")
 #Defines a method to get the filepaths of the XML files
 def absoluteFilePaths(directory):
     files = []
@@ -109,19 +98,25 @@ docs = []
 
 readerConfig = ""
 if customReaders == True:
+
+    print(publicationReader(publicationFiles) == None)
+    print(authorReader(authorFiles)== None)
+    print(journalReader(journalFiles)== None)
+    print(grantReader(grantFiles)== None)
+
     docs = publicationReader(publicationFiles) + authorReader(authorFiles) + grantReader(grantFiles) + journalReader(journalFiles)
     readerConfig = "Custom readers are in use.\n"
 
 #Sets the config settings for the system
 Settings.chunk_size = chunkSize
 Settings.chunk_overlap = chunkOverlap
-Settings.embed_model = embedModel
+Settings.embed_model = HuggingFaceEmbedding(model_name = embedModel)
 
 #Generates the index from the documents
 index = VectorStoreIndex.from_documents(docs)
 
 #Assemble query engine
-query_engine = index.as_query_engine()
+query_engine = index.as_query_engine(llm = llm, similarity_top_k= topK_Retrieved,)
 
 def generate_response(msg, history):
   response = str(query_engine.query(msg))
