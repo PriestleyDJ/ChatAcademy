@@ -39,11 +39,11 @@ baseModel = "meta-llama/Llama-2-7b-chat-hf"
 embedModel = "local:BAAI/bge-small-en-v1.5"
 
 #Control the chunk Size and Overlap (Due to metadata, using less than 700 is not possible.)
-chunkSize = 768
+chunkSize = 1024
 chunkOverlap = 50
 
 #Control the number of documents retrieved from the index
-topK_Retrieved = 2
+topK_Retrieved = 10
 
 #Control which dataset is loaded and where the results are saved.
 dataSetFileName = "DefaultEvaluationSet"
@@ -98,12 +98,13 @@ docs = publicationReader(publicationFiles) + authorReader(authorFiles) + grantRe
 Settings.chunk_size = chunkSize
 Settings.chunk_overlap = chunkOverlap
 Settings.embed_model = embedModel
+Settings.llm = llm
 
 #Generates the index from the documents
 index = VectorStoreIndex.from_documents(docs)
 
 #Creates the query engine.
-query_engine = index.as_query_engine(llm=llm)
+query_engine = index.as_query_engine(llm=llm, similarity_top_k= topK_Retrieved)
 
 def generate_response(msg, history):
   response = str(query_engine.query(msg))
@@ -113,4 +114,3 @@ demo = gr.ChatInterface(fn=generate_response, title="ChatAcademy Demo")
 
 # Add share=True to create a shareable link
 demo.launch(share=True)
-
