@@ -51,7 +51,7 @@ embedModel = "local:BAAI/bge-small-en-v1.5"
 customReaders = True
 
 #Control the chunk Size and Overlap (Due to metadata, using less than 700 is not possible.)
-chunkSize = 786
+chunkSize = 804
 chunkOverlap = 50
 
 #Control the number of documents retrieved from the index

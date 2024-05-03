@@ -34,9 +34,9 @@ import numpy as np
 import gradio as gr
 
 nest_asyncio.apply()
-oAI_token = sys.argv[1]
+#oAI_token = sys.argv[1]
 hfToken = sys.argv[2]
-os.environ['OPENAI_API_KEY'] = oAI_token
+#os.environ['OPENAI_API_KEY'] = oAI_token
 
 #CONTROL PANEL - USE THIS TO CHANE THINGS FOR EXPERIMENTATION
 
@@ -51,7 +51,7 @@ evalModel = "meta-llama/Llama-2-13b-chat-hf"
 customReaders = True
 
 #Control the chunk Size and Overlap (Due to metadata, using less than 700 is not possible.)
-chunkSize = 786
+chunkSize = 804
 chunkOverlap = 50
 
 #Control the number of documents retrieved from the index
