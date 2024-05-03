@@ -33,7 +33,7 @@ nest_asyncio.apply()
 #CONTROL PANEL - USE THIS TO CHANE THINGS FOR EXPERIMENTATION
 
 #Control the language models in use
-baseModel = "meta-llama/Llama-2-7b-chat-hf"
+baseModel = "meta-llama/Llama-2-13b-chat-hf"
 
 #Control the embedding models in use
 embedModel = "local:BAAI/bge-small-en-v1.5"
@@ -98,13 +98,13 @@ docs = publicationReader(publicationFiles) + authorReader(authorFiles) + grantRe
 Settings.chunk_size = chunkSize
 Settings.chunk_overlap = chunkOverlap
 Settings.embed_model = embedModel
-Settings.llm = llm
+#Settings.llm = llm
 
 #Generates the index from the documents
 index = VectorStoreIndex.from_documents(docs)
 
 #Creates the query engine.
-query_engine = index.as_query_engine(llm=llm, similarity_top_k= topK_Retrieved)
+query_engine = index.as_query_engine()
 
 def generate_response(msg, history):
   response = str(query_engine.query(msg))
