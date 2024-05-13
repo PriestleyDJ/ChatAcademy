@@ -47,19 +47,20 @@ peft_config = LoraConfig(
 
 #Setup the training arguments
 args = TrainingArguments(
-    output_dir = "llama-7b-chat-academy",
+    output_dir = "/mnt/parscratch/users/aca19sjs/ChatAcademy/ChatAcademy-Trained-7b",
     num_train_epochs=3,                     # number of training epochs
     per_device_train_batch_size=3,          # batch size per device during training
     gradient_accumulation_steps=2,          # number of steps before performing a backward/update pass
     gradient_checkpointing=True,            # use gradient checkpointing to save memory
     optim="adamw_torch_fused",              # use fused adamw optimizer
     logging_steps=10,                       # log every 10 steps
-    save_strategy="epoch",                  # save checkpoint every epoch
+    save_strategy="no",                     # save only final model
     learning_rate=2e-4,                     # learning rate, based on QLoRA paper                              # use bfloat16 precision
     max_grad_norm=0.3,                      # max gradient norm based on QLoRA paper
     warmup_ratio=0.03,                      # warmup ratio based on QLoRA paper
     lr_scheduler_type="constant",           # use constant learning rate scheduler
-    push_to_hub=True,                       # push model to hub
+    save_total_limit = 1,
+   # push_to_hub=True,                       # push model to hub
     report_to="tensorboard",                # report metrics to tensorboard
 )
 
@@ -76,8 +77,14 @@ trainer = SFTTrainer(
     tokenizer=tokenizer
 )
 
+
+
 # start training, the model will be automatically saved to the hub and the output directory
 trainer.train()
 
+trainer.model.resize_token_embeddings(30000)
+
+trainer.save_model("/mnt/parscratch/users/aca19sjs/ChatAcademy/ChatAcademy-Trained-7b")
+trainer.tokenizer.save_pretrained("/mnt/parscratch/users/aca19sjs/ChatAcademy/ChatAcademy-Trained-7b")
 # save model
-trainer.push_to_hub("llama-7b-chat-academy", token = hfWriteToken)
+trainer.push_to_hub("ChatAcademy-Trained-7b", token = hfWriteToken)

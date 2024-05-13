@@ -2,21 +2,21 @@
 The llm is: meta-llama/Llama-2-13b-chat-hf
 The evaluation llm is: meta-llama/Llama-2-13b-chat-hf
 Custom readers are in use.
-The number of documents retrieved per query are: 3
+The number of documents retrieved per query are: 2
 The chunk size is: 1024
 The chunk overlap is: 50
-The embedding model is: BAAI/bge-small-en-v1.5
+The embedding model is: BAAI/bge-base-en-v1.5
 
 There are 500 examples being used to evaluate the system.
 
 *** LlamaIndex Evaluators ***
 
-The correctness score is 4.404092071611253.
-The faithfulness score is 0.928.
-The relevancy score is 0.786.
-The semantic similarity score is 0.7987957809732439.
+The correctness score is 4.479220779220779.
+The faithfulness score is 0.872.
+The relevancy score is 0.822.
+The semantic similarity score is 0.7968750788602312.
 *** Bertscore Metrics ***
 
 System level F1 score is 0.890.
-System level recall score is 0.866.
+System level recall score is 0.867.
 System level precision score is 0.916.

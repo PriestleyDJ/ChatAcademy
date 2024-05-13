@@ -1,0 +1,10 @@
+--find-links https://download.pytorch.org/whl/cu118
+torch
+transformers
+accelerate == 0.20.3
+bitsandbytes
+datasets
+peft
+trl
+urllib3 < 2
+

@@ -1,0 +1,118 @@
+/users/aca19sjs/.local/lib/python3.9/site-packages/transformers/utils/hub.py:124: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+2024-05-07 01:19:35.745104: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-07 01:19:36.606906: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+/users/aca19sjs/.local/lib/python3.9/site-packages/pydantic/_internal/_fields.py:160: UserWarning: Field "model_id" has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:10<00:20, 10.22s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:22<00:11, 11.48s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:28<00:00,  9.06s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:28<00:00,  9.59s/it]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:09<00:19,  9.98s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:20<00:10, 10.33s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:26<00:00,  8.51s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:26<00:00,  8.97s/it]
+WARNING:root:Some parameters are on the meta device device because they were offloaded to the cpu.
+/users/aca19sjs/.local/lib/python3.9/site-packages/langchain/_api/module_import.py:87: LangChainDeprecationWarning: Importing GuardrailsOutputParser from langchain.output_parsers is deprecated. Please replace the import with the following:
+from langchain_community.output_parsers.rail_parser import GuardrailsOutputParser
+  warnings.warn(
+False
+file corrupted
+file corrupted
+False
+False
+False
+file corrupted
+file corrupted
+Based on the context information provided, Professionalization of Exercise Physiology online started publishing in 1998.
+no correctness score
+
+relevancy
+
+1.0
+Based on the information provided, the answer to the query "When did Professionalization of Exercise Physiology online start publishing?" is YES, as the response of 1998 is in line with the context information provided.
+
+faithfulness
+
+1.0
+Sure, I'd be happy to help! Here are my answers based on the information you provided:
+
+1. Is the information "Apple pie is generally double-crusted" supported by the context?
+
+YES, the information is supported by the context. The context mentions that apple pie is made with pastry both above and below the filling, which is consistent with the idea that it is double-crusted.
+
+2. Is the information "Apple pies taste bad" supported by the context?
+
+NO, the information is not supported by the context. The context does not mention anything about the taste of apple pies.
+
+3. Is the information "The start date of Professionalization of Exercise Physiology online is 1998" supported by the context?
+
+YES, the information is supported by the context. The context mentions that Professionalization of Exercise Physiology online started publishing in 1998, which is consistent with the information provided.
+
+semantic similarity
+
+0.6798341381505517
+Similarity score: 0.6798341381505517
+Traceback (most recent call last):
+  File "/users/aca19sjs/ChatAcademy/chatAcademy.py", line 185, in <module>
+    responseObject = query_engine.query(query)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/llama_index/core/instrumentation/dispatcher.py", line 274, in wrapper
+    result = func(*args, **kwargs)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/llama_index/core/base/base_query_engine.py", line 53, in query
+    query_result = self._query(str_or_query_bundle)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/llama_index/core/instrumentation/dispatcher.py", line 274, in wrapper
+    result = func(*args, **kwargs)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/llama_index/core/query_engine/retriever_query_engine.py", line 190, in _query
+    response = self._response_synthesizer.synthesize(
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/llama_index/core/instrumentation/dispatcher.py", line 274, in wrapper
+    result = func(*args, **kwargs)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/llama_index/core/response_synthesizers/base.py", line 242, in synthesize
+    response_str = self.get_response(
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/llama_index/core/instrumentation/dispatcher.py", line 274, in wrapper
+    result = func(*args, **kwargs)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/llama_index/core/response_synthesizers/compact_and_refine.py", line 43, in get_response
+    return super().get_response(
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/llama_index/core/instrumentation/dispatcher.py", line 274, in wrapper
+    result = func(*args, **kwargs)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/llama_index/core/response_synthesizers/refine.py", line 183, in get_response
+    response = self._give_response_single(
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/llama_index/core/response_synthesizers/refine.py", line 238, in _give_response_single
+    program(
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/llama_index/core/response_synthesizers/refine.py", line 84, in __call__
+    answer = self._llm.predict(
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/llama_index/core/instrumentation/dispatcher.py", line 274, in wrapper
+    result = func(*args, **kwargs)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/llama_index/core/llms/llm.py", line 434, in predict
+    response = self.complete(formatted_prompt, formatted=True)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/llama_index/core/llms/callbacks.py", line 323, in wrapped_llm_predict
+    f_return_val = f(_self, *args, **kwargs)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/llama_index/llms/huggingface/base.py", line 358, in complete
+    tokens = self._model.generate(
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/transformers/generation/utils.py", line 1622, in generate
+    result = self._sample(
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/transformers/generation/utils.py", line 2791, in _sample
+    outputs = self(
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/transformers/models/llama/modeling_llama.py", line 1208, in forward
+    outputs = self.model(
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/transformers/models/llama/modeling_llama.py", line 1018, in forward
+    layer_outputs = decoder_layer(
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/transformers/models/llama/modeling_llama.py", line 756, in forward
+    hidden_states = self.mlp(hidden_states)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/users/aca19sjs/.local/lib/python3.9/site-packages/transformers/models/llama/modeling_llama.py", line 240, in forward
+    down_proj = self.down_proj(self.act_fn(self.gate_proj(x)) * self.up_proj(x))
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 94.00 MiB. GPU 

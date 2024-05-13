@@ -1,71 +1,72 @@
 # -*- coding: utf-8 -*-
 
-from bert_score import score
-from accelerate import Accelerator
-from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, TrainingArguments, pipeline, logging
-
-from llama_index.core.postprocessor import SimilarityPostprocessor
-from llama_index.core.query_engine import RetrieverQueryEngine
-from llama_index.core.retrievers import VectorIndexRetriever
-from llama_index.core import VectorStoreIndex, PromptTemplate, Settings, Document, Response, get_response_synthesizer
-from llama_index.core.evaluation import FaithfulnessEvaluator,RelevancyEvaluator,CorrectnessEvaluator, BatchEvalRunner
-from llama_index.core.llama_dataset import LabelledRagDataset, CreatedBy, CreatedByType, LabelledRagDataExample
-from llama_index.llms.huggingface import HuggingFaceLLM
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
-from llama_index.llms.openai import OpenAI
-from llama_index.readers.file import XMLReader
-
-from readers.authorReader import authorReader
-from readers.grantReader import grantReader
-from readers.journalReader import journalReader
-from readers.publicationReader import publicationReader # type: ignore
-
-from bs4 import BeautifulSoup
 from datasets import load_dataset # type: ignore
 from pathlib import Path
-import torch
-import calendar
-import spacy
-import asyncio
-import random
-import bert_score
+import torch # type: ignore
+import random # type: ignore
 import os
 import sys
-import nest_asyncio
-import numpy as np
+import nest_asyncio # type: ignore
+import numpy as np # type: ignore
 
 nest_asyncio.apply()
 oAI_token = sys.argv[1]
 hfToken = sys.argv[2]
 os.environ['OPENAI_API_KEY'] = oAI_token
+os.environ['TRANSFORMERS_CACHE'] = '/mnt/parscratch/users/aca19sjs/models'
+os.environ['HF_HOME'] = '/mnt/parscratch/users/aca19sjs/models'
+
+from bert_score import score # type: ignore
+#from accelerate import Accelerator # type: ignore
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, TrainingArguments, pipeline, logging # type: ignore
+#from deepeval import evaluate # type: ignore
+#from deepeval.models.base_model import DeepEvalBaseLLM # type: ignore
+#from deepeval.metrics import FaithfulnessMetric, AnswerRelevancyMetric # type: ignore
+#from deepeval.metrics.ragas import RAGASAnswerRelevancyMetric, RAGASFaithfulnessMetric # type: ignore
+#from deepeval.test_case import LLMTestCase # type: ignore
+from peft import AutoPeftModelForCausalLM, PeftModel # type: ignore
+from llama_index.core import VectorStoreIndex, PromptTemplate, Settings, SimpleDirectoryReader # type: ignore
+from llama_index.core.evaluation import FaithfulnessEvaluator, RelevancyEvaluator, CorrectnessEvaluator, SemanticSimilarityEvaluator # type: ignore
+#from llama_index.core.llama_dataset import LabelledRagDataset # type: ignore
+from llama_index.llms.huggingface import HuggingFaceLLM # type: ignore
+from llama_index.embeddings.huggingface import HuggingFaceEmbedding # type: ignore
+from llama_index.llms.openai import OpenAI # type: ignore
+from llama_index.readers.file import XMLReader # type: ignore
+
+from readers.authorReader import authorReader # type: ignore
+from readers.grantReader import grantReader # type: ignore
+from readers.journalReader import journalReader # type: ignore
+from readers.publicationReader import publicationReader # type: ignore
+
+#from LlamaEvaluator import LlamaEvaluator # type: ignore
 
 #CONTROL PANEL - USE THIS TO CHANE THINGS FOR EXPERIMENTATION
 
 #Control the language models in use
-baseModel = "DreadN0ugh7/llama-7b-chat-academy"
+baseModel = "DreadN0ugh7/ChatAcademy-Trained-13b"
 evalModel = "meta-llama/Llama-2-13b-chat-hf"
 
 #Control the embedding models in use
-embedModel = "BAAI/bge-small-en-v1.5"
+embedModel = "BAAI/bge-base-en-v1.5"
 
 #Control whether to use custom readers or the default readers
 customReaders = True
 
 #Control the chunk Size and Overlap (Due to metadata, using less than 900 is not possible.)
-chunkSize = 1024
+chunkSize = 4096
 chunkOverlap = 50
 
 #Control the number of documents retrieved from the index
-topK_Retrieved = 10
+topK_Retrieved = 3
 
 #Control which dataset is loaded and where the results are saved.
 evalDataSetName = "DreadN0ugh7/ChatAcademyEvalDataset"
-saveFileName = "results13btest"
+saveFileName = "resultsChunk4096"
 
 #END OF THE CONTROL PANEL
 
 #Loads the RAG eval dataset
-evalDataset = load_dataset(evalDataSetName)
+evalDataset = load_dataset(evalDataSetName, split = "train")
 
 #Converts the dataset into a dictionary of questions and answers.
 evalDictionary = {"questions":[], "answers": []}
@@ -77,29 +78,28 @@ compute_dtype = getattr(torch, "float16")
 
 quantization_config = BitsAndBytesConfig(
     load_in_4bit=True,
-    load_in_8bit=False,
-    bnb_4bit_compute_dtype=compute_dtype,
+    bnb_4bit_compute_dtype=torch.float16,
     bnb_4bit_quant_type="nf4",
-    bnb_4bit_use_double_quant=True
+    bnb_4bit_use_double_quant=True,
 )
 
 llm = HuggingFaceLLM(
-    model_name= baseModel,
-    tokenizer_name= baseModel,
+    model_name = baseModel,
+    tokenizer_name = baseModel,
     query_wrapper_prompt=PromptTemplate("<s> [INST] {query_str} [/INST] "),
     context_window=3900,
     model_kwargs={"token": hfToken, "quantization_config": quantization_config},
-    tokenizer_kwargs={"token": hfToken},
+    tokenizer_kwargs={"token": hfToken, "quantization_config": quantization_config},
     device_map="auto"
 )
 
 evalLLM = HuggingFaceLLM(
-    model_name= evalModel,
-    tokenizer_name= evalModel,
+    model_name = evalModel,
+    tokenizer_name = evalModel,
     query_wrapper_prompt=PromptTemplate("<s> [INST] {query_str} [/INST] "),
     context_window=3900,
     model_kwargs={"token": hfToken, "quantization_config": quantization_config},
-    tokenizer_kwargs={"token": hfToken},
+    tokenizer_kwargs={"token": hfToken, "quantization_config": quantization_config},
     device_map="auto"
 )
 
@@ -115,49 +115,49 @@ def absoluteFilePaths(directory):
     return files
 
 #Actually gets the filepaths for all the data
+
 publicationFiles = absoluteFilePaths("data/publications")
 authorFiles = absoluteFilePaths("data/staff")
 grantFiles = absoluteFilePaths("data/grants")
 journalFiles = absoluteFilePaths("data/journals")
-
+"""
+publicationFiles = absoluteFilePaths("data/publications")
+authorFiles = absoluteFilePaths("com/staff")
+grantFiles = absoluteFilePaths("com/grants")
+journalFiles = absoluteFilePaths("com/journals")
+relationFiles = absoluteFilePaths("com/relationships")
+"""
 #Uses the files to create documents for our index
 docs = []
 
 readerConfig = ""
 if customReaders == True:
-
-    print(publicationReader(publicationFiles) == None)
-    print(authorReader(authorFiles)== None)
-    print(journalReader(journalFiles)== None)
-    print(grantReader(grantFiles)== None)
-
+    #relReader = SimpleDirectoryReader(input_dir = "com/relationships/")
+    #relDocs = relReader.load_data()
     docs = publicationReader(publicationFiles) + authorReader(authorFiles) + grantReader(grantFiles) + journalReader(journalFiles)
     readerConfig = "Custom readers are in use.\n"
 else:
-    evalDataset = LabelledRagDataset.from_json("Datasets/NoJournalsEvaluationSet.json")
-    evalDictionary["questions"] = [example.dict()["query"] for example in evalDataset.examples]
-    evalDictionary["answers"] = [example.dict()["reference_answer"] for example in evalDataset.examples]
-    sampleIndex =random.sample(range(len(evalDataset.examples)), sampleSize)
-
-    evalDictionary["questions"] = [evalDictionary["questions"][i] for i in sampleIndex]
-    evalDictionary["answers"] = [evalDictionary["answers"][i] for i in sampleIndex]
-    allFiles = publicationFiles + authorFiles + grantFiles
+    allFiles = publicationFiles + authorFiles + grantFiles + journalFiles
     loader = XMLReader()
     for file in allFiles:
-        docs=loader.load_data(file=Path(file))
+        try:
+            docs=loader.load_data(file=Path(file))
+        except:
+            print("read error")
     readerConfig = "The standard xml reader is in use.\n"
+
 
 #Sets the config settings for the system
 Settings.chunk_size = chunkSize
 Settings.chunk_overlap = chunkOverlap
-Settings.embed_model = HuggingFaceEmbedding(model_name = embedModel)
+Settings.embed_model = HuggingFaceEmbedding(model_name = embedModel, trust_remote_code=True)
 Settings.llm = llm
 
 #Generates the index from the documents
 index = VectorStoreIndex.from_documents(docs)
 
 #Assemble query engine
-query_engine = index.as_query_engine(llm = llm, similarity_top_k= topK_Retrieved,)
+query_engine = index.as_query_engine(llm = llm, similarity_top_k= topK_Retrieved)
 
 #Creates a string with the config settings for the results file.
 fileOutput ="*** Current Config ***\n"
@@ -168,60 +168,105 @@ fileOutput = fileOutput + f"The number of documents retrieved per query are: {to
 fileOutput = fileOutput + f"The chunk size is: {chunkSize}\n"
 fileOutput = fileOutput + f"The chunk overlap is: {chunkOverlap}\n"
 fileOutput = fileOutput + f"The embedding model is: {embedModel}\n\n"
-fileOutput = fileOutput + f"There are {len(evalDataset.examples)} examples in the dataset.\n"
-fileOutput = fileOutput + f"There are 500 examples being used from this to evaluate the system.\n\n"
+fileOutput = fileOutput + f"There are 500 examples being used to evaluate the system.\n\n"
 fileOutput = fileOutput + f"*** LlamaIndex Evaluators ***\n\n"
 
 #Creates the evaluators and evaluates the dataset
+correctnessEval = CorrectnessEvaluator(llm=gptLLM)
 faithfulnessEval = FaithfulnessEvaluator(llm=evalLLM)
 relevancyEval = RelevancyEvaluator(llm=evalLLM)
-correctnessEval = CorrectnessEvaluator(llm=gptLLM)
+semSimilarEval = SemanticSimilarityEvaluator()
 
-runner = BatchEvalRunner(
-    {"faithfulness": faithfulnessEval, "relevancy": relevancyEval, "correctness": correctnessEval},
-    workers=8,
-)
+correctTotal = faithfulTotal = relevantTotal = semSimilarityTotal = 0.0
+correctCounter = faithfulCounter = relevantCounter= semSimilarityCounter = 0
 
-keys =["faithfulness","relevancy","correctness"]
+responses = []
 
-evalResults = runner.evaluate_queries(
-    query_engine, queries= evalDictionary["questions"], reference= evalDictionary["answers"]
-)
+for i in range(len(evalDictionary["questions"])):
 
-#Collates the evaluations into a single value for the system
-def get_eval_results(keys, eval_results):
-    resultsStr = str("")                                     
-    for key in keys:
-        score = 0
-        results = eval_results[key]
-        if key == "correctness":
-            correct = 0.0
-            counter = 0
-            for result in results:
-                try:
-                    correct += result.score
-                    counter+=1
-                except TypeError:
-                    print("no score")
-            score = correct / counter
-        else:
-            correct = 0
-            for result in results:
-                if result.score != None:
-                    counter +=1
-                    if result.passing:
-                        correct += 1
-            score = correct / len(results)
-        resultsStr = resultsStr + f"The {key} score is {score}.\n"
-    return resultsStr
+    query = evalDictionary["questions"][i]
+    expectedOutput = evalDictionary["answers"][i]
+
+    responseObject = query_engine.query(query)
+
+    retrievalContext = [node.get_content() for node in responseObject.source_nodes]
+    response = responseObject.response
+
+    responses.append(response)
+    try:
+        correctnessResult = correctnessEval.evaluate_response(
+            query=query,
+            response=responseObject,
+            reference=expectedOutput,
+        )
+    except TypeError:
+        print("type error lmao")
+    except ValueError:
+        print("value error lmao")
+    else:
+        try:
+            correctTotal += correctnessResult.score
+            correctCounter +=1
+            print("\ncorrectness\n")
+            print(correctnessResult.score)
+            print(correctnessResult.feedback)
+        except TypeError:
+            print("no correctness score")
+    
+    relevancyResult = relevancyEval.evaluate_response(
+        query=query,
+        response=responseObject,
+    )
+    try:
+        relevantTotal += relevancyResult.score
+        relevantCounter+=1
+        print("\nrelevancy\n")
+        print(relevancyResult.score)
+        print(relevancyResult.feedback)
+    except TypeError:
+        print("no relevancy score")
+    
+    faithfulResult = faithfulnessEval.evaluate_response(
+        query=query,
+        response=responseObject,
+    )
+    try:
+        faithfulTotal += faithfulResult.score
+        faithfulCounter+=1
+        print("\nfaithfulness\n")
+        print(faithfulResult.score)
+        print(faithfulResult.feedback)
+    except TypeError:
+        print("no relevancy score")
+
+    semSimilarityResult = semSimilarEval.evaluate_response(
+        reference=expectedOutput,
+        response=responseObject
+    )
+    try:
+        semSimilarityTotal += semSimilarityResult.score
+        semSimilarityCounter+=1
+        print("\nsemantic similarity\n")
+        print(semSimilarityResult.score)
+        print(semSimilarityResult.feedback)
+    except TypeError:
+        print("no semantic similarity score")
+
+correctScore = correctTotal / correctCounter
+faithfulScore = faithfulTotal / faithfulCounter
+relevantScore = relevantTotal / relevantCounter
+semSimilarityScore = semSimilarityTotal / semSimilarityCounter
+
 
 #Calculates the bert score
-refs =[x.response for x in evalResults["faithfulness"]]
-P, R, F1 = score(evalDictionary["answers"], refs, lang='en', verbose=True)
+P, R, F1 = score(evalDictionary["answers"], responses, lang='en', verbose=True)
 
 #Prints the output to the results file
 file1 = open(os.path.join("Results", saveFileName +".txt"), "w")
-fileOutput = fileOutput + get_eval_results(keys, evalResults)
+fileOutput = fileOutput + f"The correctness score is {correctScore}.\n"
+fileOutput = fileOutput + f"The faithfulness score is {faithfulScore}.\n"
+fileOutput = fileOutput + f"The relevancy score is {relevantScore }.\n"
+fileOutput = fileOutput + f"The semantic similarity score is {semSimilarityScore}.\n"
 fileOutput = fileOutput + f"*** Bertscore Metrics ***\n\n"
 fileOutput = fileOutput + f"System level F1 score is {F1.mean():.3f}.\n"
 fileOutput = fileOutput + f"System level recall score is {R.mean():.3f}.\n"
