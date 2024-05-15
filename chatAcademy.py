@@ -215,7 +215,6 @@ with open(os.path.join("Results", saveFileName + ".txt"), "w") as file1:
             correctTotal += correctnessResult.score
             correctCounter += 1
             file1.write(f"Correctness Score: {correctnessResult.score}\n")
-            file1.write(f"Feedback: {correctnessResult.feedback}\n\n")
 
         relevancyResult = relevancyEval.evaluate_response(
             query=query,
@@ -225,7 +224,6 @@ with open(os.path.join("Results", saveFileName + ".txt"), "w") as file1:
             relevantTotal += relevancyResult.score
             relevantCounter+=1
             file1.write(f"Relevancy Score: {relevancyResult.score}\n")
-            file1.write(f"Feedback: {relevancyResult.feedback}\n\n")
         except TypeError:
             file1.write("No relevancy score\n")
 
@@ -237,7 +235,6 @@ with open(os.path.join("Results", saveFileName + ".txt"), "w") as file1:
             faithfulTotal += faithfulResult.score
             faithfulCounter+=1
             file1.write(f"Faithfulness Score: {faithfulResult.score}\n")
-            file1.write(f"Feedback: {faithfulResult.feedback}\n\n")
         except TypeError:
             file1.write("No faithfulness score\n")
 
@@ -249,7 +246,6 @@ with open(os.path.join("Results", saveFileName + ".txt"), "w") as file1:
             semSimilarityTotal += semSimilarityResult.score
             semSimilarityCounter+=1
             file1.write(f"Semantic Similarity Score: {semSimilarityResult.score}\n")
-            file1.write(f"Feedback: {semSimilarityResult.feedback}\n\n")
         except TypeError:
             file1.write("No semantic similarity score\n")
 
