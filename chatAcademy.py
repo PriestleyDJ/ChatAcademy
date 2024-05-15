@@ -8,13 +8,25 @@ import os
 import sys
 import nest_asyncio # type: ignore
 import numpy as np # type: ignore
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, TrainingArguments, pipeline, logging # type: ignore
+
 
 nest_asyncio.apply()
 oAI_token = sys.argv[1]
 hfToken = sys.argv[2]
+
+# Define the directory paths
+transformers_cache_dir = '/mnt/parscratch/users/acb19es/models'
+hf_home_dir = '/mnt/parscratch/users/acb19es/models'
+
+# Create the directories if they do not exist
+os.makedirs(transformers_cache_dir, exist_ok=True)
+os.makedirs(hf_home_dir, exist_ok=True)
+
+# Set the environment variables
+os.environ['TRANSFORMERS_CACHE'] = transformers_cache_dir
+os.environ['HF_HOME'] = hf_home_dir
 os.environ['OPENAI_API_KEY'] = oAI_token
-os.environ['TRANSFORMERS_CACHE'] = '/mnt/parscratch/users/aca19sjs/models'
-os.environ['HF_HOME'] = '/mnt/parscratch/users/aca19sjs/models'
 
 from bert_score import score # type: ignore
 #from accelerate import Accelerator # type: ignore
@@ -43,11 +55,11 @@ from readers.publicationReader import publicationReader # type: ignore
 #CONTROL PANEL - USE THIS TO CHANGE THINGS FOR EXPERIMENTATION
 
 #Control the language models in use
-baseModel = "DreadN0ugh7/ChatAcademy-Trained-13b"
+baseModel = "DreadN0ugh7/llama-7b-chat-academy"
 evalModel = "meta-llama/Llama-2-13b-chat-hf"
 
 #Control the embedding models in use
-embedModel = "BAAI/bge-base-en-v1.5"
+embedModel = "BAAI/bge-small-en-v1.5"
 
 #Control whether to use custom readers or the default readers
 customReaders = True
@@ -82,6 +94,14 @@ quantization_config = BitsAndBytesConfig(
     bnb_4bit_quant_type="nf4",
     bnb_4bit_use_double_quant=True,
 )
+
+# Update the tokenizer to match the checkpoint
+tokenizer = AutoTokenizer.from_pretrained(baseModel, use_fast=True)
+model = AutoModelForCausalLM.from_pretrained(baseModel)
+
+# Ensure tokenizer's vocab size matches model's expected vocab size
+if tokenizer.vocab_size != model.config.vocab_size:
+    model.resize_token_embeddings(len(tokenizer))
 
 llm = HuggingFaceLLM(
     model_name = baseModel,
