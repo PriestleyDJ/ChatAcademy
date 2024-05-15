@@ -40,7 +40,7 @@ from readers.publicationReader import publicationReader # type: ignore
 
 #from LlamaEvaluator import LlamaEvaluator # type: ignore
 
-#CONTROL PANEL - USE THIS TO CHANE THINGS FOR EXPERIMENTATION
+#CONTROL PANEL - USE THIS TO CHANGE THINGS FOR EXPERIMENTATION
 
 #Control the language models in use
 baseModel = "DreadN0ugh7/ChatAcademy-Trained-13b"
@@ -103,7 +103,7 @@ evalLLM = HuggingFaceLLM(
     device_map="auto"
 )
 
-#DO NOT CHANGE THIS LINE UNDER ANY CIRCUMNSTANCE
+#DO NOT CHANGE THIS LINE UNDER ANY CIRCUMSTANCE
 gptLLM  = OpenAI("gpt-3.5-turbo-0125")
 
 #Defines a method to get the filepaths of the XML files
@@ -182,94 +182,94 @@ correctCounter = faithfulCounter = relevantCounter= semSimilarityCounter = 0
 
 responses = []
 
-for i in range(len(evalDictionary["questions"])):
+# Open file to write results
+with open(os.path.join("Results", saveFileName + ".txt"), "w") as file1:
+    # Write initial configuration details
+    file1.write(fileOutput)
 
-    query = evalDictionary["questions"][i]
-    expectedOutput = evalDictionary["answers"][i]
+    for i in range(30):  # Limiting to the first 30 Q&A pairs
+        query = evalDictionary["questions"][i]
+        expectedOutput = evalDictionary["answers"][i]
 
-    responseObject = query_engine.query(query)
+        responseObject = query_engine.query(query)
 
-    retrievalContext = [node.get_content() for node in responseObject.source_nodes]
-    response = responseObject.response
+        retrievalContext = [node.get_content() for node in responseObject.source_nodes]
+        response = responseObject.response
 
-    responses.append(response)
-    try:
-        correctnessResult = correctnessEval.evaluate_response(
+        responses.append(response)
+
+        # Write query and generated response
+        file1.write(f"Query {i + 1}: {query}\n")
+        file1.write(f"Generated Response {i + 1}: {response}\n")
+        file1.write(f"Expected Output {i + 1}: {expectedOutput}\n\n")
+
+        try:
+            correctnessResult = correctnessEval.evaluate_response(
+                query=query,
+                response=responseObject,
+                reference=expectedOutput,
+            )
+        except (TypeError, ValueError) as e:
+            file1.write(f"Error in correctness evaluation: {e}\n")
+        else:
+            correctTotal += correctnessResult.score
+            correctCounter += 1
+            file1.write(f"Correctness Score: {correctnessResult.score}\n")
+            file1.write(f"Feedback: {correctnessResult.feedback}\n\n")
+
+        relevancyResult = relevancyEval.evaluate_response(
             query=query,
             response=responseObject,
-            reference=expectedOutput,
         )
-    except TypeError:
-        print("type error lmao")
-    except ValueError:
-        print("value error lmao")
-    else:
         try:
-            correctTotal += correctnessResult.score
-            correctCounter +=1
-            print("\ncorrectness\n")
-            print(correctnessResult.score)
-            print(correctnessResult.feedback)
+            relevantTotal += relevancyResult.score
+            relevantCounter+=1
+            file1.write(f"Relevancy Score: {relevancyResult.score}\n")
+            file1.write(f"Feedback: {relevancyResult.feedback}\n\n")
         except TypeError:
-            print("no correctness score")
-    
-    relevancyResult = relevancyEval.evaluate_response(
-        query=query,
-        response=responseObject,
-    )
-    try:
-        relevantTotal += relevancyResult.score
-        relevantCounter+=1
-        print("\nrelevancy\n")
-        print(relevancyResult.score)
-        print(relevancyResult.feedback)
-    except TypeError:
-        print("no relevancy score")
-    
-    faithfulResult = faithfulnessEval.evaluate_response(
-        query=query,
-        response=responseObject,
-    )
-    try:
-        faithfulTotal += faithfulResult.score
-        faithfulCounter+=1
-        print("\nfaithfulness\n")
-        print(faithfulResult.score)
-        print(faithfulResult.feedback)
-    except TypeError:
-        print("no relevancy score")
+            file1.write("No relevancy score\n")
 
-    semSimilarityResult = semSimilarEval.evaluate_response(
-        reference=expectedOutput,
-        response=responseObject
-    )
-    try:
-        semSimilarityTotal += semSimilarityResult.score
-        semSimilarityCounter+=1
-        print("\nsemantic similarity\n")
-        print(semSimilarityResult.score)
-        print(semSimilarityResult.feedback)
-    except TypeError:
-        print("no semantic similarity score")
+        faithfulResult = faithfulnessEval.evaluate_response(
+            query=query,
+            response=responseObject,
+        )
+        try:
+            faithfulTotal += faithfulResult.score
+            faithfulCounter+=1
+            file1.write(f"Faithfulness Score: {faithfulResult.score}\n")
+            file1.write(f"Feedback: {faithfulResult.feedback}\n\n")
+        except TypeError:
+            file1.write("No faithfulness score\n")
 
-correctScore = correctTotal / correctCounter
-faithfulScore = faithfulTotal / faithfulCounter
-relevantScore = relevantTotal / relevantCounter
-semSimilarityScore = semSimilarityTotal / semSimilarityCounter
+        semSimilarityResult = semSimilarEval.evaluate_response(
+            reference=expectedOutput,
+            response=responseObject
+        )
+        try:
+            semSimilarityTotal += semSimilarityResult.score
+            semSimilarityCounter+=1
+            file1.write(f"Semantic Similarity Score: {semSimilarityResult.score}\n")
+            file1.write(f"Feedback: {semSimilarityResult.feedback}\n\n")
+        except TypeError:
+            file1.write("No semantic similarity score\n")
 
+    # Calculate the final scores
+    correctScore = correctTotal / correctCounter
+    faithfulScore = faithfulTotal / faithfulCounter
+    relevantScore = relevantTotal / relevantCounter
+    semSimilarityScore = semSimilarityTotal / semSimilarityCounter
 
-#Calculates the bert score
-P, R, F1 = score(evalDictionary["answers"], responses, lang='en', verbose=True)
+    # Calculates the BERT score
+    P, R, F1 = score(evalDictionary["answers"], responses, lang='en', verbose=True)
 
-#Prints the output to the results file
-file1 = open(os.path.join("Results", saveFileName +".txt"), "w")
-fileOutput = fileOutput + f"The correctness score is {correctScore}.\n"
-fileOutput = fileOutput + f"The faithfulness score is {faithfulScore}.\n"
-fileOutput = fileOutput + f"The relevancy score is {relevantScore }.\n"
-fileOutput = fileOutput + f"The semantic similarity score is {semSimilarityScore}.\n"
-fileOutput = fileOutput + f"*** Bertscore Metrics ***\n\n"
-fileOutput = fileOutput + f"System level F1 score is {F1.mean():.3f}.\n"
-fileOutput = fileOutput + f"System level recall score is {R.mean():.3f}.\n"
-fileOutput = fileOutput + f"System level precision score is {P.mean():.3f}.\n"
-file1.write(str(fileOutput))
-file1.close()
+    # Write final scores to the results file
+    fileOutput = fileOutput + f"The correctness score is {correctScore}.\n"
+    fileOutput = fileOutput + f"The faithfulness score is {faithfulScore}.\n"
+    fileOutput = fileOutput + f"The relevancy score is {relevantScore}.\n"
+    fileOutput = fileOutput + f"The semantic similarity score is {semSimilarityScore}.\n"
+    fileOutput = fileOutput + f"*** Bertscore Metrics ***\n\n"
+    fileOutput = fileOutput + f"System level F1 score is {F1.mean():.3f}.\n"
+    fileOutput = fileOutput + f"System level recall score is {R.mean():.3f}.\n"
+    fileOutput = fileOutput + f"System level precision score is {P.mean():.3f}.\n"
+    file1.write(str(fileOutput))
+    file1.close()

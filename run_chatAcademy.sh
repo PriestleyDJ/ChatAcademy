@@ -5,7 +5,7 @@
 #SBATCH --nodes=1
 #SBATCH --gres=gpu:1
 #SBATCH --mem=334GB  
-#SBATCH --mail-user=sjsteele1@sheffield.ac.uk
+#SBATCH --mail-user=acb19es@sheffield.ac.uk
 #SBATCH --mail-type=ALL
 
 module load Anaconda3/2022.05
