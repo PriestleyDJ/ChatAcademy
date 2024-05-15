@@ -55,14 +55,14 @@ from readers.publicationReader import publicationReader # type: ignore
 #CONTROL PANEL - USE THIS TO CHANGE THINGS FOR EXPERIMENTATION
 
 #Control the language models in use
-baseModel = "DreadN0ugh7/llama-7b-chat-academy"
+baseModel = "meta-llama/Llama-2-13b-chat-hf"
 evalModel = "meta-llama/Llama-2-13b-chat-hf"
 
 #Control the embedding models in use
 embedModel = "BAAI/bge-small-en-v1.5"
 
 #Control whether to use custom readers or the default readers
-customReaders = True
+customReaders = False
 
 #Control the chunk Size and Overlap (Due to metadata, using less than 900 is not possible.)
 chunkSize = 4096
@@ -95,13 +95,6 @@ quantization_config = BitsAndBytesConfig(
     bnb_4bit_use_double_quant=True,
 )
 
-# Update the tokenizer to match the checkpoint
-tokenizer = AutoTokenizer.from_pretrained(baseModel, use_fast=True)
-model = AutoModelForCausalLM.from_pretrained(baseModel)
-
-# Ensure tokenizer's vocab size matches model's expected vocab size
-if tokenizer.vocab_size != model.config.vocab_size:
-    model.resize_token_embeddings(len(tokenizer))
 
 llm = HuggingFaceLLM(
     model_name = baseModel,
