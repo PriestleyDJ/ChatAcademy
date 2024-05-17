@@ -13,5 +13,5 @@ module load CUDA/11.8.0
 
 source activate chatAcademy
 
-python chatAcademy.py $1 $2
+python modelTrainer.py $1 $2
 

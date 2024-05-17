@@ -1,23 +1,15 @@
 --find-links https://download.pytorch.org/whl/cu118
 torch
 transformers
-accelerate
+accelerate == 0.20.3
 bitsandbytes
 bert-score
 beautifulsoup4
 datasets
-tensorflow
-peft
-trl
-huggingface_hub
 deepeval
-lxml
-spacy
-scikit-learn
+tensorflow
+trl
+peft
 llama-index
-llama-index-llms-openai
 llama-index-llms-huggingface
-llama-index-embeddings-openai
 llama-index-embeddings-huggingface
-llama-index-readers-file
-gradio
