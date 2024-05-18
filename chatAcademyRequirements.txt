@@ -1,0 +1,14 @@
+--find-links https://download.pytorch.org/whl/cu118
+torch
+accelerate == 0.20.3
+transformers
+bitsandbytes > 0.40.0
+bert-score == 0.3.13
+tiktoken == 0.6.0
+greenlet > 3.0.0
+SQLAlchemy > 2.0.26
+beautifulsoup4 > 4.10.0
+datasets > 2.15.0
+llama-index > 0.8.0
+llama-index-llms-huggingface
+llama-index-embeddings-huggingface

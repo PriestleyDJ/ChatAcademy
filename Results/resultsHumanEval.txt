@@ -1,0 +1,384 @@
+*** Current Config ***
+The llm is: meta-llama/Llama-2-13b-chat-hf
+The evaluation llm is: meta-llama/Llama-2-13b-chat-hf
+Custom readers are in use.
+The number of documents retrieved per query are: 3
+The chunk size is: 2048
+The chunk overlap is: 50
+The embedding model is: BAAI/bge-small-en-v1.5
+
+There are 500 examples being used to evaluate the system.
+
+*** LlamaIndex Evaluators ***
+
+Query 1: What are some keywords associated with Examining the Psychological Consequences of Surviving Childhood Cancer: Systematic Review as a Research Method in Pediatric Psychology?
+Generated Response 1: Based on the context information provided, some keywords associated with "Examining the Psychological Consequences of Surviving Childhood Cancer: Systematic Review as a Research Method in Pediatric Psychology" are:
+
+1. Childhood cancer
+2. Psychological consequences
+3. Survivors
+4. Systematic review
+5. Pediatric psychology
+6. Adjustment
+7. Follow-up care
+8. Self-efficacy
+9. Vulnerability to health issues
+10. Late-effects follow-up clinics.
+Expected Output 1: According to the retrieved contexts, some keywords associated with the paper are Adaptation, Psychological, Adolescent, Adult, Anxiety Disorders, Child, Depressive Disorder, Humans, Neoplasms, Self Concept, Sick Role, Survivors.
+
+Correctness Score: 4.0
+Relevancy Score: 0.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.7826461628150803
+Query 2: What are some keywords associated with CD44 Is a Marker of Endocervical Neoplasia?
+Generated Response 2: Based on the context information provided, some keywords associated with CD44 Is a Marker of Endocervical Neoplasia are:
+
+1. CD44
+2. Endocervical neoplasia
+3. Cervical glandular intraepithelial neoplasia
+4. Adenocarcinoma
+5. Reserve cells
+6. Stroma
+7. Immunohistochemistry
+8. Antibodies
+9. Expression
+10. Intestinal epithelial cells
+
+These keywords are related to the topic of CD44 expression in endocervical neoplasia and its potential use as a diagnostic marker.
+Expected Output 2: According to the retrieved contexts, some keywords associated with the paper are Adenocarcinoma, Antibodies, Monoclonal, Biomarkers, Tumor, Carcinoma, Squamous Cell, Female, Humans, Hyaluronan Receptors, Immunohistochemistry, Uterine Cervical Neoplasms, Uterine Cervical Dysplasia.
+
+Correctness Score: 4.5
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.7816350614667429
+Query 3: When did Wai Tham join the University of Sheffield?
+Generated Response 3: Based on the context information provided, Mr. Wai Tham joined the University of Sheffield on November 10, 2004.
+Expected Output 3: According to the retrieved contexts, Wai Tham joined the University of Sheffield on 10 November 2004.
+
+Correctness Score: 5.0
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.9596662022921846
+Query 4: In which journal was Microsatellite instability and the PTEN1 gene mutation in a subset of early onset gliomas carrying germline mutation or promoter methylation of the hMLH1 gene published?
+Generated Response 4: Based on the context information provided, the answer to the query is:
+
+Oncogene.
+
+The paper "Microsatellite instability and the PTEN1 gene mutation in a subset of early onset gliomas carrying germline mutation or promoter methylation of the hMLH1 gene" was published in the journal Oncogene.
+Expected Output 4: According to the retrieved contexts, the paper was published in the journal Oncogene.
+
+Correctness Score: 5.0
+Relevancy Score: 1.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.6713559950472185
+Query 5: What is the ISSN of Rutherford Journal?
+Generated Response 5: Based on the context information provided, the ISSN of Rutherford Journal is:
+
+1177-1380
+Expected Output 5: According to the retrieved contexts, The ISSN of the journal is 1177-1380.
+
+Correctness Score: 4.5
+Relevancy Score: 0.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.8195270826629691
+Query 6: In which journal was Mechanisms of Helicobacter pylori-induced rat gastric mucosal microcirculatory disturbances in vivo published?
+Generated Response 6: Based on the context information provided, the paper "Mechanisms of Helicobacter pylori-induced rat gastric mucosal microcirculatory disturbances in vivo" was published in the journal Digestive Diseases and Sciences.
+Expected Output 6: According to the retrieved contexts, the paper was published in the journal Digestive Diseases and Sciences.
+
+Correctness Score: 4.5
+Relevancy Score: 0.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.7617555540058039
+Query 7: In which journal was Incremental Cost of Medical Care after Hip Fracture and First Vertebral Fracture: The Rotterdam Study published?
+Generated Response 7: Based on the context information provided, the Incremental Cost of Medical Care after Hip Fracture and First Vertebral Fracture: The Rotterdam Study was published in the journal "Osteoporosis International."
+Expected Output 7: According to the retrieved contexts, the paper was published in the journal Osteoporosis International.
+
+Correctness Score: 4.5
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.7743437842793037
+Query 8: Who are the authors of Simulation Models in the Planning of Health Care Facilities: An Application in the Case of Neonatal Extracorporeal Membrane Oxygenation?
+Generated Response 8: Based on the context information provided, the authors of the paper "Simulation Models in the Planning of Health Care Facilities: An Application in the Case of Neonatal Extracorporeal Membrane Oxygenation" are:
+
+1. Bowine C Michel
+2. Rob JE van Staveren
+3. Wil B Geven
+4. Ben A van Hout
+
+Please note that the authors' initials are not provided in the context information, so I had to infer them based on the names provided.
+Expected Output 8: According to the retrieved contexts, the authors of the paper Simulation Models in the Planning of Health Care Facilities: An Application in the Case of Neonatal Extracorporeal Membrane Oxygenation are Bowine C Michel, Rob JE van Staveren, Wil B Geven and Ben A van Hout
+
+Correctness Score: 4.5
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.9388086466078789
+Query 9: In which journal was Expression of the interferon‐γ‐inducible chemokines IP‐10 and Mig and their receptor, CXCR3, in multiple sclerosis lesions published?
+Generated Response 9: Based on the context information provided, the paper "Expression of the interferon-γ-inducible chemokines IP-10 and Mig and their receptor, CXCR3, in multiple sclerosis lesions" was published in the journal "Neuropathology and Applied Neurobiology".
+Expected Output 9: According to the retrieved contexts, the paper was published in the journal Neuropathology and Applied Neurobiology.
+
+Correctness Score: 5.0
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.7375366419731723
+Query 10: When did MARS : the International Journal of Mars Science and Exploration start publishing?
+Generated Response 10: Based on the context information provided, MARS : the International Journal of Mars Science and Exploration started publishing in 2005.
+Expected Output 10: According to the retrieved contexts, The journal started publishing in 2005.
+
+Correctness Score: 5.0
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.8367510323096883
+Query 11: What is the publication year of Receptor-mediated Transcytosis of Lactoferrin through the Blood-Brain Barrier?
+Generated Response 11: Based on the context information provided, the publication year of Receptor-mediated Transcytosis of Lactoferrin through the Blood-Brain Barrier is 1999.
+Expected Output 11: According to the retrieved contexts, the paper was published in the year 1999.
+
+Correctness Score: 4.5
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.7130132885162951
+Query 12: What is the publication year of Filament behavior in a computational model of ventricular fibrillation in the canine heart?
+Generated Response 12: Based on the context information provided, the publication year of Filament behavior in a computational model of ventricular fibrillation in the canine heart is 2004.
+Expected Output 12: According to the retrieved contexts, the paper was published in the year 2004.
+
+Correctness Score: 5.0
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.688071217174796
+Query 13: Who are the authors of High dose chemotherapy?
+Generated Response 13: Based on the context information provided, the authors of the paper "High dose chemotherapy" are:
+
+1. Robert E. Coleman
+
+The paper was published in the journal Cancer on June 15, 2000.
+Expected Output 13: According to the retrieved contexts, the authors of the paper High dose chemotherapy are and  Robert E Coleman
+
+Correctness Score: 4.5
+Relevancy Score: 0.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.9117502953746831
+Query 14: What are some keywords associated with The projection structure of the low temperature K intermediate of the bacteriorhodopsin photocycle determined by electron diffraction 1 1Edited by T. Richmond?
+Generated Response 14: Based on the context information provided, some keywords associated with "The projection structure of the low temperature K intermediate of the bacteriorhodopsin photocycle determined by electron diffraction 1 1Edited by T. Richmond" are:
+
+1. Bacteriorhodopsin
+2. Photocycle
+3. Electron diffraction
+4. Low temperature
+5. K intermediate
+6. Projection structure
+7. Structural changes
+8. Membrane protein
+9. Halobacterium salinarium
+10. Journal of Molecular Biology
+
+These keywords are derived from the title and authors of the paper, as well as the context provided.
+Expected Output 14: According to the retrieved contexts, some keywords associated with the paper are Bacteriorhodopsins, Freezing, Light, Microscopy, Electron, Photic Stimulation, Protein Conformation, Spectrum Analysis, Thermodynamics, Time Factors.
+
+Error in correctness evaluation: unsupported operand type(s) for +=: 'float' and 'NoneType'
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.7396114385061072
+Query 15: What is the role of Maureen Howard at the University of Sheffield?
+Generated Response 15: Based on the context information provided, Maureen Howard is neither a student nor an academic at the University of Sheffield. Therefore, she does not have a role as a student or academic at the university.
+Expected Output 15: According to the retrieved contexts, Maureen Howard is neither a student or an academic.
+
+Correctness Score: 3.5
+Relevancy Score: 0.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.8231155859886353
+Query 16: What is the publication year of The information needs and source preferences of women with breast cancer and their family members: a review of the literature published between 1988 and 1998?
+Generated Response 16: Based on the context information provided, the publication year of "The information needs and source preferences of women with breast cancer and their family members: a review of the literature published between 1988 and 1998" is 2000.
+Expected Output 16: According to the retrieved contexts, the paper was published in the year 2000.
+
+Error in correctness evaluation: unsupported operand type(s) for +=: 'float' and 'NoneType'
+Relevancy Score: 0.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.7546841201059294
+Query 17: What is the publication year of A MITOTICALLY ACTIVE MYOMA IN ROKITANSKY–KÜSTER–HAUSER SYNDROME?
+Generated Response 17: Based on the context information provided, the publication year of "A MITOTICALLY ACTIVE MYOMA IN ROKITANSKY–KÜSTER–HAUSER SYNDROME" is 1999.
+Expected Output 17: According to the retrieved contexts, the paper was published in the year 1999.
+
+Correctness Score: 4.5
+Relevancy Score: 0.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.7070472228442812
+Query 18: In which journal was The psychometric properties of the Miller Behavioural Style Scale with adult daughters of women with early breast cancer: a literature review and empirical study published?
+Generated Response 18: Based on the context information provided, the journal in which The psychometric properties of the Miller Behavioural Style Scale with adult daughters of women with early breast cancer: a literature review and empirical study was published is the Journal of Advanced Nursing.
+Expected Output 18: According to the retrieved contexts, the paper was published in the journal Journal of Advanced Nursing.
+
+Correctness Score: 4.5
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.7736772844790687
+Query 19: What is the DOI of the paper Inbreeding of Bottlenecked Butterfly Populations: Estimation Using the Likelihood of Changes in Marker Allele Frequencies?
+Generated Response 19: Based on the context information provided, the DOI of the paper "Inbreeding of Bottlenecked Butterfly Populations: Estimation Using the Likelihood of Changes in Marker Allele Frequencies" is:
+
+10.1093/genetics/151.3.1053
+
+Please note that the DOI is a unique identifier assigned to the paper and can be used to access and cite the paper.
+Expected Output 19: According to the retrieved contexts, The DOI of the paper is 10.1093/genetics/151.3.1053.
+
+Correctness Score: 4.5
+Relevancy Score: 1.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.7905162742998723
+Query 20: Who are the authors of PCR‐based methods for identification of species of the <i>Anopheles minimus</i> group: allele‐specific amplification and single‐strand conformation polymorphism?
+Generated Response 20: Based on the context information provided, the authors of the paper "PCR-based methods for identification of species of the Anopheles minimus group: allele-specific amplification and single-strand conformation polymorphism" are:
+
+1. RG Sharpe
+2. MM Hims
+3. RE Harbach
+4. RK Butlin
+Expected Output 20: According to the retrieved contexts, the authors of the paper PCR‐based methods for identification of species of the <i>Anopheles minimus</i> group: allele‐specific amplification and single‐strand conformation polymorphism are RG Sharpe, MM Hims, RE Harbach and RK Butlin
+
+Correctness Score: 4.5
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.9886519992517596
+Query 21: Who is the publisher of Archives of Electrical Engineering?
+Generated Response 21: Based on the context information provided, the publisher of Archives of Electrical Engineering is Versita.
+Expected Output 21: According to the retrieved contexts, The publisher of the journal is Versita.
+
+Correctness Score: 4.5
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.845893251112833
+Query 22: Does Boletín SAO require a publication fee?
+Generated Response 22: Based on the context information provided, Boletín SAO does not require a publication fee. The information states that there is no publication fee for Boletín SAO. Therefore, the answer to the query is no.
+Expected Output 22: According to the retrieved contexts, the journal doesn't have a publication fee.
+
+Correctness Score: 4.5
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.6654406316862378
+Query 23: What is the DOI of the paper Computational models of the basal ganglia: from robots to membranes?
+Generated Response 23: Based on the context information provided, the DOI of the paper "Computational models of the basal ganglia: from robots to membranes" is:
+
+10.1016/j.tins.2004.06.003
+
+This information can be found in the "authors" and "title" fields, and the DOI is a unique identifier assigned to the paper by the journal.
+Expected Output 23: According to the retrieved contexts, The DOI of the paper is 10.1016/j.tins.2004.06.003.
+
+Correctness Score: 5.0
+Relevancy Score: 0.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.7761500153502953
+Query 24: What is the DOI of the paper Differential Diagnosis of Oncocytic Lesions of the Breast and Thyroid Utilizing a Semiquantitative Approach?
+Generated Response 24: Based on the context information provided, the DOI of the paper "Differential Diagnosis of Oncocytic Lesions of the Breast and Thyroid Utilizing a Semiquantitative Approach" is:
+
+10.1159/000331145
+
+Please note that the DOI is a unique identifier assigned to the paper, and it can be used to locate the paper on various online platforms and databases.
+Expected Output 24: According to the retrieved contexts, The DOI of the paper is 10.1159/000331145.
+
+Correctness Score: 4.5
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.6977132357567465
+Query 25: Who are the authors of Effects of chronic administration of Helicobacter pylori extracts on rat gastric mucosal microcirculation in vivo?
+Generated Response 25: Based on the context information provided, the authors of the paper "Effects of chronic administration of Helicobacter pylori extracts on rat gastric mucosal microcirculation in vivo" are:
+
+1. N Kalia
+2. KD Bardhan
+3. MWR Reed
+4. S Jacob
+5. NJ Brown.
+Expected Output 25: According to the retrieved contexts, the authors of the paper Effects of chronic administration of Helicobacter pylori extracts on rat gastric mucosal microcirculation in vivo are N Kalia, KD Bardhan, MWR Reed, S Jacob and NJ Brown
+
+Correctness Score: 4.5
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.9897306364601766
+Query 26: What is the publication year of A Positive Selection Vector Combining Tetracycline Resistance That Eliminates the Need for Bacterial Plating?
+Generated Response 26: Based on the context information provided, the publication year of A Positive Selection Vector Combining Tetracycline Resistance That Eliminates the Need for Bacterial Plating is 2000.
+Expected Output 26: According to the retrieved contexts, the paper was published in the year 2000.
+
+Correctness Score: 4.5
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.7008320639782583
+Query 27: Who are the authors of Modulation of Ca
+            <sup>2+</sup>
+            entry by polypeptides of the inositol 1,4,5-trisphosphate receptor (IP3R) that bind transient receptor potential (TRP): Evidence for roles of TRP and IP3R in store depletion-activated Ca
+            <sup>2+</sup>
+            entry?
+Generated Response 27: Based on the context information provided, the authors of the paper "Modulation of Ca2+ entry by polypeptides of the inositol 1,4,5-trisphosphate receptor (IP3R) that bind transient receptor potential (TRP): Evidence for roles of TRP and IP3R in store depletion-activated Ca2+ entry" are:
+
+1. Guylain Boulay
+2. Darren M Brown
+3. Ning Qin
+4. Meisheng Jiang
+5. Alexander Dietrich
+6. Michael Xi Zhu
+7. Zhangguo Chen
+8. Mariel Birnbaumer
+9. Katsuhiko Mikoshiba
+10. Lutz Birnbaumer.
+Expected Output 27: According to the retrieved contexts, the authors of the paper Modulation of Ca
+            <sup>2+</sup>
+            entry by polypeptides of the inositol 1,4,5-trisphosphate receptor (IP3R) that bind transient receptor potential (TRP): Evidence for roles of TRP and IP3R in store depletion-activated Ca
+            <sup>2+</sup>
+            entry are Guylain Boulay, Darren M Brown, Ning Qin, Meisheng Jiang, Alexander Dietrich, Michael Xi Zhu, Zhangguo Chen, Mariel Birnbaumer, Katsuhiko Mikoshiba and Lutz Birnbaumer
+
+Error in correctness evaluation: unsupported operand type(s) for +=: 'float' and 'NoneType'
+Relevancy Score: 1.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.9793521527465114
+Query 28: Does Perspectiva Educacional Formación de Profesores require a publication fee?
+Generated Response 28: Based on the context information provided, Perspectiva Educacional Formación de Profesores does not require a publication fee. The context information states that there is no publication fee for the journal. Therefore, the answer to the query is no.
+Expected Output 28: According to the retrieved contexts, the journal doesn't have a publication fee.
+
+Correctness Score: 4.5
+Relevancy Score: 0.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.7270557310277626
+Query 29: What is the publication year of Self-rated health as a risk factor for prescribed drug use and future health and social service use in older people?
+Generated Response 29: Based on the context information provided, the publication year of the paper "Self-rated health as a risk factor for prescribed drug use and future health and social service use in older people" is 1999.
+Expected Output 29: According to the retrieved contexts, the paper was published in the year 1999.
+
+Correctness Score: 5.0
+Relevancy Score: 0.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.769238898102104
+Query 30: What are some keywords associated with Prostaglandin-release impairment in the bladder epithelium of streptozotocin-induced diabetic rats?
+Generated Response 30: Based on the context information provided, some keywords associated with Prostaglandin-release impairment in the bladder epithelium of streptozotocin-induced diabetic rats are:
+
+1. Prostaglandins
+2. Bladder epithelium
+3. Streptozotocin-induced diabetes
+4. Endogenous prostaglandin
+5. Indomethacin
+6. ATP
+7. Bradykinin
+8. Epithelial layer preparations
+9. Tissue weight
+10. Nitric oxide precursor
+
+These keywords are related to the study's focus on the impairment of prostaglandin release in the bladder epithelium of diabetic rats, and the potential involvement of various mediators such as indomethacin, ATP, and bradykinin.
+Expected Output 30: According to the retrieved contexts, some keywords associated with the paper are Adenosine Triphosphate, Animals, Bradykinin, Diabetes Mellitus, Experimental, Dinoprost, Dinoprostone, Enzyme-Linked Immunosorbent Assay, In Vitro Techniques, Male, Muscle Contraction, Muscle, Smooth, Rats, Rats, Sprague-Dawley, Urinary Bladder, Urothelium.
+
+Correctness Score: 4.5
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.7359404480172445
+*** Current Config ***
+The llm is: meta-llama/Llama-2-13b-chat-hf
+The evaluation llm is: meta-llama/Llama-2-13b-chat-hf
+Custom readers are in use.
+The number of documents retrieved per query are: 3
+The chunk size is: 2048
+The chunk overlap is: 50
+The embedding model is: BAAI/bge-small-en-v1.5
+
+There are 500 examples being used to evaluate the system.
+
+*** LlamaIndex Evaluators ***
+
+The correctness score is 4.574074074074074.
+The faithfulness score is 0.9.
+The relevancy score is 0.6666666666666666.
+The semantic similarity score is 0.7947170651413213.
+*** Bertscore Metrics ***
+
+System level F1 score is 0.884.
+System level recall score is 0.860.
+System level precision score is 0.910.

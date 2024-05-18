@@ -1,0 +1,391 @@
+*** Current Config ***
+The llm is: meta-llama/Llama-2-13b-chat-hf
+The evaluation llm is: meta-llama/Llama-2-13b-chat-hf
+The standard xml reader is in use.
+The number of documents retrieved per query are: 3
+The chunk size is: 2048
+The chunk overlap is: 50
+The embedding model is: BAAI/bge-small-en-v1.5
+
+There are 500 examples being used to evaluate the system.
+
+*** LlamaIndex Evaluators ***
+
+Query 1: What are some keywords associated with Examining the Psychological Consequences of Surviving Childhood Cancer: Systematic Review as a Research Method in Pediatric Psychology?
+Generated Response 1: Based on the given context information, the query "What are some keywords associated with Examining the Psychological Consequences of Surviving Childhood Cancer: Systematic Review as a Research Method in Pediatric Psychology?" can be answered as follows:
+
+Some keywords associated with the given research paper could be:
+
+1. Childhood cancer
+2. Psychological consequences
+3. Survival
+4. Pediatric psychology
+5. Systematic review
+6. Research method
+7. Psychological impact
+8. Cancer survivors
+9. Mental health
+10. Long-term effects
+
+These keywords are relevant to the research paper's topic and can be used to retrieve related articles, studies, or resources.
+Expected Output 1: According to the retrieved contexts, some keywords associated with the paper are Adaptation, Psychological, Adolescent, Adult, Anxiety Disorders, Child, Depressive Disorder, Humans, Neoplasms, Self Concept, Sick Role, Survivors.
+
+Correctness Score: 4.5
+Relevancy Score: 1.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.822251485053334
+Query 2: What are some keywords associated with CD44 Is a Marker of Endocervical Neoplasia?
+Generated Response 2: Based on the provided context information, I cannot directly answer the query "What are some keywords associated with CD44 Is a Marker of Endocervical Neoplasia?" as there is no mention of this phrase in the provided context. However, I can provide some relevant keywords related to the topic of endocervical neoplasia based on the content of the provided context:
+
+1. Endocervical neoplasia
+2. CD44
+3. Marker
+4. Cervical cancer
+5. Precancerous lesions
+6. Cancer stem cells
+7. Tumor microenvironment
+8. Immunohistochemistry
+9. Molecular biology
+10. Diagnostic tools
+
+These keywords may be relevant to the topic of CD44 as a marker of endocervical neoplasia, but without more context, it is difficult to provide a more specific answer to the query.
+Expected Output 2: According to the retrieved contexts, some keywords associated with the paper are Adenocarcinoma, Antibodies, Monoclonal, Biomarkers, Tumor, Carcinoma, Squamous Cell, Female, Humans, Hyaluronan Receptors, Immunohistochemistry, Uterine Cervical Neoplasms, Uterine Cervical Dysplasia.
+
+Error in correctness evaluation: unsupported operand type(s) for +=: 'float' and 'NoneType'
+Relevancy Score: 1.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.8109763151612959
+Query 3: When did Wai Tham join the University of Sheffield?
+Generated Response 3: Based on the provided context information, there is no mention of Wai Tham joining the University of Sheffield. The context information is related to a Journal publication in the Directory of Open Access Journals, and the query you provided is not relevant to the provided information. Therefore, I cannot answer the query.
+Expected Output 3: According to the retrieved contexts, Wai Tham joined the University of Sheffield on 10 November 2004.
+
+Correctness Score: 1.0
+Relevancy Score: 0.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.8042347081671252
+Query 4: In which journal was Microsatellite instability and the PTEN1 gene mutation in a subset of early onset gliomas carrying germline mutation or promoter methylation of the hMLH1 gene published?
+Generated Response 4: Based on the provided context information, the query can be answered as follows:
+
+The journal in which the article "Microsatellite instability and the PTEN1 gene mutation in a subset of early onset gliomas carrying germline mutation or promoter methylation of the hMLH1 gene" was published is:
+
+Global Media Journal : Pakistan Edition
+
+The information can be found in the "ns0:object" element of the context information, specifically in the "type-display-name" attribute, which indicates that the journal is "Global Media Journal : Pakistan Edition".
+Expected Output 4: According to the retrieved contexts, the paper was published in the journal Oncogene.
+
+Correctness Score: 3.0
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.7048658256678321
+Query 5: What is the ISSN of Rutherford Journal?
+Generated Response 5: Based on the provided context information, I can answer the query as follows:
+
+The ISSN of Rutherford Journal is not specified in the provided context information. The context information only provides information about a journal with the ID "961640" and the title "Global Media Journal : Pakistan Edition", but it does not include any information about an ISSN for Rutherford Journal. Therefore, I cannot answer the query.
+Expected Output 5: According to the retrieved contexts, The ISSN of the journal is 1177-1380.
+
+Correctness Score: 2.0
+Relevancy Score: 0.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.6703061526787266
+Query 6: In which journal was Mechanisms of Helicobacter pylori-induced rat gastric mucosal microcirculatory disturbances in vivo published?
+Generated Response 6: Based on the provided context information, the journal in which the article "Mechanisms of Helicobacter pylori-induced rat gastric mucosal microcirculatory disturbances in vivo" was published is:
+
+Global Media Journal : Pakistan Edition
+
+The information can be found in the "ns0:object" element with the "id" attribute set to "961640", in the "ns0:result" element.
+Expected Output 6: According to the retrieved contexts, the paper was published in the journal Digestive Diseases and Sciences.
+
+Correctness Score: 2.0
+Relevancy Score: 0.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.7378216644099911
+Query 7: In which journal was Incremental Cost of Medical Care after Hip Fracture and First Vertebral Fracture: The Rotterdam Study published?
+Generated Response 7: Based on the context information provided, the journal in which the article "Incremental Cost of Medical Care after Hip Fracture and First Vertebral Fracture: The Rotterdam Study" was published is:
+
+Global Media Journal : Pakistan Edition
+
+The information can be found in the "ns0:records" element of the context information, specifically in the "ns0:record" element with the id "1946460". The "ns0:field" element with the name "title" contains the title of the journal, which is "Global Media Journal : Pakistan Edition".
+Expected Output 7: According to the retrieved contexts, the paper was published in the journal Osteoporosis International.
+
+Correctness Score: 2.0
+Relevancy Score: 0.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.7483459337206206
+Query 8: Who are the authors of Simulation Models in the Planning of Health Care Facilities: An Application in the Case of Neonatal Extracorporeal Membrane Oxygenation?
+Generated Response 8: Based on the provided context information, the authors of the paper "Simulation Models in the Planning of Health Care Facilities: An Application in the Case of Neonatal Extracorporeal Membrane Oxygenation" are not explicitly mentioned in the provided XML response.
+
+The XML response contains information about a journal article with the ID "961640", but it does not include the names of the authors. The response does include information about the journal, such as its title, publisher, and start year, as well as information about the article's publication fee and submission information.
+
+Therefore, without additional information or prior knowledge, it is not possible to answer the query about the authors of the paper.
+Expected Output 8: According to the retrieved contexts, the authors of the paper Simulation Models in the Planning of Health Care Facilities: An Application in the Case of Neonatal Extracorporeal Membrane Oxygenation are Bowine C Michel, Rob JE van Staveren, Wil B Geven and Ben A van Hout
+
+Error in correctness evaluation: unsupported operand type(s) for +=: 'float' and 'NoneType'
+Relevancy Score: 0.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.7326997533980376
+Query 9: In which journal was Expression of the interferon‐γ‐inducible chemokines IP‐10 and Mig and their receptor, CXCR3, in multiple sclerosis lesions published?
+Generated Response 9: Based on the given context information, the answer to the query "In which journal was Expression of the interferon‐γ‐inducible chemokines IP‐10 and Mig and their receptor, CXCR3, in multiple sclerosis lesions published?" is:
+
+Global Media Journal : Pakistan Edition.
+
+This information can be found in the "title" field of the <ns0:object> element with the ID "961640" in the context information.
+Expected Output 9: According to the retrieved contexts, the paper was published in the journal Neuropathology and Applied Neurobiology.
+
+Correctness Score: 2.0
+Relevancy Score: 0.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.6805255672047543
+Query 10: When did MARS : the International Journal of Mars Science and Exploration start publishing?
+Generated Response 10: Based on the provided context information, the query "When did MARS : the International Journal of Mars Science and Exploration start publishing?" cannot be answered.
+
+The provided context information is related to a different journal, "Global Media Journal : Pakistan Edition," and does not contain any information about the journal "MARS : the International Journal of Mars Science and Exploration." Therefore, it is not possible to answer the query based on the provided context information.
+
+To answer the query, additional information about "MARS : the International Journal of Mars Science and Exploration" would be required, such as the publication start date or other relevant details.
+Expected Output 10: According to the retrieved contexts, The journal started publishing in 2005.
+
+Correctness Score: 2.0
+Relevancy Score: 0.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.6536998133032965
+Query 11: What is the publication year of Receptor-mediated Transcytosis of Lactoferrin through the Blood-Brain Barrier?
+Generated Response 11: Based on the provided context information, I can answer the query. The publication year of "Receptor-mediated Transcytosis of Lactoferrin through the Blood-Brain Barrier" is 2008.
+
+Here's how I arrived at the answer:
+
+1. The context information is an XML response from a Symplectic API, which provides information about publications.
+2. The XML response contains an element called "ns0:object" with a category of "journal" and an ID of "961640".
+3. The element "ns0:object" contains several child elements, including "ns0:field" and "ns0:relationships".
+4. One of the "ns0:field" elements contains the name "start-year-oa" with a value of "2008".
+5. Therefore, the publication year of "Receptor-mediated Transcytosis of Lactoferrin through the Blood-Brain Barrier" is 2008.
+
+Please note that the information provided in the context is limited to the specific publication "Receptor-mediated Transcytosis of Lacto
+Expected Output 11: According to the retrieved contexts, the paper was published in the year 1999.
+
+Error in correctness evaluation: unsupported operand type(s) for +=: 'float' and 'NoneType'
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.6016119054133584
+Query 12: What is the publication year of Filament behavior in a computational model of ventricular fibrillation in the canine heart?
+Generated Response 12: Based on the provided context information, I cannot find any publication related to Filament behavior in a computational model of ventricular fibrillation in the canine heart. The provided context information is about a Journal called "Global Media Journal : Pakistan Edition" and its related information.
+
+Therefore, I cannot answer the query as there is no relevant information available in the provided context.
+Expected Output 12: According to the retrieved contexts, the paper was published in the year 2004.
+
+Correctness Score: 2.0
+Relevancy Score: 0.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.5444618309501328
+Query 13: Who are the authors of High dose chemotherapy?
+Generated Response 13: Based on the provided context information, there is no mention of "High dose chemotherapy" in the given XML response. Therefore, there is no information available about the authors of such a topic.
+Expected Output 13: According to the retrieved contexts, the authors of the paper High dose chemotherapy are and  Robert E Coleman
+
+Correctness Score: 2.0
+Relevancy Score: 0.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.6665164760268322
+Query 14: What are some keywords associated with The projection structure of the low temperature K intermediate of the bacteriorhodopsin photocycle determined by electron diffraction 1 1Edited by T. Richmond?
+Generated Response 14: Based on the given context information, I can extract some keywords associated with the paper "The projection structure of the low temperature K intermediate of the bacteriorhodopsin photocycle determined by electron diffraction" edited by T. Richmond. Here are some of the keywords:
+
+1. Bacteriorhodopsin
+2. Photocycle
+3. Low temperature K intermediate
+4. Electron diffraction
+5. Projection structure
+6. Richmond
+
+Note that these keywords are based on the title and the context information provided, and may not be exhaustive or entirely accurate.
+Expected Output 14: According to the retrieved contexts, some keywords associated with the paper are Bacteriorhodopsins, Freezing, Light, Microscopy, Electron, Photic Stimulation, Protein Conformation, Spectrum Analysis, Thermodynamics, Time Factors.
+
+Error in correctness evaluation: unsupported operand type(s) for +=: 'float' and 'NoneType'
+Relevancy Score: 0.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.7859221091828293
+Query 15: What is the role of Maureen Howard at the University of Sheffield?
+Generated Response 15: Based on the provided context information, there is no mention of a person named Maureen Howard at the University of Sheffield. The context information only contains information about a journal called "Global Media Journal : Pakistan Edition" and its related details. Therefore, there is no answer to the query "What is the role of Maureen Howard at the University of Sheffield?" as there is no mention of Maureen Howard in the provided context information.
+Expected Output 15: According to the retrieved contexts, Maureen Howard is neither a student or an academic.
+
+Correctness Score: 3.0
+Relevancy Score: 0.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.7016252009532069
+Query 16: What is the publication year of The information needs and source preferences of women with breast cancer and their family members: a review of the literature published between 1988 and 1998?
+Generated Response 16: Based on the given context information, the query you provided does not exist in the provided XML response. The response only contains information about a single journal, and there is no mention of a publication with the title "The information needs and source preferences of women with breast cancer and their family members: a review of the literature published between 1988 and 1998."
+
+Therefore, I cannot answer the query with the information provided. If you have any additional context or information, please provide it, and I will do my best to assist you.
+Expected Output 16: According to the retrieved contexts, the paper was published in the year 2000.
+
+Correctness Score: 2.0
+Relevancy Score: 0.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.6369641393589239
+Query 17: What is the publication year of A MITOTICALLY ACTIVE MYOMA IN ROKITANSKY–KÜSTER–HAUSER SYNDROME?
+Generated Response 17: Based on the provided context information, the query you are asking is not present in the response. The response contains information about a journal called "Global Media Journal : Pakistan Edition" with issue date 2008. There is no mention of any article or publication with the title "A MITOTICALLY ACTIVE MYOMA IN ROKITANSKY–KÜSTER–HAUSER SYNDROME".
+
+Therefore, I cannot answer your query as it does not exist in the provided context information. If you have any other questions or queries, please let me know and I will do my best to assist you.
+Expected Output 17: According to the retrieved contexts, the paper was published in the year 1999.
+
+Correctness Score: 2.0
+Relevancy Score: 0.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.5181639042867322
+Query 18: In which journal was The psychometric properties of the Miller Behavioural Style Scale with adult daughters of women with early breast cancer: a literature review and empirical study published?
+Generated Response 18: Based on the provided context information, the journal in which the article "The psychometric properties of the Miller Behavioural Style Scale with adult daughters of women with early breast cancer: a literature review and empirical study" was published is:
+
+Global Media Journal : Pakistan Edition
+
+The information can be found in the "ns0:object" element with the "id" attribute set to "961640" in the provided XML fragment.
+Expected Output 18: According to the retrieved contexts, the paper was published in the journal Journal of Advanced Nursing.
+
+Correctness Score: 2.0
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.6958487464629559
+Query 19: What is the DOI of the paper Inbreeding of Bottlenecked Butterfly Populations: Estimation Using the Likelihood of Changes in Marker Allele Frequencies?
+Generated Response 19: Based on the provided context information, the DOI of the paper "Inbreeding of Bottlenecked Butterfly Populations: Estimation Using the Likelihood of Changes in Marker Allele Frequencies" is not explicitly mentioned in the provided XML response.
+
+However, the response does contain information about the journal in which the paper was published, which is "Global Media Journal : Pakistan Edition" (ISSN 2070-2469). Additionally, the response includes information about the publication fee, publisher, start year of open access, and submission information URL for the journal.
+
+Without additional information or prior knowledge about the paper, it is not possible to determine the DOI of the paper "Inbreeding of Bottlenecked Butterfly Populations: Estimation Using the Likelihood of Changes in Marker Allele Frequencies" based on the provided context information alone.
+Expected Output 19: According to the retrieved contexts, The DOI of the paper is 10.1093/genetics/151.3.1053.
+
+Correctness Score: 3.0
+Relevancy Score: 0.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.7389302120186821
+Query 20: Who are the authors of PCR‐based methods for identification of species of the <i>Anopheles minimus</i> group: allele‐specific amplification and single‐strand conformation polymorphism?
+Generated Response 20: Based on the provided context information, I cannot answer the query as it is not present in the provided XML response. The response contains information about a journal called "Global Media Journal : Pakistan Edition" and its various fields and relationships, but it does not contain any information about authors or their works.
+
+To answer the query, you would need to consult a different source, such as a scientific article or a database of scientific literature.
+Expected Output 20: According to the retrieved contexts, the authors of the paper PCR‐based methods for identification of species of the <i>Anopheles minimus</i> group: allele‐specific amplification and single‐strand conformation polymorphism are RG Sharpe, MM Hims, RE Harbach and RK Butlin
+
+Correctness Score: 2.0
+Relevancy Score: 0.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.6211106596150091
+Query 21: Who is the publisher of Archives of Electrical Engineering?
+Generated Response 21: Based on the provided context information, the publisher of Archives of Electrical Engineering is Allama Iqbal Open University. This information can be found in the "publisher" field of the XML document, specifically in the <ns0:record> element with the ID "1946460".
+Expected Output 21: According to the retrieved contexts, The publisher of the journal is Versita.
+
+Correctness Score: 2.5
+Relevancy Score: 0.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.6129306442579643
+Query 22: Does Boletín SAO require a publication fee?
+Generated Response 22: Based on the provided context information, the query can be answered as follows:
+
+No, Boletín SAO does not require a publication fee.
+
+The information can be found in the "publication-fee" field of the response, which states "No". Therefore, the answer to the query is negative, and Boletín SAO does not charge a publication fee.
+Expected Output 22: According to the retrieved contexts, the journal doesn't have a publication fee.
+
+Correctness Score: 4.5
+Relevancy Score: 0.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.6633025287247856
+Query 23: What is the DOI of the paper Computational models of the basal ganglia: from robots to membranes?
+Generated Response 23: Based on the provided context information, I can answer the query as follows:
+
+The paper "Computational models of the basal ganglia: from robots to membranes" does not have a DOI (Digital Object Identifier) as it is not a published paper. The context information provided is an API response from Symplectic, which is a research management and publication database. The response contains information about a journal, including its ID, title, publisher, and start year for open access content. However, it does not include any information about specific papers or their DOIs.
+
+Therefore, I cannot provide a DOI for the paper "Computational models of the basal ganglia: from robots to membranes" as it is not a published paper and does not have a DOI.
+Expected Output 23: According to the retrieved contexts, The DOI of the paper is 10.1016/j.tins.2004.06.003.
+
+Correctness Score: 2.5
+Relevancy Score: 0.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.726129573936751
+Query 24: What is the DOI of the paper Differential Diagnosis of Oncocytic Lesions of the Breast and Thyroid Utilizing a Semiquantitative Approach?
+Generated Response 24: Based on the provided context information, I cannot directly answer your query as there is no mention of the paper "Differential Diagnosis of Oncocytic Lesions of the Breast and Thyroid Utilizing a Semiquantitative Approach" in the provided response. The response only contains information about a journal titled "Global Media Journal : Pakistan Edition" and its related details.
+
+However, if you provide me with more context or information about the paper you are looking for, I may be able to help you locate the DOI or other relevant details.
+Expected Output 24: According to the retrieved contexts, The DOI of the paper is 10.1159/000331145.
+
+Correctness Score: 2.0
+Relevancy Score: 0.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.5724900811107824
+Query 25: Who are the authors of Effects of chronic administration of Helicobacter pylori extracts on rat gastric mucosal microcirculation in vivo?
+Generated Response 25: Based on the provided context information, I can answer the query "Who are the authors of Effects of chronic administration of Helicobacter pylori extracts on rat gastric mucosal microcirculation in vivo?"
+
+The article "Effects of chronic administration of Helicobacter pylori extracts on rat gastric mucosal microcirculation in vivo" was published in the Global Media Journal: Pakistan Edition. The authors of this article are:
+
+1. Asma Alshammari
+2. Saleh Al-Zahrani
+3. Ali Al-Jebeili
+4. Mohammed Al-Saleh
+5. Fahad Al-Jeraisy
+
+This information can be found in the "authors" field of the provided XML response, specifically in the "ns0:object" element with the "id" attribute set to "961640".
+Expected Output 25: According to the retrieved contexts, the authors of the paper Effects of chronic administration of Helicobacter pylori extracts on rat gastric mucosal microcirculation in vivo are N Kalia, KD Bardhan, MWR Reed, S Jacob and NJ Brown
+
+Correctness Score: 3.0
+Relevancy Score: 0.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.9433244891271967
+Query 26: What is the publication year of A Positive Selection Vector Combining Tetracycline Resistance That Eliminates the Need for Bacterial Plating?
+Generated Response 26: Based on the provided context information, I cannot find any information about the publication "A Positive Selection Vector Combining Tetracycline Resistance That Eliminates the Need for Bacterial Plating" within the given XML response. The response only contains information about a journal named "Global Media Journal : Pakistan Edition" and its various fields and relationships.
+
+Therefore, I cannot answer the query "What is the publication year of A Positive Selection Vector Combining Tetracycline Resistance That Eliminates the Need for Bacterial Plating?" as the information about this publication is not present in the provided context.
+Expected Output 26: According to the retrieved contexts, the paper was published in the year 2000.
+
+Correctness Score: 3.0
+Relevancy Score: 0.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.5913466780896437
+Query 27: Who are the authors of Modulation of Ca
+            <sup>2+</sup>
+            entry by polypeptides of the inositol 1,4,5-trisphosphate receptor (IP3R) that bind transient receptor potential (TRP): Evidence for roles of TRP and IP3R in store depletion-activated Ca
+            <sup>2+</sup>
+            entry?
+Generated Response 27: Based on the provided context information, I cannot directly answer your query as there is no mention of any authors or their roles in the provided text. The text only provides information about a journal article and its metadata.
+
+However, I can suggest some possible sources of information that may help you answer your query. You may be able to find the information you are looking for in the following places:
+
+1. The article's reference list: The provided text includes a reference list at the end of the article. You may be able to find the authors' names and their affiliations in this list.
+2. The article's abstract: The abstract of the article may provide information about the authors and their roles in the research.
+3. The journal's author index: Many academic journals maintain an author index that lists all the authors who have published articles in the journal, along with their affiliations and contact information. You may be able to find the authors' names and their affiliations in the journal's author index.
+4. Online academic databases: Many online academic databases, such as Google Scholar or Web of Science, provide information about authors and their publications. You may be able to find the authors' names and their affiliations in
+Expected Output 27: According to the retrieved contexts, the authors of the paper Modulation of Ca
+            <sup>2+</sup>
+            entry by polypeptides of the inositol 1,4,5-trisphosphate receptor (IP3R) that bind transient receptor potential (TRP): Evidence for roles of TRP and IP3R in store depletion-activated Ca
+            <sup>2+</sup>
+            entry are Guylain Boulay, Darren M Brown, Ning Qin, Meisheng Jiang, Alexander Dietrich, Michael Xi Zhu, Zhangguo Chen, Mariel Birnbaumer, Katsuhiko Mikoshiba and Lutz Birnbaumer
+
+Error in correctness evaluation: unsupported operand type(s) for +=: 'float' and 'NoneType'
+Relevancy Score: 0.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.5526260979230558
+Query 28: Does Perspectiva Educacional Formación de Profesores require a publication fee?
+Generated Response 28: Based on the provided context information, the query "Does Perspectiva Educacional Formación de Profesores require a publication fee?" can be answered as "No" because the publication fee is listed as "No" in the "publication-fee" field of the journal's record.
+Expected Output 28: According to the retrieved contexts, the journal doesn't have a publication fee.
+
+Correctness Score: 4.5
+Relevancy Score: 1.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.7413105084701613
+Query 29: What is the publication year of Self-rated health as a risk factor for prescribed drug use and future health and social service use in older people?
+Generated Response 29: Based on the provided context information, the publication year of Self-rated health as a risk factor for prescribed drug use and future health and social service use in older people is not explicitly mentioned in the provided XML response. However, we can infer that the publication year is likely to be 2008, as the start year of Open Access is mentioned as 2008 in the XML response.
+
+Here's the relevant extract from the XML response:
+
+<ns0:field name="start-year-oa" type="date" display-name="Start year Open Access">
+<ns0:date><ns0:year>2008</ns0:year></ns0:date>
+</ns0:field>
+
+Therefore, based on the provided context information, the publication year of Self-rated health as a risk factor for prescribed drug use and future health and social service use in older people is likely to be 2008.
+Expected Output 29: According to the retrieved contexts, the paper was published in the year 1999.
+
+Correctness Score: 3.0
+Relevancy Score: 1.0
+Faithfulness Score: 0.0
+Semantic Similarity Score: 0.6627354956577411
+Query 30: What are some keywords associated with Prostaglandin-release impairment in the bladder epithelium of streptozotocin-induced diabetic rats?
+Generated Response 30: Based on the provided context information, I cannot answer the query as it is not related to the content of the provided XML response. The XML response is related to a journal article and its metadata, and does not contain any information about prostaglandin release or diabetic rats. Therefore, I cannot provide any keywords associated with such a topic.
+
+If you have any further questions or if there is anything else I can assist you with, please let me know and I will do my best to help.
+Expected Output 30: According to the retrieved contexts, some keywords associated with the paper are Adenosine Triphosphate, Animals, Bradykinin, Diabetes Mellitus, Experimental, Dinoprost, Dinoprostone, Enzyme-Linked Immunosorbent Assay, In Vitro Techniques, Male, Muscle Contraction, Muscle, Smooth, Rats, Rats, Sprague-Dawley, Urinary Bladder, Urothelium.
+
+Correctness Score: 1.0
+Relevancy Score: 0.0
+Faithfulness Score: 1.0
+Semantic Similarity Score: 0.7441343747808137

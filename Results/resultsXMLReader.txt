@@ -1,0 +1,10 @@
+*** Current Config ***
+The llm is: meta-llama/Llama-2-7b-chat-hf
+The readers being used is XMLReader()
+The chunk size is: 768
+The chunk overlap is: 50
+The embedding model is: BAAI/bge-small-en-v1.5
+There are 148 examples in the dataset.
+faithfulness Score: 0.8445945945945946 
+relevancy Score: 0.972972972972973 
+correctness Score: 0.0 
