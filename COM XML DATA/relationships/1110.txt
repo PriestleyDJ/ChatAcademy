@@ -1,0 +1,29 @@
+Kirill Bogdanov is associated with the COM department
+Kirill Bogdanov is an academic
+Kirill Bogdanov's title is Dr
+Kirill Bogdanov's primary group descriptor is COM
+Kirill Bogdanov has a publication titled 'Identifying State Transitions and their Functions in Source Code' which is a Conference proceedings paper
+Kirill Bogdanov has a publication titled 'Reverse Engineering State Machines by Interactive Grammar Inference' which is a Conference proceedings paper
+Kirill Bogdanov has a publication titled 'Automated discovery of state transitions and their functions in source code' which is a Conference proceedings paper
+Kirill Bogdanov has a publication titled 'Improving dynamic software analysis by applying grammar inference principles' which is a Journal article
+Kirill Bogdanov has a publication titled 'Evaluation and Comparison of Inferred Regular Grammars' which is a Conference proceedings paper
+Kirill Bogdanov has a publication titled 'Using formal specifications to support testing' which is a Journal article
+Kirill Bogdanov has a publication titled 'Testing methods for X-machines: a review' which is a Journal article
+Kirill Bogdanov has a publication titled 'Refinement in statechart testing' which is a Conference proceedings paper
+Kirill Bogdanov has a publication titled 'FORTEST: formal methods and testing' which is a Conference proceedings paper
+Kirill Bogdanov has a publication titled 'Statechart testing method for aircraft control systems' which is a Journal article
+Kirill Bogdanov has a publication titled 'Automated Test Set Generation for Statecharts' which is a Conference proceedings paper
+Kirill Bogdanov has a publication titled 'Testing from X-Machine Specifications' which is a Conference proceedings paper
+Kirill Bogdanov has a publication titled 'Inferring Finite-State Models with Temporal Constraints' which is a Conference proceedings paper
+Kirill Bogdanov has a publication titled 'Computing the Structural Difference between State-Based Models' which is a Conference proceedings paper
+Kirill Bogdanov has a publication titled 'Increasing Functional Coverage by Inductive Testing: A Case Study' which is a Conference proceedings paper
+Kirill Bogdanov has a publication titled 'Balanced FSM Generation for Empirical Studies' which is a Journal article
+Kirill Bogdanov has a publication titled 'A framework for the competitive evaluation of model inference techniques' which is a Journal article
+Kirill Bogdanov has a publication titled 'Test generation for X-machines with non-terminal states and priorities of operations' which is a Conference proceedings paper
+Kirill Bogdanov has a publication titled 'Method of Object Testing, Integration and Verification' which is a Conference proceedings paper
+Kirill Bogdanov has a publication titled 'Plug and play safely: Rules for behavioural compatibility' which is a Conference proceedings paper
+Kirill Bogdanov has a publication titled 'Using Behaviour Inference to Optimise Regression Test Sets' which is a Conference proceedings paper
+Kirill Bogdanov has a publication titled 'Automated Comparison of State-Based Software Models in Terms of Their Language and Structure' which is a Journal article
+Kirill Bogdanov has a publication titled 'Automatic Inference of Erlang Module Behaviour' which is a Conference proceedings paper
+Kirill Bogdanov has a publication titled 'Synapse: Automatic behaviour inference and implementation comparison for Erlang' which is a Conference proceedings paper
+Kirill Bogdanov has a publication titled 'Graphical editing support for QuickCheck models' which is a Conference proceedings paper

@@ -1,0 +1,31 @@
+Mark Greenwood is associated with the COM department
+Mark Greenwood is an academic
+Mark Greenwood's title is Dr
+Mark Greenwood's primary group descriptor is COM
+Mark Greenwood has a publication titled 'Learning information extraction patterns using WordNet' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'Using Prior Information Attained from the Literature to Improve Ranking in Genome-wide Association Studies' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'The University of Sheffield's TREC 2003 Q&A Experiments.' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'The university of sheffield's TREC 2005 Q&amp;A experiments' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'The university of sheffield's TREC 2006 Q&amp;A experiments' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'Information retrieval for question answering a SIGIR 2004 workshop' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'The University of Sheffield TREC 2002 Q&A System.' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'The University of Sheffield's TREC 2006 Q&A Experiments.' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'Doris: Managing document-based knowledge in large organisations via Semantic Web technologies' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'Saxon: An extensible multimedia annotator' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'Dependency Pattern Models for Information Extraction' which is a Journal article
+Mark Greenwood has a publication titled 'A semantic approach to IE pattern induction' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'Automatically acquiring a linguistically motivated genic interaction extraction system' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'Text Processing with Gate (Version 6)' which is a Book
+Mark Greenwood has a publication titled 'Information Extraction and Semantic Annotation for Multi-Paradigm Information Management' which is a Chapter
+Mark Greenwood has a publication titled 'Too many mammals: Improving the diversity of automatically recognized terms' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'Using Prior Information from the Medical Literature in
+GWAS of Oral Cancer Identifies Novel Susceptibility
+Variant on Chromosome 4 - the AdAPT Method' which is a Journal article
+Mark Greenwood has a publication titled 'A data driven approach to query expansion in question answering' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'Reputation profiling with GATE' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'A Pattern Based Approach to Factoid, List and Definition Question Answering.' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'Khresmoi - multilingual semantic search of medical text and images.' which is a Journal article
+Mark Greenwood has a publication titled 'TwitIE: An open-source information extraction pipeline for microblog text' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'Large scale semantic annotation, indexing, and search at the national archives' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'Who cares about sarcastic tweets? Investigating the impact of sarcasm on sentiment analysis' which is a Conference proceedings paper
+Mark Greenwood has a publication titled 'Extracting antipsychotic polypharmacy data from electronic health records: developing and evaluating a novel process' which is a Journal article

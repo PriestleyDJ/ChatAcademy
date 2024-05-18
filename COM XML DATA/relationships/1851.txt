@@ -1,0 +1,30 @@
+Hamish Cunningham is associated with the COM department
+Hamish Cunningham is an academic
+Hamish Cunningham's title is Professor
+Hamish Cunningham's primary group descriptor is COM
+Hamish Cunningham has a publication titled 'Sense tagging and language engineering' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'The role of taxonomy in language engineering -: Discussion' which is a Journal article
+Hamish Cunningham has a publication titled 'GATE, a general architecture for text engineering' which is a Journal article
+Hamish Cunningham has a publication titled 'Developing Reusable and Robust Language Processing Components for Information Systems using GATE' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'Adapting a Robust Multi-genre NE System for Automatic Content Extraction' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'Access to Multimedia Information through Multisource and Multilanguage Information Extraction' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'Multimedia indexing through multi-source and multi-language information extraction: the MUMIS project' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'GATE: An architecture for development of robust HLT applications' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'Automatic Creation and Monitoring of Semantic Metadata in a Dynamic Knowledge Portal' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'SVM Based Learning System for Information Extraction' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'Extracting a Domain Ontology from Linguistic Resource Based on Relatedness Measurements' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'Automatic Extraction of Hierarchical Relations from Text' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'Mining Information for Instance Unification' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'Using Prior Information Attained from the Literature to Improve Ranking in Genome-wide Association Studies' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'GATE: an environment to support research and development in natural language engineering' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'Visual execution and data visualisation in natural language processing' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'A General Architecture for Language Engineering (GATE) - a new approach
+  to Language Engineering R&D' which is a Journal article
+Hamish Cunningham has a publication titled 'New Methods, Current Trends and Software Infrastructure for NLP' which is a Journal article
+Hamish Cunningham has a publication titled 'Software infrastructure for natural language processing' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'GATE' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'University of Sheffield' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'GATE' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'Visual Execution and Data Visualization in Natural Language Processing.' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'Software Infrastructure for Natural Language Processing' which is a Conference proceedings paper
+Hamish Cunningham has a publication titled 'Web-assisted annotation, semantic indexing and search of television and radio news' which is a Conference proceedings paper

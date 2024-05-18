@@ -1,0 +1,9 @@
+Twin Karmakharm is associated with the COM department
+Twin Karmakharm is an academic
+Twin Karmakharm's title is Mr
+Twin Karmakharm's primary group descriptor is COM
+Twin Karmakharm has a publication titled 'Agent-based large scale simulation of pedestrians with adaptive realistic navigation vector fields' which is a Conference proceedings paper
+Twin Karmakharm has a publication titled 'Large scale pedestrian multi-simulation for a decision support tool' which is a Conference proceedings paper
+Twin Karmakharm has a publication titled 'Osteolytica: An automated image analysis software package that rapidly measures cancer-induced osteolytic lesions in in vivo models with greater reproducibility compared to other commonly used methods' which is a Journal article
+Twin Karmakharm has a publication titled 'RateSetter: roadmap for faster, safer, and better platform train interface design and operation using evolutionary optimisation' which is a Conference proceedings paper
+Twin Karmakharm has a publication titled 'Journalist-in-the-Loop: Continuous Learning as a Service for Rumour Analysis' which is a Conference proceedings paper

@@ -1,0 +1,29 @@
+James Law is associated with the COM department
+James Law is an academic
+James Law's title is Dr
+James Law's primary group descriptor is COM
+James Law has a publication titled 'Infants and iCubs: Applying Developmental Psychology to Robot Shaping' which is a Journal article
+James Law has a publication titled 'A psychology based approach for longitudinal development in cognitive robotics' which is a Journal article
+James Law has a publication titled 'A comparison of learning strategies for biologically constrained development of gaze control on an iCub robot' which is a Journal article
+James Law has a publication titled 'A biologically constrained architecture for developmental learning of eye–head gaze control on a humanoid robot' which is a Journal article
+James Law has a publication titled 'The infant development timeline and its application to robot shaping' which is a Journal article
+James Law has a publication titled 'Integration of Active Vision and Reaching From a Developmental Robotics Perspective' which is a Journal article
+James Law has a publication titled 'Overlapping Structures in Sensory-Motor Mappings' which is a Journal article
+James Law has a publication titled 'Multilevel hypernetworks in the design of complex multirobot control systems' which is a Conference proceedings paper
+James Law has a publication titled 'Infant development sequences for shaping sensorimotor learning in humanoid robots' which is a Conference proceedings paper
+James Law has a publication titled 'Analysis of multi-robot cooperation using Voronoi diagrams' which is a Conference proceedings paper
+James Law has a publication titled 'The Voronoi Game in Robot Coordination' which is a Conference proceedings paper
+James Law has a publication titled 'Discrete dynamics and the space time possession game' which is a Conference proceedings paper
+James Law has a publication titled 'An evaluation of environmental constraints for biologically constrained development of gaze control on an iCub robot' which is a Journal article
+James Law has a publication titled 'Development of eye-head gaze control on the iCub robot' which is a Conference proceedings paper
+James Law has a publication titled 'Recent Mirosot Developments in the UK' which is a Conference proceedings paper
+James Law has a publication titled 'An infant inspired model of reaching for a humanoid robot' which is a Conference proceedings paper
+James Law has a publication titled 'A Developmental Framework for Cumulative Learning Robots' which is a Chapter
+James Law has a publication titled 'Abstracting Multidimensional Concepts for Multilevel Decision Making in Multirobot Systems' which is a Thesis / Dissertation
+James Law has a publication titled 'From Saccades to Grasping: A Model of Coordinated Reaching Through Simulated Development on a Humanoid Robot' which is a Journal article
+James Law has a publication titled 'Framing Factors: The Importance of Context and the Individual in Understanding Trust in Human-Robot Interaction' which is a Conference proceedings paper
+James Law has a publication titled 'Floor Determination in the Operation of a Lift by a Mobile Guide Robot' which is a Conference proceedings paper
+James Law has a publication titled 'ROBO-GUIDE: Towards Safe, Reliable, Trustworthy, and Natural Behaviours in Robotic Assistants' which is a Conference proceedings paper
+James Law has a publication titled 'Help! I Can’t Reach the Buttons: Facilitating Helping Behaviors Towards Robots.' which is a Conference proceedings paper
+James Law has a publication titled 'Babybot challenge: Motor skills' which is a Conference proceedings paper
+James Law has a publication titled 'Representations of body schemas for infant robot development' which is a Conference proceedings paper

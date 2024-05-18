@@ -1,0 +1,29 @@
+Harsh Beohar is associated with the COM department
+Harsh Beohar is an academic
+Harsh Beohar's title is Dr
+Harsh Beohar's primary group descriptor is COM
+Harsh Beohar has a publication titled 'A theory of desynchronisable closed loop system' which is a Conference proceedings paper
+Harsh Beohar has a publication titled 'Desynchronizability of (Partial) synchronous closed loop systems' which is a Journal article
+Harsh Beohar has a publication titled 'Hierarchical states in the Compositional Interchange Format' which is a Conference proceedings paper
+Harsh Beohar has a publication titled 'The Hierarchical Compositional Interchange Format' which is a Conference proceedings paper
+Harsh Beohar has a publication titled 'Refinement of communication and states in models of embedded systems' which is a Thesis / Dissertation
+Harsh Beohar has a publication titled 'Avoiding Diamonds in Desynchronization' which is a Conference proceedings paper
+Harsh Beohar has a publication titled 'Avoiding diamonds in desynchronisation' which is a Journal article
+Harsh Beohar has a publication titled 'Spinal Test Suites for Software Product Lines' which is a Conference proceedings paper
+Harsh Beohar has a publication titled 'Input-output conformance testing based on featured transition systems' which is a Conference proceedings paper
+Harsh Beohar has a publication titled 'Two Logical Characterizations for Input-Output Conformance' which is a Other
+Harsh Beohar has a publication titled 'A Pre-congruence Format for XY-simulation' which is a Conference proceedings paper
+Harsh Beohar has a publication titled 'Open Maps in Concrete Categories and Branching Bisimulation for Prefix Orders' which is a Conference proceedings paper
+Harsh Beohar has a publication titled 'Basic behavioral models for software product lines: Expressiveness and testing pre-orders' which is a Journal article
+Harsh Beohar has a publication titled 'Delta-Oriented FSM-Based Testing' which is a Conference proceedings paper
+Harsh Beohar has a publication titled 'Input–output conformance testing for software product lines' which is a Journal article
+Harsh Beohar has a publication titled 'On path-based coalgebras and weak notions of bisimulation' which is a Conference proceedings paper
+Harsh Beohar has a publication titled 'Conditional transition systems with upgrades' which is a Conference proceedings paper
+Harsh Beohar has a publication titled 'A coalgebraic treatment of conditional transition systems with upgrades' which is a Journal article
+Harsh Beohar has a publication titled 'Basic behavioral models for software product lines: Revisited' which is a Journal article
+Harsh Beohar has a publication titled 'Bisimulation maps in presheaf categories' which is a Conference proceedings paper
+Harsh Beohar has a publication titled 'Conditional transition systems with upgrades' which is a Journal article
+Harsh Beohar has a publication titled 'Coalgebraic Games in Kleisli Categories' which is a Other
+Harsh Beohar has a publication titled 'Predicate and relation liftings for coalgebras with side effects : an application in coalgebraic modal logic' which is a Conference proceedings paper
+Harsh Beohar has a publication titled 'Graded Monads and Behavioural Equivalence Games' which is a Conference proceedings paper
+Harsh Beohar is associated with 'Quantitative verification of software families based on coalgebraic modal logic and games' grant

@@ -1,0 +1,29 @@
+Xingyi Song is associated with the COM department
+Xingyi Song is an academic
+Xingyi Song's title is Dr
+Xingyi Song's primary group descriptor is COM
+Xingyi Song has a publication titled 'Regression and Ranking based Optimisation for Sentence Level Machine Translation Evaluation' which is a Conference proceedings paper
+Xingyi Song has a publication titled 'BLEU deconstructed: Designing a Better MT Evaluation Metric' which is a Conference proceedings paper
+Xingyi Song has a publication titled 'Data selection for discriminative training in statistical machine translation' which is a Conference proceedings paper
+Xingyi Song has a publication titled 'Sheffield Systems for the English-Romanian Translation Task' which is a Conference proceedings paper
+Xingyi Song has a publication titled 'CogStack - experiences of deploying integrated information retrieval and extraction services in a large National Health Service Foundation Trust hospital.' which is a Journal article
+Xingyi Song has a publication titled 'Python Script for Truss Layout Optimization' which is a Fileset
+Xingyi Song has a publication titled 'Trained RPDNN LOO-CV models for early rumor detection' which is a Dataset
+Xingyi Song has a publication titled 'Classification aware neural topic model for COVID-19 disinformation categorisation' which is a Journal article
+Xingyi Song has a publication titled 'A Python script for adaptive layout optimization of trusses' which is a Journal article
+Xingyi Song has a publication titled 'Using ontologies to map between research data and policymakers’ presumptions: the experience of the KNOWMAK project' which is a Journal article
+Xingyi Song has a publication titled 'Comparing topic-aware neural networks for bias detection of news' which is a Conference proceedings paper
+Xingyi Song has a publication titled 'RP-DNN : a Tweet level propagation context based deep neural networks for early rumor detection in social media' which is a Conference proceedings paper
+Xingyi Song has a publication titled 'Using deep neural networks with intra- And inter-sentence context to classify suicidal behaviour' which is a Conference proceedings paper
+Xingyi Song has a publication titled 'A deep neural network sentence level classification method with context information' which is a Conference proceedings paper
+Xingyi Song has a publication titled 'Team Bertha von Suttner at SemEval-2019 Task 4: Hyperpartisan News Detection using ELMo Sentence Representation Convolutional Network' which is a Conference proceedings paper
+Xingyi Song has a publication titled 'Team Bertha von Suttner at SemEval-2019 Task 4: Hyperpartisan News Detection using ELMo Sentence Representation Convolutional Network' which is a Conference proceedings paper
+Xingyi Song has a publication titled 'Text mining occupations from the mental health electronic health record: a natural language processing approach using records from the Clinical Record Interactive Search (CRIS) platform in south London, UK' which is a Journal article
+Xingyi Song has a publication titled 'Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation.' which is a Conference proceedings paper
+Xingyi Song is associated with 'PhD Studentship: Multimodal sentiment analysis in a call centre environment.' grant
+Xingyi Song is associated with 'VERA AI (Verification assisted by AI)' grant
+Xingyi Song has a publication titled 'An exploratory study on utilising the web of linked data for product data mining' which is a Journal article
+Xingyi Song has a publication titled 'Comparative analysis of engagement, themes, and causality of Ukraine-related debunks and disinformation' which is a Conference proceedings paper
+Xingyi Song is associated with 'PhD Studentship: Multimodal sentiment analysis in a call centre environment - home student' grant
+Xingyi Song has a publication titled 'GATE Teamware 2: An open-source tool for collaborative document classification annotation' which is a Conference proceedings paper
+Xingyi Song has a publication titled 'Similarity-aware multimodal prompt learning for fake news detection' which is a Journal article

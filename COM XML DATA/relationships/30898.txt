@@ -1,0 +1,10 @@
+Edward Gow-Smith is associated with the COM department
+Edward Gow-Smith is an academic
+Edward Gow-Smith's title is Mr
+Edward Gow-Smith's primary group descriptor is COM
+Edward Gow-Smith has a publication titled 'AStitchInLanguageModels : dataset and methods for the exploration of idiomaticity in pre-trained language models' which is a Conference proceedings paper
+Edward Gow-Smith has a publication titled 'Improving tokenisation by alternative treatment of spaces' which is a Preprint
+Edward Gow-Smith is associated with 'Cross-Domain Idiomatic Multiword Representations for Natural Language Processing' grant
+Edward Gow-Smith has a publication titled 'SemEval-2022 Task 2 : multilingual idiomaticity detection and sentence embedding' which is a Conference proceedings paper
+Edward Gow-Smith has a publication titled 'Sample efficient approaches for idiomaticity detection' which is a Conference proceedings paper
+Edward Gow-Smith has a publication titled 'AStitchInLanguageModels: Dataset and Methods for the Exploration of Idiomaticity in Pre-Trained Language Models' which is a Preprint

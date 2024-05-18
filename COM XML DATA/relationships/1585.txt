@@ -1,0 +1,29 @@
+Noel Sharkey is associated with the COM department
+Noel Sharkey is an academic
+Noel Sharkey's title is Emeritus Prof
+Noel Sharkey's primary group descriptor is COM
+Noel Sharkey has a publication titled 'Towards a Comparative Study of Neural Networks in Inverse Model Learning and Compensation Applied to Dynamic Robot Control' which is a Conference proceedings paper
+Noel Sharkey has a publication titled 'The new wave in robot learning' which is a Journal article
+Noel Sharkey has a publication titled 'Artificial neural networks for coordination and control: The portability of experiential representations' which is a Journal article
+Noel Sharkey has a publication titled 'Learning from Innate Behaviors: A Quantitative Evaluation of Neural Network Controllers' which is a Journal article
+Noel Sharkey has a publication titled 'Learning from Innate Behaviors: A Quantitative Evaluation of Neural Network Controllers' which is a Journal article
+Noel Sharkey has a publication titled 'Artificial Neural Networks for Robot Learning—Guest Editors' Introduction' which is a Journal article
+Noel Sharkey has a publication titled 'A Consideration of the Biological and Psychological Foundations of Autonomous Robotics' which is a Journal article
+Noel Sharkey has a publication titled 'Vibration signatures, wavelets and principal components analysis in diesel engine diagnostics' which is a Conference proceedings paper
+Noel Sharkey has a publication titled 'A Multi-Net System for the Fault Diagnosis of a Diesel Engine' which is a Journal article
+Noel Sharkey has a publication titled 'Acoustic emission, cylinder pressure and vibration: a multisensor approach to robust fault diagnosis' which is a Conference proceedings paper
+Noel Sharkey has a publication titled 'The “Test and Select” Approach to Ensemble Combination' which is a Conference proceedings paper
+Noel Sharkey has a publication titled 'A stroll through the worlds of robots and animals: Applying Jakob von Uexkülls theory of meaning to adaptive robots and artificial life' which is a Journal article
+Noel Sharkey has a publication titled 'Evolving lifelong learners for a visually guided arm' which is a Journal article
+Noel Sharkey has a publication titled 'Cylinder pressures and vibration in internal combustion engine condition monitoring' which is a Conference proceedings paper
+Noel Sharkey has a publication titled 'Common evidence vectors for self-organized ensemble localization' which is a Conference proceedings paper
+Noel Sharkey has a publication titled 'Opening the black box of connectionist nets: Some lessons from cognitive science' which is a Journal article
+Noel Sharkey has a publication titled 'Neural computing for software reliability*' which is a Journal article
+Noel Sharkey has a publication titled 'Dependable, intelligent voting for real-time control software' which is a Conference proceedings paper
+Noel Sharkey has a publication titled 'Grounding computational engines' which is a Journal article
+Noel Sharkey has a publication titled 'Diverse neural net solutions to a fault diagnosis problem' which is a Journal article
+Noel Sharkey has a publication titled 'Combining diverse neural nets' which is a Journal article
+Noel Sharkey has a publication titled 'The Ethical Frontiers of Robotics' which is a Journal article
+Noel Sharkey has a publication titled 'The revolution will not be roboticised' which is a Journal article
+Noel Sharkey has a publication titled 'The Robot Arm of the Law Grows Longer' which is a Journal article
+Noel Sharkey has a publication titled 'The Way Forward in the World of Robotics—Response' which is a Journal article

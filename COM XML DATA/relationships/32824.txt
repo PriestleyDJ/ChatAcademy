@@ -1,0 +1,29 @@
+Jonni Virtema is associated with the COM department
+Jonni Virtema is an academic
+Jonni Virtema's title is Dr
+Jonni Virtema's primary group descriptor is COM
+Jonni Virtema has a publication titled 'Tractability Frontiers in Probabilistic Team Semantics and Existential Second-Order Logic over the Reals' which is a Conference proceedings paper
+Jonni Virtema has a publication titled 'On the complexity of horn and krom fragments of second-order boolean logic' which is a Conference proceedings paper
+Jonni Virtema has a publication titled 'Polyteam semantics' which is a Journal article
+Jonni Virtema has a publication titled 'Model checking and validity in propositional and modal inclusion logics' which is a Journal article
+Jonni Virtema has a publication titled 'Fully Generic Queries: Open Problems and Some Partial Answers' which is a Conference proceedings paper
+Jonni Virtema has a publication titled 'Descriptive Complexity of Deterministic Polylogarithmic Time' which is a Conference proceedings paper
+Jonni Virtema has a publication titled 'Characterising modal definability of team-based logics via the universal modality' which is a Journal article
+Jonni Virtema has a publication titled 'Team semantics for the specification and verification of hyperproperties' which is a Conference proceedings paper
+Jonni Virtema has a publication titled 'Facets of Distribution Identities in Probabilistic Team Semantics' which is a Conference proceedings paper
+Jonni Virtema has a publication titled 'Expressivity within second-order transitive-closure logic' which is a Conference proceedings paper
+Jonni Virtema has a publication titled 'Probabilistic Team Semantics' which is a Conference proceedings paper
+Jonni Virtema has a publication titled 'Complexity of Propositional Logics in Team Semantic' which is a Journal article
+Jonni Virtema has a publication titled 'Approximation and dependence via multiteam semantics' which is a Journal article
+Jonni Virtema has a publication titled 'Polyteam Semantics' which is a Conference proceedings paper
+Jonni Virtema has a publication titled 'Model checking and validity in propositional and modal inclusion logics' which is a Conference proceedings paper
+Jonni Virtema has a publication titled 'Complexity of two-variable dependence logic and IF-logic' which is a Journal article
+Jonni Virtema has a publication titled 'Boolean dependence logic and partially-ordered connectives' which is a Journal article
+Jonni Virtema has a publication titled 'Decidability of predicate logics with team semantics' which is a Conference proceedings paper
+Jonni Virtema has a publication titled 'On Quantified Propositional Logics and the Exponential Time Hierarchy' which is a Conference proceedings paper
+Jonni Virtema has a publication titled 'Complexity of validity for propositional dependence logics' which is a Journal article
+Jonni Virtema has a publication titled 'Characterizing Relative Frame Definability in Team Semantics via the Universal Modality' which is a Conference proceedings paper
+Jonni Virtema has a publication titled 'A Team Based Variant of CTL' which is a Conference proceedings paper
+Jonni Virtema has a publication titled 'Approximation and Dependence via Multiteam Semantics' which is a Conference proceedings paper
+Jonni Virtema has a publication titled 'Axiomatizing propositional dependence logics' which is a Conference proceedings paper
+Jonni Virtema has a publication titled 'Characterizing Frame Definability in Team Semantics via the Universal Modality' which is a Conference proceedings paper

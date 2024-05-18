@@ -1,0 +1,19 @@
+Mohammod Naimul Islam Suvon is associated with the COM department
+Mohammod Naimul Islam Suvon is an academic
+Mohammod Naimul Islam Suvon's title is Mr
+Mohammod Naimul Islam Suvon's primary group descriptor is COM
+Mohammod Naimul Islam Suvon has a publication titled 'Multimodal learning for multi-omics: a survey' which is a Journal article
+Mohammod Naimul Islam Suvon has a publication titled 'Multimodal learning for predicting mortality in patients with pulmonary arterial hypertension' which is a Conference proceedings paper
+Mohammod Naimul Islam Suvon has a publication titled 'Tensor-based Multimodal Learning for Prediction of Pulmonary Arterial Wedge Pressure from Cardiac MRI' which is a Preprint
+Mohammod Naimul Islam Suvon has a publication titled 'Multimodal Learning for Multi-Omics: A Survey' which is a Preprint
+Mohammod Naimul Islam Suvon has a publication titled 'Real Time Bangla Number Plate Recognition using Computer Vision and Convolutional Neural Network' which is a Conference proceedings paper
+Mohammod Naimul Islam Suvon has a publication titled 'Social Distance Measurement and Face Mask Detection Using Deep Learning Models' which is a Conference proceedings paper
+Mohammod Naimul Islam Suvon has a publication titled 'Application of fuzzy logic on CT-scan images of COVID-19 patients' which is a Journal article
+Mohammod Naimul Islam Suvon has a publication titled 'Towards Efficient Segmentation and Classification of White Blood Cell Cancer Using Deep Learning' which is a Conference proceedings paper
+Mohammod Naimul Islam Suvon has a publication titled 'Automated Student Review System with Computer Vision and Convolutional Neural Network' which is a Conference proceedings paper
+Mohammod Naimul Islam Suvon has a publication titled 'Rice Paddy Disease Detection and Disease Affected Area Segmentation Using Convolutional Neural Networks' which is a Conference proceedings paper
+Mohammod Naimul Islam Suvon has a publication titled 'Masters and Doctor of Philosophy admission prediction of  Bangladeshi students into different classes of universities' which is a Journal article
+Mohammod Naimul Islam Suvon has a publication titled 'Tensor-based multimodal learning for prediction of pulmonary arterial wedge pressure from cardiac MRI' which is a Journal article
+Mohammod Naimul Islam Suvon has a publication titled 'MeDSLIP: Medical Dual-Stream Language-Image Pre-training for Fine-grained Alignment' which is a Preprint
+Mohammod Naimul Islam Suvon has a publication titled 'Multimodal Variational Autoencoder for Low-cost Cardiac Hemodynamics Instability Detection' which is a Preprint
+Mohammod Naimul Islam Suvon has a publication titled 'Interpretable Multimodal Learning for Cardiovascular Hemodynamics Assessment' which is a Preprint

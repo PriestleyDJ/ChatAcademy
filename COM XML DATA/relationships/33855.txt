@@ -1,0 +1,12 @@
+Yida Mu is associated with the COM department
+Yida Mu is an academic
+Yida Mu's title is Mr
+Yida Mu's primary group descriptor is COM
+Yida Mu has a publication titled 'Identifying and Characterizing Active Citizens who Refute Misinformation in Social Media' which is a Preprint
+Yida Mu has a publication titled 'Identifying Twitter users who repost unreliable news sources with linguistic information' which is a Journal article
+Yida Mu has a publication titled 'Identifying and Characterizing Active Citizens who Refute Misinformation in Social Media' which is a Conference proceedings paper
+Yida Mu has a publication titled 'Navigating Prompt Complexity for Zero-Shot Classification: A Study of Large Language Models in Computational Social Science' which is a Preprint
+Yida Mu has a publication titled 'Examining Temporalities on Stance Detection towards COVID-19 Vaccination' which is a Preprint
+Yida Mu has a publication titled 'A Large-Scale Comparative Study of Accurate COVID-19 Information versus Misinformation' which is a Preprint
+Yida Mu has a publication titled 'It's about Time: Rethinking Evaluation on Rumor Detection Benchmarks using Chronological Splits' which is a Preprint
+Yida Mu has a publication titled 'VaxxHesitancy: A Dataset for Studying Hesitancy towards COVID-19 Vaccination on Twitter' which is a Preprint

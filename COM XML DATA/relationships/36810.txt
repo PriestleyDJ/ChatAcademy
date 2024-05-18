@@ -1,0 +1,28 @@
+Navid Talebanfard is associated with the COM department
+Navid Talebanfard is an academic
+Navid Talebanfard's title is Dr
+Navid Talebanfard's primary group descriptor is COM
+Navid Talebanfard has a publication titled 'On the Extension Complexity of Polytopes Separating Subsets of the Boolean Cube' which is a Journal article
+Navid Talebanfard has a publication titled 'Linear branching programs and directional affine extractors' which is a Conference proceedings paper
+Navid Talebanfard has a publication titled 'A variant of the VC-dimension with applications to depth-3 circuits' which is a Conference proceedings paper
+Navid Talebanfard has a publication titled 'A separator theorem for hypergraphs and a CSP-SAT algorithm' which is a Journal article
+Navid Talebanfard has a publication titled 'Super strong ETH is true for PPSZ with small resolution width' which is a Conference proceedings paper
+Navid Talebanfard has a publication titled 'Cops-Robber Games and the Resolution of Tseitin Formulas' which is a Journal article
+Navid Talebanfard has a publication titled 'Cops-Robber Games and the Resolution of Tseitin Formulas' which is a Conference proceedings paper
+Navid Talebanfard has a publication titled 'Prediction from partial information and hindsight, an alternative proof' which is a Journal article
+Navid Talebanfard has a publication titled 'Tighter hard instances for PPSZ' which is a Conference proceedings paper
+Navid Talebanfard has a publication titled 'On the structure and the number of prime implicants of 2-<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si115.gif" display="inline" overflow="scroll"><mml:mstyle mathvariant="sans-serif"><mml:mi>CNF</mml:mi></mml:mstyle></mml:math>s' which is a Journal article
+Navid Talebanfard has a publication titled 'Strong ETH and Resolution via Games and the Multiplicity of Strategies' which is a Journal article
+Navid Talebanfard has a publication titled 'Strong ETH and resolution via games and the multiplicity of strategies' which is a Conference proceedings paper
+Navid Talebanfard has a publication titled 'Improving resolution width lower bounds for k -CNFs with applications to the Strong Exponential Time Hypothesis' which is a Journal article
+Navid Talebanfard has a publication titled 'Circuit Complexity of Properties of Graphs with Constant Planar Cutwidth' which is a Conference proceedings paper
+Navid Talebanfard has a publication titled 'Exponential Lower Bounds for the PPSZ <i>k</i>-SAT Algorithm' which is a Conference proceedings paper
+Navid Talebanfard is associated with 'Extremal Combinatorics and Circuit Complexity' grant
+Navid Talebanfard has a publication titled 'Linear Branching Programs and Directional Affine Extractors' which is a Preprint
+Navid Talebanfard has a publication titled 'A Variant of the VC-dimension with Applications to Depth-3 Circuits' which is a Preprint
+Navid Talebanfard has a publication titled 'On the extension complexity of polytopes separating subsets of the Boolean cube' which is a Preprint
+Navid Talebanfard has a publication titled 'A Separator Theorem for Hypergraphs and a CSP-SAT Algorithm' which is a Preprint
+Navid Talebanfard has a publication titled 'Tighter Hard Instances for PPSZ' which is a Preprint
+Navid Talebanfard has a publication titled 'On the Structure and the Number of Prime Implicants of 2-CNFs' which is a Preprint
+Navid Talebanfard has a publication titled 'On the Extension Complexity of Polytopes Separating Subsets of the Boolean Cube.' which is a Journal article
+Navid Talebanfard has a publication titled 'A Separator Theorem for Hypergraphs and a CSP-SAT Algorithm.' which is a Journal article

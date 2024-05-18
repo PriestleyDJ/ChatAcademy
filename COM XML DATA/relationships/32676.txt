@@ -1,0 +1,21 @@
+Tong Liu is associated with the COM department
+Tong Liu is an academic
+Tong Liu's title is Dr
+Tong Liu's primary group descriptor is COM
+Tong Liu has a publication titled 'Growing and Pruning Selective Ensemble Regression for Nonlinear and Nonstationary Systems' which is a Journal article
+Tong Liu has a publication titled 'Multi-Output Selective Ensemble Identification of Nonlinear and Nonstationary Industrial Processes' which is a Journal article
+Tong Liu has a publication titled 'Adaptive Critic Based Optimal Neurocontrol of a Distributed Microwave Heating System Using Diagonal Recurrent Network' which is a Journal article
+Tong Liu has a publication titled 'Model-free adaptive control for microwave heating process with actuator saturation constraint' which is a Journal article
+Tong Liu has a publication titled 'Integrated CS optimization and OLS for recurrent neural network in modeling microwave thermal process' which is a Journal article
+Tong Liu has a publication titled 'Fast tunable gradient RBF networks for online modeling of nonlinear and nonstationary dynamic processes' which is a Journal article
+Tong Liu has a publication titled 'Fast Adaptive Gradient RBF Networks For Online Learning of Nonstationary Time Series' which is a Journal article
+Tong Liu has a publication titled 'Data-Based Online Optimal Temperature Tracking Control in Continuous Microwave Heating System by Adaptive Dynamic Programming' which is a Journal article
+Tong Liu has a publication titled 'Deep Cascade Gradient RBF Networks With Output-Relevant Feature Extraction and Adaptation for Nonlinear and Nonstationary Processes' which is a Journal article
+Tong Liu has a publication titled 'Lifelong learning meets dynamic processes: an emerging streaming process prediction framework with delayed process output measurement' which is a Journal article
+Tong Liu has a publication titled 'Transformer based day-ahead cooling load forecasting of hub airport air-conditioning systems with thermal energy storage' which is a Journal article
+Tong Liu has a publication titled 'An AIS-based deep learning model for multi-task in the marine industry' which is a Journal article
+Tong Liu has a publication titled 'Adaptive Multioutput Gradient RBF Tracker for Nonlinear and Nonstationary Regression' which is a Journal article
+Tong Liu has a publication titled 'Leak Detection for Natural Gas Gathering Pipelines Under Multiple Operating Conditions Using RP-1dConvLSTM-AE and Multimodel Decision' which is a Journal article
+Tong Liu has a publication titled 'Unsupervised transfer aided lifelong regression for learning new tasks without target output' which is a Journal article
+Tong Liu has a publication titled 'Integrating visualised automatic temporal relation graph into multi-task learning for Alzheimer's disease progression prediction' which is a Journal article
+Tong Liu has a publication titled 'Deep Probabilistic Principal Component Analysis for Process Monitoring' which is a Journal article

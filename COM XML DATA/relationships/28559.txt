@@ -1,0 +1,29 @@
+Prosanta Gope is associated with the COM department
+Prosanta Gope is an academic
+Prosanta Gope's title is Dr
+Prosanta Gope's primary group descriptor is COM
+Prosanta Gope has a publication titled 'Lightweight and Energy-Efficient Mutual Authentication and Key Agreement Scheme With User Anonymity for Secure Communication in Global Mobility Networks' which is a Journal article
+Prosanta Gope has a publication titled 'Multi-party semi-quantum key distribution-convertible multi-party semi-quantum secret sharing' which is a Journal article
+Prosanta Gope has a publication titled 'An Efficient Data Aggregation Scheme for Privacy-Friendly Dynamic Pricing-Based Billing and Demand-Response Management in Smart Grids' which is a Journal article
+Prosanta Gope has a publication titled 'An Efficient Privacy-Preserving Dynamic Pricing-based Billing Scheme for Smart Grids' which is a Conference proceedings paper
+Prosanta Gope has a publication titled 'Provably secure mutual authentication and key agreement scheme with user anonymity' which is a Conference proceedings paper
+Prosanta Gope has a publication titled 'Erratum to: Enhanced Secure Mutual Authentication and Key Agreement Scheme Preserving User Anonymity in Global Mobile Networks' which is a Journal article
+Prosanta Gope has a publication titled 'IA-CTR: Integrity-Aware Conventional Counter Mode for Secure and Efficient Communication in Wireless Sensor Networks' which is a Journal article
+Prosanta Gope has a publication titled 'Provably Secure Mutual Authentication and Key Exchange Scheme for Expeditious Mobile Communication Through Synchronously One-Time Secrets' which is a Journal article
+Prosanta Gope has a publication titled 'Enhanced Secure Mutual Authentication and Key Agreement Scheme Preserving User Anonymity in Global Mobile Networks' which is a Journal article
+Prosanta Gope has a publication titled 'An efficient mutual authentication and key agreement scheme preserving strong anonymity of the mobile user in global mobility networks' which is a Journal article
+Prosanta Gope has a publication titled 'A realistic lightweight authentication protocol preserving strong anonymity for securing RFID system' which is a Journal article
+Prosanta Gope has a publication titled 'IAR‐CTR and IAR‐CFB: integrity aware real‐time based counter and cipher feedback modes' which is a Journal article
+Prosanta Gope has a publication titled 'PFX: an essence of authencryption for block-cipher security' which is a Journal article
+Prosanta Gope has a publication titled 'Robust stream‐cipher mode of authenticated encryption for secure communication in wireless sensor network' which is a Journal article
+Prosanta Gope has a publication titled 'Robust Anonymous Mutual Authentication Scheme for &lt;italic&gt;n&lt;/italic&gt;-Times Ubiquitous Mobile Cloud Computing Services' which is a Journal article
+Prosanta Gope has a publication titled 'Enhanced secure mutual authentication and key agreement scheme with user anonymity in ubiquitous global mobility networks' which is a Journal article
+Prosanta Gope has a publication titled 'RT-OCFB: Real-Time Based Optimized Cipher Feedback Mode' which is a Journal article
+Prosanta Gope has a publication titled 'PFC-CTR, PFC-OCB: Efficient stream cipher modes of authencryption' which is a Journal article
+Prosanta Gope has a publication titled 'Energy Efficient Mutual Authentication and Key Agreement Scheme with Strong Anonymity Support for Secure Ubiquitious Roaming Services' which is a Conference proceedings paper
+Prosanta Gope has a publication titled 'Integrity-Aware Parallelizable Cipher Feedback Mode for Real-time Cryptography.' which is a Journal article
+Prosanta Gope has a publication titled 'Anonymous Communications for Secure Device-to-Device-Aided Fog Computing: Architecture, Challenges, and Solutions' which is a Journal article
+Prosanta Gope has a publication titled 'Anonymity Preserving and Lightweight Multimedical Server Authentication Protocol for Telecare Medical Information System' which is a Journal article
+Prosanta Gope has a publication titled 'A Lightweight and Privacy-Preserving Data Aggregation for Dynamic Pricing-based Billing in Smart Grids' which is a Conference proceedings paper
+Prosanta Gope has a publication titled 'A Novel Reference Security Model with the Situation Based Access Policy for Accessing EPHR Data' which is a Journal article
+Prosanta Gope has a publication titled 'Lightweight and privacy-friendly spatial data aggregation for secure power supply and demand management in smart grids' which is a Journal article

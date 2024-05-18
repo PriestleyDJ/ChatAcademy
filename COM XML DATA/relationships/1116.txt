@@ -1,0 +1,30 @@
+Stuart Wrigley is associated with the COM department
+Stuart Wrigley is not an academic
+Stuart Wrigley's title is Dr
+Stuart Wrigley's primary group descriptor is COM
+Stuart Wrigley has a publication titled 'A Computational Model of Auditory Selective Attention' which is a Journal article
+Stuart Wrigley has a publication titled 'Synfire chains as a neural mechanism for auditory grouping' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'A neural oscillator model of auditory attention' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'A neural oscillator model of auditory selective attention' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'Speech and crosstalk detection in multichannel audio
+' which is a Journal article
+Stuart Wrigley has a publication titled 'Recurrent timing neural networks for joint F0-localisation based speech separation' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'Binaural Speech Separation Using Recurrent Timing Neural Networks for Joint F0-Localisation Estimation' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'A speech fragment approach to localising multiple speakers in reverberant environments' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'Integrating pitch and localisation cues at a speech fragment level' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'Audio spatialisation strategies for multitasking during teleconferences' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'Automatic speech recognition for scientific purposes - webASR' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'The influence of audio presentation style on multitasking during teleconferences' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'Audio spatialisation strategies for multitasking during teleconferences' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'Recurrent Timing Neural Networks for Joint F0-Localisation Based Speech Separation' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'Physiologically motivated audio-visual localisation and tracking' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'The influence of audio presentation style on multitasking during teleconferences' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'Methodology and campaign design for the evaluation of semantic search tools' which is a Journal article
+Stuart Wrigley has a publication titled 'Making an automatic speech recognition service freely available on the web' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'Extending Audio Notetaker to browse WebASR transcriptions' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'Automatic speech recognition for scientific purposes - WebASR' which is a Journal article
+Stuart Wrigley has a publication titled 'Evaluating Semantic Search Query Approaches with Expert and Casual Users' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'Semantic evaluation at large scale (SEALS)' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'The state of semantic technology today' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'The interactive auditory demonstrations project' which is a Conference proceedings paper
+Stuart Wrigley has a publication titled 'Feature selection for the classification of crosstalk in multi-channel audio' which is a Conference proceedings paper

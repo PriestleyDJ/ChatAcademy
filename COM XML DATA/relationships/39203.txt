@@ -1,0 +1,29 @@
+Madhurananda Pahar is associated with the COM department
+Madhurananda Pahar is an academic
+Madhurananda Pahar's title is Dr
+Madhurananda Pahar's primary group descriptor is COM
+Madhurananda Pahar has a publication titled 'Coding and Decoding Speech using a Biologically Inspired Coding System' which is a Conference proceedings paper
+Madhurananda Pahar has a publication titled 'COVID-19 detection in cough, breath and speech using deep transfer learning and bottleneck features' which is a Journal article
+Madhurananda Pahar has a publication titled 'Automatic cough classification for tuberculosis screening in a real-world environment' which is a Journal article
+Madhurananda Pahar has a publication titled 'Automatic Tuberculosis and COVID-19 cough classification using deep learning' which is a Conference proceedings paper
+Madhurananda Pahar has a publication titled 'Accelerometer-Based Bed Occupancy Detection for Automatic, Non-Invasive Long-Term Cough Monitoring' which is a Journal article
+Madhurananda Pahar has a publication titled 'Deep Neural Network Based Cough Detection Using Bed-Mounted Accelerometer Measurements' which is a Conference proceedings paper
+Madhurananda Pahar has a publication titled 'COVID-19 cough classification using machine learning and global smartphone recordings' which is a Journal article
+Madhurananda Pahar has a publication titled 'Cough as Noninvasive Biomarker for Monitoring Tuberculosis Treatment: A Proof-of-Concept Study' which is a Journal article
+Madhurananda Pahar has a publication titled 'Automatic Non-Invasive Cough Detection based on Accelerometer and Audio Signals' which is a Journal article
+Madhurananda Pahar has a publication titled 'Wake-Cough: cough spotting and cougher identification for personalised
+  long-term cough monitoring' which is a Preprint
+Madhurananda Pahar has a publication titled 'Automatic Tuberculosis and COVID-19 cough classification using deep
+  learning' which is a Preprint
+Madhurananda Pahar has a publication titled 'Accelerometer-based Bed Occupancy Detection for Automatic, Non-invasive
+  Long-term Cough Monitoring' which is a Preprint
+Madhurananda Pahar has a publication titled 'Automatic Cough Classification for Tuberculosis Screening in a
+  Real-World Environment' which is a Preprint
+Madhurananda Pahar has a publication titled 'Automatic non-invasive Cough Detection based on Accelerometer and Audio
+  Signals' which is a Preprint
+Madhurananda Pahar has a publication titled 'COVID-19 Detection in Cough, Breath and Speech using Deep Transfer
+  Learning and Bottleneck Features' which is a Preprint
+Madhurananda Pahar has a publication titled 'COVID-19 Cough Classification using Machine Learning and Global
+  Smartphone Recordings' which is a Preprint
+Madhurananda Pahar has a publication titled 'Deep Neural Network based Cough Detection using Bed-mounted
+  Accelerometer Measurements' which is a Preprint

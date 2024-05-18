@@ -1,0 +1,30 @@
+Stephen Maddock is associated with the COM department
+Stephen Maddock is an academic
+Stephen Maddock's title is Dr
+Stephen Maddock's primary group descriptor is COM
+Stephen Maddock has a publication titled 'Planar Bones for MPEG-4 facial animation' which is a Conference proceedings paper
+Stephen Maddock has a publication titled 'Anti-aliasing with stratified B-spline filters of arbitrary degree
+' which is a Journal article
+Stephen Maddock has a publication titled 'A progressive refinement approach for the visualisation of implicit surfaces' which is a Conference proceedings paper
+Stephen Maddock has a publication titled 'Ray casting implicit fractal surfaces with reduced affine arithmetic ' which is a Journal article
+Stephen Maddock has a publication titled 'Topological correction of hypertextured implicit surfaces for ray casting' which is a Conference proceedings paper
+Stephen Maddock has a publication titled 'Progressive refinement rendering of implicit surfaces ' which is a Journal article
+Stephen Maddock has a publication titled 'A progressive refinement approach for the visualisation of implicit surfaces ' which is a Conference proceedings paper
+Stephen Maddock has a publication titled 'Topological correction of hypertextured implicit surfaces for ray casting' which is a Journal article
+Stephen Maddock has a publication titled 'Accurate multidimensional Poisson-disk sampling' which is a Journal article
+Stephen Maddock has a publication titled 'A personal CAL workbook' which is a Journal article
+Stephen Maddock has a publication titled 'Personal CAL workbooks: The next chapters' which is a Journal article
+Stephen Maddock has a publication titled 'An architecture for domain-independent collaborative virtual environments' which is a Conference proceedings paper
+Stephen Maddock has a publication titled 'A collaborative virtual training architecture for investigating the aftermath of vehicle accidents' which is a Conference proceedings paper
+Stephen Maddock has a publication titled 'Approximating character biomechanics with real-time weighted inverse kinematics' which is a Journal article
+Stephen Maddock has a publication titled 'Individualised character motion using weighted real-time inverse kinematics' which is a Conference proceedings paper
+Stephen Maddock has a publication titled 'Image-based talking heads using radial basis functions' which is a Conference proceedings paper
+Stephen Maddock has a publication titled 'Preventing collapse within mass-spring-damper models of deformable objects' which is a Conference proceedings paper
+Stephen Maddock has a publication titled 'Topological Correction of Hypertextured Implicit Surfaces for Ray Casting' which is a Journal article
+Stephen Maddock has a publication titled 'A Constraint-Based approach to Visual Speech for a Mexican-Spanish Talking Head' which is a Journal article
+Stephen Maddock has a publication titled 'A Serious Game for Traffic Accident Investigators' which is a Journal article
+Stephen Maddock has a publication titled 'Using Synthetic Vision for Autonomous Non-Player Characters in Computer Games' which is a Journal article
+Stephen Maddock has a publication titled 'Technologies for characters in computer games' which is a Journal article
+Stephen Maddock has a publication titled 'Computer Games Technology and Higher Education' which is a Journal article
+Stephen Maddock has a publication titled 'Developing a Serious Game for Police Training' which is a Chapter
+Stephen Maddock has a publication titled 'Game Portability Using a Service-Oriented Approach' which is a Journal article

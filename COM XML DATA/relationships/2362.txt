@@ -1,0 +1,29 @@
+Xu Xu is associated with the COM department
+Xu Xu is an academic
+Xu Xu's title is Dr
+Xu Xu's primary group descriptor is COM
+Xu Xu has a publication titled 'ON THE DYNAMICAL BEHAVIOR OF CELLULAR AUTOMATA' which is a Journal article
+Xu Xu has a publication titled 'Control of nonlinear functional differential equations' which is a Journal article
+Xu Xu has a publication titled 'ON THE STRUCTURE OF REAL-VALUED ONE-DIMENSIONAL CELLULAR AUTOMATA' which is a Journal article
+Xu Xu has a publication titled 'Chromodynamic Lattice Boltzmann Method for the Simulation of Drops, Erythrocytes, and other Vesicles' which is a Journal article
+Xu Xu has a publication titled 'Energy consumption analysis of a continuous flow ohmic heater with advanced process controls' which is a Journal article
+Xu Xu has a publication titled 'Nonlinear optimal stabilising control of a two-wheel robot' which is a Journal article
+Xu Xu has a publication titled 'Real-time implementation of yaw rate and sideslip control through individual wheel torques' which is a Conference proceedings paper
+Xu Xu has a publication titled 'Controllability Study of Two-Wheel Robot for Nonlinear Optimal Control and Implementation' which is a Conference proceedings paper
+Xu Xu has a publication titled 'Chromodynamic multirelaxation-time lattice Boltzmann scheme for fluids with density difference' which is a Journal article
+Xu Xu has a publication titled 'Three-dimensional single framework multicomponent lattice Boltzmann equation method for vesicle hydrodynamics' which is a Journal article
+Xu Xu has a publication titled 'Implementation of Nonlinear Optimal Control of Two-wheel Robot with Extended Kalman Filter' which is a Conference proceedings paper
+Xu Xu has a publication titled 'Kinematics of chromodynamic multicomponent lattice Boltzmann simulation with a large density contrast' which is a Journal article
+Xu Xu has a publication titled 'Chromo-dynamic multi-component lattice Boltzmann equation scheme for axial symmetry' which is a Journal article
+Xu Xu has a publication titled 'Sophisticated collective foraging with minimalist agents: a swarm robotics test.' which is a Journal article
+Xu Xu has a publication titled 'Case studies on non-linear control theory of the inverted pendulum' which is a Chapter
+Xu Xu has a publication titled 'Shear viscosity of a two-dimensional emulsion of drops using a multiple-relaxation-time-step lattice Boltzmann method' which is a Journal article
+Xu Xu has a publication titled 'Ship Hull Repair Using a Swarm of Autonomous Underwater Robots: A Self-Assembly Algorithm' which is a Conference proceedings paper
+Xu Xu has a publication titled 'Ship Hull Inspection Using a Swarm of Autonomous Underwater Robots: A Search Algorithm' which is a Conference proceedings paper
+Xu Xu has a publication titled 'Real Linear Automata with a Continuum of Periodic Solutions for Every Period' which is a Journal article
+Xu Xu has a publication titled 'Quality-sensitive foraging by a robot swarm through virtual pheromone trails' which is a Conference proceedings paper
+Xu Xu has a publication titled 'Benchmarking of three-dimensional multicomponent lattice Boltzmann equation' which is a Journal article
+Xu Xu has a publication titled '3D modelling of ferrite and austenite grain coarsening using real-valued cellular automata based on transition function' which is a Journal article
+Xu Xu has a publication titled 'A Mapping Technique from Rn to ¶ and Its Application to Nonlinear Sliding Control Systems' which is a Conference proceedings paper
+Xu Xu has a publication titled 'Assessing Parameter Subset Selection Methods Using a Minimalmechanical Model of the Cardiovascular System' which is a Preprint
+Xu Xu has a publication titled 'Automorphic Forms and Reeb-Like Foliations on Three-Manifolds' which is a Preprint

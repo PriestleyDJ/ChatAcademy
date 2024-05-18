@@ -1,0 +1,16 @@
+Aryan Mohammadi Pasikhani is associated with the COM department
+Aryan Mohammadi Pasikhani is an academic
+Aryan Mohammadi Pasikhani's title is Dr
+Aryan Mohammadi Pasikhani's primary group descriptor is COM
+Aryan Mohammadi Pasikhani is associated with 'ATM: Automated Threat Modelling for Enterprise AI-enabled Assets' grant
+Aryan Mohammadi Pasikhani is associated with 'ATM: Automated Threat Modelling for Enterprise AI-enabled Assets- Phase 2' grant
+Aryan Mohammadi Pasikhani has a publication titled 'A generic obfuscation framework for preventing ML-attacks on strong-PUFs through exploitation of DRAM-PUFs' which is a Conference proceedings paper
+Aryan Mohammadi Pasikhani has a publication titled 'Intrusion detection systems in RPL-based 6LoWPAN: a systematic literature review' which is a Journal article
+Aryan Mohammadi Pasikhani has a publication titled 'Adaptive Hybrid Heterogeneous IDS for 6LoWPAN' which is a Preprint
+Aryan Mohammadi Pasikhani has a publication titled 'Reinforcement-learning-based IDS for 6LoWPAN' which is a Conference proceedings paper
+Aryan Mohammadi Pasikhani has a publication titled 'AIDPS: Adaptive intrusion detection and prevention system for underwater acoustic sensor networks' which is a Journal article
+Aryan Mohammadi Pasikhani has a publication titled 'Adversarial RL-based IDS for evolving data environment in 6LoWPAN' which is a Journal article
+Aryan Mohammadi Pasikhani has a publication titled 'Incremental hybrid intrusion detection for 6LoWPAN' which is a Journal article
+Aryan Mohammadi Pasikhani has a publication titled 'Design rationale for symbiotically secure key management systems in IoT and beyond' which is a Conference proceedings paper
+Aryan Mohammadi Pasikhani has a publication titled 'User-empowered secure privacy-preserving authentication scheme for Digital Twin' which is a Journal article
+Aryan Mohammadi Pasikhani has a publication titled 'VFLGAN: Vertical Federated Learning-based Generative Adversarial Network for Vertically Partitioned Data Publication' which is a Preprint

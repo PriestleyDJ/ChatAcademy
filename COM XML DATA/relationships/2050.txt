@@ -1,0 +1,29 @@
+Mark Hepple is associated with the COM department
+Mark Hepple is an academic
+Mark Hepple's title is Dr
+Mark Hepple's primary group descriptor is COM
+Mark Hepple has a publication titled 'The CLEF corpus: semantic annotation of clinical text.' which is a Journal article
+Mark Hepple has a publication titled 'Mining clinical relationships from patient narratives' which is a Journal article
+Mark Hepple has a publication titled 'Human dialogue modelling using machine learning' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'Compacting the Penn Treebank grammar' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'Task-Oriented Extraction of Temporal Information: The Case of Clinical Narratives' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'The university of sheffield's TREC 2006 Q&amp;A experiments' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'The university of sheffield's TREC 2005 Q&amp;A experiments' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'The University of Sheffield's TREC 2003 Q&A Experiments.' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'University of Sheffield TREC-8 Q & A System' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'Compacting the Penn Treebank grammar' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'Building a semantically annotated corpus of clinical texts' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'The Role of Inference in the Temporal Annotation and Analysis of Text' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'The TempEval challenge: identifying temporal relations in text' which is a Journal article
+Mark Hepple has a publication titled 'Information retrieval for question answering a SIGIR 2004 workshop' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'A web service for biomedical term look-up' which is a Journal article
+Mark Hepple has a publication titled 'Error Analysis of Dialogue Act Classification' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'Independence and commitment: Assumptions for rapid training and execution of rule-based POS taggers' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'Maximal incrementality in linear categorial deduction' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'Mixing modes of linguistic description in Categorial Grammar' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'Efficient incremental processing with categorial grammar' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'Proof figures and structural operators for categorial grammar' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'Parsing and derivational equivalence' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'Memoisation for glue language deduction and categorial parsing' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'An Earley-style predictive chart parsing method for Lambek grammars' which is a Conference proceedings paper
+Mark Hepple has a publication titled 'Normal form theorem proving for the Lambek Calculus' which is a Conference proceedings paper

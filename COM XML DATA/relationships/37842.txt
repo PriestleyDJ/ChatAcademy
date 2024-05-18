@@ -1,0 +1,7 @@
+Aali Alqarni is associated with the COM department
+Aali Alqarni is an academic
+Aali Alqarni's title is Mr
+Aali Alqarni's primary group descriptor is COM
+Aali Alqarni has a publication titled 'Do Words with Certain Part of Speech Tags Improve the Performance of Arabic Text Classification?' which is a Conference proceedings paper
+Aali Alqarni has a publication titled 'A Comparative Analysis for GPA Prediction of Undergraduate Students Using Machine and Deep Learning' which is a Journal article
+Aali Alqarni has a publication titled 'YouTube Sentiment Analysis: Performance Model Evaluation' which is a Chapter

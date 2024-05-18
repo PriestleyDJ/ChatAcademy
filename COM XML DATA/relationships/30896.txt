@@ -1,0 +1,21 @@
+George Close is associated with the COM department
+George Close is an academic
+George Close's title is Mr
+George Close's primary group descriptor is COM
+George Close has a publication titled 'Non-intrusive speech intelligibility estimated by metric prediction for
+hearing impaired individuals for the clarity prediction challenge 1' which is a Conference proceedings paper
+George Close has a publication titled 'MetricGAN+/-: increasing robustness of noise reduction on unseen data' which is a Conference proceedings paper
+George Close has a publication titled 'MetricGAN+/- : increasing robustness of noise reduction on unseen data' which is a Preprint
+George Close has a publication titled 'Clarity Prediction Challenge 1 Entry: Non-intrusive Speech Intelligibility Metric Prediction - Technical Report' which is a Report
+George Close has a publication titled 'PAMGAN+/-: Improving phase-aware speech enhancement
+performance via expanded discriminator training' which is a Conference proceedings paper
+George Close is associated with 'Robust Speech Recognition in Complex Acoustic Scenes' grant
+George Close has a publication titled 'Perceive and predict: self-supervised speech representation based loss functions for speech enhancement' which is a Preprint
+George Close has a publication titled 'Non intrusive intelligibility predictor for hearing impaired individuals using self supervised speech representations' which is a Preprint
+George Close has a publication titled 'The Effect of Spoken Language on Speech Enhancement Using Self-Supervised Speech Representation Loss Functions' which is a Conference proceedings paper
+George Close has a publication titled 'The Effect of Spoken Language on Speech Enhancement Using Self-Supervised Speech Representation Loss Functions' which is a Conference proceedings paper
+George Close has a publication titled 'Pre-Trained Intermediate ASR Features and Human Memory Simulation for Non-Intrusive Speech Intelligibility Prediction in the Clarity Prediction Challenge 2' which is a Conference proceedings paper
+George Close has a publication titled 'Perceive and predict: self-supervised speech representation based loss functions for speech enhancement' which is a Conference proceedings paper
+George Close has a publication titled 'The Effect of Spoken Language on Speech Enhancement using Self-Supervised Speech Representation Loss Functions' which is a Preprint
+George Close has a publication titled 'Multi-CMGAN+/+: Leveraging Multi-Objective Speech Quality Metric Prediction for Speech Enhancement' which is a Preprint
+George Close has a publication titled 'Hallucination in Perceptual Metric-Driven Speech Enhancement Networks' which is a Preprint

@@ -1,0 +1,29 @@
+Andrei Popescu is associated with the COM department
+Andrei Popescu is an academic
+Andrei Popescu's title is Dr
+Andrei Popescu's primary group descriptor is COM
+Andrei Popescu has a publication titled 'CoCon: a conference management system with formally verified document confidentiality' which is a Journal article
+Andrei Popescu has a publication titled 'Foundational extensible corecursion : a proof assistant perspective' which is a Conference proceedings paper
+Andrei Popescu has a publication titled 'CoSMeDis : a distributed social media platform with formally verified confidentiality guarantees' which is a Conference proceedings paper
+Andrei Popescu has a publication titled 'Bindings as bounded natural functors' which is a Journal article
+Andrei Popescu has a publication titled 'Safety and conservativity of definitions in HOL and Isabelle/HOL' which is a Journal article
+Andrei Popescu is associated with 'Security of Digital Twins in Manufacturing' grant
+Andrei Popescu is associated with 'Cyclic Reasoning Mechanisms for Interactive Theorem Proving' grant
+Andrei Popescu has a publication titled 'Distilling the requirements of Gödel’s incompleteness theorems with a proof assistant' which is a Journal article
+Andrei Popescu has a publication titled 'Supernominal Datatypes and Codatatypes' which is a Journal article
+Andrei Popescu is associated with 'Formal Specification and Verification of the Safe Interaction between Humans and Industrial Robots' grant
+Andrei Popescu has a publication titled 'Making security type systems less ad hoc' which is a Journal article
+Andrei Popescu is associated with 'Verification of Web-based Systems (VOWS)' grant
+Andrei Popescu has a publication titled 'Introduction to milestones in interactive theorem proving' which is a Journal article
+Andrei Popescu has a publication titled 'Foundational (Co)datatypes and (Co)recursion for Higher-Order Logic' which is a Conference proceedings paper
+Andrei Popescu has a publication titled 'A Consistent Foundation for Isabelle/HOL' which is a Conference proceedings paper
+Andrei Popescu has a publication titled 'Case Studies in Formal Reasoning About Lambda-Calculus: Semantics, Church-Rosser, Standardization and HOAS' which is a Preprint
+Andrei Popescu has a publication titled 'A Formalized General Theory of Syntax with Bindings' which is a Preprint
+Andrei Popescu has a publication titled 'Encoding Monomorphic and Polymorphic Types' which is a Preprint
+Andrei Popescu has a publication titled 'Foundational Extensible Corecursion' which is a Preprint
+Andrei Popescu has a publication titled 'Term-generic logic' which is a Journal article
+Andrei Popescu has a publication titled 'Witnessing (Co)datatypes' which is a Journal article
+Andrei Popescu has a publication titled 'Formal verification of language-based concurrent noninterference' which is a Journal article
+Andrei Popescu has a publication titled 'A Conference Management System with Verified Document Confidentiality' which is a Conference proceedings paper
+Andrei Popescu has a publication titled 'Cardinals in Isabelle/HOL' which is a Conference proceedings paper
+Andrei Popescu has a publication titled 'Truly Modular (Co)datatypes for Isabelle/HOL' which is a Conference proceedings paper

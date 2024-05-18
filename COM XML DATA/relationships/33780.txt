@@ -1,0 +1,13 @@
+Sina Tabakhi is associated with the COM department
+Sina Tabakhi is an academic
+Sina Tabakhi's title is Mr
+Sina Tabakhi's primary group descriptor is COM
+Sina Tabakhi has a publication titled 'Multi-agent feature selection for integrative multi-omics analysis' which is a Conference proceedings paper
+Sina Tabakhi has a publication titled 'Gene selection for microarray data classification using a novel ant colony optimization' which is a Journal article
+Sina Tabakhi has a publication titled 'Relevance–redundancy feature selection based on ant colony optimization' which is a Journal article
+Sina Tabakhi has a publication titled 'An unsupervised feature selection algorithm based on ant colony optimization' which is a Journal article
+Sina Tabakhi has a publication titled 'Universal Feature Selection Tool (UniFeat): An Open-Source Tool for
+  Dimensionality Reduction' which is a Preprint
+Sina Tabakhi has a publication titled 'Multimodal Learning for Multi-Omics: A Survey' which is a Preprint
+Sina Tabakhi has a publication titled 'Multimodal learning for multi-omics: a survey' which is a Journal article
+Sina Tabakhi has a publication titled 'Universal feature selection tool (UniFeat): An open-source tool for dimensionality reduction' which is a Journal article

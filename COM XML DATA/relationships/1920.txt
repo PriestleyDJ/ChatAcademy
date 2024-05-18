@@ -1,0 +1,30 @@
+Anthony Prescott is associated with the COM department
+Anthony Prescott is an academic
+Anthony Prescott's title is Professor
+Anthony Prescott's primary group descriptor is COM
+Anthony Prescott has a publication titled 'Is the short-latency dopamine response too short to signal reward error?' which is a Journal article
+Anthony Prescott has a publication titled 'The basal ganglia: A vertebrate solution to the selection problem?' which is a Journal article
+Anthony Prescott has a publication titled 'A computational model of action selection in the basal ganglia. I. A new functional anatomy' which is a Journal article
+Anthony Prescott has a publication titled 'A computational model of action selection in the basal ganglia. II. Analysis and simulation of behaviour' which is a Journal article
+Anthony Prescott has a publication titled 'Connectionist simulation of attitude learning: Asymmetries in the acquisition of
+positive and negative evaluations' which is a Journal article
+Anthony Prescott has a publication titled 'Empirically inspired simulated electro-mechanical model of the rat mystacial follicle-sinus complex' which is a Journal article
+Anthony Prescott has a publication titled 'Testing computational hypotheses of brain systems function: a case study with the basal ganglia' which is a Journal article
+Anthony Prescott has a publication titled 'A new dissimilarity measure for finding semantic structure in category fluency data with implications for understanding memory organization in schizophrenia' which is a Journal article
+Anthony Prescott has a publication titled 'Active Touch Sensing in the Rat: Anticipatory and Regulatory Control of Whisker Movements During Surface Exploration' which is a Journal article
+Anthony Prescott has a publication titled 'Kinematic Coordination of Reach and Balance' which is a Journal article
+Anthony Prescott has a publication titled 'Layered control architectures in robots and vertebrates' which is a Journal article
+Anthony Prescott has a publication titled 'The robot basal ganglia: Control of robot action selection by an embodied model of the mammalian basal ganglia' which is a Conference proceedings paper
+Anthony Prescott has a publication titled 'Experimental and connectionist perspectives on semantic memory development' which is a Conference proceedings paper
+Anthony Prescott has a publication titled 'An embodied model of action selection mechanisms in the vertebrate brain' which is a Conference proceedings paper
+Anthony Prescott has a publication titled 'The robot basal ganglia: Action selection by an embedded model of the basal ganglia' which is a Conference proceedings paper
+Anthony Prescott has a publication titled 'Is there an integrative center in the vertebrate brain-stem? A robotic evaluation of a model of the reticular formation viewed as an action selection device' which is a Journal article
+Anthony Prescott has a publication titled 'A Biologically Inspired FPGA Based Implementation of a Tactile Sensory System for Object Recognition and Texture Discrimination' which is a Conference proceedings paper
+Anthony Prescott has a publication titled 'BRAHMS: Novel middleware for integrated systems computation' which is a Journal article
+Anthony Prescott has a publication titled 'The interaction of recurrent axon collateral networks in the basal ganglia' which is a Conference proceedings paper
+Anthony Prescott has a publication titled 'Contact type dependency of texture classification in a whiskered mobile robot' which is a Journal article
+Anthony Prescott has a publication titled 'Response times for visually guided saccades in persons with Parkinson's disease : a meta-analytic review' which is a Journal article
+Anthony Prescott has a publication titled 'Introduction. Modelling natural action selection' which is a Journal article
+Anthony Prescott has a publication titled 'Spike-timing in primary sensory neurons: a model of somatosensory transduction in the rat' which is a Journal article
+Anthony Prescott has a publication titled 'Technical integration of hippocampus, Basal Ganglia and physical models for spatial navigation.' which is a Journal article
+Anthony Prescott has a publication titled 'The ventral basal ganglia, a selection mechanism at the crossroads of space, strategy, and reward' which is a Journal article

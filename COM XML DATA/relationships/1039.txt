@@ -1,0 +1,27 @@
+Emma Barker is associated with the COM department
+Emma Barker is not an academic
+Emma Barker's title is Dr
+Emma Barker's primary group descriptor is COM
+Emma Barker has a publication titled 'Further Development of Reduced Graphs for Identifying Bioactive Compounds' which is a Journal article
+Emma Barker has a publication titled 'Scaffold Hopping Using Clique Detection Applied to Reduced Graphs' which is a Journal article
+Emma Barker has a publication titled 'A caption annotation scheme for georeferencing images' which is a Journal article
+Emma Barker has a publication titled 'Assessing the comparability of news texts' which is a Conference proceedings paper
+Emma Barker has a publication titled 'Applying ISO-Space to Healthcare Facility Design Evaluation Reports' which is a Journal article
+Emma Barker has a publication titled 'Bootstrapping term extractors for multiple languages' which is a Journal article
+Emma Barker has a publication titled 'FlickLing: A multilingual search interface for Flickr' which is a Conference proceedings paper
+Emma Barker has a publication titled 'Extracting bilingual terms from the Web' which is a Journal article
+Emma Barker has a publication titled 'Bootstrapping Term Extractors for Multiple Languages' which is a Conference proceedings paper
+Emma Barker has a publication titled 'OnForumS' which is a Conference proceedings paper
+Emma Barker has a publication titled 'A Graph-Based Approach to Topic Clustering for Online Comments to News' which is a Conference proceedings paper
+Emma Barker has a publication titled 'Integrating NLP tools to support information access to news archives' which is a Conference proceedings paper
+Emma Barker has a publication titled 'What's the issue here?: Task-based evaluation of reader comment summarization systems' which is a Conference proceedings paper
+Emma Barker has a publication titled 'The SENSEI Overview of Newspaper Readers’ Comments' which is a Conference proceedings paper
+Emma Barker has a publication titled 'Automatic label generation for news comment clusters' which is a Conference proceedings paper
+Emma Barker has a publication titled 'Automatic Label Generation for News Comment Clusters' which is a Conference proceedings paper
+Emma Barker is associated with 'A Multimodal Speech and Graphical Interface for Hands-free Data Capture and Querying in MRO' grant
+Emma Barker is associated with 'Dialogue based systems for human robot co-working' grant
+Emma Barker has a publication titled 'SNuC: The Sheffield Numbers Spoken Language Corpus' which is a Conference proceedings paper
+Emma Barker has a publication titled 'The SENSEI Annotated Corpus: Human Summaries of Reader Comment Conversations in On-line News' which is a Conference proceedings paper
+Emma Barker has a publication titled 'Summarizing Multi-Party Argumentative Conversations in Reader Comment on News' which is a Conference proceedings paper
+Emma Barker has a publication titled 'Simulating cub reporter dialogues: The collection of naturalistic human-human dialogues for information access to text archives' which is a Conference proceedings paper
+Emma Barker has a publication titled 'Assigning Terms to Domains by Document Classification' which is a Conference proceedings paper

@@ -1,0 +1,30 @@
+Donghwan Shin is associated with the COM department
+Donghwan Shin is an academic
+Donghwan Shin's title is Dr
+Donghwan Shin's primary group descriptor is COM
+Donghwan Shin has a publication titled 'Comparing Offline and Online Testing of Deep Neural Networks: An Autonomous Car Case Study' which is a Conference proceedings paper
+Donghwan Shin has a publication titled 'Efficient Testing of Self-Adaptive Behaviors in Collective Adaptive Systems' which is a Conference proceedings paper
+Donghwan Shin has a publication titled 'Mutation Analysis for System of Systems Policy Testing' which is a Conference proceedings paper
+Donghwan Shin has a publication titled 'Comprehensive analysis of FBD test coverage criteria using mutants' which is a Journal article
+Donghwan Shin has a publication titled 'Digital Twins Are Not Monozygotic – cross-replicating ADAS testing in two industry-grade automotive simulators' which is a Conference proceedings paper
+Donghwan Shin has a publication titled 'A Theoretical Framework for Understanding the Relationship Between Log Parsing and Anomaly Detection' which is a Chapter
+Donghwan Shin has a publication titled 'ABC
+            <sup>+</sup>' which is a Conference proceedings paper
+Donghwan Shin has a publication titled 'Empirical Evaluation on FBD Model-Based Test Coverage Criteria Using Mutation Analysis' which is a Chapter
+Donghwan Shin has a publication titled 'Quality Based Software Project Staffing and Scheduling with Cost Bound' which is a Conference proceedings paper
+Donghwan Shin has a publication titled 'Formal Modeling and Verification of a Federated Byzantine Agreement Algorithm for Blockchain Platforms' which is a Conference proceedings paper
+Donghwan Shin has a publication titled 'Automatic test suite generation for key-points detection DNNs using many-objective search (experience paper)' which is a Conference proceedings paper
+Donghwan Shin has a publication titled 'A Theoretical and Empirical Study of Diversity-Aware Mutation Adequacy Criterion' which is a Journal article
+Donghwan Shin has a publication titled 'Are mutation scores correlated with real fault detection?' which is a Conference proceedings paper
+Donghwan Shin has a publication titled 'Diversity-aware mutation adequacy criterion for improving fault detection capability' which is a Conference proceedings paper
+Donghwan Shin has a publication titled 'Human Resource Allocation in Software Project with Practical Considerations' which is a Journal article
+Donghwan Shin has a publication titled 'An Applicability Study of Action-Benefit-Cost Model and Statistical Model Checking for System of Systems Goal Achievement Verification' which is a Journal article
+Donghwan Shin has a publication titled 'A Case Study for Mutation-based Fault Localization for FBD Programs' which is a Journal article
+Donghwan Shin has a publication titled 'Quality-Based Software Project Staffing and Scheduling with Project Deadline' which is a Journal article
+Donghwan Shin has a publication titled 'Automated test case generation for FBD programs implementing reactor protection system software' which is a Journal article
+Donghwan Shin has a publication titled 'A theoretical framework for understanding mutation-based testing methods' which is a Conference proceedings paper
+Donghwan Shin has a publication titled 'Log-based slicing for system-level test cases' which is a Conference proceedings paper
+Donghwan Shin has a publication titled 'Empirical evaluation of mutation‐based test case prioritization techniques' which is a Journal article
+Donghwan Shin has a publication titled 'A runtime verification framework for dynamically adaptive multi-agent systems' which is a Conference proceedings paper
+Donghwan Shin has a publication titled 'Environment Imitation: Data-Driven Environment Model Generation Using Imitation Learning for Efficient CPS Goal Verification' which is a Preprint
+Donghwan Shin has a publication titled 'Automatic Test Suite Generation for Key-Points Detection DNNs using Many-Objective Search (Experience Paper)' which is a Preprint

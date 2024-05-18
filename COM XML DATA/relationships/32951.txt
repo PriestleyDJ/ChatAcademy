@@ -1,0 +1,5 @@
+Robert Flynn is associated with the COM department
+Robert Flynn is an academic
+Robert Flynn's title is Mr
+Robert Flynn's primary group descriptor is COM
+Robert Flynn has a publication titled 'MTCue: learning zero-shot control of extra-textual attributes by leveraging unstructured context in neural machine translation' which is a Conference proceedings paper

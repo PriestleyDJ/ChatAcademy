@@ -1,0 +1,19 @@
+Daniele Tartarini is associated with the COM department
+Daniele Tartarini is an academic
+Daniele Tartarini's title is Dr
+Daniele Tartarini's primary group descriptor is COM
+Daniele Tartarini has a publication titled 'Editorial: “Design, modeling and manufacturing of scaffolds to control cell-biomaterial interactions in tissue engineering”' which is a Journal article
+Daniele Tartarini has a publication titled 'Cellular Response to Surface Morphology: Electrospinning and Computational Modeling.' which is a Journal article
+Daniele Tartarini has a publication titled 'VPH-HF: A software framework for the execution of complex subject-specific physiology modelling workflows' which is a Journal article
+Daniele Tartarini has a publication titled 'Stem cells in skin regeneration: biomaterials and computational models' which is a Journal article
+Daniele Tartarini has a publication titled 'The VPH Hypermodelling framework for cancer multiscale models in the clinical practice' which is a Conference proceedings paper
+Daniele Tartarini is associated with an activity with description of 'unknown' by the organisation The Royal Society and unknown department
+Daniele Tartarini has a publication titled 'A Grid-Enabled Protein Secondary Structure Predictor' which is a Journal article
+Daniele Tartarini has a publication titled 'GPU implementation of Hertzian Potential Formulation for simulation of nanosensors' which is a Conference proceedings paper
+Daniele Tartarini has a publication titled 'Bayesian Phylogenetic Inference in the LIBI Grid Platform: A Tool to Explore Large Data Sets' which is a Conference proceedings paper
+Daniele Tartarini has a publication titled 'FAIR Principles for Research Software (FAIR4RS Principles)' which is a Journal article
+Daniele Tartarini has a publication titled 'Automated target-specific code generation for finite element methods in the FEniCS framework' which is a Conference proceedings paper
+Daniele Tartarini has a publication titled 'pFIRE: parallel Framework for Image REgistration' which is a Conference proceedings paper
+Daniele Tartarini has a publication titled 'The LIBI grid platform for bioinformatics' which is a Chapter
+Daniele Tartarini is associated with 'AI-care.KE' grant
+Daniele Tartarini is associated with 'BoSS: Bank of Sustainable Software' grant

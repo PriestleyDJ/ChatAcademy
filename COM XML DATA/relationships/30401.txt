@@ -1,0 +1,10 @@
+Matthew Leach is associated with the COM department
+Matthew Leach is an academic
+Matthew Leach's title is Mr
+Matthew Leach's primary group descriptor is COM
+Matthew Leach has a publication titled 'Recreating Sheffield's medieval castle in situ using outdoor augmented reality' which is a Conference proceedings paper
+Matthew Leach has a publication titled 'An evaluation approach for a physically-based sticky lip model' which is a Journal article
+Matthew Leach has a publication titled 'UISS-GPU: Accelerated In-Silico Tuberculosis Vaccine Trials Using FLAME GPU' which is a Conference proceedings paper
+Matthew Leach has a publication titled 'FLAME GPU 2: a framework for flexible and performant agent based simulation on GPUs' which is a Journal article
+Matthew Leach has a publication titled 'Exploring the relationship between food advertising and consumption of foods high in fat, salt, and sugar in England: an agent-based modelling study' which is a Journal article
+Matthew Leach has a publication titled 'Physically-based sticky lips' which is a Conference proceedings paper

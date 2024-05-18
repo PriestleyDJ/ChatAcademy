@@ -1,0 +1,29 @@
+James Marshall is associated with the COM department
+James Marshall is an academic
+James Marshall's title is Professor
+James Marshall's primary group descriptor is COM
+James Marshall has a publication titled 'Moving targets: collective decisions and flexible choices in house-hunting ants' which is a Journal article
+James Marshall has a publication titled 'The donation game with roles played between relatives' which is a Journal article
+James Marshall has a publication titled 'On optimal decision-making in brains and social insect colonies' which is a Journal article
+James Marshall has a publication titled 'Colony-level cognition' which is a Journal article
+James Marshall has a publication titled 'Mammalian choices: combining fast-but-inaccurate and slow-but-accurate decision-making systems' which is a Journal article
+James Marshall has a publication titled 'A representational ecology for learning classifier systems' which is a Conference proceedings paper
+James Marshall has a publication titled 'Why do house-hunting ants recruit in both directions?' which is a Journal article
+James Marshall has a publication titled 'Weighting waiting in collective decision-making' which is a Journal article
+James Marshall has a publication titled 'Noise, cost and speed-accuracy trade-offs: decision-making in a decentralized system' which is a Journal article
+James Marshall has a publication titled 'See how she runs: Towards visualising artificial Red Queen evolution' which is a Conference proceedings paper
+James Marshall has a publication titled 'What Have Gene Libraries Done for AIS?' which is a Conference proceedings paper
+James Marshall has a publication titled 'Simulating the Evolution of Ant Behaviour in Evaluating Nest Sites' which is a Conference proceedings paper
+James Marshall has a publication titled 'Queller's rule ok: Comment on van Veelen ‘when inclusive fitness is right and when it can be wrong’' which is a Journal article
+James Marshall has a publication titled 'Environmental variability can select for optimism or pessimism' which is a Journal article
+James Marshall has a publication titled 'Modeling UCS as a mixture of experts' which is a Conference proceedings paper
+James Marshall has a publication titled 'Bayesian estimation of rule accuracy in UCS' which is a Conference proceedings paper
+James Marshall has a publication titled 'UCSpv' which is a Conference proceedings paper
+James Marshall has a publication titled 'Viscous Populations and Their Support for Reciprocal Cooperation' which is a Journal article
+James Marshall has a publication titled 'Kin selection may inhibit the evolution of reciprocation' which is a Journal article
+James Marshall has a publication titled 'Conflicting agents: Conflict management in multi-agent systems' which is a Journal article
+James Marshall has a publication titled 'An Investigation into Kin Selection and Reciprocal Cooperation in a Viscous Population' which is a Thesis / Dissertation
+James Marshall has a publication titled 'Computer modelling in behavioral and evolutionary ecology: whys and wherefores.' which is a Chapter
+James Marshall has a publication titled 'The Dawn of a Golden Age in Mathematical Insect Sociobiology' which is a Chapter
+James Marshall has a publication titled 'Swarm Cognition: an interdisciplinary approach to the study of self-organising biological collectives' which is a Journal article
+James Marshall has a publication titled 'The state of Darwinian theory' which is a Journal article

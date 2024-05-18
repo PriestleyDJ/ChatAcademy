@@ -1,0 +1,29 @@
+Maria-Cruz Villa-Uriol is associated with the COM department
+Maria-Cruz Villa-Uriol is an academic
+Maria-Cruz Villa-Uriol's title is Dr
+Maria-Cruz Villa-Uriol's primary group descriptor is COM
+Maria-Cruz Villa-Uriol has a publication titled 'The role of computational fluid dynamics in the management of unruptured intracranial aneurysms: a clinicians' view' which is a Journal article
+Maria-Cruz Villa-Uriol has a publication titled 'Three-dimensional morphological analysis of intracranial aneurysms: A fully automated method for aneurysm sac isolation and quantification' which is a Journal article
+Maria-Cruz Villa-Uriol has a publication titled 'Virtual Coiling of Intracranial Aneurysms Based on Dynamic Path Planning' which is a Conference proceedings paper
+Maria-Cruz Villa-Uriol has a publication titled 'Dynamic estimation of three‐dimensional cerebrovascular deformation from rotational angiography' which is a Journal article
+Maria-Cruz Villa-Uriol has a publication titled 'Automated segmentation of cerebral vasculature with aneurysms in 3DRA and TOF‐MRA using geodesic active regions: An evaluation study' which is a Journal article
+Maria-Cruz Villa-Uriol has a publication titled 'Efficient 3D Geometric and Zernike Moments Computation from Unstructured Surface Meshes' which is a Journal article
+Maria-Cruz Villa-Uriol has a publication titled 'Toward integrated management of cerebral aneurysms' which is a Journal article
+Maria-Cruz Villa-Uriol has a publication titled 'Morphodynamic Analysis of Cerebral Aneurysm Pulsation From Time-Resolved Rotational Angiography' which is a Journal article
+Maria-Cruz Villa-Uriol has a publication titled 'Estimating Continuous 4D Wall Motion of Cerebral Aneurysms from 3D Rotational Angiography' which is a Conference proceedings paper
+Maria-Cruz Villa-Uriol has a publication titled 'Biomechanical wall properties of human intracranial aneurysms resected following surgical clipping (IRRAs Project)' which is a Journal article
+Maria-Cruz Villa-Uriol has a publication titled 'Prediction of Cerebral Aneurysm Rupture Using Hemodynamic, Morphologic and Clinical Features: A Data Mining Approach' which is a Conference proceedings paper
+Maria-Cruz Villa-Uriol has a publication titled 'Evaluation of an efficient GPU implementation of digitally reconstructed radiographs in 3D/2D image registration' which is a Conference proceedings paper
+Maria-Cruz Villa-Uriol has a publication titled 'Hemodynamic alterations of a patient-specific intracranial aneurysm induced by virtual deployment of stents in various axial orientation' which is a Conference proceedings paper
+Maria-Cruz Villa-Uriol has a publication titled 'Fast virtual deployment of self-expandable stents: Method and in vitro evaluation for intracranial aneurysmal stenting' which is a Journal article
+Maria-Cruz Villa-Uriol has a publication titled 'Morphological descriptors as rupture indicators in middle cerebral artery aneurysms' which is a Conference proceedings paper
+Maria-Cruz Villa-Uriol has a publication titled 'AngioLab: Integrated technology for patient-specific management of intracranial aneurysms' which is a Conference proceedings paper
+Maria-Cruz Villa-Uriol has a publication titled 'How Do Coil Configuration and Packing Density Influence Intra-Aneurysmal Hemodynamics?' which is a Journal article
+Maria-Cruz Villa-Uriol has a publication titled '@neurIST Complex Information Processing toolchain for the integrated management of cerebral aneurysm' which is a Journal article
+Maria-Cruz Villa-Uriol has a publication titled 'Automated landmarking and geometric characterization of the carotid siphon' which is a Journal article
+Maria-Cruz Villa-Uriol has a publication titled 'AngioLab—A software tool for morphological analysis and endovascular treatment planning of intracranial aneurysms' which is a Journal article
+Maria-Cruz Villa-Uriol has a publication titled 'Home Page' which is a Website content
+Maria-Cruz Villa-Uriol has a publication titled 'Avatar-centric Risk Evaluation' which is a Conference proceedings paper
+Maria-Cruz Villa-Uriol has a publication titled 'Humanoid synthesis using Clifford algebra' which is a Conference proceedings paper
+Maria-Cruz Villa-Uriol has a publication titled 'Automatic creation of three-dimensional avatars' which is a Conference proceedings paper
+Maria-Cruz Villa-Uriol has a publication titled 'A Computational Framework to Explore the Role of Pulsatile Haemodynamics on Cerebral Aneurysm Development for Patient-Specific Arterial Geometries' which is a Conference proceedings paper

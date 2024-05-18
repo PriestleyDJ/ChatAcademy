@@ -1,0 +1,16 @@
+Zhixue Zhao is associated with the COM department
+Zhixue Zhao is an academic
+Zhixue Zhao's title is Dr
+Zhixue Zhao's primary group descriptor is COM
+Zhixue Zhao has a publication titled 'A comparative study of using pre-trained language models for toxic comment classification' which is a Conference proceedings paper
+Zhixue Zhao has a publication titled 'Utilizing subjectivity level to mitigate identity term bias in toxic comments classification' which is a Journal article
+Zhixue Zhao has a publication titled 'Incorporating Attribution Importance for Improving Faithfulness Metrics' which is a Preprint
+Zhixue Zhao has a publication titled 'Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization' which is a Preprint
+Zhixue Zhao has a publication titled 'On the Impact of Temporal Concept Drift on Model Explanations' which is a Preprint
+Zhixue Zhao has a publication titled 'Lighter, yet More Faithful: Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization.' which is a Journal article
+Zhixue Zhao has a publication titled 'Incorporating attribution importance for improving faithfulness metrics' which is a Conference proceedings paper
+Zhixue Zhao has a publication titled 'On the Impact of Temporal Concept Drift on Model Explanations' which is a Conference proceedings paper
+Zhixue Zhao has a publication titled 'On the Impact of Temporal Concept Drift on Model Explanations' which is a Conference proceedings paper
+Zhixue Zhao has a publication titled 'SS-BERT: Mitigating identity terms bias in toxic comment classification by utilising the notion of "subjectivity" and "identity terms".' which is a Preprint
+Zhixue Zhao has a publication titled 'ReAGent: A Model-agnostic Feature Attribution Method for Generative Language Models' which is a Preprint
+Zhixue Zhao has a publication titled 'Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models' which is a Preprint

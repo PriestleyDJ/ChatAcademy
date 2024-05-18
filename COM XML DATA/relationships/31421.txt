@@ -1,0 +1,11 @@
+Chanho Park is associated with the COM department
+Chanho Park is an academic
+Chanho Park's title is Mr
+Chanho Park's primary group descriptor is COM
+Chanho Park has a publication titled 'Unsupervised Data Selection for Speech Recognition with Contrastive Loss Ratios' which is a Conference proceedings paper
+Chanho Park has a publication titled 'Unsupervised data selection for Speech Recognition with contrastive loss ratios' which is a Preprint
+Chanho Park has a publication titled 'Exploring speech representations for proficiency assessment in language learning' which is a Conference proceedings paper
+Chanho Park has a publication titled 'Fast Word Error Rate Estimation Using Self-Supervised Representations
+  For Speech And Text' which is a Preprint
+Chanho Park has a publication titled 'Automatic Speech Recognition System-Independent Word Error Rate
+  Estimation' which is a Preprint

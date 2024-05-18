@@ -1,0 +1,29 @@
+Ian Roberts is associated with the COM department
+Ian Roberts is an academic
+Ian Roberts's title is Mr
+Ian Roberts's primary group descriptor is COM
+Ian Roberts has a publication titled 'The CLEF corpus: semantic annotation of clinical text.' which is a Journal article
+Ian Roberts has a publication titled 'Using Prior Information Attained from the Literature to Improve Ranking in Genome-wide Association Studies' which is a Conference proceedings paper
+Ian Roberts has a publication titled 'Integrating text mining into distributed bioinformatics workflows: a web services implementation' which is a Conference proceedings paper
+Ian Roberts has a publication titled 'Web Service Architectures for Text Mining' which is a Conference proceedings paper
+Ian Roberts has a publication titled 'Building a semantically annotated corpus of clinical texts' which is a Conference proceedings paper
+Ian Roberts has a publication titled 'The University of Sheffield's TREC 2003 Q&A Experiments.' which is a Conference proceedings paper
+Ian Roberts has a publication titled 'The university of sheffield's TREC 2005 Q&amp;A experiments' which is a Conference proceedings paper
+Ian Roberts has a publication titled 'The University of Sheffield TREC 2002 Q&A System.' which is a Conference proceedings paper
+Ian Roberts has a publication titled 'Evaluating Passage Retrieval Approaches for Question Answering' which is a Conference proceedings paper
+Ian Roberts has a publication titled 'A web service for biomedical term look-up' which is a Journal article
+Ian Roberts has a publication titled 'Large-scale, parallel automatic patent annotation' which is a Conference proceedings paper
+Ian Roberts has a publication titled 'Finite Differences and Parabolic Equations' which is a Journal article
+Ian Roberts has a publication titled 'Text Processing with Gate (Version 6)' which is a Book
+Ian Roberts has a publication titled 'Information Extraction and Semantic Annotation for Multi-Paradigm Information Management' which is a Chapter
+Ian Roberts has a publication titled 'GATE, a General Architecture for Text Engineering' which is a Software / Code
+Ian Roberts has a publication titled 'A large-scale resource for storing and recognizing technical terminology' which is a Conference proceedings paper
+Ian Roberts has a publication titled 'GATECloud.net: a Platform for Large-Scale, Open-Source Text Processing on the Cloud' which is a Journal article
+Ian Roberts has a publication titled 'GATE Teamware: A Web-based Collaborative Text Annotation Framework' which is a Journal article
+Ian Roberts has a publication titled 'Crowdsourcing Named Entity Recognition and Entity Linking Corpora' which is a Chapter
+Ian Roberts has a publication titled 'The GATE Crowdsourcing Plugin: Crowdsourcing Annotated Corpora Made Easy' which is a Conference proceedings paper
+Ian Roberts has a publication titled 'Mímir: An open-source semantic search framework for interactive information seeking and discovery' which is a Journal article
+Ian Roberts has a publication titled 'AnnoMarket – Multilingual text analytics at scale on the cloud' which is a Conference proceedings paper
+Ian Roberts has a publication titled 'Real-time Social Media Analytics through Semantic Annotation and Linked Open Data' which is a Conference proceedings paper
+Ian Roberts has a publication titled 'A framework for real-time semantic social media analysis' which is a Journal article
+Ian Roberts has a publication titled 'Broad twitter corpus: A diverse named entity recognition resource' which is a Conference proceedings paper

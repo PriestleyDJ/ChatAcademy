@@ -1,0 +1,29 @@
+Paul Watton is associated with the COM department
+Paul Watton is an academic
+Paul Watton's title is Professor
+Paul Watton's primary group descriptor is COM
+Paul Watton has a publication titled 'Modelling the interaction of haemodynamics and the artery wall: Current status and future prospects' which is a Journal article
+Paul Watton has a publication titled 'Multi-scale interaction of particulate flow and the artery wall' which is a Journal article
+Paul Watton has a publication titled 'Multi-scale interaction of particulate flow and the artery wall' which is a Journal article
+Paul Watton has a publication titled 'An integrative approach to cerebrovascular disease healthcare: IT for cerebral aneurysms' which is a Conference proceedings paper
+Paul Watton has a publication titled 'Modelling Chorded Prosthetic Mitral Valves using the Immersed Boundary Method' which is a Journal article
+Paul Watton has a publication titled 'A Computational Framework to Explore the Role of Pulsatile Haemodynamics on Cerebral Aneurysm Development for Patient-Specific Arterial Geometries' which is a Conference proceedings paper
+Paul Watton has a publication titled 'Computational Fluid Dynamics in Aneurysm Research: Critical Reflections, Future Directions' which is a Journal article
+Paul Watton has a publication titled 'Coupling the Hemodynamic Environment to the Evolution of Cerebral Aneurysms: Computational Framework and Numerical Examples' which is a Journal article
+Paul Watton has a publication titled 'Modelling evolution and the evolving mechanical environment of saccular cerebral aneurysms' which is a Journal article
+Paul Watton has a publication titled 'Modelling Cerebral Aneurysm Evolution' which is a Chapter
+Paul Watton has a publication titled 'Intracranial Aneurysms: Modeling Inception and Enlargement' which is a Chapter
+Paul Watton has a publication titled 'Investigating the Influence of Haemodynamic Stimuli on Intracranial Aneurysm Inception' which is a Journal article
+Paul Watton has a publication titled 'Effect of bending rigidity in a dynamic model of a polyurethane prosthetic mitral valve' which is a Journal article
+Paul Watton has a publication titled 'Rest versus Exercise Hemodynamics for Middle Cerebral Artery Aneurysms: A Computational Study' which is a Journal article
+Paul Watton has a publication titled 'Modelling the mechanical response of elastin for arterial tissue' which is a Journal article
+Paul Watton has a publication titled 'Modelling the growth and stabilization of cerebral aneurysms' which is a Journal article
+Paul Watton has a publication titled 'Computational modelling for cerebral aneurysms: risk evaluation and interventional planning' which is a Journal article
+Paul Watton has a publication titled 'Evolving mechanical properties of a model of abdominal aortic aneurysm' which is a Journal article
+Paul Watton has a publication titled 'Dynamic modelling of prosthetic chorded mitral valves using the immersed boundary method' which is a Journal article
+Paul Watton has a publication titled 'A mathematical model for the growth of the abdominal aortic aneurysm' which is a Journal article
+Paul Watton has a publication titled 'Influence of differing material properties in media and adventitia on arterial adaptation — application to aneurysm formation and rupture' which is a Journal article
+Paul Watton has a publication titled 'Multiscale Modeling of Intracranial Aneurysms: Cell Signaling, Hemodynamics, and Remodeling' which is a Journal article
+Paul Watton has a publication titled 'Effects of flow vortex on a chorded mitral valve in the left ventricle' which is a Journal article
+Paul Watton has a publication titled 'Risk evaluation and interventional planning for cerebral aneurysms: computational models for growth, coiling and thrombosis' which is a Journal article
+Paul Watton has a publication titled 'Modelling evolution of saccular cerebral aneurysms' which is a Journal article

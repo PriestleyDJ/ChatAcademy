@@ -1,0 +1,7 @@
+Richard Somers is associated with the COM department
+Richard Somers is an academic
+Richard Somers's title is Mr
+Richard Somers's primary group descriptor is COM
+Richard Somers has a publication titled 'Digital-twin-based testing for cyber–physical systems: a systematic literature review' which is a Journal article
+Richard Somers has a publication titled 'Reliable counterparts : efficiently testing causal relationships in digital twins' which is a Conference proceedings paper
+Richard Somers has a publication titled 'Explainable modelling of type 1 diabetes to understand artificial pancreas system behaviour' which is a Journal article

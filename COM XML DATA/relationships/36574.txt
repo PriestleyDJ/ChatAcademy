@@ -1,0 +1,29 @@
+Behzad Abdolmaleki is associated with the COM department
+Behzad Abdolmaleki is an academic
+Behzad Abdolmaleki's title is Dr
+Behzad Abdolmaleki's primary group descriptor is COM
+Behzad Abdolmaleki has a publication titled 'UC-Secure CRS Generation for SNARKs' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'DL-Extractable UC-Commitment Schemes' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'On QA-NIZK in the BPK Model' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'Steganography-Free Zero-Knowledge' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'Smooth Zero-Knowledge Hash Functions' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'Lift-and-Shift' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'A Subversion-Resistant SNARK' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'Subversion-Resistant Quasi-adaptive NIZK and Applications to Modular Zk-SNARKs' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'Traceability Analysis of Recent RFID Authentication Protocols' which is a Journal article
+Behzad Abdolmaleki has a publication titled 'Analysis of Xiao et al.'s authentication protocol conforming to EPC C1 G2 standard' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'Privacy analysis and improvements of two recent RFID authentication protocols' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'Game-Based Privacy Analysis of RFID Security Schemes for Confident Authentication in IoT' which is a Journal article
+Behzad Abdolmaleki has a publication titled 'Cryptanalysis of two EPC-based RFID security schemes' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'Untraceable RFID authentication protocols for EPC compliant tags' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'Enhancing achievable sum-rate by making strong and weak interference in an ad-hoc network' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'Securing key exchange and key agreement security schemes for RFID passive tags' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'Attacks and improvements on two new-found RFID authentication protocols' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'An AKARI-based Secure Communication Scheme for EPC Tags' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'Breaking anonymity of some recent lightweight RFID authentication protocols' which is a Journal article
+Behzad Abdolmaleki has a publication titled 'A Framework for UC-Secure Commitments from Publicly Computable Smooth Projective Hashing' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'Updatable Trapdoor SPHFs: Modular Construction of Updatable Zero-Knowledge Arguments and More' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'CRS-Updatable Asymmetric Quasi-Adaptive NIZK Arguments' which is a Conference proceedings paper
+Behzad Abdolmaleki has a publication titled 'On Subversion-Resistant SNARKs' which is a Journal article
+Behzad Abdolmaleki has a publication titled 'Two-round concurrent 2PC from sub-exponential LWE' which is a Chapter
+Behzad Abdolmaleki has a publication titled 'stoRNA: Stateless Transparent Proofs of Storage-time' which is a Chapter

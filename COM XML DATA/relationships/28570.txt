@@ -1,0 +1,29 @@
+Matthew Ellis is associated with the COM department
+Matthew Ellis is an academic
+Matthew Ellis's title is Dr
+Matthew Ellis's primary group descriptor is COM
+Matthew Ellis has a publication titled 'The Landau-Lifshitz equation in atomistic models' which is a Journal article
+Matthew Ellis has a publication titled 'Temperature-dependent ferromagnetic resonance via the Landau-Lifshitz-Bloch equation: Application to FePt' which is a Journal article
+Matthew Ellis has a publication titled 'Classical spin model of the relaxation dynamics of rare-earth doped permalloy' which is a Journal article
+Matthew Ellis has a publication titled 'The Landau-Lifshitz equation in atomistic models' which is a Journal article
+Matthew Ellis has a publication titled 'Role of longitudinal fluctuations in L10 FePt' which is a Journal article
+Matthew Ellis has a publication titled 'Atomistic spin model simulations of magnetic nanomaterials' which is a Journal article
+Matthew Ellis has a publication titled 'Multiscale modeling of current-induced switching in magnetic tunnel junctions using ab initio spin-transfer torques' which is a Journal article
+Matthew Ellis has a publication titled 'All-optical switching in granular ferromagnets caused by magnetic circular dichroism' which is a Journal article
+Matthew Ellis has a publication titled 'Spin-lattice dynamics model with angular momentum transfer for canonical and microcanonical ensembles' which is a Journal article
+Matthew Ellis has a publication titled 'Dynamically‐driven emergence in a nanomagnetic system' which is a Journal article
+Matthew Ellis has a publication titled 'Voltage-controlled superparamagnetic ensembles for low-power reservoir computing' which is a Journal article
+Matthew Ellis has a publication titled 'Neuromorphic computation with a single magnetic domain wall' which is a Journal article
+Matthew Ellis has a publication titled 'From stochasticity to functionality: harnessing magnetic domain walls for probabilistic and neuromorphic computing' which is a Conference proceedings paper
+Matthew Ellis has a publication titled 'Nontrivial spatial dependence of the spin torques in L10 FePt-based tunneling junctions' which is a Journal article
+Matthew Ellis has a publication titled 'Anomalous damping dependence of the switching time in Fe/FePt bilayer recording media' which is a Journal article
+Matthew Ellis has a publication titled 'Manifestation of higher-order inter-granular exchange in magnetic recording media' which is a Journal article
+Matthew Ellis has a publication titled 'Switching times of nanoscale FePt: finite size effects on the linear reversal mechanism' which is a Journal article
+Matthew Ellis has a publication titled 'Neuromorphic Computation With a Single Magnetic Domain Wall' which is a Preprint
+Matthew Ellis has a publication titled 'Exploiting Multiple Timescales in Hierarchical Echo State Networks' which is a Preprint
+Matthew Ellis has a publication titled 'Quantifying the computational capability of a nanomagnetic reservoir computing platform with emergent magnetization dynamics' which is a Journal article
+Matthew Ellis is associated with 'From Stochasticity to Functionality: Probabilistic Computation with Magnetic Nanowires' grant
+Matthew Ellis has a publication titled 'Quantifying the computational capability of a nanomagnetic reservoir computing platform with emergent magnetisation dynamics' which is a Journal article
+Matthew Ellis is associated with 'MCAP: Magnetic Materials that Think and Feel' grant
+Matthew Ellis has a publication titled 'A perspective on physical reservoir computing with nanomagnetic devices' which is a Journal article
+Matthew Ellis has a publication titled 'Machine learning using magnetic stochastic synapses' which is a Preprint

@@ -1,0 +1,30 @@
+Michael Stannett is associated with the COM department
+Michael Stannett is an academic
+Michael Stannett's title is Dr
+Michael Stannett's primary group descriptor is COM
+Michael Stannett has a publication titled 'The Stone-Čech compactification of the rational world' which is a Journal article
+Michael Stannett has a publication titled 'Representations of spaces as function spaces' which is a Journal article
+Michael Stannett has a publication titled 'Editorial: Future Trends in Hypercomputation' which is a Journal article
+Michael Stannett has a publication titled 'The case for hypercomputation' which is a Journal article
+Michael Stannett has a publication titled 'Simulation testing of automata' which is a Journal article
+Michael Stannett has a publication titled 'Computation and hypercomputation' which is a Journal article
+Michael Stannett has a publication titled 'Are there asymmetries in UK Consumption? A time series analysis' which is a Journal article
+Michael Stannett has a publication titled 'THE G-COMPACTIFICATIONS OF A LOCALLY COMPACT HAUSDORFF SPACE' which is a Journal article
+Michael Stannett has a publication titled 'The Computational Status of Physics: A Computable Formulation of Quantum Theory' which is a Journal article
+Michael Stannett has a publication titled 'Modelling Quantum Theoretical Trajectories within Geometric Relativistic
+  Theories' which is a Conference proceedings paper
+Michael Stannett has a publication titled 'X-machines and the halting problem: Building a super-turing machine' which is a Journal article
+Michael Stannett has a publication titled 'Infinite Concurrent Systems — I. The Relationship between Metric and Order Convergence' which is a Journal article
+Michael Stannett has a publication titled 'Editorial: 8th International Conference on Unconventional Computation Hypercomputation Workshop' which is a Journal article
+Michael Stannett has a publication titled 'Computation and Spacetime Structure.' which is a Working paper
+Michael Stannett has a publication titled 'Membrane system models for super-Turing paradigms' which is a Journal article
+Michael Stannett has a publication titled 'Computing the appearance of physical reality' which is a Journal article
+Michael Stannett has a publication titled 'Future Trends in Hypercomputation' which is a Conference proceedings paper
+Michael Stannett has a publication titled '8th International Conference on Unconventional Computation Hypercomputation Workshop' which is a Conference proceedings paper
+Michael Stannett has a publication titled 'Hypercomputational Models' which is a Chapter
+Michael Stannett has a publication titled 'Very High Level Functional Testing of VLSI - Preliminary Results' which is a Conference proceedings paper
+Michael Stannett has a publication titled 'On Transfinite Traces' which is a Conference proceedings paper
+Michael Stannett has a publication titled 'Multi-level Lax Logic' which is a Conference proceedings paper
+Michael Stannett has a publication titled 'Modular Software Design' which is a Book
+Michael Stannett has a publication titled 'Method of Object Testing, Integration and Verification' which is a Conference proceedings paper
+Michael Stannett has a publication titled 'Plug and play safely: Rules for behavioural compatibility' which is a Conference proceedings paper

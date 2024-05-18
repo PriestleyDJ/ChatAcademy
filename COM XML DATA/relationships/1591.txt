@@ -1,0 +1,29 @@
+Anthony Simons is associated with the COM department
+Anthony Simons is an academic
+Anthony Simons's title is Dr
+Anthony Simons's primary group descriptor is COM
+Anthony Simons has a publication titled 'Issues in implementing a model checker for Z' which is a Conference proceedings paper
+Anthony Simons has a publication titled 'Z2SAL-building a model checker for Z' which is a Conference proceedings paper
+Anthony Simons has a publication titled 'Using formal specifications to support testing' which is a Journal article
+Anthony Simons has a publication titled 'A Pilot Study of Comparative Customer Comprehension between Extreme X-Machine and UML Models' which is a Conference proceedings paper
+Anthony Simons has a publication titled 'Leveraging Semantic Web Service Descriptions for Validation by Automated Functional Testing' which is a Conference proceedings paper
+Anthony Simons has a publication titled 'Feedback-Based Specification, Coding and Testing with JWalk' which is a Conference proceedings paper
+Anthony Simons has a publication titled 'JWalk: a tool for lazy, systematic testing of java classes by design introspection and user interaction' which is a Journal article
+Anthony Simons has a publication titled 'Using Alloy to model-check visual design notations' which is a Conference proceedings paper
+Anthony Simons has a publication titled 'A theory of regression testing for behaviourally compatible object types' which is a Journal article
+Anthony Simons has a publication titled 'Testing with guarantees and the failure of regression testing in eXtreme Programming' which is a Conference proceedings paper
+Anthony Simons has a publication titled 'The OPEN software engineering process architecture: from activities to techniques' which is a Journal article
+Anthony Simons has a publication titled 'Using design patterns to reveal the competence of object-oriented methods in system-level design' which is a Journal article
+Anthony Simons has a publication titled 'Design patterns as litmus paper to test the strength of object-oriented methods' which is a Conference proceedings paper
+Anthony Simons has a publication titled 'Use cases considered harmful' which is a Conference proceedings paper
+Anthony Simons has a publication titled 'Control-flow semantics of use cases in UML' which is a Journal article
+Anthony Simons has a publication titled 'The theory of classification part 20: modular checking of classtypes' which is a Journal article
+Anthony Simons has a publication titled 'The theory of classification part 19: the proliferation of parameters' which is a Journal article
+Anthony Simons has a publication titled 'The theory of classification part 18: polymorphism through the looking glass' which is a Journal article
+Anthony Simons has a publication titled 'The theory of classification part 17: multiple inheritance and the resolution of inheritance conflicts' which is a Journal article
+Anthony Simons has a publication titled 'The theory of classification part 16: rules of extension and the typing of inheritance' which is a Journal article
+Anthony Simons has a publication titled 'The theory of classification part 15: mixins and the superclass interface' which is a Journal article
+Anthony Simons has a publication titled 'The theory of classification part 13: template classes and genericity' which is a Journal article
+Anthony Simons has a publication titled 'The theory of classification part 12: building the class hierarchy' which is a Journal article
+Anthony Simons has a publication titled 'The theory of classification part 11: adding class types to object implementations' which is a Journal article
+Anthony Simons has a publication titled 'The theory of classification - part 10: method combination and super-reference' which is a Journal article

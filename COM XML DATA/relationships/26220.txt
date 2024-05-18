@@ -1,0 +1,29 @@
+Robert Hierons is associated with the COM department
+Robert Hierons is an academic
+Robert Hierons's title is Professor
+Robert Hierons's primary group descriptor is COM
+Robert Hierons has a publication titled 'Automated Unique Input Output Sequence Generation for Conformance Testing of FSMs' which is a Journal article
+Robert Hierons has a publication titled 'Heuristics for fault diagnosis when testing from finite state machines' which is a Journal article
+Robert Hierons has a publication titled 'Using formal specifications to support testing' which is a Journal article
+Robert Hierons has a publication titled 'Editorial: special issue on specification-based testing' which is a Journal article
+Robert Hierons has a publication titled 'Editorial: Addressing industrial challenges—UKTest 2005 and beyond' which is a Journal article
+Robert Hierons has a publication titled 'FORTEST: formal methods and testing' which is a Conference proceedings paper
+Robert Hierons has a publication titled 'Testability Transformation – Program Transformation to Improve Testability' which is a Chapter
+Robert Hierons has a publication titled 'Constructing multiple unique input/output sequences using metaheuristic optimisation techniques' which is a Journal article
+Robert Hierons has a publication titled 'Complexity of Data Dependence Problems for Program Schemas with Concurrency' which is a Journal article
+Robert Hierons has a publication titled 'On the computational complexity of dynamic slicing problems for program schemas' which is a Journal article
+Robert Hierons has a publication titled 'A Tribute to Martin Woodward' which is a Journal article
+Robert Hierons has a publication titled 'The Effectiveness of Refactoring, Based on a Compatibility Testing Taxonomy and a Dependency Graph' which is a Conference proceedings paper
+Robert Hierons has a publication titled 'Guest Editorial' which is a Journal article
+Robert Hierons has a publication titled 'Thread–Based Analysis of Sequence Diagrams' which is a Conference proceedings paper
+Robert Hierons has a publication titled 'Complexity of Data Dependence problems for Program Schemas with Concurrency' which is a Journal article
+Robert Hierons has a publication titled 'Characterizing minimal semantics-preserving slices of predicate-linear, free, liberal program schemas' which is a Journal article
+Robert Hierons has a publication titled 'Decidability of strong equivalence for subschemas of a class of linear, free, near-liberal program schemas' which is a Journal article
+Robert Hierons has a publication titled 'Equivalence of linear, free, liberal, structured program schemas is decidable in polynomial time' which is a Journal article
+Robert Hierons has a publication titled 'Equivalence of conservative, free, linear program schemas is decidable' which is a Journal article
+Robert Hierons has a publication titled 'Static Program Slicing Algorithms are Minimal for Free Liberal Program Schemas' which is a Journal article
+Robert Hierons has a publication titled 'Node coarsening calculi for program slicing' which is a Conference proceedings paper
+Robert Hierons has a publication titled 'A trajectory-based strict semantics for program slicing.' which is a Journal article
+Robert Hierons has a publication titled 'Semantic mutation testing' which is a Conference proceedings paper
+Robert Hierons has a publication titled 'Semantic Mutation Testing' which is a Conference proceedings paper
+Robert Hierons has a publication titled 'Formulating software engineering as a search problem.' which is a Journal article

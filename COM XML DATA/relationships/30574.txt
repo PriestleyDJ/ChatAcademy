@@ -1,0 +1,32 @@
+William Holcombe is associated with the COM department
+William Holcombe is an academic
+William Holcombe's title is Emeritus Prof
+William Holcombe's primary group descriptor is COM
+William Holcombe has a publication titled 'Multi-Compartmentalisation in the MAPK Signalling Pathway Contributes to the Emergence of Oscillatory Behaviour and to Ultrasensitivity' which is a Journal article
+William Holcombe has a publication titled 'Computational modelling of NF-κB activation by IL-1RI and its co-receptor TILRR, predicts a role for Cytoskeletal Sequestration of IκBα in inflammatory signalling.' which is a Journal article
+William Holcombe has a publication titled '166 Increase in TILRR Expression in Areas of Vascular Inflammation Alters NF-KB Control Through Cytoskeletal Release of the Inhibitor IKBA – Interdisciplinary Analysis Using Predictive Agent Based Modelling' which is a Journal article
+William Holcombe has a publication titled 'Reducing complexity in an agent based reaction model-Benefits and limitations of simplifications in relation to run time and system level output.' which is a Journal article
+William Holcombe has a publication titled 'Modelling the Transport of Nanoparticles under Blood Flow using an Agent-based Approach.' which is a Journal article
+William Holcombe has a publication titled 'Competition between members of the tribbles pseudokinase protein family shapes their interactions with mitogen activated protein kinase pathways' which is a Journal article
+William Holcombe has a publication titled 'Towards a Systems Level Understanding of the Oxygen Response of Escherichia coli' which is a Journal article
+William Holcombe has a publication titled 'A Machine Learning Assisted, Label-free, Non-invasive Approach for Somatic Reprogramming in Induced Pluripotent Stem Cell Colony Formation Detection and Prediction' which is a Journal article
+William Holcombe has a publication titled 'The IL-1RI co-receptor TILRR (FREM1 isoform 2) controls aberrant inflammatory responses and development of vascular disease' which is a Journal article
+William Holcombe has a publication titled 'Large-Scale Modeling of Economic Systems' which is a Journal article
+William Holcombe has a publication titled 'Introducing spatial information into predictive NF-kappa B modelling - an agent-based approach 
+ 
+' which is a Journal article
+William Holcombe has a publication titled 'Empirical investigation towards the effectiveness of Test First programming' which is a Journal article
+William Holcombe has a publication titled 'Improving dynamic software analysis by applying grammar inference principles' which is a Journal article
+William Holcombe has a publication titled 'Validation and discovery from computational biology models' which is a Journal article
+William Holcombe has a publication titled 'The organization of soil disposal by ants
+' which is a Journal article
+William Holcombe has a publication titled 'An agent-based model to investigate the roles of attractive and repellent pheromones in ant decision making during foraging' which is a Journal article
+William Holcombe has a publication titled 'Decay rates of attractive and repellent pheromones in an ant foraging trail network' which is a Journal article
+William Holcombe has a publication titled 'Testing data processing-oriented systems from stream X-machine models' which is a Journal article
+William Holcombe has a publication titled 'Running an Agile Software Development Project' which is a Journal article
+William Holcombe has a publication titled 'Correctness of data mined from CVS' which is a Journal article
+William Holcombe has a publication titled 'Leaving nothing to chance' which is a Journal article
+William Holcombe has a publication titled 'Longevity and detection of persistent foraging trails in Pharaoh's ants, Monomorium pharaonis (L.)' which is a Journal article
+William Holcombe has a publication titled '‘No entry’ signal in ant foraging' which is a Journal article
+William Holcombe has a publication titled 'Evolutionary Testing Using an Extended Chaining Approach' which is a Journal article
+William Holcombe has a publication titled 'Testing methods for X-machines: a review' which is a Journal article

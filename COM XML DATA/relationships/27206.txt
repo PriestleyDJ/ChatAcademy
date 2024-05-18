@@ -1,0 +1,29 @@
+Bahman Mirheidari is associated with the COM department
+Bahman Mirheidari is an academic
+Bahman Mirheidari's title is Dr
+Bahman Mirheidari's primary group descriptor is COM
+Bahman Mirheidari has a publication titled 'Diagnosing people with dementia using automatic conversation analysis' which is a Conference proceedings paper
+Bahman Mirheidari has a publication titled 'Toward the automation of diagnostic conversation analysis in patients with memory complaints.' which is a Journal article
+Bahman Mirheidari has a publication titled 'An avatar-based system for identifying individuals likely to develop dementia' which is a Conference proceedings paper
+Bahman Mirheidari has a publication titled 'An avatar to screen for cognitive impairment' which is a Conference proceedings paper
+Bahman Mirheidari has a publication titled 'Dementia detection using automatic analysis of conversations' which is a Journal article
+Bahman Mirheidari has a publication titled 'Developing an intelligent virtual agent to stratify people with cognitive complaints: A comparison of human-patient and intelligent virtual agent-patient interaction' which is a Journal article
+Bahman Mirheidari has a publication titled 'Detecting Signs of Dementia Using Word Vector Representations' which is a Conference proceedings paper
+Bahman Mirheidari has a publication titled 'PO029 An avatar aid in memory clinic' which is a Journal article
+Bahman Mirheidari has a publication titled 'A virtual agent to support individuals living with physical and mental comorbidities : co-design and acceptability testing' which is a Journal article
+Bahman Mirheidari has a publication titled 'Computational Cognitive Assessment: Investigating the Use of an Intelligent Virtual Agent for the Detection of Early Signs of Dementia' which is a Conference proceedings paper
+Bahman Mirheidari has a publication titled 'A new diagnostic approach for the identification of patients with neurodegenerative cognitive complaints' which is a Journal article
+Bahman Mirheidari has a publication titled 'Automatic hierarchical attention neural network for detecting AD' which is a Conference proceedings paper
+Bahman Mirheidari is associated with 'COMPASS-proto: COMPutational Assessment of Stroke Survivors Prototype' grant
+Bahman Mirheidari has a publication titled 'Data augmentation using generative networks to identify dementia' which is a Journal article
+Bahman Mirheidari has a publication titled 'Characterising spoken responses to an intelligent virtual agent by persons with mild cognitive impairment' which is a Journal article
+Bahman Mirheidari has a publication titled '26 Can an automated assessment of language help distinguish between Functional Cognitive Disorder and early neurodegeneration?' which is a Journal article
+Bahman Mirheidari has a publication titled 'Improving detection of Alzheimer’s Disease using automatic speech recognition to identify high-quality segments for more robust feature extraction' which is a Conference proceedings paper
+Bahman Mirheidari has a publication titled 'Improving Cognitive Impairment Classification by Generative Neural Network-Based Feature Augmentation' which is a Conference proceedings paper
+Bahman Mirheidari has a publication titled 'Acoustic feature extraction with interpretable deep neural network for neurodegenerative related disorder classification' which is a Conference proceedings paper
+Bahman Mirheidari has a publication titled 'Fully automated cognitive screening tool based on assessment of speech and language' which is a Journal article
+Bahman Mirheidari has a publication titled 'A fully automated cognitive screening tool based on assessment of speech and language' which is a Conference proceedings paper
+Bahman Mirheidari has a publication titled 'How can automated linguistic analysis help to discern functional cognitive disorder from healthy controls and mild cognitive impairment?' which is a Conference proceedings paper
+Bahman Mirheidari has a publication titled 'A Virtual Agent to Support Individuals Living With Physical and Mental Comorbidities: Co-Design and Acceptability Testing (Preprint)' which is a Preprint
+Bahman Mirheidari has a publication titled 'Detecting Alzheimer's Disease by estimating attention and elicitation path through the alignment of spoken picture descriptions with the picture prompt.' which is a Preprint
+Bahman Mirheidari is associated with 'Automatically coding expressed emotion to enhance clinical and epidemiological research in adolescence' grant

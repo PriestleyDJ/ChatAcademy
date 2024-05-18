@@ -1,0 +1,29 @@
+Haiping Lu is associated with the COM department
+Haiping Lu is an academic
+Haiping Lu's title is Professor
+Haiping Lu's primary group descriptor is COM
+Haiping Lu has a publication titled 'A Full-Body Layered Deformable Model for Automatic Model-Based Gait Recognition' which is a Journal article
+Haiping Lu has a publication titled 'Distance-Reciprocal Distortion Measure for Binary Document Images' which is a Journal article
+Haiping Lu has a publication titled 'MPCA: Multilinear Principal Component Analysis of Tensor Objects' which is a Journal article
+Haiping Lu has a publication titled 'Uncorrelated Multilinear Discriminant Analysis With Regularization and Aggregation for Tensor Object Recognition' which is a Journal article
+Haiping Lu has a publication titled 'Gaussian kernel optimization for pattern classification' which is a Journal article
+Haiping Lu has a publication titled 'A Biometric Encryption System for the Self-Exclusion Scenario of Face Recognition' which is a Journal article
+Haiping Lu has a publication titled 'Regularized Common Spatial Pattern With Aggregation for EEG Classification in Small-Sample Setting' which is a Journal article
+Haiping Lu has a publication titled 'Fuzzy Key Binding Strategies Based on Quantization Index Modulation (QIM) for Biometric Encryption (BE) Applications' which is a Journal article
+Haiping Lu has a publication titled 'A survey of multilinear subspace learning for tensor data' which is a Journal article
+Haiping Lu has a publication titled 'Uncorrelated Multilinear Principal Component Analysis for Unsupervised Multilinear Subspace Learning' which is a Journal article
+Haiping Lu has a publication titled 'Boosting Discriminant Learners for Gait Recognition Using MPCA Features' which is a Journal article
+Haiping Lu has a publication titled 'EcoICA: Skewness-based ICA via Eigenvectors of Cumulant Operator' which is a Conference proceedings paper
+Haiping Lu has a publication titled 'Proper Inner Product with Mean Displacement for Gaussian Noise Invariant ICA' which is a Conference proceedings paper
+Haiping Lu has a publication titled 'Bilinear Probabilistic Canonical Correlation Analysis via Hybrid Concatenations' which is a Conference proceedings paper
+Haiping Lu has a publication titled 'Quantifying Limb Movements in Epileptic Seizures Through Color-Based Video Analysis' which is a Journal article
+Haiping Lu has a publication titled 'Learning Tensor-Based Features for Whole-Brain fMRI Classification' which is a Conference proceedings paper
+Haiping Lu has a publication titled 'Learning canonical correlations of paired tensor sets via tensor-to-vector projection' which is a Conference proceedings paper
+Haiping Lu has a publication titled 'Learning Modewise Independent Components from Tensor Data Using Multilinear Mixing Model' which is a Conference proceedings paper
+Haiping Lu has a publication titled 'Non-intrusive head movement analysis of videotaped seizures of epileptic origin' which is a Conference proceedings paper
+Haiping Lu has a publication titled 'Markerless video analysis for movement quantification in pediatric epilepsy monitoring' which is a Conference proceedings paper
+Haiping Lu has a publication titled 'Visualization and clustering of crowd video content in MPCA subspace' which is a Conference proceedings paper
+Haiping Lu has a publication titled 'A Taxonomy of Emerging Multilinear Discriminant Analysis Solutions for Biometric Signal Recognition' which is a Chapter
+Haiping Lu has a publication titled 'Face recognition with biometric encryption for privacy-enhancing self-exclusion' which is a Conference proceedings paper
+Haiping Lu has a publication titled 'Regularized common spatial patterns with generic learning for EEG signal classification' which is a Conference proceedings paper
+Haiping Lu has a publication titled 'Uncorrelated multilinear principal component analysis through successive variance maximization' which is a Conference proceedings paper

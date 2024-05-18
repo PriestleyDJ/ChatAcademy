@@ -1,0 +1,15 @@
+Tomas Goldsack is associated with the COM department
+Tomas Goldsack is an academic
+Tomas Goldsack's title is Mr
+Tomas Goldsack's primary group descriptor is COM
+Tomas Goldsack is associated with 'Adaptive Natural Language Generation for Technical Documents' grant
+Tomas Goldsack has a publication titled 'Making Science Simple: Corpora for the Lay Summarisation of Scientific Literature' which is a Preprint
+Tomas Goldsack has a publication titled 'Domain-Driven and Discourse-Guided Scientific Summarisation' which is a Chapter
+Tomas Goldsack has a publication titled 'BioLaySumm 2023 Shared Task: Lay Summarisation of Biomedical Research Articles' which is a Conference proceedings paper
+Tomas Goldsack has a publication titled 'Making Science Simple: Corpora for the Lay Summarisation of Scientific Literature' which is a Conference proceedings paper
+Tomas Goldsack has a publication titled 'Overview of the BioLaySumm 2023 Shared Task on Lay Summarization of Biomedical Research Articles' which is a Preprint
+Tomas Goldsack has a publication titled 'Enhancing Biomedical Lay Summarisation with External Knowledge Graphs' which is a Preprint
+Tomas Goldsack has a publication titled 'Improving Biomedical Abstractive Summarisation with Knowledge Aggregation from Citation Papers' which is a Preprint
+Tomas Goldsack has a publication titled 'Overview of the BioLaySumm 2023 Shared Task on Lay Summarization of Biomedical Research Articles' which is a Conference proceedings paper
+Tomas Goldsack has a publication titled 'Enhancing Biomedical Lay Summarisation with External Knowledge Graphs' which is a Journal article
+Tomas Goldsack has a publication titled 'Improving Biomedical Abstractive Summarisation with Knowledge Aggregation from Citation Papers' which is a Conference proceedings paper

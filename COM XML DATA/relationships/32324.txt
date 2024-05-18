@@ -1,0 +1,5 @@
+Fuhai Ling is associated with the COM department
+Fuhai Ling is an academic
+Fuhai Ling's title is Mr
+Fuhai Ling's primary group descriptor is COM
+Fuhai Ling has a publication titled 'Obstacle avoidance using stereo vision and deep reinforcement learning in an animal-like robot' which is a Conference proceedings paper

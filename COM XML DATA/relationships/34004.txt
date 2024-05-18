@@ -1,0 +1,29 @@
+Sagnik Mukhopadhyay is associated with the COM department
+Sagnik Mukhopadhyay is an academic
+Sagnik Mukhopadhyay's title is Dr
+Sagnik Mukhopadhyay's primary group descriptor is COM
+Sagnik Mukhopadhyay has a publication titled 'Distributed weighted min-cut in nearly-optimal time' which is a Conference proceedings paper
+Sagnik Mukhopadhyay has a publication titled 'Breaking the quadratic barrier for matroid intersection' which is a Conference proceedings paper
+Sagnik Mukhopadhyay has a publication titled 'Work-Optimal Parallel Minimum Cuts for Non-Sparse Graphs' which is a Conference proceedings paper
+Sagnik Mukhopadhyay has a publication titled 'Weighted min-cut: sequential, cut-query, and streaming algorithms' which is a Conference proceedings paper
+Sagnik Mukhopadhyay has a publication titled 'Simulation beats richness: new data-structure lower bounds' which is a Conference proceedings paper
+Sagnik Mukhopadhyay has a publication titled 'Faster Connectivity in Low-Rank Hypergraphs via Expander Decomposition' which is a Chapter
+Sagnik Mukhopadhyay has a publication titled 'Separation between deterministic and randomized query complexity' which is a Journal article
+Sagnik Mukhopadhyay has a publication titled 'Nearly optimal communication and query complexity of bipartite matching' which is a Conference proceedings paper
+Sagnik Mukhopadhyay has a publication titled 'Cut query algorithms with star contraction' which is a Conference proceedings paper
+Sagnik Mukhopadhyay has a publication titled 'Finding a Small Vertex Cut on Distributed Networks' which is a Conference proceedings paper
+Sagnik Mukhopadhyay has a publication titled 'Fast algorithms via dynamic-oracle matroids' which is a Conference proceedings paper
+Sagnik Mukhopadhyay has a publication titled 'Simulation theorems via pseudo-random properties' which is a Journal article
+Sagnik Mukhopadhyay has a publication titled 'Lifting theorems for equality' which is a Conference proceedings paper
+Sagnik Mukhopadhyay has a publication titled 'Fast Algorithms via Dynamic-Oracle Matroids' which is a Preprint
+Sagnik Mukhopadhyay has a publication titled 'Nearly Optimal Communication and Query Complexity of Bipartite Matching' which is a Preprint
+Sagnik Mukhopadhyay has a publication titled 'Cut query algorithms with star contraction' which is a Preprint
+Sagnik Mukhopadhyay has a publication titled 'A Note on Isolating Cut Lemma for Submodular Function Minimization' which is a Preprint
+Sagnik Mukhopadhyay has a publication titled 'Work-Optimal Parallel Minimum Cuts for Non-Sparse Graphs' which is a Preprint
+Sagnik Mukhopadhyay has a publication titled 'Breaking the Quadratic Barrier for Matroid Intersection' which is a Preprint
+Sagnik Mukhopadhyay has a publication titled 'Faster connectivity in low-rank hypergraphs via expander decomposition' which is a Preprint
+Sagnik Mukhopadhyay has a publication titled 'Distributed Weighted Min-Cut in Nearly-Optimal Time' which is a Preprint
+Sagnik Mukhopadhyay has a publication titled 'Weighted Min-Cut: Sequential, Cut-Query and Streaming Algorithms' which is a Preprint
+Sagnik Mukhopadhyay has a publication titled 'Lower bounds for elimination via weak regularity' which is a Conference proceedings paper
+Sagnik Mukhopadhyay has a publication titled 'Towards better separation between deterministic and randomized query complexity' which is a Conference proceedings paper
+Sagnik Mukhopadhyay has a publication titled 'Tribes is hard in the message passing model' which is a Conference proceedings paper

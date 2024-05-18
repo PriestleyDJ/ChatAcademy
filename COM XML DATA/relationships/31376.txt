@@ -1,0 +1,11 @@
+Eleftherios Ioannou is associated with the COM department
+Eleftherios Ioannou is an academic
+Eleftherios Ioannou's title is Mr
+Eleftherios Ioannou's primary group descriptor is COM
+Eleftherios Ioannou has a publication titled 'Breathing life into statues using augmented reality' which is a Conference proceedings paper
+Eleftherios Ioannou has a publication titled 'Augmented Reality Cultural Route at the Xeros River Valley, Larnaca, Cyprus' which is a Chapter
+Eleftherios Ioannou is associated with 'Non-Photorealistic Rendering and Augmented Reality: A novel approach for real-time visualisations of real world environments' grant
+Eleftherios Ioannou has a publication titled 'Depth-aware neural style transfer for videos' which is a Journal article
+Eleftherios Ioannou has a publication titled 'Neural Style Transfer for Computer Games' which is a Preprint
+Eleftherios Ioannou has a publication titled 'Towards Real-time G-buffer-Guided Style Transfer in Computer Games' which is a Preprint
+Eleftherios Ioannou has a publication titled 'Towards real-time G-buffer-guided style transfer in computer games' which is a Journal article

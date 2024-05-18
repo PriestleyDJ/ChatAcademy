@@ -1,0 +1,29 @@
+Dawn Walker is associated with the COM department
+Dawn Walker is an academic
+Dawn Walker's title is Dr
+Dawn Walker's primary group descriptor is COM
+Dawn Walker has a publication titled 'Modelled current distribution in cervical squamous tissue' which is a Journal article
+Dawn Walker has a publication titled 'A study of the morphological parameters of cervical squamous epithelium' which is a Journal article
+Dawn Walker has a publication titled 'Modelling of epithelial tissue impedance measured using three different designs of probe' which is a Journal article
+Dawn Walker has a publication titled 'The Epitheliome: agent-based modelling of the social behaviour of cells' which is a Journal article
+Dawn Walker has a publication titled 'Agent-based computational modeling of wounded epithelial cell monolayers' which is a Journal article
+Dawn Walker has a publication titled 'Development and validation of computational models of cellular interaction' which is a Journal article
+Dawn Walker has a publication titled 'Electrical bioimpedance readings increase with higher pressure applied to the measuring probe' which is a Journal article
+Dawn Walker has a publication titled 'Modelling the electrical properties of bladder tissue—quantifying impedance changes due to inflammation and oedema' which is a Journal article
+Dawn Walker has a publication titled 'Comparison of human uterine cervical electrical impedance measurements derived using two tetrapolar probes of different sizes' which is a Journal article
+Dawn Walker has a publication titled 'An integrated agent-mathematical model of the effect of intercellular signalling via the epidermal growth factor receptor on cell proliferation' which is a Journal article
+Dawn Walker has a publication titled 'Modeling the Effect of Exogenous Calcium on Keratinocyte and HaCat Cell Proliferation and Differentiation Using an Agent-Based Computational Paradigm' which is a Journal article
+Dawn Walker has a publication titled 'Modelling the interaction of haemodynamics and the artery wall: Current status and future prospects' which is a Journal article
+Dawn Walker has a publication titled 'From pathway to population - a multiscale model of juxtacrine EGFR-MAPK signalling' which is a Journal article
+Dawn Walker has a publication titled 'The virtual cell--a candidate co-ordinator for 'middle-out' modelling of biological systems' which is a Journal article
+Dawn Walker has a publication titled 'Anti-social cells: Predicting the influence of E-cadherin loss on the growth of epithelial cell populations' which is a Journal article
+Dawn Walker has a publication titled 'The application of multiscale modelling to the process of development and prevention of stenosis in a stented coronary artery' which is a Journal article
+Dawn Walker has a publication titled 'Modelling the electrical impedivity of normal and premalignant cervical tissue' which is a Journal article
+Dawn Walker has a publication titled 'Finite element modelling of a cell stressing device' which is a Conference proceedings paper
+Dawn Walker has a publication titled 'Impedimetric sensing of cells on polypyrrole‐based conducting polymers' which is a Journal article
+Dawn Walker has a publication titled 'Epitheliometer: a real time impedance device for the detection of high grade cervical intraepithelial neoplasia' which is a Journal article
+Dawn Walker has a publication titled 'High performance cellular level agent-based simulation with FLAME for the GPU' which is a Journal article
+Dawn Walker has a publication titled 'The Virtual Oviduct: An Essential Tool for the Application of Computational Biology Approaches to Investigation of Maternal Interaction with Gametes and Embryo' which is a Conference proceedings paper
+Dawn Walker has a publication titled 'Towards a Complex Automata Multiscale Model of In-Stent Restenosis' which is a Conference proceedings paper
+Dawn Walker has a publication titled 'COAST: Modelling Restenosis and Stent Based Therapies' which is a Conference proceedings paper
+Dawn Walker has a publication titled 'Multi-scale interaction of particulate flow and the artery wall' which is a Journal article

@@ -1,0 +1,8 @@
+Jason Clarke is associated with the COM department
+Jason Clarke is an academic
+Jason Clarke's title is Mr
+Jason Clarke's primary group descriptor is COM
+Jason Clarke is associated with 'CDT Studentship - Meta - Student 1' grant
+Jason Clarke is associated with 'UKRI Centre for Doctoral Training in Speech and Language Technologies and their Applications' grant
+Jason Clarke is associated with 'Disentangling Speech in a Multitalker Environment' grant
+Jason Clarke has a publication titled 'Improving audiovisual active speaker detection in egocentric recordings with the data-efficient image transformer' which is a Conference proceedings paper

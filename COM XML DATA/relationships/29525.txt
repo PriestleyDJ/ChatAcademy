@@ -1,0 +1,29 @@
+Neil Lawrence is associated with the COM department
+Neil Lawrence is an academic
+Neil Lawrence's title is Professor
+Neil Lawrence's primary group descriptor is COM
+Neil Lawrence has a publication titled 'A Probabilistic Model for the Extraction of Expression Levels from Oligonucleotide Arrays' which is a Journal article
+Neil Lawrence has a publication titled 'Reducing the Variability in cDNA Microarray Image Processing by Bayesian Inference' which is a Journal article
+Neil Lawrence has a publication titled 'Accounting for Probe-level Noise in Principal Component Analysis of Microarray Data' which is a Journal article
+Neil Lawrence has a publication titled 'Elementary properties of CaV1.3 Ca2+ channels expressed in mouse cochlear inner hair cells' which is a Journal article
+Neil Lawrence has a publication titled 'Optimising synchronisation times for mobile devices' which is a Conference proceedings paper
+Neil Lawrence has a publication titled 'Bayesian processing of microarray images' which is a Conference proceedings paper
+Neil Lawrence has a publication titled 'A Tractable Probabilistic Model for Affymetrix Probe-level Analysis across Multiple Chips' which is a Journal article
+Neil Lawrence has a publication titled 'Probe-level Measurement Error Improves Accuracy in Detecting Differential Gene Expression' which is a Journal article
+Neil Lawrence has a publication titled 'Gaussian Process Latent Variable Models for Fault Detection' which is a Conference proceedings paper
+Neil Lawrence has a publication titled 'puma: a Bioconductor package for propagating uncertainty in microarray analysis' which is a Journal article
+Neil Lawrence has a publication titled 'Identifying Submodules of Cellular Regulatory Networks' which is a Conference proceedings paper
+Neil Lawrence has a publication titled 'A probabilistic dynamical model for quantitative inference of the regulatory mechanism of transcription' which is a Journal article
+Neil Lawrence has a publication titled 'Probabilistic inference of transcription factor concentrations and gene-specific regulatory activities' which is a Journal article
+Neil Lawrence has a publication titled 'Hierarchical Gaussian process latent variable models' which is a Conference proceedings paper
+Neil Lawrence has a publication titled 'TFInfer: a tool for probabilistic inference of transcription factor activities' which is a Journal article
+Neil Lawrence has a publication titled 'Missing Data in Kernel PCA' which is a Conference proceedings paper
+Neil Lawrence has a publication titled 'Automatic Determination of the Number of Clusters Using Spectral Algorithms' which is a Conference proceedings paper
+Neil Lawrence has a publication titled 'Fast Variational Inference for Gaussian Process Models Through KL-Correction' which is a Conference proceedings paper
+Neil Lawrence has a publication titled 'Model-driven detection of clean speech patches in noise' which is a Conference proceedings paper
+Neil Lawrence has a publication titled 'Optimising Kernel Parameters and Regularisation Coefficients for Non-linear Discriminant Analysis' which is a Journal article
+Neil Lawrence has a publication titled 'Extensions of the Informative Vector Machine' which is a Conference proceedings paper
+Neil Lawrence has a publication titled 'Variational inference for Student-$t$ models: Robust Bayesian interpolation and generalised component analysis' which is a Journal article
+Neil Lawrence has a publication titled 'Local distance preservation in the GP-LVM through back constraints' which is a Conference proceedings paper
+Neil Lawrence has a publication titled 'Acoustic space dimensionality selection and combination using the maximum entropy principle' which is a Conference proceedings paper
+Neil Lawrence has a publication titled 'Learning to learn with the informative vector machine' which is a Conference proceedings paper

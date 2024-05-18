@@ -1,0 +1,29 @@
+Neil Walkinshaw is associated with the COM department
+Neil Walkinshaw is an academic
+Neil Walkinshaw's title is Dr
+Neil Walkinshaw's primary group descriptor is COM
+Neil Walkinshaw has a publication titled 'Validation and discovery from computational biology models' which is a Journal article
+Neil Walkinshaw has a publication titled 'The Java system dependence graph' which is a Conference proceedings paper
+Neil Walkinshaw has a publication titled 'Understanding Object-Oriented Source Code from the Behavioural Perspective' which is a Conference proceedings paper
+Neil Walkinshaw has a publication titled 'Identifying State Transitions and their Functions in Source Code' which is a Conference proceedings paper
+Neil Walkinshaw has a publication titled 'A Hybrid Approach to Modeling Biological Systems' which is a Conference proceedings paper
+Neil Walkinshaw has a publication titled 'Reverse Engineering State Machines by Interactive Grammar Inference' which is a Conference proceedings paper
+Neil Walkinshaw has a publication titled 'Feature location and extraction using landmarks and barriers' which is a Conference proceedings paper
+Neil Walkinshaw has a publication titled 'Automated discovery of state transitions and their functions in source code' which is a Conference proceedings paper
+Neil Walkinshaw has a publication titled 'Improving dynamic software analysis by applying grammar inference principles' which is a Journal article
+Neil Walkinshaw has a publication titled 'Evaluation and Comparison of Inferred Regular Grammars' which is a Conference proceedings paper
+Neil Walkinshaw has a publication titled 'Applying Testability Transformations to Achieve Structural Coverage of Erlang Programs' which is a Conference proceedings paper
+Neil Walkinshaw has a publication titled 'Inferring Finite-State Models with Temporal Constraints' which is a Conference proceedings paper
+Neil Walkinshaw has a publication titled 'Computing the Structural Difference between State-Based Models' which is a Conference proceedings paper
+Neil Walkinshaw has a publication titled 'Using Attribute Slicing to Refactor Large Classes' which is a Conference proceedings paper
+Neil Walkinshaw has a publication titled 'Iterative Refinement of Reverse-Engineered Models by Model-Based Testing' which is a Conference proceedings paper
+Neil Walkinshaw has a publication titled 'Feature Location and Extraction using Landmarks and Barriers' which is a Conference proceedings paper
+Neil Walkinshaw has a publication titled 'Superstate identification for state machines using search-based clustering' which is a Conference proceedings paper
+Neil Walkinshaw has a publication titled 'Increasing Functional Coverage by Inductive Testing: A Case Study' which is a Conference proceedings paper
+Neil Walkinshaw has a publication titled 'Property-Based Testing - The ProTest Project' which is a Journal article
+Neil Walkinshaw has a publication titled 'Incrementally Discovering Testable Specifications from Program Executions' which is a Journal article
+Neil Walkinshaw has a publication titled 'Using compression algorithms to support the comprehension of program traces' which is a Conference proceedings paper
+Neil Walkinshaw has a publication titled 'The Practical Assessment of Test Sets with Inductive Inference Techniques' which is a Conference proceedings paper
+Neil Walkinshaw has a publication titled 'TAIC-PART 2009 – Testing: Academic &amp; Industrial Conference – Practice And Research Techniques: Special Section Editorial' which is a Journal article
+Neil Walkinshaw has a publication titled 'Balanced FSM Generation for Empirical Studies' which is a Journal article
+Neil Walkinshaw has a publication titled 'A framework for the competitive evaluation of model inference techniques' which is a Journal article

@@ -1,0 +1,29 @@
+Roger Moore is associated with the COM department
+Roger Moore is an academic
+Roger Moore's title is Professor
+Roger Moore's primary group descriptor is COM
+Roger Moore has a publication titled 'Introduction to the Special Issue on Data Mining of Speech, Audio, and Dialog' which is a Journal article
+Roger Moore has a publication titled 'Towards a unified theory of spoken language processing' which is a Conference proceedings paper
+Roger Moore has a publication titled 'Spoken language processing: piecing together the puzzle' which is a Journal article
+Roger Moore has a publication titled 'PRESENCE: A human-inspired architecture for speech-based human-machine interaction' which is a Journal article
+Roger Moore has a publication titled 'Sound Localization Through Evolutionary Learning Applied to Spiking Neural Networks' which is a Conference proceedings paper
+Roger Moore has a publication titled 'Towards capturing fine phonetic variation in speech using articulatory features' which is a Conference proceedings paper
+Roger Moore has a publication titled 'Using Linguistic Cues for the Automatic Recognition of Personality in Conversation and Text' which is a Journal article
+Roger Moore has a publication titled 'A Computational Model of Language Acquisition: the Emergence of Words' which is a Conference proceedings paper
+Roger Moore has a publication titled 'Temporal episodic memory model: An evolution of MINERVA2' which is a Conference proceedings paper
+Roger Moore has a publication titled 'Evolving Spiking Neural Parameters for Behavioral Sequences' which is a Conference proceedings paper
+Roger Moore has a publication titled 'Discovering Keywords from Cross-Modal Input: Ecological vs. Engineering Methods for Enhancing Acoustic Repetitions' which is a Conference proceedings paper
+Roger Moore has a publication titled 'Finding Allophones: an Evaluation on Consonants in the TIMIT Corpus' which is a Conference proceedings paper
+Roger Moore has a publication titled 'Modelling Vocabulary Growth from Birth to Young Adulthood' which is a Conference proceedings paper
+Roger Moore has a publication titled 'The Case for Case-Based Automatic Speech Recognition' which is a Conference proceedings paper
+Roger Moore has a publication titled 'Anton: an animatronic model of a human tongue and vocal tract' which is a Conference proceedings paper
+Roger Moore has a publication titled 'Towards an investigation of speech energetics using ‘AnTon’: an animatronic model of a human tongue and vocal tract' which is a Journal article
+Roger Moore has a publication titled 'An attention-gating recurrent working memory architecture for emergent speech representation' which is a Journal article
+Roger Moore has a publication titled 'Panel on ubiquitous speech processing' which is a Journal article
+Roger Moore has a publication titled 'Speech technology for e-inclusion of people with physical disabilities and disordered speech' which is a Conference proceedings paper
+Roger Moore has a publication titled 'Editorial' which is a Journal article
+Roger Moore has a publication titled 'Isolated word recognition of silent speech using magnetic implants and sensors' which is a Journal article
+Roger Moore has a publication titled 'Isolated word recognition of silent speech using magnetic implants and sensors' which is a Journal article
+Roger Moore has a publication titled 'Speech as the Perception of Affordances' which is a Journal article
+Roger Moore has a publication titled 'A prototype for a conversational companion for reminiscing about images' which is a Journal article
+Roger Moore has a publication titled 'Computing phonological generalization over real speech exemplars' which is a Journal article

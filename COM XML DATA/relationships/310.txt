@@ -1,0 +1,34 @@
+Richard Clayton is associated with the COM department
+Richard Clayton is an academic
+Richard Clayton's title is Professor
+Richard Clayton's primary group descriptor is COM
+Richard Clayton has a publication titled 'Filament behavior in a computational model of ventricular fibrillation in the canine heart
+
+' which is a Journal article
+Richard Clayton has a publication titled 'Propagation of normal beats and re-entry in a computational model of ventricular cardiac tissue with regional differences in action potential shape and duration' which is a Journal article
+Richard Clayton has a publication titled 'Phase singularities and filaments: Simplifying complexity in computational models of ventricular fibrillation' which is a Journal article
+Richard Clayton has a publication titled 'Initiation of re-entry in an excitable medium: Structural investigation of cardiac tissue using a genetic algorithm' which is a Journal article
+Richard Clayton has a publication titled 'A guide to modelling cardiac electrical activity in anatomically detailed ventricles' which is a Journal article
+Richard Clayton has a publication titled 'Early afterdepolarisations and ventricular arrhythmias in cardiac tissue: a computational study 
+' which is a Journal article
+Richard Clayton has a publication titled 'Vortex filament dynamics in computational models of ventricular fibrillation in the heart' which is a Journal article
+Richard Clayton has a publication titled 'Rate-dependent measures of repolarization predict inducibility of ventricular arrhythmias' which is a Journal article
+Richard Clayton has a publication titled 'DYNAMICS AND INTERACTION OF FILAMENTS DURING REENTRY AND FIBRILLATION IN  MAMMALIAN VIRTUAL VENTRICULAR TISSUE' which is a Conference proceedings paper
+Richard Clayton has a publication titled 'Early ventricular fibrillation in the human heart is sustained by a small number of re-entrant sources' which is a Conference proceedings paper
+Richard Clayton has a publication titled 'Dynamical and cellular electrophysiological mechanisms of ECG changes during ischaemia' which is a Journal article
+Richard Clayton has a publication titled 'Whole heart action potential duration restitution properties in cardiac patients: a combined clinical and modelling study' which is a Journal article
+Richard Clayton has a publication titled 'Acidosis in models of cardiac ventricular myocytes ' which is a Journal article
+Richard Clayton has a publication titled 'Endogenous driving and synchronization in cardiac and uterine virtual tissues: bifurcations and local coupling ' which is a Journal article
+Richard Clayton has a publication titled 'Evidence for Multiple Mechanisms in Human Ventricular Fibrillation' which is a Journal article
+Richard Clayton has a publication titled 'The Virtual Ventricular Wall: A Tool for Exploring Cardiac Propagation and Arrhythmogenesis' which is a Journal article
+Richard Clayton has a publication titled 'Is human ventricular fibrillation different from experimental models?' which is a Conference proceedings paper
+Richard Clayton has a publication titled 'Mobility of epicardial rotors during human ventricular fibrillation' which is a Conference proceedings paper
+Richard Clayton has a publication titled 'Automatic classification of arrhythmic beats using Gaussian Processes' which is a Conference proceedings paper
+Richard Clayton has a publication titled 'Epicardial mapping of ventricular fibrillation in the human heart during ischaemia and repercussion' which is a Conference proceedings paper
+Richard Clayton has a publication titled 'Organization of ventricular fibrillation in the human heart: experiments and models' which is a Journal article
+Richard Clayton has a publication titled 'Influence of cardiac tissue anisotropy on re-entrant activation in computational models of ventricular fibrillation 
+ 
+' which is a Journal article
+Richard Clayton has a publication titled 'Transient Type II Ventricular Fibrillation During Global Ischemia in the in-situ Human Heart' which is a Conference proceedings paper
+Richard Clayton has a publication titled 'Modelling the mammalian heart.' which is a Chapter
+Richard Clayton has a publication titled 'Models of cardiac tissue electrophysiology: Progress, challenges and open questions' which is a Journal article

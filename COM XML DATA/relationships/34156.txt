@@ -1,0 +1,29 @@
+Nafise Moosavi is associated with the COM department
+Nafise Moosavi is an academic
+Nafise Moosavi's title is Dr
+Nafise Moosavi's primary group descriptor is COM
+Nafise Moosavi has a publication titled 'Anaphora resolution with the ARRAU corpus' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Revisiting selectional preferences for coreference resolution' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Mind the trade-off: debiasing NLU models without degrading the in-distribution performance' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Which coreference evaluation metric do you trust? A proposal for a link-based entity aware metric' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Lexical features in coreference resolution: to be used with caution' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Neural duplicate question detection without labeled training data' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Using linguistic features to improve the generalization capability of neural coreference resolvers' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Search space pruning: a simple solution for better coreference resolvers' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Improving QA generalization by concurrent modeling of multiple biases' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Use generalized representations, but do not forget surface features' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Towards debiasing NLU models from unknown biases' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Using automatically extracted minimum spans to disentangle coreference evaluation from boundary detection' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Free the plural: unrestricted split-antecedent anaphora resolution' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Coreference reasoning in machine reading comprehension' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Avoiding inference heuristics in few-shot prompt-based finetuning' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Stay together: a system for single and split-antecedent anaphora resolution' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Adaptable adapters' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Falsesum : generating document-level NLI examples for recognizing factual inconsistency in summarization' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Improving Generalization by Incorporating Coverage in Natural Language Inference' which is a Preprint
+Nafise Moosavi has a publication titled 'Improving Robustness by Augmenting Training Sentences with Predicate-Argument Structures' which is a Preprint
+Nafise Moosavi has a publication titled 'NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation' which is a Preprint
+Nafise Moosavi has a publication titled 'Arithmetic-Based Pretraining -- Improving Numeracy of Pretrained Language Models' which is a Preprint
+Nafise Moosavi has a publication titled 'Scoring Coreference Chains with Split-Antecedent Anaphors' which is a Preprint
+Nafise Moosavi has a publication titled 'COALA : a neural coverage-based approach for long answer selection with small data' which is a Conference proceedings paper
+Nafise Moosavi has a publication titled 'Unsupervised coreference resolution by utilizing the most informative relations' which is a Conference proceedings paper

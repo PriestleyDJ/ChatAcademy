@@ -1,0 +1,29 @@
+Heidi Christensen is associated with the COM department
+Heidi Christensen is an academic
+Heidi Christensen's title is Professor
+Heidi Christensen's primary group descriptor is COM
+Heidi Christensen has a publication titled 'From Text Summarisation to Style-Specific Summarisation for Broadcast News' which is a Conference proceedings paper
+Heidi Christensen has a publication titled 'Are extractive text summarisation techniques portable to broadcast news?' which is a Conference proceedings paper
+Heidi Christensen has a publication titled 'Exploring the style-technique interaction in extractive summarization of broadcast news' which is a Conference proceedings paper
+Heidi Christensen has a publication titled 'Maximum entropy segmentation of broadcast news' which is a Conference proceedings paper
+Heidi Christensen has a publication titled 'A Cascaded Broadcast News Highlighter' which is a Journal article
+Heidi Christensen has a publication titled 'A speech fragment approach to localising multiple speakers in reverberant environments' which is a Conference proceedings paper
+Heidi Christensen has a publication titled 'Active binaural distance estimation for dynamic sources' which is a Conference proceedings paper
+Heidi Christensen has a publication titled 'Integrating pitch and localisation cues at a speech fragment level' which is a Conference proceedings paper
+Heidi Christensen has a publication titled 'Using location cues to track speaker changes from mobile, binaural microphones' which is a Conference proceedings paper
+Heidi Christensen has a publication titled 'Introducing Phonetically Motivated, Heterogeneous Information into Automatic Speech Recognition' which is a Conference proceedings paper
+Heidi Christensen has a publication titled 'Multi-stage compaction approach to broadcast news summarisation' which is a Conference proceedings paper
+Heidi Christensen has a publication titled 'Punctuation Annotation Using Statistical Prosody Models' which is a Conference proceedings paper
+Heidi Christensen has a publication titled 'The CHiME corpus: A resource and a challenge for computational hearing in multisource environments' which is a Conference proceedings paper
+Heidi Christensen has a publication titled 'Combining Speech Fragment Decoding and Adaptive Noise Floor Modeling' which is a Journal article
+Heidi Christensen has a publication titled 'Speaker turn tracking with mobile microphones: Combining location and pitch information' which is a Conference proceedings paper
+Heidi Christensen has a publication titled 'Binaural cues for fragment-based speech recognition in reverberant multisource environments' which is a Conference proceedings paper
+Heidi Christensen has a publication titled 'A hearing-inspired approach for distant-microphone speech recognition in the presence of multiple sources' which is a Journal article
+Heidi Christensen has a publication titled 'Noise robustness of heterogeneous features employing minimum classification error feature space transformations' which is a Conference proceedings paper
+Heidi Christensen has a publication titled 'The CAVA corpus' which is a Conference proceedings paper
+Heidi Christensen has a publication titled 'The PASCAL CHiME speech separation and recognition challenge' which is a Journal article
+Heidi Christensen has a publication titled 'A comparative study of adaptive, automatic recognition of disordered speech' which is a Conference proceedings paper
+Heidi Christensen has a publication titled 'Simultaneous Tracking of Perceiver Movements and Speaker Changes Using Head-Centered, Binaural Data' which is a Other
+Heidi Christensen has a publication titled 'POPeye: Real-time, binaural sound source localisation on an audio-visual robot-head' which is a Other
+Heidi Christensen has a publication titled 'Improving source localisation in multi-source, reverberant conditions: exploiting local spectro-temporal location cues' which is a Journal article
+Heidi Christensen has a publication titled 'Recent advances in fragment-based speech recognition in reverberant multisource environments.' which is a Conference proceedings paper

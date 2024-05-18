@@ -1,0 +1,29 @@
+Yoshihiko Gotoh is associated with the COM department
+Yoshihiko Gotoh is an academic
+Yoshihiko Gotoh's title is Dr
+Yoshihiko Gotoh's primary group descriptor is COM
+Yoshihiko Gotoh has a publication titled 'From Text Summarisation to Style-Specific Summarisation for Broadcast News' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'Are extractive text summarisation techniques portable to broadcast news?' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'Exploring the style-technique interaction in extractive summarization of broadcast news' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'Maximum entropy segmentation of broadcast news' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'A Cascaded Broadcast News Highlighter' which is a Journal article
+Yoshihiko Gotoh has a publication titled 'Named entity tagged language models' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'Efficient training algorithms for HMMs using incremental estimation' which is a Journal article
+Yoshihiko Gotoh has a publication titled 'Variable word rate N-grams' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'Information extraction from broadcast news' which is a Journal article
+Yoshihiko Gotoh has a publication titled 'Statistical Language Modelling' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'Speaker role based structural classification of broadcast news stories' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'Relative evaluation of informativeness in machine generated summaries' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'On the subjectivity of human-authored summaries' which is a Journal article
+Yoshihiko Gotoh has a publication titled 'Nearly-repetitive video synchonisation using nonlinear manifold embedding' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'Shot alignment in pre-production video' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'Mutli-stage compaction approach to broadcast news summarisation' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'On the subjectivity of human authored short summaries' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'Decremental feature-based compaction' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'Punctuation Annotation Using Statistical Prosody Models' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'Sentence boundary detection in broadcast speech transcripts' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'INTEGRATED TRANSCRIPTION AND IDENTIFICATION OF NAMED ENTITIES IN BROADCAST SPEECH' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'Statistical annotation of named entities in spoken audio' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'DOCUMENT SPACE MODELS USING LATENT SEMANTIC ANALYSIS' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'Incremental ML estimation of HMM parameters for efficient training' which is a Conference proceedings paper
+Yoshihiko Gotoh has a publication titled 'Microphone-array speech recognition via incremental map training' which is a Conference proceedings paper

@@ -1,0 +1,28 @@
+Shuo Zhou is associated with the COM department
+Shuo Zhou is an academic
+Shuo Zhou's title is Dr
+Shuo Zhou's primary group descriptor is COM
+Shuo Zhou is associated with 'Organising a workshop on accessible machine learning software for medical image analysis' grant
+Shuo Zhou is associated with 'Sheffield Turing Network Funding 2022' grant
+Shuo Zhou has a publication titled 'First-person video domain adaptation with multi-scene cross-site datasets and attention-based methods' which is a Journal article
+Shuo Zhou has a publication titled 'Improving multi-site autism classification via site-dependence minimization and second-order functional connectivity' which is a Journal article
+Shuo Zhou has a publication titled 'Direct ICA on data tensor via random matrix modeling' which is a Journal article
+Shuo Zhou has a publication titled 'Neuropsychiatric disease classification using functional connectomics - results of the connectomics in neuroImaging transfer learning challenge' which is a Journal article
+Shuo Zhou has a publication titled 'Improving multi-site autism classification based on site-dependence minimisation and second-order functional connectivity' which is a Journal article
+Shuo Zhou has a publication titled 'A machine learning cardiac magnetic resonance approach to extract disease features and automate pulmonary arterial hypertension diagnosis' which is a Journal article
+Shuo Zhou has a publication titled 'Improving whole-brain neural decoding of fMRI with domain adaptation' which is a Preprint
+Shuo Zhou has a publication titled 'Domain Independent SVM for Transfer Learning in Brain Decoding' which is a Journal article
+Shuo Zhou has a publication titled 'PyKale: Knowledge-aware machine learning from multiple sources in Python' which is a Conference proceedings paper
+Shuo Zhou has a publication titled 'Machine learning cardiac-MRI features predict mortality in newly diagnosed pulmonary arterial hypertension' which is a Journal article
+Shuo Zhou has a publication titled 'PyKale: knowledge-aware machine learning from multiple sources in Python' which is a Preprint
+Shuo Zhou has a publication titled 'Confidence-quantifying landmark localisation for cardiac MRI' which is a Conference proceedings paper
+Shuo Zhou has a publication titled '543 A machine-learning CMR approach to extract disease features and automate pulmonary arterial hypertension diagnosis' which is a Meeting Abstract
+Shuo Zhou has a publication titled 'Improving Whole-Brain Neural Decoding of fMRI with Domain Adaptation' which is a Chapter
+Shuo Zhou has a publication titled 'Side information dependence as a regularizer for analyzing human brain conditions across cognitive experiments' which is a Conference proceedings paper
+Shuo Zhou has a publication titled 'Neuropsychiatric Disease Classification Using Functional Connectomics -- Results of the Connectomics in NeuroImaging Transfer Learning Challenge' which is a Preprint
+Shuo Zhou has a publication titled 'Sturm: Sparse Tubal-Regularized Multilinear Regression for fMRI' which is a Journal article
+Shuo Zhou has a publication titled 'Tensor-based Multimodal Learning for Prediction of Pulmonary Arterial Wedge Pressure from Cardiac MRI' which is a Preprint
+Shuo Zhou is associated with 'A Novel Artificial Intelligence Powered Neuroimaging Biomarker for Chronic Pain.' grant
+Shuo Zhou has a publication titled 'Tensor-based multimodal learning for prediction of pulmonary arterial wedge pressure from cardiac MRI' which is a Journal article
+Shuo Zhou has a publication titled 'Group-specific discriminant analysis reveals statistically validated sex
+  differences in lateralization of brain functional network' which is a Preprint

@@ -1,0 +1,29 @@
+Robert Stevenson is associated with the COM department
+Robert Stevenson is an academic
+Robert Stevenson's title is Dr
+Robert Stevenson's primary group descriptor is COM
+Robert Stevenson has a publication titled 'Disambiguation of biomedical text using diverse sources of information' which is a Journal article
+Robert Stevenson has a publication titled 'Sense tagging and language engineering' which is a Conference proceedings paper
+Robert Stevenson has a publication titled 'Learning information extraction patterns using WordNet' which is a Conference proceedings paper
+Robert Stevenson has a publication titled 'Cross-Language Information Retrieval Using EuroWordNet and Word Sense Disambiguation' which is a Conference proceedings paper
+Robert Stevenson has a publication titled 'Evaluating the Contribution of EuroWordNet and Word Sense Disambiguation to Cross-language Information Retrieval' which is a Conference proceedings paper
+Robert Stevenson has a publication titled 'Experiments on sentence boundary detection' which is a Conference proceedings paper
+Robert Stevenson has a publication titled 'Using corpus-derived name lists for named entity recognition' which is a Conference proceedings paper
+Robert Stevenson has a publication titled 'The University of Sheffield's TREC 2006 Q&A Experiments.' which is a Conference proceedings paper
+Robert Stevenson has a publication titled 'The Need for Application-Dependent WSD Strategies: A Case Study in MT' which is a Conference proceedings paper
+Robert Stevenson has a publication titled 'A corpus-based approach to deriving lexical mappings' which is a Conference proceedings paper
+Robert Stevenson has a publication titled 'Introduction to the special issue on word sense disambiguation' which is a Journal article
+Robert Stevenson has a publication titled 'Combining weak knowledge sources for sense disambiguation' which is a Conference proceedings paper
+Robert Stevenson has a publication titled 'The interaction of knowledge sources in word sense disambiguation' which is a Journal article
+Robert Stevenson has a publication titled 'Fact distribution in Information Extraction' which is a Journal article
+Robert Stevenson has a publication titled 'Disambiguation of ambiguous biomedical terms using examples generated from the UMLS Metathesaurus' which is a Journal article
+Robert Stevenson has a publication titled 'Disambiguation in the biomedical domain: The role of ambiguity type' which is a Journal article
+Robert Stevenson has a publication titled 'Graph-based Word Sense Disambiguation of biomedical documents' which is a Journal article
+Robert Stevenson has a publication titled 'Assessing the contribution of shallow and deep knowledge sources for word sense disambiguation' which is a Journal article
+Robert Stevenson has a publication titled 'Assessing the contribution of shallow and deep knowledge sources for word sense disambiguation' which is a Journal article
+Robert Stevenson has a publication titled 'Unsupervised induction of IE domain knowledge using an ontology' which is a Journal article
+Robert Stevenson has a publication titled 'Dependency Pattern Models for Information Extraction' which is a Journal article
+Robert Stevenson has a publication titled 'Reducing qualitative human oracle costs associated with automatically generated test data' which is a Conference proceedings paper
+Robert Stevenson has a publication titled 'Designing a Corpus of Plagiarised Academic Texts' which is a Conference proceedings paper
+Robert Stevenson has a publication titled 'Personalising access to cultural heritage collections using pathways' which is a Conference proceedings paper
+Robert Stevenson has a publication titled 'Word-Sense Disambiguation' which is a Chapter

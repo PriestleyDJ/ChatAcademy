@@ -1,0 +1,11 @@
+Maciej Gazda is associated with the COM department
+Maciej Gazda is an academic
+Maciej Gazda's title is Dr
+Maciej Gazda's primary group descriptor is COM
+Maciej Gazda has a publication titled 'Congruence from the operator’s point of view' which is a Journal article
+Maciej Gazda has a publication titled 'Conformance-based doping detection for cyber-physical systems' which is a Conference proceedings paper
+Maciej Gazda has a publication titled 'Removing redundant refusals: minimal complete test suites for failure trace semantics' which is a Conference proceedings paper
+Maciej Gazda has a publication titled 'Logical characterisation of hybrid conformance' which is a Conference proceedings paper
+Maciej Gazda has a publication titled 'Conformance relations and hyperproperties for doping detection in time and space' which is a Journal article
+Maciej Gazda has a publication titled 'Testing using CSP models: time, inputs, and outputs' which is a Journal article
+Maciej Gazda has a publication titled 'Mutation Testing for RoboChart' which is a Chapter

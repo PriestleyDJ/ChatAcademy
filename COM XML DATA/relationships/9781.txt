@@ -1,0 +1,17 @@
+Amy Beeston is associated with the COM department
+Amy Beeston is an academic
+Amy Beeston's title is Dr
+Amy Beeston's primary group descriptor is COM
+Amy Beeston has a publication titled 'Perceptual compensation for effects of reverberation in speech
+identification: A computer model based on auditory efferent processing.' which is a Conference proceedings paper
+Amy Beeston has a publication titled 'Perceptual compensation for the effects of reverberation on consonant identification: A comparison of human and machine performance' which is a Conference proceedings paper
+Amy Beeston has a publication titled 'Groundwork for a resource in computational hearing for extended string techniques' which is a Conference proceedings paper
+Amy Beeston has a publication titled 'Recognition of reverberant speech by missing data imputation and NMF feature enhancement' which is a Conference proceedings paper
+Amy Beeston has a publication titled 'Perceptual compensation for the effects of reverberation on consonant identification: Evidence from studies with monaural stimuli' which is a Journal article
+Amy Beeston has a publication titled 'Consonant confusions provide further evidence that time-reversed rooms disturb compensation for reverberation' which is a Conference proceedings paper
+Amy Beeston has a publication titled 'Perception of isolated chords: Examining frequency of occurrence, instrumental timbre, acoustic descriptors and musical training' which is a Journal article
+Amy Beeston has a publication titled 'Acoustics exchange: A community to span all areas of sound' which is a Meeting Abstract
+Amy Beeston has a publication titled 'Ten simple rules for writing a comparative software review' which is a Journal article
+Amy Beeston has a publication titled 'Deep learning features for robust detection of acoustic events in sleep-disordered breathing' which is a Conference proceedings paper
+Amy Beeston has a publication titled 'Talking in Time: the development of a self-administered Conversation Analysis based training programme for cochlear implant users' which is a Journal article
+Amy Beeston has a publication titled 'Automatic assessment of English learner pronunciation using discriminative classifiers' which is a Conference proceedings paper

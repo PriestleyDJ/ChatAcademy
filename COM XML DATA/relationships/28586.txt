@@ -1,0 +1,29 @@
+Aline Villavicencio is associated with the COM department
+Aline Villavicencio is an academic
+Aline Villavicencio's title is Professor
+Aline Villavicencio's primary group descriptor is COM
+Aline Villavicencio has a publication titled 'Computational Processing of the Portuguese Language' which is a Conference proceedings paper
+Aline Villavicencio has a publication titled 'Preface' which is a Conference proceedings paper
+Aline Villavicencio has a publication titled 'The brWaC corpus: A new open resource for Brazilian Portuguese' which is a Conference proceedings paper
+Aline Villavicencio has a publication titled 'Unsupervised word segmentation from speech with attention' which is a Conference proceedings paper
+Aline Villavicencio has a publication titled 'Preface' which is a Book
+Aline Villavicencio has a publication titled 'A corpus study of verbal multiword expressions in Brazilian Portuguese' which is a Conference proceedings paper
+Aline Villavicencio has a publication titled 'Unwritten languages demand attention too! Word discovery with encoder-decoder models' which is a Conference proceedings paper
+Aline Villavicencio has a publication titled 'Introduction: Cognitive Issues in Natural Language Processing' which is a Chapter
+Aline Villavicencio has a publication titled 'Language, Cognition, and Computational Models' which is a Book
+Aline Villavicencio has a publication titled 'Crawling by Readability Level' which is a Conference proceedings paper
+Aline Villavicencio has a publication titled 'Joining Forces for Multiword Expression Identification' which is a Conference proceedings paper
+Aline Villavicencio has a publication titled 'mwetoolkit+sem: Integrating word embeddings in the mwetoolkit for semantic MWE processing' which is a Conference proceedings paper
+Aline Villavicencio has a publication titled 'UFRGS&LIF at SemEval-2016 task 10: Rule-based MWE identification and predominant-supersense tagging' which is a Conference proceedings paper
+Aline Villavicencio has a publication titled 'B2SG: a TOEFL-like task for Portuguese' which is a Conference proceedings paper
+Aline Villavicencio has a publication titled 'Comparing the quality of focused crawlers and of the translation resources obtained from them' which is a Conference proceedings paper
+Aline Villavicencio has a publication titled 'Comparing similarity measures for distributional thesauri' which is a Conference proceedings paper
+Aline Villavicencio has a publication titled 'The Portuguese B $$^2$$ 2 SG: A Semantic Test for Distributional Thesaurus' which is a Conference proceedings paper
+Aline Villavicencio has a publication titled 'A large scale annotated child language construction database' which is a Conference proceedings paper
+Aline Villavicencio has a publication titled 'Identification of multiword expressions in the brWaC' which is a Conference proceedings paper
+Aline Villavicencio has a publication titled 'Nothing like good old frequency: Studying context filters for distributional thesauri' which is a Conference proceedings paper
+Aline Villavicencio has a publication titled 'Size Does Not Matter. Frequency Does. A Study of Features for Measuring Lexical Complexity' which is a Journal article
+Aline Villavicencio has a publication titled 'Language acquisition and probabilistic models : keeping it simple' which is a Conference proceedings paper
+Aline Villavicencio has a publication titled 'Graph analysis of semantic word association among children, adults, and the elderly' which is a Journal article
+Aline Villavicencio has a publication titled 'Introduction to the special issue on multiword expressions' which is a Journal article
+Aline Villavicencio has a publication titled 'Alternating predictive and short‐term memory modes of entorhinal grid cells' which is a Journal article

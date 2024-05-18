@@ -1,0 +1,29 @@
+Po Yang is associated with the COM department
+Po Yang is an academic
+Po Yang's title is Dr
+Po Yang's primary group descriptor is COM
+Po Yang has a publication titled 'GSWO : a programming model for GPU-enabled parallelization of sliding window operations in image processing' which is a Journal article
+Po Yang has a publication titled 'Improving utility of GPU in accelerating industrial applications with user-centered automatic code translation' which is a Journal article
+Po Yang has a publication titled 'Automatic choroid layer segmentation from optical coherence tomography images using deep learning' which is a Journal article
+Po Yang has a publication titled 'The Internet of Things (IoT) : informatics methods for IoT-enabled health care' which is a Journal article
+Po Yang has a publication titled 'Examining sensor-based physical activity recognition and monitoring for healthcare using Internet of Things : a systematic review' which is a Journal article
+Po Yang has a publication titled 'User profiling in elderly healthcare services in China : scalper detection' which is a Journal article
+Po Yang has a publication titled 'Effectively measuring respiratory flow with portable pressure data using back propagation neural network' which is a Journal article
+Po Yang has a publication titled 'Distributed consensus algorithm for events detection in cyber-physical systems' which is a Journal article
+Po Yang has a publication titled '3-D deployment optimization for heterogeneous wireless directional sensor networks on smart city' which is a Journal article
+Po Yang has a publication titled 'Fast and accurate retinal identification system : using retinal blood vasculature landmarks' which is a Journal article
+Po Yang has a publication titled 'A hybrid hierarchical framework for gym physical activity recognition and measurement using wearable sensors' which is a Journal article
+Po Yang has a publication titled 'Multiple density maps information fusion for effectively assessing intensity pattern of lifelogging physical activity' which is a Journal article
+Po Yang has a publication titled '3-D multiobjective deployment of an industrial wireless sensor network for maritime applications utilizing a distributed parallel algorithm' which is a Journal article
+Po Yang has a publication titled 'Efficient deep CNN-based fire detection and localization in video surveillance applications' which is a Journal article
+Po Yang has a publication titled 'Lifelogging data validation model for Internet of Things enabled personalized healthcare' which is a Journal article
+Po Yang has a publication titled 'PMU placement in electric transmission networks for reliable state estimation against false data injection attacks' which is a Journal article
+Po Yang has a publication titled 'PRLS-INVES : a general experimental investigation strategy for high accuracy and precision in passive RFID location systems' which is a Journal article
+Po Yang has a publication titled 'Efficient particle filter localization algorithm in dense passive RFID tag environment' which is a Journal article
+Po Yang has a publication titled 'Efficient object localization using sparsely distributed passive RFID tags' which is a Journal article
+Po Yang has a publication titled 'Deep gesture interaction for augmented anatomy learning' which is a Journal article
+Po Yang has a publication titled 'Open knowledge accessing method in IoT-based hospital information system for medical record enrichment' which is a Journal article
+Po Yang has a publication titled 'Secure and robust fragile watermarking scheme for medical images' which is a Journal article
+Po Yang has a publication titled 'Advanced internet of things for personalised healthcare systems : a survey' which is a Journal article
+Po Yang has a publication titled 'Distributed parallel cooperative coevolutionary multi-objective large-scale immune algorithm for deployment of wireless sensor networks' which is a Journal article
+Po Yang has a publication titled 'Speed control of mobile chargers serving wireless rechargeable networks' which is a Journal article

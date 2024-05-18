@@ -1,0 +1,29 @@
+Michael Mangan is associated with the COM department
+Michael Mangan is an academic
+Michael Mangan's title is Dr
+Michael Mangan's primary group descriptor is COM
+Michael Mangan has a publication titled 'Biomimetic and Biohybrid Systems' which is a Chapter
+Michael Mangan has a publication titled 'Spontaneous formation of multiple routes in individual desert ants (Cataglyphis velox)' which is a Journal article
+Michael Mangan has a publication titled 'Software to convert terrestrial LiDAR scans of natural environments into photorealistic meshes' which is a Journal article
+Michael Mangan has a publication titled 'How Ants Use Vision When Homing Backward' which is a Journal article
+Michael Mangan has a publication titled 'Using an insect mushroom body circuit to encode route memory in complex natural environments' which is a Journal article
+Michael Mangan has a publication titled 'Optimal cue integration in ants' which is a Journal article
+Michael Mangan has a publication titled 'How variation in head pitch could affect image matching algorithms for ant navigation' which is a Journal article
+Michael Mangan has a publication titled 'Insect navigation: do ants live in the now?' which is a Journal article
+Michael Mangan has a publication titled 'Still no convincing evidence for cognitive map use by honeybees' which is a Journal article
+Michael Mangan has a publication titled 'Snapshots in ants? New interpretations of paradigmatic experiments' which is a Journal article
+Michael Mangan has a publication titled 'Modelling place memory in crickets' which is a Journal article
+Michael Mangan has a publication titled 'Evolving a Neural Model of Insect Path Integration' which is a Journal article
+Michael Mangan has a publication titled 'Regarding Compass Response Functions For Modeling Path Integration: Comment on “Evolving a Neural Model of Insect Path Integration”' which is a Journal article
+Michael Mangan has a publication titled 'Visual tracking of small animals in cluttered natural environments using a freely moving camera' which is a Conference proceedings paper
+Michael Mangan has a publication titled 'Using the robot operating system for biomimetic research' which is a Conference proceedings paper
+Michael Mangan has a publication titled 'Route Following Without Scanning' which is a Conference proceedings paper
+Michael Mangan has a publication titled 'Sky segmentation with ultraviolet images can be used for navigation' which is a Conference proceedings paper
+Michael Mangan has a publication titled 'Rotation invariant visual processing for spatial memory in insects' which is a Journal article
+Michael Mangan has a publication titled 'An Analysis of a Ring Attractor Model for Cue Integration' which is a Conference proceedings paper
+Michael Mangan has a publication titled 'Preface' which is a Book
+Michael Mangan is associated with 'EPSRC ECR Capital Enhancement Programme 2018' grant
+Michael Mangan is associated with 'Brains on Board: Neuromorphic Control of Flying Robots' grant
+Michael Mangan has a publication titled 'L*a*b*fruits : a rapid and robust outdoor fruit detection system combining bio-inspired features with one-stage deep learning networks' which is a Journal article
+Michael Mangan is associated with 'ActiveAI - active learning and selective attention for robust, transparent and efficient AI' grant
+Michael Mangan has a publication titled 'Multimodal interactions in insect navigation' which is a Journal article

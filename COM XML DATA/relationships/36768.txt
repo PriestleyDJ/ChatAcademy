@@ -1,0 +1,29 @@
+Jungong Han is associated with the COM department
+Jungong Han is an academic
+Jungong Han's title is Professor
+Jungong Han's primary group descriptor is COM
+Jungong Han is associated with an activity with description of 'unknown' by the organisation unknown and unknown department
+Jungong Han is associated with an activity with description of 'unknown' by the organisation unknown and unknown department
+Jungong Han is associated with an activity with description of 'unknown' by the organisation unknown and unknown department
+Jungong Han has a publication titled 'Mitigating modality discrepancies for RGB-T semantic segmentation' which is a Journal article
+Jungong Han has a publication titled 'Textual context-aware dense captioning with diverse words' which is a Journal article
+Jungong Han has a publication titled 'Re-parameterizing your optimizers rather than architectures' which is a Conference proceedings paper
+Jungong Han has a publication titled 'LCPFormer: Towards effective 3D point cloud analysis via local context propagation in transformers' which is a Journal article
+Jungong Han has a publication titled 'Part-object relational visual saliency' which is a Journal article
+Jungong Han has a publication titled 'Efficient RGB-T tracking via cross-modality distillation' which is a Conference proceedings paper
+Jungong Han has a publication titled 'Exploring structured semantic prior for multi label recognition with incomplete labels' which is a Conference proceedings paper
+Jungong Han has a publication titled 'Multilayer evolving fuzzy neural networks' which is a Journal article
+Jungong Han has a publication titled 'Decoupling multimodal transformers for referring video object segmentation' which is a Journal article
+Jungong Han has a publication titled 'Feature calibrating and fusing network for RGB-D salient object detection' which is a Journal article
+Jungong Han has a publication titled 'Manipulating identical filter redundancy for efficient pruning on deep and complicated CNN' which is a Journal article
+Jungong Han has a publication titled 'Beyond one-to-one: rethinking the referring image segmentation' which is a Conference proceedings paper
+Jungong Han has a publication titled 'Dynamic contrastive learning guided by class confidence and confusion degree for medical image segmentation' which is a Journal article
+Jungong Han has a publication titled 'Balancing feature alignment and uniformity for few-shot classification' which is a Journal article
+Jungong Han has a publication titled 'TCGNet: Type-correlation guidance for salient object detection' which is a Journal article
+Jungong Han has a publication titled 'Co-segmentation assisted cross-modality person re-identification' which is a Journal article
+Jungong Han is associated with 'Unlocking the complexity of organismal colour patterns using artificial intelligence' grant
+Jungong Han is associated with 'Few-shot Learning for Environment Adaptive Multi-modal Vision System' grant
+Jungong Han is associated with 'Advanced sensing and AI for risk detection in rail environments' grant
+Jungong Han has a publication titled 'Virtual category learning: a semi-supervised learning method for dense prediction with extremely limited labels' which is a Journal article
+Jungong Han has a publication titled 'DCMSTRD: End-to-end dense captioning via multi-scale transformer decoding' which is a Journal article
+Jungong Han is associated with 'Federated learning of a computer vision system for automated interpretation of medical images' grant

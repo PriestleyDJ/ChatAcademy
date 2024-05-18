@@ -1,0 +1,10 @@
+Olga Iakovenko is associated with the COM department
+Olga Iakovenko is an academic
+Olga Iakovenko's title is Miss
+Olga Iakovenko's primary group descriptor is COM
+Olga Iakovenko has a publication titled 'Team MTS @ AutoMin 2021: An Overview of Existing Summarization Approaches and Comparison to Unsupervised Summarization Techniques' which is a Conference proceedings paper
+Olga Iakovenko has a publication titled 'Convolutional Variational Autoencoders for Spectrogram Compression in Automatic Speech Recognition' which is a Conference proceedings paper
+Olga Iakovenko has a publication titled 'Convolutional Variational Autoencoders for Audio Feature Representation in Speech Recognition Systems' which is a Conference proceedings paper
+Olga Iakovenko has a publication titled 'Algorithms for Automatic Accentuation and Transcription of Russian Texts in Speech Recognition Systems' which is a Conference proceedings paper
+Olga Iakovenko has a publication titled 'Algorithms for accentuation and phonemic transcription of Russian texts in speech recognition systems' which is a Conference proceedings paper
+Olga Iakovenko is associated with 'Multi-lingual modelling of conversational speech' grant

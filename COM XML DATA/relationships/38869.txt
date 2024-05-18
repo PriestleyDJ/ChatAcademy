@@ -1,0 +1,16 @@
+Chelsea Edmonds is associated with the COM department
+Chelsea Edmonds is an academic
+Chelsea Edmonds's title is Ms
+Chelsea Edmonds's primary group descriptor is COM
+Chelsea Edmonds has a publication titled 'Formalising Szemerédi’s regularity lemma and Roth’s theorem on arithmetic progressions in Isabelle/HOL' which is a Journal article
+Chelsea Edmonds has a publication titled 'A formalisation of the Balog–Szemerédi–Gowers theorem in Isabelle/HOL' which is a Conference proceedings paper
+Chelsea Edmonds has a publication titled 'A Modular First Formalisation of Combinatorial Design Theory' which is a Chapter
+Chelsea Edmonds has a publication titled 'Formal Probabilistic Methods for Combinatorial Structures using the
+  Lovász Local Lemma' which is a Preprint
+Chelsea Edmonds has a publication titled 'Formalising Szemerédi's Regularity Lemma and Roth's Theorem on
+  Arithmetic Progressions in Isabelle/HOL' which is a Preprint
+Chelsea Edmonds has a publication titled 'Formalising Fisher's Inequality: Formal Linear Algebraic Proof
+  Techniques in Combinatorics' which is a Preprint
+Chelsea Edmonds has a publication titled 'A Modular First Formalisation of Combinatorial Design Theory' which is a Preprint
+Chelsea Edmonds has a publication titled 'Formal Probabilistic Methods for Combinatorial Structures using the Lovász Local Lemma' which is a Conference proceedings paper
+Chelsea Edmonds has a publication titled 'Formalising Fisher’s Inequality: Formal Linear Algebraic Proof Techniques in Combinatorics' which is a Conference proceedings paper

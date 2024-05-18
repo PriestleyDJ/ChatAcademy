@@ -1,0 +1,14 @@
+Amit Meghanani is associated with the COM department
+Amit Meghanani is an academic
+Amit Meghanani's title is Mr
+Amit Meghanani's primary group descriptor is COM
+Amit Meghanani is associated with 'Factorisation of Speech Embeddings' grant
+Amit Meghanani has a publication titled 'Pitch-synchronous Discrete Cosine Transform Features for Speaker Identification and Verification' which is a Conference proceedings paper
+Amit Meghanani has a publication titled 'Recognition of Alzheimer’s Dementia From the Transcriptions of Spontaneous Speech Using fastText and CNN Models' which is a Journal article
+Amit Meghanani has a publication titled 'An Exploration of Log-Mel Spectrogram and MFCC Features for Alzheimer’s Dementia Recognition from Spontaneous Speech' which is a Conference proceedings paper
+Amit Meghanani has a publication titled 'Pitch-synchronous DCT features: A pilot study on speaker identification' which is a Preprint
+Amit Meghanani has a publication titled 'Deriving translational acoustic sub-word embeddings' which is a Conference proceedings paper
+Amit Meghanani has a publication titled 'Improving Acoustic Word Embeddings through Correspondence Training of Self-supervised Speech Representations' which is a Preprint
+Amit Meghanani has a publication titled 'SCORE: Self-supervised Correspondence Fine-tuning for Improved Content Representations' which is a Preprint
+Amit Meghanani has a publication titled 'SCORE: Self-supervised correspondence fine-tuning for improved content representations' which is a Conference proceedings paper
+Amit Meghanani has a publication titled 'Improving Acoustic Word Embeddings through Correspondence Training of Self-supervised Speech Representations' which is a Conference proceedings paper

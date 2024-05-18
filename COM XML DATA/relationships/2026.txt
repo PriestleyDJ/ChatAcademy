@@ -1,0 +1,30 @@
+Robert Gaizauskas is associated with the COM department
+Robert Gaizauskas is an academic
+Robert Gaizauskas's title is Professor
+Robert Gaizauskas's primary group descriptor is COM
+Robert Gaizauskas has a publication titled 'Protein structures and information extraction from biological texts: The PASTA system' which is a Journal article
+Robert Gaizauskas has a publication titled 'The CLEF corpus: semantic annotation of clinical text.' which is a Journal article
+Robert Gaizauskas has a publication titled 'Mining clinical relationships from patient narratives' which is a Journal article
+Robert Gaizauskas has a publication titled 'Disambiguation of biomedical text using diverse sources of information' which is a Journal article
+Robert Gaizauskas has a publication titled 'GATE: an environment to support research and development in natural language engineering' which is a Conference proceedings paper
+Robert Gaizauskas has a publication titled 'A General Architecture for Language Engineering (GATE) - a new approach
+  to Language Engineering R&D' which is a Journal article
+Robert Gaizauskas has a publication titled 'New Methods, Current Trends and Software Infrastructure for NLP' which is a Journal article
+Robert Gaizauskas has a publication titled 'Evaluating a focus-based approach to anaphora resolution' which is a Conference proceedings paper
+Robert Gaizauskas has a publication titled 'Utilizing text mining results' which is a Conference proceedings paper
+Robert Gaizauskas has a publication titled 'Compacting the Penn Treebank grammar' which is a Conference proceedings paper
+Robert Gaizauskas has a publication titled 'Deriving Answers to Logical Queries Via Answer Composition' which is a Conference proceedings paper
+Robert Gaizauskas has a publication titled 'Software infrastructure for natural language processing' which is a Conference proceedings paper
+Robert Gaizauskas has a publication titled 'GATE' which is a Conference proceedings paper
+Robert Gaizauskas has a publication titled 'Experiments on sentence boundary detection' which is a Conference proceedings paper
+Robert Gaizauskas has a publication titled 'Using corpus-derived name lists for named entity recognition' which is a Conference proceedings paper
+Robert Gaizauskas has a publication titled 'On the use of agents in a BioInformatics grid' which is a Conference proceedings paper
+Robert Gaizauskas has a publication titled 'GATE' which is a Conference proceedings paper
+Robert Gaizauskas has a publication titled 'Evaluation of an algorithm for the recognition and classification of proper names' which is a Conference proceedings paper
+Robert Gaizauskas has a publication titled 'Evaluating Passage Retrieval Approaches for Question Answering' which is a Conference proceedings paper
+Robert Gaizauskas has a publication titled 'On the Marriage of Information Retrieval and Information Extraction' which is a Conference proceedings paper
+Robert Gaizauskas has a publication titled 'Experiments on Statistical and Pattern-Based Biographical Summarization' which is a Conference proceedings paper
+Robert Gaizauskas has a publication titled 'Experiments in Passage Selection and Answer Identification for Question Answering' which is a Conference proceedings paper
+Robert Gaizauskas has a publication titled 'Mining on-line sources for definition knowledge' which is a Conference proceedings paper
+Robert Gaizauskas has a publication titled 'Integrating text mining into distributed bioinformatics workflows: a web services implementation' which is a Conference proceedings paper
+Robert Gaizauskas has a publication titled 'Using Edit Distance Algorithms to Compare Alternative Approaches to ITS Authoring' which is a Conference proceedings paper

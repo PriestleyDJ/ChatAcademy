@@ -1,0 +1,6 @@
+Shunbao Li is associated with the COM department
+Shunbao Li is an academic
+Shunbao Li's title is Mr
+Shunbao Li's primary group descriptor is COM
+Shunbao Li has a publication titled 'Examing and Evaluating Dimension Reduction Algorithms for Classifying Alzheimer’s Diseases using Gene Expression Data' which is a Conference proceedings paper
+Shunbao Li has a publication titled 'A multi-classification accessment framework for reproducible evaluation of multimodal learning in Alzheimer's disease' which is a Journal article

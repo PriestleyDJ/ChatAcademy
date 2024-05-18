@@ -1,0 +1,30 @@
+Ning Ma is associated with the COM department
+Ning Ma is an academic
+Ning Ma's title is Dr
+Ning Ma's primary group descriptor is COM
+Ning Ma has a publication titled 'Exploiting correlogram structure for robust speech recognition with multiple speech sources
+' which is a Journal article
+Ning Ma has a publication titled 'A speech fragment approach to localising multiple speakers in reverberant environments' which is a Conference proceedings paper
+Ning Ma has a publication titled 'Applying word duration constraints by using unrolled HMMs' which is a Conference proceedings paper
+Ning Ma has a publication titled 'Integrating pitch and localisation cues at a speech fragment level' which is a Conference proceedings paper
+Ning Ma has a publication titled 'Recent advances in speech fragment decoding techniques' which is a Conference proceedings paper
+Ning Ma has a publication titled 'Exploiting dendritic autocorrelogram structure to identify spectro-temporal regions dominated by a single sound source' which is a Conference proceedings paper
+Ning Ma has a publication titled 'Speech fragment decoding techniques for simultaneous speaker identification and speech recognition' which is a Journal article
+Ning Ma has a publication titled 'A 'speechiness' measure to improve speech decoding in the presence of other sound sources' which is a Conference proceedings paper
+Ning Ma has a publication titled 'Context-dependent word duration modelling for robust speech recognition' which is a Conference proceedings paper
+Ning Ma has a publication titled 'Modelling the prepausal lengthening effect for speech recognition: a dynamic Bayesian network approach' which is a Conference proceedings paper
+Ning Ma has a publication titled 'The CHiME corpus: A resource and a challenge for computational hearing in multisource environments' which is a Conference proceedings paper
+Ning Ma has a publication titled 'A pitch based noise estimation technique for robust speech recognition with Missing Data' which is a Conference proceedings paper
+Ning Ma has a publication titled 'Combining Speech Fragment Decoding and Adaptive Noise Floor Modeling' which is a Journal article
+Ning Ma has a publication titled 'Binaural cues for fragment-based speech recognition in reverberant multisource environments' which is a Conference proceedings paper
+Ning Ma has a publication titled 'A hearing-inspired approach for distant-microphone speech recognition in the presence of multiple sources' which is a Journal article
+Ning Ma has a publication titled 'A 'speechiness' measure to improve speech decoding in the presence of other sound sources' which is a Conference proceedings paper
+Ning Ma has a publication titled 'Combining missing-data reconstruction and uncertainty decoding for robust speech recognition' which is a Conference proceedings paper
+Ning Ma has a publication titled 'The PASCAL CHiME speech separation and recognition challenge' which is a Journal article
+Ning Ma has a publication titled 'MMSE-Based Missing-Feature Reconstruction With Temporal Modeling for Robust Speech Recognition' which is a Journal article
+Ning Ma has a publication titled 'Speech Spectral Envelope Enhancement by HMM-Based Analysis/Resynthesis' which is a Journal article
+Ning Ma has a publication titled 'Coupling identification and reconstruction of missing features for noise-robust automatic speech recognition' which is a Conference proceedings paper
+Ning Ma has a publication titled 'A fragment-decoding plus missing-data imputation system evaluated on the 2nd CHiME challenge' which is a Conference proceedings paper
+Ning Ma has a publication titled 'Recent advances in fragment-based speech recognition in reverberant multisource environments.' which is a Conference proceedings paper
+Ning Ma has a publication titled 'Incorporating localisation cues in a fragment decoding framework for distant binaural speech recognition' which is a Conference proceedings paper
+Ning Ma has a publication titled 'Distant microphone speech recognition in a noisy indoor environment: combining soft missing data and speech fragment decoding' which is a Conference proceedings paper

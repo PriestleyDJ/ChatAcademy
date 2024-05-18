@@ -1,0 +1,15 @@
+Robert Loftin is associated with the COM department
+Robert Loftin is an academic
+Robert Loftin's title is Dr
+Robert Loftin's primary group descriptor is COM
+Robert Loftin has a publication titled 'Novelty Seeking Multiagent Evolutionary Reinforcement Learning' which is a Conference proceedings paper
+Robert Loftin has a publication titled 'On the impossibility of learning to cooperate with adaptive partner strategies in repeated games' which is a Conference proceedings paper
+Robert Loftin has a publication titled 'Strategically efficient exploration in competitive multi-agent reinforcement learning' which is a Conference proceedings paper
+Robert Loftin has a publication titled 'Better exploration with optimistic actor-critic' which is a Conference proceedings paper
+Robert Loftin has a publication titled 'Improving developer participation rates in surveys' which is a Conference proceedings paper
+Robert Loftin has a publication titled 'Strategically Efficient Exploration in Competitive Multi-agent Reinforcement Learning' which is a Conference proceedings paper
+Robert Loftin has a publication titled 'Uncoupled learning of differential Stackelberg equilibria with commitments' which is a Conference proceedings paper
+Robert Loftin has a publication titled 'Uncoupled Learning of Differential Stackelberg Equilibria with
+  Commitments' which is a Preprint
+Robert Loftin has a publication titled 'Learning behaviors via human-delivered discrete feedback: modeling implicit feedback strategies to speed up learning' which is a Journal article
+Robert Loftin has a publication titled 'Curriculum Design for Machine Learners in Sequential Decision Tasks' which is a Journal article

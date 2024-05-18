@@ -1,0 +1,30 @@
+Joab Winkler is associated with the COM department
+Joab Winkler is an academic
+Joab Winkler's title is Dr
+Joab Winkler's primary group descriptor is COM
+Joab Winkler has a publication titled 'Tikhonov regularisation in standard form for polynomial basis conversion' which is a Journal article
+Joab Winkler has a publication titled 'A resultant matrix for scaled Bernstein polynomials' which is a Journal article
+Joab Winkler has a publication titled 'A Class of Bernstein Polynomials that Satisfy Descartes’ Rule of Signs Exactly' which is a Conference proceedings paper
+Joab Winkler has a publication titled 'Condition numbers of a nearly singular simple root of a polynomial' which is a Journal article
+Joab Winkler has a publication titled 'Case study of a wave event in the stable atmospheric boundary layer overlying an Antarctic Ice Shelf using the orthogonal wavelet transform' which is a Journal article
+Joab Winkler has a publication titled 'Properties of the Companion Matrix Resultant for Bernstein Polynomials' which is a Conference proceedings paper
+Joab Winkler has a publication titled 'Computational experiments with resultants for scaled Bernstein polynomials' which is a Conference proceedings paper
+Joab Winkler has a publication titled 'A statistical analysis of the numerical condition of multiple roots of polynomials' which is a Journal article
+Joab Winkler has a publication titled 'The transformation of the companion matrix resultant between the power and Bernstein polynomial bases' which is a Journal article
+Joab Winkler has a publication titled 'Numerical and Algebraic Properties of Bernstein Basis Resultant Matrices' which is a Conference proceedings paper
+Joab Winkler has a publication titled 'Structured matrix methods for CAGD: an application to computing the resultant of polynomials in the Bernstein basis' which is a Journal article
+Joab Winkler has a publication titled 'A Comparison of Condition Numbers for the Full Rank Least Squares Problem' which is a Conference proceedings paper
+Joab Winkler has a publication titled 'The numerical condition of univariate and bivariate degree elevated Bernstein polynomials' which is a Journal article
+Joab Winkler has a publication titled 'High Order Terms for Condition Estimation of Univariate Polynomials' which is a Journal article
+Joab Winkler has a publication titled 'Condition Numbers and Least Squares Regression' which is a Conference proceedings paper
+Joab Winkler has a publication titled 'Structured total least norm and approximate GCDs of inexact polynomials
+' which is a Journal article
+Joab Winkler has a publication titled 'A unified approach to resultant matrices for Bernstein basis polynomials' which is a Journal article
+Joab Winkler has a publication titled 'STRUCTURED LOW RANK APPROXIMATIONS OF THE SYLVESTER RESULTANT MATRIX FOR APPROXIMATE GCDS OF BERNSTEIN BASIS POLYNOMIALS' which is a Journal article
+Joab Winkler has a publication titled 'Singular projective transformation matrices' which is a Journal article
+Joab Winkler has a publication titled 'Polynomial basis conversion made stable by truncated singular value decomposition' which is a Journal article
+Joab Winkler has a publication titled 'Automatic face recognition using stereo images' which is a Conference proceedings paper
+Joab Winkler has a publication titled 'A non-linear structure preserving matrix method for the low rank approximation of the Sylvester resultant matrix' which is a Journal article
+Joab Winkler has a publication titled 'The calculation of the degree of an approximate greatest common divisor of two polynomials' which is a Journal article
+Joab Winkler has a publication titled 'Accurate Field Analysis of the Propagation of Elastic Waves Through an Acoustic Microscope, Part I: Theory' which is a Journal article
+Joab Winkler has a publication titled 'Accurate Field Analysis of the Propagation of Elastic Waves Through an Acoustic Microscope, Part II: Results' which is a Journal article

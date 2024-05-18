@@ -1,0 +1,29 @@
+Siobhan North is associated with the COM department
+Siobhan North is an academic
+Siobhan North's title is Dr
+Siobhan North's primary group descriptor is COM
+Siobhan North has a publication titled 'Issues in implementing a model checker for Z' which is a Conference proceedings paper
+Siobhan North has a publication titled 'Z2SAL-building a model checker for Z' which is a Conference proceedings paper
+Siobhan North has a publication titled 'COPAS—A conversational Pascal system' which is a Journal article
+Siobhan North has a publication titled 'Context sensitive editing as an approach to incremental compilation' which is a Journal article
+Siobhan North has a publication titled 'Core objects required for a generic CASE repository' which is a Conference proceedings paper
+Siobhan North has a publication titled 'PACD: A BITMAP-BASED FRAMEWORK FOR PROCESSING XML DATA' which is a Conference proceedings paper
+Siobhan North has a publication titled 'AN ANALYSIS OF RELATIONAL STORAGE STRATEGIES FOR PARTIALLY STRUCTURED XML' which is a Conference proceedings paper
+Siobhan North has a publication titled 'OPEN SOURCE SOFTWARE IN THE DESKTOP: THE PERSPECTIVE OF THE PUBLIC ADMINISTRATIONS IN UK' which is a Conference proceedings paper
+Siobhan North has a publication titled 'An Integrated Approach to Handling Collaborative Diagram Databases on the WWW' which is a Conference proceedings paper
+Siobhan North has a publication titled 'The World Wide Web Cytokine Database — New Techniques of Diagramatic Information Management on the Web' which is a Conference proceedings paper
+Siobhan North has a publication titled 'National lotteries. An exercise in parallel data management design' which is a Conference proceedings paper
+Siobhan North has a publication titled 'Z2SAL: a translation-based model checker for Z' which is a Journal article
+Siobhan North has a publication titled 'THE 3D XML BENCHMARK' which is a Journal article
+Siobhan North has a publication titled 'Trust-based access control for XML databases' which is a Journal article
+Siobhan North has a publication titled 'A performance evaluation of a new bitmap-based XML processing approach over RDBMS' which is a Journal article
+Siobhan North has a publication titled 'Logging in XML databases: Xlog file for trust based access control' which is a Journal article
+Siobhan North has a publication titled 'Semantic Integration and Querying of Heterogeneous Data Sources Using a Hypergraph Data Model.' which is a Conference proceedings paper
+Siobhan North has a publication titled 'A System for Managing Alternate Models in Model-Based Mediation.' which is a Conference proceedings paper
+Siobhan North has a publication titled 'Real World Association Rule Mining.' which is a Conference proceedings paper
+Siobhan North has a publication titled 'CREAM: A Mediator Based Environment for Modeling and Accessing Distributed Information on the Web.' which is a Conference proceedings paper
+Siobhan North has a publication titled 'Handling Conceptual Multidimensional Models Using XML through DTDs.' which is a Conference proceedings paper
+Siobhan North has a publication titled 'Have It Your Way: Personalization of Network-Hosted Services.' which is a Conference proceedings paper
+Siobhan North has a publication titled 'Establishing a Taxonomy of Quality for Use in Information Filtering.' which is a Conference proceedings paper
+Siobhan North has a publication titled 'A Document Database Query Language.' which is a Conference proceedings paper
+Siobhan North has a publication titled 'The AutoMed Schema Integration Repository.' which is a Conference proceedings paper

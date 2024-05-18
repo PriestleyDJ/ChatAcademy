@@ -1,0 +1,32 @@
+Joachim Spoerhase is associated with the COM department
+Joachim Spoerhase is an academic
+Joachim Spoerhase's title is Dr
+Joachim Spoerhase's primary group descriptor is COM
+Joachim Spoerhase has a publication titled 'Approximating the Generalized Minimum Manhattan Network Problem' which is a Journal article
+Joachim Spoerhase has a publication titled '<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si1.gif" display="inline" overflow="scroll"><mml:mrow><mml:mo>(</mml:mo><mml:mi>r</mml:mi><mml:mo>,</mml:mo><mml:mi>p</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:math>-centroid problems on paths and trees' which is a Journal article
+Joachim Spoerhase has a publication titled 'Algorithms for Labeling Focus Regions' which is a Journal article
+Joachim Spoerhase has a publication titled 'An algorithm for the single maximum coverage location or the -medianoid problem on trees' which is a Journal article
+Joachim Spoerhase has a publication titled 'Road segment selection with strokes and stability' which is a Conference proceedings paper
+Joachim Spoerhase has a publication titled 'Better Approximation Algorithms for the Maximum Internal Spanning Tree Problem' which is a Journal article
+Joachim Spoerhase has a publication titled 'Approximating Minimum Manhattan Networks in Higher Dimensions' which is a Journal article
+Joachim Spoerhase has a publication titled 'Selecting the Aspect Ratio of a Scatter Plot Based on Its Delaunay Triangulation' which is a Journal article
+Joachim Spoerhase has a publication titled 'Improved Approximation Algorithms for Box Contact Representations' which is a Journal article
+Joachim Spoerhase has a publication titled 'Approximating Spanning Trees with Few Branches' which is a Journal article
+Joachim Spoerhase has a publication titled 'An Improved Approximation Algorithm for Knapsack Median Using Sparsification' which is a Journal article
+Joachim Spoerhase has a publication titled 'Relaxed voting and competitive location under monotonous gain functions on trees' which is a Journal article
+Joachim Spoerhase has a publication titled 'Optimally computing all solutions of Stackelberg with parametric prices and of general monotonous gain functions on a tree' which is a Journal article
+Joachim Spoerhase has a publication titled 'Multiple voting location and single voting location on trees' which is a Journal article
+Joachim Spoerhase has a publication titled 'New algorithms for maximum disjoint paths based on tree-likeness' which is a Journal article
+Joachim Spoerhase has a publication titled 'On Monotone Drawings of Trees' which is a Journal article
+Joachim Spoerhase has a publication titled 'Approximation Schemes for Geometric Coverage Problems' which is a Preprint
+Joachim Spoerhase has a publication titled 'Constant-Factor Approximation for Ordered k-Median' which is a Preprint
+Joachim Spoerhase has a publication titled 'New Algorithms for Maximum Disjoint Paths Based on Tree-Likeness' which is a Preprint
+Joachim Spoerhase has a publication titled 'Approximating Minimum Manhattan Networks in Higher Dimensions' which is a Preprint
+Joachim Spoerhase has a publication titled 'Network Design Problems with Bounded Distances via Shallow-Light Steiner
+  Trees' which is a Preprint
+Joachim Spoerhase has a publication titled 'Drawing Graphs with Vertices at Specified Positions and Crossings at
+  Large Angles' which is a Preprint
+Joachim Spoerhase has a publication titled 'An Optimal Algorithm for the Indirect Covering Subtree Problem' which is a Preprint
+Joachim Spoerhase has a publication titled 'Parameterized Approximation Schemes for Clustering with General Norm
+  Objectives' which is a Preprint
+Joachim Spoerhase has a publication titled 'Approximating Node-Weighted k-MST on Planar Graphs' which is a Journal article

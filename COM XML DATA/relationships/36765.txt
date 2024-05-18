@@ -1,0 +1,12 @@
+Ibrahim Abu Farha is associated with the COM department
+Ibrahim Abu Farha is an academic
+Ibrahim Abu Farha's title is Dr
+Ibrahim Abu Farha's primary group descriptor is COM
+Ibrahim Abu Farha has a publication titled 'A comparative study of effective approaches for Arabic sentiment analysis' which is a Journal article
+Ibrahim Abu Farha has a publication titled 'An efficient single document Arabic text summarization using a combination of statistical and semantic features' which is a Journal article
+Ibrahim Abu Farha has a publication titled 'The Effect of Arabic Dialect Familiarity on Data Annotation' which is a Conference proceedings paper
+Ibrahim Abu Farha has a publication titled 'Sarcasm Detection is Way Too Easy! An Empirical Comparison of Human and Machine Sarcasm Detection' which is a Conference proceedings paper
+Ibrahim Abu Farha has a publication titled 'Benchmarking Transformer-based Language Models for Arabic Sentiment and Sarcasm Detection' which is a Conference proceedings paper
+Ibrahim Abu Farha has a publication titled 'Overview of the WANLP 2021 Shared Task on Sarcasm and Sentiment Detection in Arabic' which is a Conference proceedings paper
+Ibrahim Abu Farha has a publication titled 'SemEval-2022 Task 6: iSarcasmEval, Intended Sarcasm Detection in English and Arabic' which is a Conference proceedings paper
+Ibrahim Abu Farha has a publication titled 'Mazajak: An online arabic sentiment analyser' which is a Conference proceedings paper

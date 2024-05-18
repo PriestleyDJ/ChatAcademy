@@ -1,0 +1,5 @@
+Hongrui Shi is associated with the COM department
+Hongrui Shi is an academic
+Hongrui Shi's title is Mr
+Hongrui Shi's primary group descriptor is COM
+Hongrui Shi has a publication titled 'Towards Federated Learning with Attention Transfer to Mitigate System and Data Heterogeneity of Clients' which is a Conference proceedings paper

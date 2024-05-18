@@ -1,0 +1,29 @@
+Neil Ireson is associated with the COM department
+Neil Ireson is an academic
+Neil Ireson's title is Mr
+Neil Ireson's primary group descriptor is COM
+Neil Ireson has a publication titled 'Evaluation of machine learning-based information extraction algorithms: criticisms and recommendations' which is a Journal article
+Neil Ireson has a publication titled 'Evaluating machine learning for information extraction' which is a Conference proceedings paper
+Neil Ireson has a publication titled 'Design of a Traffic Junction Controller Using Classifier System and Fuzzy Logic' which is a Journal article
+Neil Ireson has a publication titled 'Distributed Learning Control of Traffic Signals' which is a Conference proceedings paper
+Neil Ireson has a publication titled 'A Communication Architecture for Multi-Agent Learning Systems' which is a Conference proceedings paper
+Neil Ireson has a publication titled 'Web 2.0 and traditional knowledge management processes' which is a Conference proceedings paper
+Neil Ireson has a publication titled 'Human-centred decision support: The IDIOMS system' which is a Conference proceedings paper
+Neil Ireson has a publication titled 'Local Community Situational Awareness During An Emergency' which is a Conference proceedings paper
+Neil Ireson has a publication titled 'Knowledge Sharing in E-Collaboration' which is a Conference proceedings paper
+Neil Ireson has a publication titled 'Toponym Resolution in Social Media' which is a Conference proceedings paper
+Neil Ireson has a publication titled 'Extending Domain-Specific Resources to Enable Semantic Access to Cultural Heritage Data.' which is a Conference proceedings paper
+Neil Ireson has a publication titled 'Using event representation and semantic enrichment for managing and reviewing emergency incident logs' which is a Conference proceedings paper
+Neil Ireson has a publication titled 'Leveraging Web 2.0 Communities in Professional Organisations' which is a Conference proceedings paper
+Neil Ireson has a publication titled 'Enabling Semantic Access to Cultural Heritage: A Case Study of Tate Online.' which is a Conference proceedings paper
+Neil Ireson has a publication titled 'The MultiMatch Project: Multilingual/Multimedia Access to Cultural Heritage on the Web' which is a Conference proceedings paper
+Neil Ireson has a publication titled 'An Experimental Study on Boundary Classification Algorithms for Information Extraction using SVM' which is a Conference proceedings paper
+Neil Ireson has a publication titled 'NLP-enhanced content filtering within the POESIA project' which is a Conference proceedings paper
+Neil Ireson has a publication titled 'An Evolutionary Intelligent Agents Approach to Traffic Signal Control' which is a Journal article
+Neil Ireson has a publication titled 'Does size matter? when small is good enough' which is a Conference proceedings paper
+Neil Ireson has a publication titled 'Capturing e-Culture: Metadata in MultiMatch' which is a Conference proceedings paper
+Neil Ireson has a publication titled 'Pascal Challenge The Evaluation of Machine Learning for Information Extraction' which is a Conference proceedings paper
+Neil Ireson has a publication titled 'Evolving Decision Support Models for Credit Control' which is a Chapter
+Neil Ireson has a publication titled 'Genetic-based Machine Learning-Applications in Industry and Commerce' which is a Chapter
+Neil Ireson has a publication titled 'Evolving Bayesian classifiers for credit control—a comparison with other machine-learning methods' which is a Journal article
+Neil Ireson has a publication titled 'Evolving Bayesian classifiers for credit control—a comparison with other machine-learning methods' which is a Journal article

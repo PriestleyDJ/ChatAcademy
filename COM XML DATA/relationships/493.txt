@@ -1,0 +1,29 @@
+Thomas Hain is associated with the COM department
+Thomas Hain is an academic
+Thomas Hain's title is Professor
+Thomas Hain's primary group descriptor is COM
+Thomas Hain has a publication titled 'Automatic transcription of conversational telephone speech' which is a Journal article
+Thomas Hain has a publication titled 'The Development of the AMI System for the Transcription of Speech in Meetings' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'The 2005 AMI System for the Transcription of Speech in Meetings' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'The AMI Meeting Transcription System: Progress and Performance' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'Strategies for Language Model Web-Data Collection' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'Strategies for language model web-data collection' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'The AMI System for the Transcription of Speech in Meetings' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'Audio-Visual Processing in Meetings: Seven Questions and Current AMI Answers' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'The 2007 AMI(DA) System for Meeting Transcription' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'Bob: A lexicon and pronunciation dictionary generator' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'Temporal masking for unsupervised minimum bayes risk speaker adaptation' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'Automatic speech recognition experiments with articulatory data' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'Hypothesis spaces for minimum bayes risk training in large vocabulary speech recognition' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'Automatic Optimization of Speech Decoder Parameters' which is a Journal article
+Thomas Hain has a publication titled 'Automatic speech recognition for scientific purposes - webASR' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'Error Approximation and Minimum Phone Error Acoustic Model Estimation' which is a Journal article
+Thomas Hain has a publication titled 'Implicit modelling of pronunciation variation in automatic speech recognition' which is a Journal article
+Thomas Hain has a publication titled 'Recent advances in broadcast news transcription' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'Development of the 2003 CU-HTK conversational telephone speech transcription system' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'New features in the CU-HTK system for transcription of conversational telephone speech' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'The 1998 HTK system for transcription of conversational telephone speech' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'Experiments in broadcast news transcription' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'Interpretation of Multiparty Meetings the AMI and Amida Projects' which is a Conference proceedings paper
+Thomas Hain has a publication titled 'Recognition and understanding of meetings the AMI and AMIDA projects' which is a Journal article
+Thomas Hain has a publication titled 'The AMI system for the transcription of speech in meetings' which is a Journal article

@@ -1,0 +1,29 @@
+Emma Norling is associated with the COM department
+Emma Norling is an academic
+Emma Norling's title is Professor
+Emma Norling's primary group descriptor is COM
+Emma Norling has a publication titled 'Using Agents in Virtual Environments to Assist Controllers to Manage Multiple Assets' which is a Conference proceedings paper
+Emma Norling has a publication titled 'The trouble with chatbots: Social skills in a social world' which is a Conference proceedings paper
+Emma Norling has a publication titled 'Towards the evolution of social structure' which is a Journal article
+Emma Norling has a publication titled 'What should the agent know? the challenge of capturing human knowledge' which is a Conference proceedings paper
+Emma Norling has a publication titled 'Contrasting a System Dynamics Model and an Agent-Based Model of Food Web Evolution' which is a Conference proceedings paper
+Emma Norling has a publication titled 'Multi-Agent-Based Simulation: Why Bother?' which is a Conference proceedings paper
+Emma Norling has a publication titled 'Capturing the Quake Player: Using a BDI Agent to Model Human Behaviour' which is a Conference proceedings paper
+Emma Norling has a publication titled 'On Evaluating Agents for Serious Games' which is a Conference proceedings paper
+Emma Norling has a publication titled 'Towards a Formal Semantics of Event-Based Multi-agent Simulations' which is a Conference proceedings paper
+Emma Norling has a publication titled 'Dynamics of Agent Organizations: Application to Modeling Irregular Warfare' which is a Conference proceedings paper
+Emma Norling has a publication titled 'Folk psychology for human modelling: Extending the BDI paradigm' which is a Conference proceedings paper
+Emma Norling has a publication titled 'Towards supporting psychologically plausible variability in agent-based human modelling' which is a Conference proceedings paper
+Emma Norling has a publication titled 'Informal Approaches to Developing Simulation Models' which is a Chapter
+Emma Norling has a publication titled 'Don't lose sight of the forest: Why the big picture of social intelligence is essential' which is a Conference proceedings paper
+Emma Norling has a publication titled 'Preface' which is a Conference proceedings paper
+Emma Norling has a publication titled 'Embodying the JACK Agent Architecture' which is a Conference proceedings paper
+Emma Norling has a publication titled 'Preface' which is a Book
+Emma Norling has a publication titled 'Including Human Variability in a Cognitive Architecture to Improve Team Simulation' which is a Chapter
+Emma Norling has a publication titled 'Preface' which is a Chapter
+Emma Norling has a publication titled 'Multi-Agent-Based Simulation XV' which is a Conference proceedings paper
+Emma Norling has a publication titled 'Multi-Agent-Based Simulation' which is a Conference proceedings paper
+Emma Norling has a publication titled 'Integrating Learning and Inference in Multi-agent Systems Using Cognitive Context' which is a Conference proceedings paper
+Emma Norling has a publication titled 'Lecture Notes in Computer Science: Preface' which is a Book
+Emma Norling has a publication titled 'Agent-based model of impact of socioeconomic stressors' which is a Conference proceedings paper
+Emma Norling is associated with an activity with description of 'unknown' by the organisation unknown and unknown department

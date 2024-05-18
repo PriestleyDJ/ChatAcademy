@@ -1,0 +1,29 @@
+Eleni Vasilaki is associated with the COM department
+Eleni Vasilaki is an academic
+Eleni Vasilaki's title is Professor
+Eleni Vasilaki's primary group descriptor is COM
+Eleni Vasilaki has a publication titled 'Perceptual Learning via Modification of Cortical Top-Down Signals' which is a Journal article
+Eleni Vasilaki has a publication titled 'Temporal album' which is a Journal article
+Eleni Vasilaki has a publication titled 'Tag-Trigger-Consolidation: A Model of Early and Late Long-Term-Potentiation and Depression' which is a Journal article
+Eleni Vasilaki has a publication titled 'Learning flexible sensori-motor mappings in a complex network' which is a Journal article
+Eleni Vasilaki has a publication titled 'Stimulus sampling as an exploration mechanism for fast reinforcement learning' which is a Journal article
+Eleni Vasilaki has a publication titled 'Spike-Based Reinforcement Learning in Continuous State and Action Space: When Policy Gradient Methods Fail' which is a Journal article
+Eleni Vasilaki has a publication titled 'Adaptive gain modulation in V1 explains contextual modifications during bisection learning' which is a Journal article
+Eleni Vasilaki has a publication titled 'Connectivity reflects coding: a model of voltage-based STDP with homeostasis' which is a Journal article
+Eleni Vasilaki has a publication titled 'SOME OPTIMAL STOCHASTIC CONTROL PROBLEMS IN NEUROSCIENCE — A REVIEW' which is a Journal article
+Eleni Vasilaki has a publication titled 'Learning and forgetting visuo-motor associations with a multi-layer neural network' which is a Conference proceedings paper
+Eleni Vasilaki has a publication titled 'Processing Static Visual Information with IF-networks' which is a Conference proceedings paper
+Eleni Vasilaki has a publication titled 'Comparison of Feedforward (TDRBF) and Generative (TDRGBN) Network for Gesture Based Control' which is a Conference proceedings paper
+Eleni Vasilaki has a publication titled 'Towards a Spatio-Temporal Album' which is a Journal article
+Eleni Vasilaki has a publication titled 'Democratic population decisions result in robust policy-gradient learning: a parametric study with GPU simulations' which is a Journal article
+Eleni Vasilaki has a publication titled 'Why is connectivity in barrel cortex different from that in visual cortex? - A plasticity model' which is a Conference proceedings paper
+Eleni Vasilaki has a publication titled 'Spike-based reinforcement in continuous state and action space' which is a Conference proceedings paper
+Eleni Vasilaki has a publication titled 'Spike-based reinforcement learning of navigation' which is a Conference proceedings paper
+Eleni Vasilaki has a publication titled 'A unified voltage-based model for STDP, LTP and LTD' which is a Conference proceedings paper
+Eleni Vasilaki has a publication titled 'Perceptual learning by modifying top-down connections to V1' which is a Conference proceedings paper
+Eleni Vasilaki has a publication titled 'A Hebbian reinforcement learning algorithm reproducing monkey performances in visuo-motor learning task' which is a Conference proceedings paper
+Eleni Vasilaki has a publication titled 'Analysis Of Phosphorus Diffusion In the Polysilicon/Oxide/Silicon System Under Oxidizing Conditions For Profile Simulation' which is a Conference proceedings paper
+Eleni Vasilaki has a publication titled 'How Degrading Networks Can Increase Cognitive Functions' which is a Conference proceedings paper
+Eleni Vasilaki has a publication titled 'Emergence of Connectivity Patterns from Long-Term and Short-Term Plasticities' which is a Conference proceedings paper
+Eleni Vasilaki has a publication titled 'Temporal processing with volatile memristors' which is a Conference proceedings paper
+Eleni Vasilaki has a publication titled 'Emergence of Connectivity Motifs in Networks of Model Neurons with Short- and Long-term Plastic Synapses' which is a Journal article

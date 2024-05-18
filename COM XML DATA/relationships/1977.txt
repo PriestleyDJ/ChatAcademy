@@ -1,0 +1,30 @@
+Guy Brown is associated with the COM department
+Guy Brown is an academic
+Guy Brown's title is Professor
+Guy Brown's primary group descriptor is COM
+Guy Brown has a publication titled 'A Computational Model of Auditory Selective Attention' which is a Journal article
+Guy Brown has a publication titled 'A computer model of auditory efferent suppression: Implications for the recognition of speech in noise' which is a Journal article
+Guy Brown has a publication titled 'Computational auditory scene analysis: listening to several things at once' which is a Journal article
+Guy Brown has a publication titled 'Modelling the perceptual segregation of double vowels with a network of neural oscillators' which is a Journal article
+Guy Brown has a publication titled 'A blackboard architecture for computational auditory scene analysis' which is a Conference proceedings paper
+Guy Brown has a publication titled 'Separation of speech from interfering sounds based on oscillatory correlation' which is a Journal article
+Guy Brown has a publication titled 'Identification of concurrent vowels using spectral matching with 'missing data'' which is a Conference proceedings paper
+Guy Brown has a publication titled 'Synfire chains as a neural mechanism for auditory grouping' which is a Conference proceedings paper
+Guy Brown has a publication titled 'An oscillatory correlation framework for computational auditory scene analysis' which is a Conference proceedings paper
+Guy Brown has a publication titled 'A neural oscillator sound separator for missing data speech recognition' which is a Conference proceedings paper
+Guy Brown has a publication titled 'A neural oscillator model of auditory attention' which is a Conference proceedings paper
+Guy Brown has a publication titled 'Missing data speech recognition in reverberant conditions' which is a Conference proceedings paper
+Guy Brown has a publication titled 'A neural oscillator model of auditory selective attention' which is a Conference proceedings paper
+Guy Brown has a publication titled 'A multipitch tracking algorithm for noisy speech' which is a Journal article
+Guy Brown has a publication titled 'A missing feature approach to instrument identification in polyphonic music' which is a Conference proceedings paper
+Guy Brown has a publication titled 'Speech segregation based on sound localization' which is a Journal article
+Guy Brown has a publication titled 'A missing feature approach to instrument identification in polyphonic music' which is a Conference proceedings paper
+Guy Brown has a publication titled 'Information systems and creativity: an empirical study' which is a Journal article
+Guy Brown has a publication titled 'Instrument recognition in accompanied sonatas and concertos' which is a Conference proceedings paper
+Guy Brown has a publication titled 'Techniques for handling convolutional distortion with `missing data' automatic speech recognition' which is a Journal article
+Guy Brown has a publication titled 'A binaural processor for missing data speech recognition in the presence of noise and small-room reverberation' which is a Journal article
+Guy Brown has a publication titled 'Techniques for Robust Speech Recognition in Noisy and Reverberant Conditions' which is a Conference proceedings paper
+Guy Brown has a publication titled 'Speech and crosstalk detection in multichannel audio
+' which is a Journal article
+Guy Brown has a publication titled 'Mask Estimation Based on Sound Localisation for Missing Data Speech Recognition' which is a Conference proceedings paper
+Guy Brown has a publication titled 'Mask estimation for missing data speech recognition based on statistics of binaural interaction' which is a Journal article

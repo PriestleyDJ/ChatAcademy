@@ -1,0 +1,6 @@
+Atsuki Yamaguchi is associated with the COM department
+Atsuki Yamaguchi is an academic
+Atsuki Yamaguchi's title is Mr
+Atsuki Yamaguchi's primary group descriptor is COM
+Atsuki Yamaguchi has a publication titled 'An Empirical Study on Cross-lingual Vocabulary Adaptation for Efficient Generative LLM Inference' which is a Preprint
+Atsuki Yamaguchi has a publication titled 'An Empirical Study on Cross-lingual Vocabulary Adaptation for Efficient Generative LLM Inference.' which is a Journal article

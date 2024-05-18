@@ -1,0 +1,17 @@
+Michael Foster is associated with the COM department
+Michael Foster is an academic
+Michael Foster's title is Mr
+Michael Foster's primary group descriptor is COM
+Michael Foster has a publication titled 'Incorporating Data into EFSM Inference' which is a Chapter
+Michael Foster has a publication titled 'Formalising Extended Finite State Machine Transition Merging' which is a Chapter
+Michael Foster has a publication titled 'Do sophisticated evolutionary algorithms perform better than simple ones?' which is a Conference proceedings paper
+Michael Foster is associated with 'NuSec Summer 2022 Pilot Project - Causal Inference for Radiation Detection' grant
+Michael Foster has a publication titled 'An automated framework for verifying or refuting trace properties of extended finite state machines' which is a Journal article
+Michael Foster has a publication titled 'Reverse-engineering EFSMs with data dependencies' which is a Conference proceedings paper
+Michael Foster has a publication titled 'Testing Causality in Scientific Modelling Software' which is a Preprint
+Michael Foster has a publication titled 'Metamorphic testing with causal graphs' which is a Conference proceedings paper
+Michael Foster has a publication titled 'Testing causality in scientific modelling software' which is a Journal article
+Michael Foster has a publication titled 'Active inference of extended finite state models of software systems' which is a Conference proceedings paper
+Michael Foster has a publication titled 'Active inference of EFSMs without reset' which is a Chapter
+Michael Foster has a publication titled 'Do maternal haemodynamics have a causal influence on treatment for gestational diabetes?' which is a Journal article
+Michael Foster has a publication titled 'Causal test adequacy' which is a Conference proceedings paper

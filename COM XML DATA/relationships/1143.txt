@@ -1,0 +1,29 @@
+Diana Maynard is associated with the COM department
+Diana Maynard is an academic
+Diana Maynard's title is Dr
+Diana Maynard's primary group descriptor is COM
+Diana Maynard has a publication titled 'Developing Reusable and Robust Language Processing Components for Information Systems using GATE' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'Adapting a Robust Multi-genre NE System for Automatic Content Extraction' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'Access to Multimedia Information through Multisource and Multilanguage Information Extraction' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'Multimedia indexing through multi-source and multi-language information extraction: the MUMIS project' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'GATE: An architecture for development of robust HLT applications' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'Automatic Creation and Monitoring of Semantic Metadata in a Dynamic Knowledge Portal' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'Extracting a Domain Ontology from Linguistic Resource Based on Relatedness Measurements' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'Natural Language Technology for Information Integration in Business Intelligence' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'Ontology-Based Information Extraction for Business Intelligence' which is a Conference proceedings paper
+Diana Maynard has a publication titled '<i>Information Extraction: Algorithms and Prospects in a Retrieval Context</i> Marie-Francine Moens (Katholieke Universiteit Leuven) Springer (Information retrieval series, edited by W. Bruce Croft), 2006, xiii+246 pp; ISBN 978-1-4020-4987-3, $119.00' which is a Journal article
+Diana Maynard has a publication titled 'Using parallel texts to improve recall in botany' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'Rapid customisation of an Information Extraction system for surprise languages' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'A framework and graphical development environment for robust NLP tools and applications.' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'Using Human Language Technology for Automatic Annotation and Indexing of Digital Library Content' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'Multilingual adaptations of ANNIE, a reusable information extraction tool' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'A Lightweight Approach to Coreference Resolution for Named Entities in Text' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'Evolving GATE to Meet New Challenges in Language Engineering' which is a Journal article
+Diana Maynard has a publication titled 'Populating a Database from Parallel Texts Using Ontology-Based Information Extraction' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'GATE : an architecture for development of robust HLT applications' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'NE recognition without training data on a language you don't speak' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'Named Entity Recognition from Diverse Text Types' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'Experience of using GATE for NLP R&D' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'GATE: A Unicode-based Infrastructure Supporting Multilingual Information Extraction' which is a Conference proceedings paper
+Diana Maynard has a publication titled 'Text Processing with Gate (Version 6)' which is a Book
+Diana Maynard has a publication titled 'Architectural Elements of Language Engineering Robustness' which is a Journal article

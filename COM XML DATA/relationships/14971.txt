@@ -1,0 +1,29 @@
+Michael Smith is associated with the COM department
+Michael Smith is an academic
+Michael Smith's title is Dr
+Michael Smith's primary group descriptor is COM
+Michael Smith has a publication titled 'Differentially private regression with Gaussian processes' which is a Conference proceedings paper
+Michael Smith has a publication titled 'Differentially private regression and classification with sparse Gaussian processes' which is a Journal article
+Michael Smith has a publication titled 'Gaussian process regression for binned data' which is a Journal article
+Michael Smith has a publication titled 'Multi-task Learning for aggregated data using Gaussian processes' which is a Conference proceedings paper
+Michael Smith has a publication titled 'Differentially Private Gaussian Processes' which is a Working paper
+Michael Smith is associated with 'Foraging distances and nest locations of bumblebees Bombus spp. and other bee genera' grant
+Michael Smith is associated with 'AirQo' grant
+Michael Smith has a publication titled 'Multi-task Learning for Aggregated Data using Gaussian Processes' which is a Conference proceedings paper
+Michael Smith has a publication titled 'Machine Learning for a Low-cost Air Pollution Network.' which is a Journal article
+Michael Smith is associated with 'Improved Retroreflector Based Tracking for Bees' grant
+Michael Smith has a publication titled 'A method for low‐cost, low‐impact insect tracking using retroreflective tags' which is a Journal article
+Michael Smith is associated with 'Recost - budget cut + transfer - Physically-informed probabilistic modelling of air pollution in Kampala using a low cost sensor network' grant
+Michael Smith has a publication titled 'Adversarial vulnerability bounds for Gaussian process classification' which is a Journal article
+Michael Smith has a publication titled 'Adversarial vulnerability bounds for Gaussian process classification' which is a Preprint
+Michael Smith has a publication titled 'Learning nonparametric Volterra kernels with Gaussian processes' which is a Journal article
+Michael Smith has a publication titled 'Differentially Private Regression and Classification with Sparse Gaussian Processes' which is a Journal article
+Michael Smith has a publication titled 'Hospitalization and mortality following non-attendance for hemodialysis according to dialysis day of the week : a European cohort study' which is a Journal article
+Michael Smith has a publication titled 'Killing Four Birds with one Gaussian Process: The Relation between different Test-Time Attacks' which is a Conference proceedings paper
+Michael Smith has a publication titled 'Learning Nonparametric Volterra Kernels with Gaussian Processes' which is a Preprint
+Michael Smith has a publication titled 'Machine Learning for a Low-cost Air Pollution Network' which is a Preprint
+Michael Smith has a publication titled 'Differentially Private Regression and Classification with Sparse Gaussian Processes' which is a Preprint
+Michael Smith has a publication titled 'Multi-task Learning for Aggregated Data using Gaussian Processes' which is a Preprint
+Michael Smith has a publication titled 'Gaussian Process Regression for Binned Data' which is a Preprint
+Michael Smith has a publication titled 'Differentially Private Gaussian Processes.' which is a Journal article
+Michael Smith has a publication titled 'Adjoint-aided inference of Gaussian process driven differential equations' which is a Conference proceedings paper

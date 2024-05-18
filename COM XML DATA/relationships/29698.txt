@@ -1,0 +1,19 @@
+James Douthwaite is associated with the COM department
+James Douthwaite is an academic
+James Douthwaite's title is Dr
+James Douthwaite's primary group descriptor is COM
+James Douthwaite has a publication titled 'Enhancing Autonomy in VTOL Aircraft Based on Symbolic Computation Algorithms' which is a Conference proceedings paper
+James Douthwaite has a publication titled 'An Interval Approach to Multiple Unmanned Aerial Vehicle Collision Avoidance' which is a Conference proceedings paper
+James Douthwaite has a publication titled 'A comparative study of velocity obstacle approaches for multi-agent systems' which is a Conference proceedings paper
+James Douthwaite has a publication titled 'Velocity obstacle approaches for multi-agent collision avoidance' which is a Journal article
+James Douthwaite has a publication titled 'OpenMAS - An open-source multi-agent simulator for systems with complex and arbitrary decision mechanics and dynamic behaviour' which is a Software / Code
+James Douthwaite has a publication titled 'Verified synthesis of optimal safety controllers for human-robot collaboration' which is a Journal article
+James Douthwaite has a publication titled 'Safety Controller Synthesis for a Mobile Manufacturing Cobot' which is a Chapter
+James Douthwaite has a publication titled 'A modular digital twinning framework for safety assurance of collaborative robotics' which is a Journal article
+James Douthwaite has a publication titled 'ROSIE: A ROS adapter for a modular digital twinning framework' which is a Conference proceedings paper
+James Douthwaite has a publication titled 'Verified Synthesis of Optimal Safety Controllers for Human-Robot Collaboration' which is a Preprint
+James Douthwaite is associated with 'Generic architectures and interfaces for interoperable robotic systems and digital twins' grant
+James Douthwaite has a publication titled 'Digital-twin-based testing for cyber–physical systems: a systematic literature review' which is a Journal article
+James Douthwaite has a publication titled 'Augmented reality for safety zones in human-robot collaboration' which is a Conference proceedings paper
+James Douthwaite has a publication titled 'A comparative study of safety zone visualisations for virtual and physical robot arms using augmented reality' which is a Journal article
+James Douthwaite is associated with 'Digital twinning for safety assurance and knowledge exchange - Phase 3' grant

@@ -1,0 +1,25 @@
+Shaoxiong Sun is associated with the COM department
+Shaoxiong Sun is an academic
+Shaoxiong Sun's title is Dr
+Shaoxiong Sun's primary group descriptor is COM
+Shaoxiong Sun has a publication titled 'Remote Administration of ADHD-Sensitive Cognitive Tasks: A Pilot Study' which is a Journal article
+Shaoxiong Sun has a publication titled 'Systolic blood pressure estimation using ECG and PPG in patients undergoing surgery' which is a Journal article
+Shaoxiong Sun has a publication titled 'The utility of wearable devices in assessing ambulatory impairments of people with multiple sclerosis in free-living conditions' which is a Journal article
+Shaoxiong Sun has a publication titled 'Fitbeat: COVID-19 estimation based on wristband heart rate using a contrastive convolutional auto-encoder' which is a Journal article
+Shaoxiong Sun has a publication titled 'Investigating the impact of COVID-19 lockdown on adults with a recent history of recurrent major depressive disorder: a multi-Centre study using remote measurement technology' which is a Journal article
+Shaoxiong Sun has a publication titled 'Finger and forehead photoplethysmography-derived pulse-pressure variation and the benefits of baseline correction' which is a Journal article
+Shaoxiong Sun has a publication titled 'Systolic blood pressure estimation using PPG and ECG during physical exercise' which is a Journal article
+Shaoxiong Sun has a publication titled 'RADAR-base' which is a Conference proceedings paper
+Shaoxiong Sun has a publication titled 'On algorithms for calculating arterial pulse pressure variation during major surgery' which is a Journal article
+Shaoxiong Sun has a publication titled 'Using Smartphones and Wearable Devices to Monitor Behavioral Changes During COVID-19' which is a Journal article
+Shaoxiong Sun has a publication titled 'Relationship Between Major Depression Symptom Severity and Sleep Collected Using a Wristband Wearable Device: Multicenter Longitudinal Observational Study' which is a Journal article
+Shaoxiong Sun has a publication titled 'Measuring the effect of Non-Pharmaceutical Interventions (NPIs) on mobility during the COVID-19 pandemic using global mobility data' which is a Journal article
+Shaoxiong Sun has a publication titled 'Predicting Depressive Symptom Severity Through Individuals’ Nearby Bluetooth Device Count Data Collected by Mobile Phones: Preliminary Longitudinal Study' which is a Journal article
+Shaoxiong Sun has a publication titled 'The Association Between Home Stay and Symptom Severity in Major Depressive Disorder: Preliminary Findings From a Multicenter Observational Study Using Geolocation Data From Smartphones' which is a Journal article
+Shaoxiong Sun has a publication titled 'Longitudinal Relationships Between Depressive Symptom Severity and Phone-Measured Mobility: Dynamic Structural Equation Modeling Study' which is a Journal article
+Shaoxiong Sun has a publication titled 'Associations Between Depression Symptom Severity and Daily-Life Gait Characteristics Derived From Long-Term Acceleration Signals in Real-World Settings: Retrospective Analysis' which is a Journal article
+Shaoxiong Sun has a publication titled 'Temporal Evolution of Multiday, Epileptic Functional Networks Prior to Seizure Occurrence' which is a Journal article
+Shaoxiong Sun has a publication titled 'The Feasibility of Implementing Remote Measurement Technologies in Psychological Treatment for Depression: Mixed Methods Study on Engagement' which is a Journal article
+Shaoxiong Sun has a publication titled 'Long-term participant retention and engagement patterns in an app and wearable-based multinational remote digital depression study' which is a Journal article
+Shaoxiong Sun has a publication titled 'Challenges in Using mHealth Data From Smartphones and Wearable Devices to Predict Depression Symptom Severity: Retrospective Analysis' which is a Journal article
+Shaoxiong Sun has a publication titled 'Characterising the motion and cardiorespiratory interaction of preterm infants can improve the classification of their sleep state' which is a Journal article

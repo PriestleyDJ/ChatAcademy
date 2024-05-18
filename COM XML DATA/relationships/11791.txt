@@ -1,0 +1,29 @@
+Jos� Miguel Rojas is associated with the COM department
+Jos� Miguel Rojas is an academic
+Jos� Miguel Rojas's title is Dr
+Jos� Miguel Rojas's primary group descriptor is COM
+José Miguel Rojas has a publication titled 'Parallel Simulation of NEPs on Clusters' which is a Conference proceedings paper
+José Miguel Rojas has a publication titled 'Towards the Automatic Programming of H Systems: jHsys, a Java H System Simulator' which is a Conference proceedings paper
+José Miguel Rojas has a publication titled 'A Framework for Guided Test Case Generation in Constraint Logic Programming' which is a Conference proceedings paper
+José Miguel Rojas has a publication titled 'Resource-Driven CLP-Based Test Case Generation' which is a Conference proceedings paper
+José Miguel Rojas has a publication titled 'Compositional CLP-Based Test Data Generation for Imperative Languages' which is a Conference proceedings paper
+José Miguel Rojas has a publication titled 'Automated Extraction of Abstract Behavioural Models from JMS Applications' which is a Conference proceedings paper
+José Miguel Rojas has a publication titled 'ON THE SOLUTIONS OF NP-COMPLETE PROBLEMS BY MEANS OF JNEP RUN ON COMPUTERS' which is a Conference proceedings paper
+José Miguel Rojas has a publication titled 'Automatic Inference of Bounds on Resource Consumption' which is a Conference proceedings paper
+José Miguel Rojas has a publication titled 'Test Case Generation by Symbolic Execution: Basic Concepts, a CLP-Based Instance, and Actor-Based Concurrency' which is a Chapter
+José Miguel Rojas has a publication titled 'A CLP heap solver for test case generation' which is a Journal article
+José Miguel Rojas has a publication titled 'Compositional Symbolic Execution through Program Specialization' which is a Other
+José Miguel Rojas has a publication titled 'Random or Genetic Algorithm Search for Object-Oriented Test Suite Generation?' which is a Conference proceedings paper
+José Miguel Rojas has a publication titled 'Combining Multiple Coverage Criteria in Search-Based Unit Test Generation' which is a Conference proceedings paper
+José Miguel Rojas has a publication titled 'Automated unit test generation during software development: a controlled experiment and think-aloud observations' which is a Conference proceedings paper
+José Miguel Rojas has a publication titled 'Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges (T)' which is a Conference proceedings paper
+José Miguel Rojas has a publication titled 'Teaching Software Testing with the Code Defenders Testing Game: Experiences and Improvements' which is a Conference proceedings paper
+José Miguel Rojas has a publication titled 'Trusted Autonomous Vehicles: an Interactive Exhibit' which is a Conference proceedings paper
+José Miguel Rojas has a publication titled 'Gamifying a Software Testing Course with Code Defenders' which is a Conference proceedings paper
+José Miguel Rojas has a publication titled 'Special issue on mutation testing and analysis' which is a Journal article
+José Miguel Rojas is associated with 'Efficient Evolution for Intelligent Autonomous Systems' grant
+José Miguel Rojas is associated with 'Automated Generation and Inference of Unit Tests for Legacy Software' grant
+José Miguel Rojas is associated with 'Behavioural Application Program Interfaces' grant
+José Miguel Rojas is associated with 'GReaTest: Growing Readable Software Tests' grant
+José Miguel Rojas is associated with 'GReaTest: Growing Readable Software Tests' grant
+José Miguel Rojas has a publication titled 'Software Testing' which is a Chapter

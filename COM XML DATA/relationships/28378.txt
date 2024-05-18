@@ -1,0 +1,9 @@
+Robert Chisholm is associated with the COM department
+Robert Chisholm is an academic
+Robert Chisholm's title is Dr
+Robert Chisholm's primary group descriptor is COM
+Robert Chisholm has a publication titled 'Improved GPU near neighbours performance for multi-agent simulations' which is a Journal article
+Robert Chisholm has a publication titled 'A lightweight, inexpensive robotic system for insect vision' which is a Journal article
+Robert Chisholm has a publication titled 'A Standardised Benchmark for Assessing the Performance of Fixed Radius Near Neighbours' which is a Conference proceedings paper
+Robert Chisholm has a publication titled 'FLAME GPU 2: a framework for flexible and performant agent based simulation on GPUs' which is a Journal article
+Robert Chisholm has a publication titled 'A multiscale orchestrated computational framework to reveal emergent phenomena in neuroblastoma' which is a Journal article

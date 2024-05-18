@@ -1,0 +1,29 @@
+Carolina Scarton is associated with the COM department
+Carolina Scarton is an academic
+Carolina Scarton's title is Dr
+Carolina Scarton's primary group descriptor is COM
+Carolina Scarton has a publication titled 'Revisiting the Readability Assessment of Texts in Portuguese' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'Text Readability Analysis with Natural Language Processing Tools: The Adaptation of Coh-Metrix Metrics for Portuguese' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'Findings of the 2015 Workshop on Statistical Machine Translation' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'SIMPLIFICA: A tool for authoring simplified texts in Brazilian Portuguese guided by readability assessments' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'Verb clustering for Brazilian Portuguese' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'Automatic classification of written descriptions by healthy adults: An overview of the application of natural language processing and machine learning techniques to clinical discourse analysis' which is a Journal article
+Carolina Scarton has a publication titled 'Computational Processing of the Portuguese Language' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'Discourse and Document-level Information for Evaluating Language Output Tasks' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'Verb Clustering for Brazilian Portuguese' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'Evaluating Progression of Alzheimer’s Disease by Regression and Classification Methods in a Narrative Language Test in Portuguese' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'Improving Evaluation of Document-level Machine Translation Quality Estimation' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'Bilexical Embeddings for Quality Estimation' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'SAARSHEFF at SemEval-2016 Task 1: Semantic Textual Similarity with Machine Translation Evaluation Metrics and (eXtreme) Boosted Tree Ensembles' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'A reading comprehension corpus for machine translation evaluation' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'USAAR-SHEFFIELD: Semantic Textual Similarity with Deep Regression and Machine Translation Evaluation Metrics' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'Word embeddings and discourse information for Quality Estimation' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'USHEF and USAAR-USHEF participation in the WMT15 QE shared task' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'Quality estimation for language output applications' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'Exploring Consensus in Machine Translation for Quality Estimation' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'Searching for context: A study on document-level labels for translation quality estimation' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'Findings of the 2016 Conference on Machine Translation' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'MUSST: A Multilingual Syntactic Simplification Tool' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'Learning How to Simplify From Explicit Labeling of Complex-Simplified Text Pairs.' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'Text simplification from professionally produced corpora' which is a Conference proceedings paper
+Carolina Scarton has a publication titled 'Simpa: A sentence-level simplification corpus for the public administration domain' which is a Conference proceedings paper

@@ -1,0 +1,29 @@
+Chenghua Lin is associated with the COM department
+Chenghua Lin is an academic
+Chenghua Lin's title is Dr
+Chenghua Lin's primary group descriptor is COM
+Chenghua Lin has a publication titled 'Joint sentiment/topic model for sentiment analysis' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'Weakly Supervised Joint Sentiment-Topic Detection from Text' which is a Journal article
+Chenghua Lin has a publication titled 'Automatically extracting polarity-bearing topics for cross-domain sentiment classification' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'A comparative study of bayesian models for unsupervised sentiment detection' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'Hete-cf: Social-based collaborative filtering recommendation using heterogeneous relations' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'Dynamic joint sentiment-topic model' which is a Journal article
+Chenghua Lin has a publication titled 'Hetpathmine: A novel transductive classification algorithm on heterogeneous information networks' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'Sentence Subjectivity Detection with Weakly-Supervised Learning' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'Tracking Sentiment and Topic Dynamics from Social Media' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'A multi-agent system for intelligent pervasive spaces' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'Feature LDA: A Supervised Topic Model for Automatic Detection of Web API Documentations from the Web' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'Sherlock : a semi-automatic framework for quiz generation using a hybrid semantic similarity measure' which is a Journal article
+Chenghua Lin has a publication titled 'Word embedding and wordnet based metaphor identification and interpretation' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'Sherlock: A semi-automatic quiz generation system using linked data' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'Online Sentiment and Topic Dynamics Tracking over the Streaming Data' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'Harnessing the crowds for automating the identification of web APIs' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'Matrix factorization for package recommendations' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'Sentiment Analysis in Social Media' which is a Journal article
+Chenghua Lin has a publication titled 'Probabilistic topic models for sentiment analysis on the Web' which is a Thesis / Dissertation
+Chenghua Lin has a publication titled 'Extracting and understanding contrastive opinion through topic relevant sentences' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'Automatically Labelling Sentiment-Bearing Topics with Descriptive Sentence Labels' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'Generating pseudotransactions for improving sparse matrix factorization' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'A curated corpus for sentiment-topic analysis' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'A dual-attention hierarchical recurrent neural network for dialogue act classification' which is a Conference proceedings paper
+Chenghua Lin has a publication titled 'Incorporating Constraints into Matrix Factorization for Clothes Package Recommendation' which is a Conference proceedings paper

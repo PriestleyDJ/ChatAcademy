@@ -1,0 +1,20 @@
+Ian Vidamour is associated with the COM department
+Ian Vidamour is an academic
+Ian Vidamour's title is Mr
+Ian Vidamour's primary group descriptor is COM
+Ian Vidamour has a publication titled 'A perspective on physical reservoir computing with nanomagnetic devices' which is a Preprint
+Ian Vidamour has a publication titled 'Reservoir Computing with Emergent Dynamics in a Magnetic Metamaterial' which is a Preprint
+Ian Vidamour has a publication titled 'Quantifying the computational capability of a nanomagnetic reservoir computing platform with emergent magnetisation dynamics' which is a Journal article
+Ian Vidamour has a publication titled 'Reconfigurable Reservoir Computing in a Magnetic Metamaterial' which is a Preprint
+Ian Vidamour has a publication titled 'Neuromorphic computation with a single magnetic domain wall' which is a Journal article
+Ian Vidamour has a publication titled 'Neuromorphic Computation With a Single Magnetic Domain Wall' which is a Preprint
+Ian Vidamour has a publication titled 'Dynamically‐driven emergence in a nanomagnetic system' which is a Journal article
+Ian Vidamour has a publication titled 'A perspective on physical reservoir computing with nanomagnetic devices' which is a Journal article
+Ian Vidamour has a publication titled 'Exploring the Robustness of Magnetic Ring Arrays Reservoir Computing with Linear Field Calibration' which is a Chapter
+Ian Vidamour has a publication titled 'Reconfigurable reservoir computing in a magnetic metamaterial' which is a Journal article
+Ian Vidamour has a publication titled 'DebugNS: Novelty Search for Finding Bugs in Simulators' which is a Conference proceedings paper
+Ian Vidamour has a publication titled 'Quantifying the computational capability of a nanomagnetic reservoir computing platform with emergent magnetization dynamics' which is a Journal article
+Ian Vidamour has a publication titled 'From stochasticity to functionality: harnessing magnetic domain walls for probabilistic and neuromorphic computing' which is a Conference proceedings paper
+Ian Vidamour is associated with 'Neuromorphic Computing with Nanomagnets' grant
+Ian Vidamour has a publication titled 'Optimising network interactions through device agnostic models' which is a Preprint
+Ian Vidamour has a publication titled 'Optimising network interactions through device agnostic models.' which is a Journal article

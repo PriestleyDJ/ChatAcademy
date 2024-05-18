@@ -1,0 +1,29 @@
+Paul Richmond is associated with the COM department
+Paul Richmond is an academic
+Paul Richmond's title is Professor
+Paul Richmond's primary group descriptor is COM
+Paul Richmond has a publication titled 'A high performance framework for agent based pedestrian dynamics on GPU hardware' which is a Conference proceedings paper
+Paul Richmond has a publication titled 'Automatic Generation of Residential Areas using Geo-Demographics' which is a Conference proceedings paper
+Paul Richmond has a publication titled 'NARCSim an agent-based illegal drug market simulation' which is a Conference proceedings paper
+Paul Richmond has a publication titled 'Cellular Level Agent Based Modelling on the Graphics Processing Unit' which is a Conference proceedings paper
+Paul Richmond has a publication titled 'High performance cellular level agent-based simulation with FLAME for the GPU' which is a Journal article
+Paul Richmond has a publication titled 'FLAME: simulating large populations of agents on parallel hardware architectures.' which is a Conference proceedings paper
+Paul Richmond has a publication titled 'Democratic population decisions result in robust policy-gradient learning: a parametric study with GPU simulations' which is a Journal article
+Paul Richmond has a publication titled 'Audio-visual animation of urban space' which is a Conference proceedings paper
+Paul Richmond has a publication titled 'AI and Games Symposium' which is a Journal article
+Paul Richmond has a publication titled 'A high performance agent based modelling framework on graphics card hardware with CUDA' which is a Conference proceedings paper
+Paul Richmond has a publication titled 'Agent-based large scale simulation of pedestrians with adaptive realistic navigation vector fields' which is a Conference proceedings paper
+Paul Richmond has a publication titled 'Large scale pedestrian multi-simulation for a decision support tool' which is a Conference proceedings paper
+Paul Richmond has a publication titled 'From Model Specification to Simulation of Biologically Constrained Networks of Spiking Neurons.' which is a Journal article
+Paul Richmond has a publication titled 'A high performance agent based modelling framework on graphics card hardware with CUDA' which is a Conference proceedings paper
+Paul Richmond has a publication titled 'Resolving Conflicts between Multiple Competing Agents in Parallel Simulations' which is a Conference proceedings paper
+Paul Richmond has a publication titled 'Osteolytica: An automated image analysis software package that rapidly measures cancer-induced osteolytic lesions in in vivo models with greater reproducibility compared to other commonly used methods' which is a Journal article
+Paul Richmond has a publication titled 'Path tracing on massively parallel neuromorphic hardware' which is a Conference proceedings paper
+Paul Richmond has a publication titled 'Road Network Simulation Using FLAME GPU' which is a Conference proceedings paper
+Paul Richmond has a publication titled 'The SpineML toolchain: enabling computational neuroscience through flexible tools for creating, sharing, and simulating neural models' which is a Conference proceedings paper
+Paul Richmond has a publication titled 'A Standardised Benchmark for Assessing the Performance of Fixed Radius Near Neighbours' which is a Conference proceedings paper
+Paul Richmond has a publication titled 'SpineCreator: a Graphical User Interface for the Creation of Layered Neural Models.' which is a Journal article
+Paul Richmond has a publication titled 'Feasibility study of multi-agent simulation at cellular level with Flame GPU' which is a Conference proceedings paper
+Paul Richmond has a publication titled 'From GUI to GPU: A toolchain for GPU code generation for large scale Drosophila simulations using SpineML' which is a Meeting Abstract
+Paul Richmond has a publication titled 'PI-FLAME: A parallel immune system simulator using the FLAME graphic processing unit environment' which is a Journal article
+Paul Richmond has a publication titled 'FLAME GPU: Complex System Simulation Framework' which is a Conference proceedings paper

@@ -1,0 +1,29 @@
+Rodney Smallwood is associated with the COM department
+Rodney Smallwood is an academic
+Rodney Smallwood's title is Emeritus Prof
+Rodney Smallwood's primary group descriptor is COM
+Rodney Smallwood has a publication titled 'Enabling multiscale modeling in systems medicine' which is a Journal article
+Rodney Smallwood has a publication titled 'Multi-scale computational models of the airways to unravel the pathophysiological mechanisms in asthma and chronic obstructive pulmonary disease (AirPROM)' which is a Journal article
+Rodney Smallwood has a publication titled 'Skin Stem Cell Hypotheses and Long Term Clone Survival - Explored Using Agent-based Modelling' which is a Journal article
+Rodney Smallwood has a publication titled 'Modelling complex biological systems using an agent-based approach' which is a Journal article
+Rodney Smallwood has a publication titled 'A Complex Automata approach for in-stent restenosis: Two-dimensional multiscale modelling and simulations' which is a Journal article
+Rodney Smallwood has a publication titled 'Evaluating the use of optical coherence tomography for the detection of epithelial cancers in vitro' which is a Journal article
+Rodney Smallwood has a publication titled 'Common path Michelson interferometer based on multiple reflections within the sample arm: sensor applications and imaging artefacts' which is a Journal article
+Rodney Smallwood has a publication titled 'A comparison of imaging methodologies for 3D tissue engineering' which is a Journal article
+Rodney Smallwood has a publication titled 'Development of a Three Dimensional Multiscale Computational Model of the Human Epidermis' which is a Journal article
+Rodney Smallwood has a publication titled 'NIK and IKKβ interdependence in NF-κB signalling—Flux analysis of regulation through metabolites' which is a Journal article
+Rodney Smallwood has a publication titled 'Quantum dot superluminescent diodes for optical coherence tomography: device engineering' which is a Journal article
+Rodney Smallwood has a publication titled 'Quantum Dot Superluminescent Diodes for Optical Coherence Tomography: Skin Imaging' which is a Journal article
+Rodney Smallwood has a publication titled 'Using swept source optical coherence tomography to monitor wound healing in tissue engineered skin' which is a Journal article
+Rodney Smallwood has a publication titled 'Using swept-source optical coherence tomography to monitor the formation of neo-epidermis in tissue-engineered skin' which is a Journal article
+Rodney Smallwood has a publication titled 'Beyond the visuals: tactile augmentation and sensory enhancement in an arthroscopy simulator' which is a Journal article
+Rodney Smallwood has a publication titled 'Computational modeling of epithelial tissues' which is a Journal article
+Rodney Smallwood has a publication titled 'Development of a mini 3D cell culture system using well defined nickel grids for the investigation of cell scaffold interactions' which is a Journal article
+Rodney Smallwood has a publication titled 'Evaluation of a cheap ultrasonic stage for light source coherence function measurement, optical coherence tomography and dynamic focusing' which is a Journal article
+Rodney Smallwood has a publication titled 'Evaluation of a cheap ultrasonic stage for light source coherence function measurement, optical coherence tomography, optical coherence microscopy, and dynamic focusing' which is a Journal article
+Rodney Smallwood has a publication titled 'Exploring hypotheses of the actions of TGF-beta 1 in epidermal wound healing using a 3D computational multiscale model of the human epidermis' which is a Journal article
+Rodney Smallwood has a publication titled 'Optical coherence tomography with high power quantum-dot superluminescent diodes' which is a Conference proceedings paper
+Rodney Smallwood has a publication titled 'Towards a Complex Automata Multiscale Model of In-Stent Restenosis' which is a Conference proceedings paper
+Rodney Smallwood has a publication titled 'Development of spatio-temporal validation methods of an agent based model of epithelial cells: analysis of a colony of keratinocytes' which is a Journal article
+Rodney Smallwood has a publication titled 'Agent based modelling helps in understanding the rules by which fibroblasts support keratinocyte colony formation' which is a Journal article
+Rodney Smallwood has a publication titled 'The application of multiscale modelling to the process of development and prevention of stenosis in a stented coronary artery' which is a Journal article

@@ -1,0 +1,29 @@
+Nikolaos Aletras is associated with the COM department
+Nikolaos Aletras is an academic
+Nikolaos Aletras's title is Professor
+Nikolaos Aletras's primary group descriptor is COM
+Nikolaos Aletras has a publication titled 'PATHS – Exploring Digital Cultural Heritage Spaces' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'Computing similarity between cultural heritage items using multimodal features' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'Computing similarity between items in a digital library of cultural heritage' which is a Journal article
+Nikolaos Aletras has a publication titled 'User-centred design to support exploration and path creation in cultural heritage collections' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'Predicting and Characterising User Impact on Twitter' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'Measuring the Similarity between Automatically Generated Topics' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'Evaluating Topic Representations for Exploring Document Collections' which is a Journal article
+Nikolaos Aletras has a publication titled 'A Hybrid Distributional and Knowledge-based Model of Lexical Semantics' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'Why are these similar? Investigating item simirlaity types in a large Digital Library' which is a Journal article
+Nikolaos Aletras has a publication titled 'Representing topics using images' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'Representing topics labels for exploring digital libraries' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'Introduction' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'TM 2015 -- Topic Models' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'Predicting Judicial Decisions of the European Court of Human Rights: A Natural Language Processing Perspective' which is a Journal article
+Nikolaos Aletras has a publication titled 'Evaluating topic coherence using distributional semantics' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'UBC UOS-TYPED: Regression for Typed-similarity' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'Multimodal Topic Labelling' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'Inferring the Socioeconomic Status of Social Media Users Based on Behaviour and Language' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'Studying user income through language, behaviour and affect in social media' which is a Journal article
+Nikolaos Aletras has a publication titled 'An analysis of the user occupational class through Twitter content' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'Proceedings of the 2015 Workshop on Topic Models: Post-Processing and Applications, TM 2015, Melbourne, Australia, October 19, 2015' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'PATHS: A system for accessing cultural heritage collections' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'Predicting Twitter user socioeconomic attributes with network and language information' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'Nowcasting the stance of social media users in a sudden vote: The case of the Greek referendum' which is a Conference proceedings paper
+Nikolaos Aletras has a publication titled 'Re-ranking words to improve interpretability of automatically generated topics' which is a Conference proceedings paper

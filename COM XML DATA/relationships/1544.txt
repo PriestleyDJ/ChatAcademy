@@ -1,0 +1,30 @@
+Jonathan Barker is associated with the COM department
+Jonathan Barker is an academic
+Jonathan Barker's title is Professor
+Jonathan Barker's primary group descriptor is COM
+Jonathan Barker has a publication titled 'A neural oscillator sound separator for missing data speech recognition' which is a Conference proceedings paper
+Jonathan Barker has a publication titled 'Missing data speech recognition in reverberant conditions' which is a Conference proceedings paper
+Jonathan Barker has a publication titled 'Techniques for handling convolutional distortion with `missing data' automatic speech recognition' which is a Journal article
+Jonathan Barker has a publication titled 'Decoding speech in the presence of other sources' which is a Journal article
+Jonathan Barker has a publication titled 'Mask Estimation Based on Sound Localisation for Missing Data Speech Recognition' which is a Conference proceedings paper
+Jonathan Barker has a publication titled 'Recognition of Reverberant Speech using Full Cepstral Features and Spectral Missing Data' which is a Conference proceedings paper
+Jonathan Barker has a publication titled 'Speech Separation Based on The Statistics of Binaural Auditory Features' which is a Conference proceedings paper
+Jonathan Barker has a publication titled 'Recognition of reverberant speech using full cepstral features and spectral missing data' which is a Conference proceedings paper
+Jonathan Barker has a publication titled 'Speech separation based on the statistics of binaural auditory features' which is a Conference proceedings paper
+Jonathan Barker has a publication titled 'Mask estimation for missing data speech recognition based on statistics of binaural interaction' which is a Journal article
+Jonathan Barker has a publication titled 'Exploiting correlogram structure for robust speech recognition with multiple speech sources
+' which is a Journal article
+Jonathan Barker has a publication titled 'A speech fragment approach to localising multiple speakers in reverberant environments' which is a Conference proceedings paper
+Jonathan Barker has a publication titled 'Applying word duration constraints by using unrolled HMMs' which is a Conference proceedings paper
+Jonathan Barker has a publication titled 'Integrating pitch and localisation cues at a speech fragment level' which is a Conference proceedings paper
+Jonathan Barker has a publication titled 'Recent advances in speech fragment decoding techniques' which is a Conference proceedings paper
+Jonathan Barker has a publication titled 'Speech fragment decoding techniques for simultaneous speaker identification and speech recognition' which is a Journal article
+Jonathan Barker has a publication titled 'Using location cues to track speaker changes from mobile, binaural microphones' which is a Conference proceedings paper
+Jonathan Barker has a publication titled 'An audio-visual corpus for speech perception and automatic speech recognition' which is a Journal article
+Jonathan Barker has a publication titled 'The foreign language cocktail party problem: Energetic and informational masking effects in non-native speech perception' which is a Journal article
+Jonathan Barker has a publication titled 'Recognising Speech in the Presence of a Competing Speaker using a `Speech Fragment Decoder'' which is a Conference proceedings paper
+Jonathan Barker has a publication titled 'Tracking Facial Markers with an Adaptive Marker Collocation Model' which is a Conference proceedings paper
+Jonathan Barker has a publication titled 'Is the sine-wave speech cocktail party worth attending?' which is a Journal article
+Jonathan Barker has a publication titled 'Audio-visual speech recognition in the presence of a competing speaker' which is a Conference proceedings paper
+Jonathan Barker has a publication titled 'A multipitch tracker for monaural speech segmentation' which is a Conference proceedings paper
+Jonathan Barker has a publication titled 'Energetic and Informational Masking Effects in an Audiovisual Speech Recognition System' which is a Journal article

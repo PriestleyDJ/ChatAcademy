@@ -1,0 +1,29 @@
+Jefersson Dos Santos is associated with the COM department
+Jefersson Dos Santos is an academic
+Jefersson Dos Santos's title is Dr
+Jefersson Dos Santos's primary group descriptor is COM
+Jefersson Dos Santos has a publication titled 'Foreword to special section on SIBGRAPI 2022' which is a Journal article
+Jefersson Dos Santos has a publication titled 'Improving texture description in remote sensing image multi-scale classification tasks by using visual words' which is a Conference proceedings paper
+Jefersson Dos Santos has a publication titled 'Descriptor correlation analysis for remote sensing image multi-scale classification' which is a Conference proceedings paper
+Jefersson Dos Santos has a publication titled 'Remote phenology: Applying machine learning to detect phenological patterns in a cerrado savanna' which is a Conference proceedings paper
+Jefersson Dos Santos has a publication titled 'AiRound and CV-BrCT: Novel Multiview Datasets for Scene Classification' which is a Journal article
+Jefersson Dos Santos has a publication titled 'Automatic fusion of region-based classifiers for coffee crop recognition' which is a Conference proceedings paper
+Jefersson Dos Santos has a publication titled 'A Genetic Programming Approach for Relevance Feedback in Region-Based Image Retrieval Systems' which is a Conference proceedings paper
+Jefersson Dos Santos has a publication titled 'Automatic Classifier Fusion for Produce Recognition' which is a Conference proceedings paper
+Jefersson Dos Santos has a publication titled 'An Introduction to Deep Morphological Networks' which is a Journal article
+Jefersson Dos Santos has a publication titled 'Sinimbu – Multimodal Queries to Support Biodiversity Studies' which is a Conference proceedings paper
+Jefersson Dos Santos has a publication titled 'Fully convolutional open set segmentation' which is a Journal article
+Jefersson Dos Santos has a publication titled 'Annotating data to support decision-making' which is a Conference proceedings paper
+Jefersson Dos Santos has a publication titled 'Open Set Semantic Segmentation for Multitemporal Crop Recognition' which is a Journal article
+Jefersson Dos Santos has a publication titled 'Evaluating the potential of texture and color descriptors for remote sensing image retrieval and classification' which is a Conference proceedings paper
+Jefersson Dos Santos has a publication titled 'Semantic segmentation of citrus-orchard using deep neural networks and multispectral UAV-based imagery' which is a Journal article
+Jefersson Dos Santos has a publication titled 'Interactive Classification of Remote Sensing Images by Using Optimum-Path Forest and Genetic Programming' which is a Conference proceedings paper
+Jefersson Dos Santos has a publication titled 'Facing Erosion Identification in Railway Lines Using Pixel-Wise Deep-Based Approaches' which is a Journal article
+Jefersson Dos Santos has a publication titled 'Dynamic Multicontext Segmentation of Remote Sensing Images Based on Convolutional Networks' which is a Journal article
+Jefersson Dos Santos has a publication titled 'Exploiting ConvNet Diversity for Flooding Identification' which is a Journal article
+Jefersson Dos Santos has a publication titled 'Multiscale Classification of Remote Sensing Images' which is a Journal article
+Jefersson Dos Santos has a publication titled 'A Soft Computing Framework for Image Classification Based on Recurrence Plots' which is a Journal article
+Jefersson Dos Santos has a publication titled 'Incorporating multiple distance spaces in optimum-path forest classification to improve feedback-based learning' which is a Journal article
+Jefersson Dos Santos has a publication titled 'Spatio-Temporal Vegetation Pixel Classification by Using Convolutional Networks' which is a Journal article
+Jefersson Dos Santos has a publication titled 'Weakly Supervised Few-Shot Segmentation via Meta-Learning' which is a Journal article
+Jefersson Dos Santos has a publication titled 'Semantic Segmentation of Tree-Canopy in Urban Environment with Pixel-Wise Deep Learning' which is a Journal article

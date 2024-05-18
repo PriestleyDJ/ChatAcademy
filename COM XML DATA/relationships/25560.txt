@@ -1,0 +1,13 @@
+Peter Heywood is associated with the COM department
+Peter Heywood is an academic
+Peter Heywood's title is Mr
+Peter Heywood's primary group descriptor is COM
+Peter Heywood has a publication titled 'Data-parallel agent-based microscopic road network simulation using graphics processing units' which is a Journal article
+Peter Heywood has a publication titled 'Road Network Simulation Using FLAME GPU' which is a Conference proceedings paper
+Peter Heywood has a publication titled 'FLAME GPU 2: a framework for flexible and performant agent based simulation on GPUs' which is a Journal article
+Peter Heywood has a publication titled 'UISS-GPU: Accelerated In-Silico Tuberculosis Vaccine Trials Using FLAME GPU' which is a Conference proceedings paper
+Peter Heywood has a publication titled 'Parallelisation strategies for agent based simulation of immune systems' which is a Journal article
+Peter Heywood has a publication titled 'A data-parallel many-source shortest-path algorithm to accelerate macroscopic transport network assignment' which is a Journal article
+Peter Heywood has a publication titled 'Parallel pair-wise interaction for multi-agent immune systems modelling' which is a Conference proceedings paper
+Peter Heywood has a publication titled 'Using Semi-automatic 3D Scene Reconstruction to Create a Digital Medieval Charnel Chapel' which is a Conference proceedings paper
+Peter Heywood has a publication titled 'PED: Pedestrian Environment Designer' which is a Conference proceedings paper

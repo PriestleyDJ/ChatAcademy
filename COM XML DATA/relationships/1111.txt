@@ -1,0 +1,29 @@
+Kalina Bontcheva is associated with the COM department
+Kalina Bontcheva is an academic
+Kalina Bontcheva's title is Professor
+Kalina Bontcheva's primary group descriptor is COM
+Kalina Bontcheva has a publication titled 'Developing Reusable and Robust Language Processing Components for Information Systems using GATE' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'Adapting a Robust Multi-genre NE System for Automatic Content Extraction' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'Access to Multimedia Information through Multisource and Multilanguage Information Extraction' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'Multimedia indexing through multi-source and multi-language information extraction: the MUMIS project' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'GATE: An architecture for development of robust HLT applications' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'SVM Based Learning System for Information Extraction' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'Extracting a Domain Ontology from Linguistic Resource Based on Relatedness Measurements' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'Automatic Extraction of Hierarchical Relations from Text' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'Mining Information for Instance Unification' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'Natural Language Technology for Information Integration in Business Intelligence' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'Generating Tailored Textual Summaries from Ontologies' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'Tailoring Automatically Generated Hypertext' which is a Journal article
+Kalina Bontcheva has a publication titled 'Automatic Report Generation from Ontologies: The MIAKT Approach' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'The Use of Conceptual Graphs for Interactive Student Modelling and Adaptive Web Explanations' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'Tailoring the Content of Dynamically Generated Explanations' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'Task-dependent aspects of knowledge acquisition: A case study in a technical domain' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'Menu-based interfaces to conceptual graphs: The CGLex approach' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'Ontology-Based Information Extraction for Business Intelligence' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'DB-MAT: A NL based interface to domain knowledge' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'A framework and graphical development environment for robust NLP tools and applications.' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'Adaptivity, Adaptability, and Reading Behaviour: Some Results from the Evaluation of a Dynamic Hypertext System' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'Large-scale, parallel automatic patent annotation' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'NL domain explanations in knowledge based MAT' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'Multilingual adaptations of ANNIE, a reusable information extraction tool' which is a Conference proceedings paper
+Kalina Bontcheva has a publication titled 'Robust generic and query-based summarisation' which is a Conference proceedings paper

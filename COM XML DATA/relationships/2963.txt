@@ -1,0 +1,29 @@
+Georg Struth is associated with the COM department
+Georg Struth is an academic
+Georg Struth's title is Professor
+Georg Struth's primary group descriptor is COM
+Georg Struth has a publication titled 'On the word problem for free lattices' which is a Conference proceedings paper
+Georg Struth has a publication titled 'An Algebra of Resolution' which is a Conference proceedings paper
+Georg Struth has a publication titled 'Deriving Focused Lattice Calculi' which is a Conference proceedings paper
+Georg Struth has a publication titled 'Calculating Church-Rosser Proofs in Kleene Algebra' which is a Conference proceedings paper
+Georg Struth has a publication titled 'A Calculus for Set-Based Program Development' which is a Conference proceedings paper
+Georg Struth has a publication titled 'Kleene Modules' which is a Conference proceedings paper
+Georg Struth has a publication titled 'Greedy-Like Algorithms in Modal Kleene Algebra' which is a Conference proceedings paper
+Georg Struth has a publication titled 'Modal Kleene Algebra and Partial Correctness' which is a Conference proceedings paper
+Georg Struth has a publication titled 'Automated element-wise reasoning with sets' which is a Conference proceedings paper
+Georg Struth has a publication titled 'Termination in Modal Kleene Algebra' which is a Conference proceedings paper
+Georg Struth has a publication titled 'Abstract abstract reduction' which is a Journal article
+Georg Struth has a publication titled 'Algebras of modal operators and partial correctness' which is a Conference proceedings paper
+Georg Struth has a publication titled 'wp Is wlp' which is a Conference proceedings paper
+Georg Struth has a publication titled 'Knuth-Bendix Completion as a Data Structure' which is a Conference proceedings paper
+Georg Struth has a publication titled 'Constructing Rewrite-Based Decision Procedures for Embeddings and Termination' which is a Conference proceedings paper
+Georg Struth has a publication titled 'Quantales and Temporal Logics' which is a Conference proceedings paper
+Georg Struth has a publication titled 'Tableaux for Lattices' which is a Conference proceedings paper
+Georg Struth has a publication titled 'Kleene algebra with domain' which is a Journal article
+Georg Struth has a publication titled 'Automated Reasoning in Kleene Algebra' which is a Conference proceedings paper
+Georg Struth has a publication titled 'Relations and Kleene Algebras in Computer Science' which is a Journal article
+Georg Struth has a publication titled 'Modal Semirings Revisited' which is a Conference proceedings paper
+Georg Struth has a publication titled 'Domain Axioms for a Family of Near-Semirings' which is a Conference proceedings paper
+Georg Struth has a publication titled 'On Automating the Calculus of Relations' which is a Conference proceedings paper
+Georg Struth has a publication titled 'Automated verification of refinement laws' which is a Journal article
+Georg Struth has a publication titled 'Concurrent Kleene Algebra' which is a Conference proceedings paper

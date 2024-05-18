@@ -1,0 +1,5 @@
+Peng Yue is associated with the COM department
+Peng Yue is an academic
+Peng Yue's title is Mr
+Peng Yue's primary group descriptor is COM
+Peng Yue has a publication titled 'Wearable-sensor-based weakly supervised Parkinson’s disease assessment with data augmentation' which is a Journal article

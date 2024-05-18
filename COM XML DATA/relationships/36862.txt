@@ -1,0 +1,29 @@
+Andreas Feldmann is associated with the COM department
+Andreas Feldmann is an academic
+Andreas Feldmann's title is Dr
+Andreas Feldmann's primary group descriptor is COM
+Andreas Feldmann has a publication titled 'On sparse hitting sets: from fair vertex cover to highway dimension' which is a Conference proceedings paper
+Andreas Feldmann has a publication titled 'Generalized k-center: distinguishing doubling and highway dimension' which is a Conference proceedings paper
+Andreas Feldmann has a publication titled 'Parameterized inapproximability of independent set in H-free graphs' which is a Journal article
+Andreas Feldmann has a publication titled 'On extended formulations for parameterized Steiner trees' which is a Conference proceedings paper
+Andreas Feldmann has a publication titled 'Parameterized approximation algorithms for bidirected Steiner network problems' which is a Journal article
+Andreas Feldmann has a publication titled 'Efficient fully dynamic elimination forests with applications to detecting long paths and cycles' which is a Conference proceedings paper
+Andreas Feldmann has a publication titled 'A note on the approximability of deepest-descent circuit steps' which is a Journal article
+Andreas Feldmann has a publication titled 'Travelling on graphs with small highway dimension' which is a Journal article
+Andreas Feldmann has a publication titled 'Polynomial time approximation schemes for clustering in low highway dimension graphs' which is a Journal article
+Andreas Feldmann has a publication titled 'Parameterized approximation schemes for Steiner Trees with small number of Steiner vertices' which is a Journal article
+Andreas Feldmann has a publication titled 'Fixed-parameter tractability of the weighted edge clique partition problem' which is a Conference proceedings paper
+Andreas Feldmann has a publication titled 'Parameterized inapproximability of independent set in H-free graphs' which is a Conference proceedings paper
+Andreas Feldmann has a publication titled 'Polynomial time approximation schemes for clustering in low highway dimension graphs' which is a Conference proceedings paper
+Andreas Feldmann has a publication titled 'A survey on approximation in parameterized complexity: hardness and algorithms' which is a Journal article
+Andreas Feldmann has a publication titled 'Recoloring interval graphs with limited recourse budget' which is a Conference proceedings paper
+Andreas Feldmann has a publication titled 'Tight bounds for planar strongly connected steiner subgraph with fixed number of terminals (and extensions)' which is a Journal article
+Andreas Feldmann has a publication titled 'The parameterized hardness of the k-center problem in transportation networks' which is a Journal article
+Andreas Feldmann has a publication titled 'Near-linear time approximations schemes for clustering in doubling metrics' which is a Conference proceedings paper
+Andreas Feldmann has a publication titled 'FPT inapproximability of directed cut and connectivity problems' which is a Conference proceedings paper
+Andreas Feldmann has a publication titled 'Parameterized Approximation Schemes for Steiner Trees with Small Number of Steiner Vertices' which is a Preprint
+Andreas Feldmann has a publication titled 'A Tight Lower Bound for Planar Steiner Orientation' which is a Journal article
+Andreas Feldmann has a publication titled 'A Note on the Approximability of Deepest-Descent Circuit Steps' which is a Preprint
+Andreas Feldmann has a publication titled 'Fixed-parameter approximations for k-Center problems in low highway dimension graphs' which is a Journal article
+Andreas Feldmann has a publication titled 'Travelling on graphs with small highway dimension' which is a Conference proceedings paper
+Andreas Feldmann has a publication titled 'A (1+ε)-embedding of low highway dimension graphs into bounded treewidth graphs' which is a Journal article

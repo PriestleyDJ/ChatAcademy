@@ -1,0 +1,29 @@
+Stefan Goetze is associated with the COM department
+Stefan Goetze is an academic
+Stefan Goetze's title is Dr
+Stefan Goetze's primary group descriptor is COM
+Stefan Goetze has a publication titled 'Direction of arrival estimation based on the dual delay line approach for binaural hearing aid microphone arrays' which is a Conference proceedings paper
+Stefan Goetze has a publication titled 'Estimating room acoustic parameters for speech recognizer adaptation and combination in reverberant environments' which is a Conference proceedings paper
+Stefan Goetze has a publication titled 'System Identification for Multi-Channel Listening-Room Compensation Using an Acoustic Echo Canceller' which is a Conference proceedings paper
+Stefan Goetze has a publication titled 'Acoustic user interfaces for ambient-assisted living technologies' which is a Journal article
+Stefan Goetze has a publication titled 'Multi-Channel Speech Enhancement and Amplitude Modulation Analysis for Noise Robust Automatic Speech Recognition' which is a Journal article
+Stefan Goetze has a publication titled 'The Lower Saxony research network<i>design of environments for ageing</i>: towards interdisciplinary research on information and communication technologies in ageing societies' which is a Journal article
+Stefan Goetze has a publication titled 'Classifier architectures for acoustic scenes and events : implications for DNNs, TDNNs, and perceptual features from DCASE 2016' which is a Journal article
+Stefan Goetze has a publication titled 'Instrumental and perceptual evaluation of dereverberation techniques based on robust acoustic multichannel equalization' which is a Journal article
+Stefan Goetze has a publication titled 'Objective Quality Measures for Dereverberation Methods based on Room Impulse Response Equalization' which is a Conference proceedings paper
+Stefan Goetze has a publication titled 'Performance comparison of intrusive and non-intrusive instrumental quality measures for enhanced speech' which is a Conference proceedings paper
+Stefan Goetze has a publication titled 'Improving acoustic event detection by localization algorithms' which is a Conference proceedings paper
+Stefan Goetze has a publication titled 'Objective Methods to Asses Speech Signals Processed by Short-Term Spectral Attenuation' which is a Conference proceedings paper
+Stefan Goetze has a publication titled 'Predicting the quality of processed speech by combining modulation-based features and model trees' which is a Conference proceedings paper
+Stefan Goetze has a publication titled 'Spectrally and spatially informed noise suppression using beamforming and convolutive NMF' which is a Conference proceedings paper
+Stefan Goetze has a publication titled 'Reduction of non-stationary noise for a robotic living assistant using sparse non-negative matrix factorization' which is a Conference proceedings paper
+Stefan Goetze has a publication titled 'Perceptual and instrumental evaluation of the perceived level of reverberation' which is a Conference proceedings paper
+Stefan Goetze has a publication titled 'Combination of MVDR beamforming and single-channel spectral processing for enhancing noisy and reverberant speech' which is a Journal article
+Stefan Goetze has a publication titled 'Joint Dereverberation and Noise Reduction Using Beamforming and a Single-Channel Speech Enhancement Scheme' which is a Conference proceedings paper
+Stefan Goetze has a publication titled 'Late reverberant spectral variance estimation using acoustic channel equalization' which is a Conference proceedings paper
+Stefan Goetze has a publication titled 'Nutzbarkeit von modellierten Phonemfolgen zur Erkennung von unbekannten Wörtern in phonembasierten Spracherkennern' which is a Conference proceedings paper
+Stefan Goetze has a publication titled 'Estimating room acoustic parameters for speech recognizer adaptation and combination in reverberant environments' which is a Conference proceedings paper
+Stefan Goetze has a publication titled 'Quality assessment for listening-room compensation algorithms' which is a Conference proceedings paper
+Stefan Goetze has a publication titled 'Joint estimation of pitch and direction of arrival: improving robustness and accuracy for multi-speaker scenarios' which is a Journal article
+Stefan Goetze has a publication titled '2D audio-visual localization in home environments using a particle filter' which is a Conference proceedings paper
+Stefan Goetze has a publication titled 'Evaluation of joint position-pitch estimation algorithm for localising multiple speakers in adverse acoustical environments' which is a Conference proceedings paper

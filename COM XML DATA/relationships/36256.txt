@@ -1,0 +1,29 @@
+Maksim Zhukovskii is associated with the COM department
+Maksim Zhukovskii is an academic
+Maksim Zhukovskii's title is Dr
+Maksim Zhukovskii's primary group descriptor is COM
+Maksim Zhukovskii has a publication titled 'The distribution of the maximum number of common neighbors in the random graph' which is a Journal article
+Maksim Zhukovskii has a publication titled 'On Anti-stochastic Properties of Unlabeled Graphs' which is a Conference proceedings paper
+Maksim Zhukovskii has a publication titled 'EMSO(FO$^2$) 0-1 Law Fails for All Dense Random Graphs' which is a Journal article
+Maksim Zhukovskii has a publication titled 'γ-variable first-order logic of uniform attachment random graphs' which is a Journal article
+Maksim Zhukovskii has a publication titled 'Distribution of tree parameters by martingale approach' which is a Journal article
+Maksim Zhukovskii has a publication titled 'Large cycles in random generalized Johnson graphs' which is a Journal article
+Maksim Zhukovskii has a publication titled 'On the sizes of large subgraphs of the binomial random graph' which is a Journal article
+Maksim Zhukovskii has a publication titled 'Zero-One Laws for Existential First-Order Sentences of Bounded Quantifier Depth' which is a Journal article
+Maksim Zhukovskii has a publication titled 'Maximum induced forests in random graphs' which is a Journal article
+Maksim Zhukovskii has a publication titled 'On monotonicity of Ramanujan function for binomial random variables' which is a Journal article
+Maksim Zhukovskii has a publication titled 'MSO 0-1 law for recursive random trees' which is a Journal article
+Maksim Zhukovskii has a publication titled 'Maximum sparse induced subgraphs of the binomial random graph with given number of edges' which is a Journal article
+Maksim Zhukovskii has a publication titled 'Zero–one laws for <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll" id="d1e19" altimg="si6.gif"><mml:mi>k</mml:mi></mml:math>-variable first-order logic of sparse random graphs' which is a Journal article
+Maksim Zhukovskii has a publication titled 'On a Category of Cotangent Sums Related to the Nyman-Beurling Criterion for the Riemann Hypothesis' which is a Chapter
+Maksim Zhukovskii has a publication titled 'Existential monadic second order convergence law fails on sparse random graphs' which is a Journal article
+Maksim Zhukovskii has a publication titled 'Logical laws for short existential monadic second-order sentences about graphs' which is a Journal article
+Maksim Zhukovskii has a publication titled 'Maximum induced subgraphs of the binomial random graph' which is a Journal article
+Maksim Zhukovskii has a publication titled 'Existential monadic second order logic of undirected graphs: The Le Bars conjecture is false' which is a Journal article
+Maksim Zhukovskii has a publication titled 'Tight Bounds on the Asymptotic Descriptive Complexity of Subgraph Isomorphism' which is a Journal article
+Maksim Zhukovskii has a publication titled 'On the first-order complexity of induced subgraph isomorphism' which is a Journal article
+Maksim Zhukovskii has a publication titled 'Short Monadic Second Order Sentences about Sparse Random Graphs' which is a Journal article
+Maksim Zhukovskii has a publication titled 'The Descriptive Complexity of Subgraph Isomorphism Without Numerics' which is a Journal article
+Maksim Zhukovskii has a publication titled 'First order sentences about random graphs: Small number of alternations' which is a Journal article
+Maksim Zhukovskii has a publication titled 'Monadic second-order properties of very sparse random graphs' which is a Journal article
+Maksim Zhukovskii has a publication titled 'On the first-order complexity of induced subgraph isomorphism' which is a Conference proceedings paper

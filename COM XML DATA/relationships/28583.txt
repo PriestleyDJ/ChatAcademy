@@ -1,0 +1,29 @@
+Anton Ragni is associated with the COM department
+Anton Ragni is an academic
+Anton Ragni's title is Dr
+Anton Ragni's primary group descriptor is COM
+Anton Ragni has a publication titled 'Investigation of unsupervised adaptation of DNN acoustic models with filter bank input' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Exploiting future word contexts in neural network language models for speech recognition' which is a Journal article
+Anton Ragni has a publication titled 'Impact of ASR performance on free speaking language assessment' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Automatic speech recognition system development in the "wild"' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Active memory networks for language modeling' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Confidence estimation and deletion prediction using bidirectional recurrent neural networks' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Sequence teacher-student training of acoustic models for automatic free speaking language assessment' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Use of graphemic lexicons for spoken language assessment' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Future word contexts in neural network language models' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Improving interpretability and regularization in deep learning' which is a Journal article
+Anton Ragni has a publication titled 'Log-linear system combination using structured support vector machines' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Multi-language neural network language models' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Morph-to-word transduction for accurate and efficient automatic speech recognition and keyword search' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Recurrent neural network language models for keyword search' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Stimulated training for automatic speech recognition and keyword search in limited resource conditions' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Combining tandem and hybrid systems for improved speech recognition and keyword spotting on low resource languages' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Data augmentation for low resource languages' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Language independent and unsupervised acoustic models for speech recognition and keyword spotting' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Joint decoding of tandem and hybrid systems for improved keyword spotting on low resource languages' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Improving speech recognition and keyword search for low resource languages using web data' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'System combination with log-linear models' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Structured discriminative models using deep neural-network features' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Multilingual representations for low resource speech recognition and keyword search' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'Unicode-based graphemic systems for limited resource languages' which is a Conference proceedings paper
+Anton Ragni has a publication titled 'A language space representation for speech recognition' which is a Conference proceedings paper

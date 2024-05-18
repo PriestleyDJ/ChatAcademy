@@ -1,0 +1,30 @@
+Philip Green is associated with the COM department
+Philip Green is an academic
+Philip Green's title is Emeritus Prof
+Philip Green's primary group descriptor is COM
+Philip Green has a publication titled 'A real-time silent speech system for voice restoration after total laryngectomy' which is a Journal article
+Philip Green has a publication titled 'Integrating User-Centred Design in the Development of a Silent Speech Interface Based on Permanent Magnetic Articulography' which is a Conference proceedings paper
+Philip Green has a publication titled 'Intelligibility Assessment and Speech Recognizer Word Accuracy Rate Prediction for Dysarthric Speakers in a Factor Analysis Subspace' which is a Journal article
+Philip Green has a publication titled 'Automatic selection of speakers for improved acoustic modelling: recognition of disordered speech with sparse data' which is a Conference proceedings paper
+Philip Green has a publication titled 'A hearing-inspired approach for distant-microphone speech recognition in the presence of multiple sources' which is a Journal article
+Philip Green has a publication titled 'A voice-input voice-output communication aid for people with severe speech impairment ' which is a Journal article
+Philip Green has a publication titled 'Building personalised synthetic voices for individuals with severe speech impairment' which is a Journal article
+Philip Green has a publication titled 'Small-Vocabulary Speech Recognition Using a Silent Speech Interface Based on Magnetic Sensing' which is a Journal article
+Philip Green has a publication titled 'The PASCAL CHiME speech separation and recognition challenge' which is a Journal article
+Philip Green has a publication titled 'Combining Speech Fragment Decoding and Adaptive Noise Floor Modeling' which is a Journal article
+Philip Green has a publication titled 'Reconstructing the Voice of an Individual Following Laryngectomy' which is a Journal article
+Philip Green has a publication titled 'Building Personalized Synthetic Voices for Individuals with Dysarthria using the HTS Toolkit' which is a Chapter
+Philip Green has a publication titled 'Isolated word recognition of silent speech using magnetic implants and sensors' which is a Journal article
+Philip Green has a publication titled 'Modelling the prepausal lengthening effect for speech recognition: a dynamic Bayesian network approach' which is a Conference proceedings paper
+Philip Green has a publication titled 'A speech-controlled environmental control system for people with severe dysarthria' which is a Journal article
+Philip Green has a publication titled 'Exploiting correlogram structure for robust speech recognition with multiple speech sources
+' which is a Journal article
+Philip Green has a publication titled 'Mood state effects of chocolate' which is a Journal article
+Philip Green has a publication titled 'Robust automatic speech recognition with missing and unreliable acoustic data' which is a Journal article
+Philip Green has a publication titled 'Some solution to the missing feature problem in data classification, with application to noise robust ASR' which is a Conference proceedings paper
+Philip Green has a publication titled 'Computational auditory scene analysis: listening to several things at once' which is a Journal article
+Philip Green has a publication titled 'A User-centric Design of Permanent Magnetic Articulography based Assistive Speech Technology' which is a Conference proceedings paper
+Philip Green has a publication titled 'Adaptive speech recognition and dialogue management for users with speech disorders' which is a Conference proceedings paper
+Philip Green has a publication titled 'Analysis of phonetic similarity in a silent speech interface based on permanent magnetic articulography' which is a Conference proceedings paper
+Philip Green has a publication titled 'Combining in-domain and out-of-domain speech data for automatic recognition of disordered speech' which is a Conference proceedings paper
+Philip Green has a publication titled 'Dysarthria intelligibility assessment in a factor analysis total variability space' which is a Conference proceedings paper

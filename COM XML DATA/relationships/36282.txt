@@ -1,0 +1,25 @@
+Nina Pardal is associated with the COM department
+Nina Pardal is an academic
+Nina Pardal's title is Dr
+Nina Pardal's primary group descriptor is COM
+Nina Pardal has a publication titled 'An epistemic approach to model uncertainty in data-graphs' which is a Journal article
+Nina Pardal has a publication titled 'Unified foundations of team semantics via semirings' which is a Conference proceedings paper
+Nina Pardal has a publication titled 'Data-graph repairs: the preferred approach' which is a Conference proceedings paper
+Nina Pardal has a publication titled 'A logic-based framework for database repairs' which is a Preprint
+Nina Pardal has a publication titled 'Unified Foundations of Team Semantics via Semirings' which is a Preprint
+Nina Pardal has a publication titled '2-Nested Matrices: Towards Understanding the Structure of Circle Graphs' which is a Journal article
+Nina Pardal has a publication titled 'Forbidden induced subgraph characterization of circle graphs within split graphs' which is a Journal article
+Nina Pardal has a publication titled 'On the Complexity of Finding Set Repairs for Data-Graphs' which is a Journal article
+Nina Pardal has a publication titled 'On the proper interval completion problem within some chordal subclasses' which is a Preprint
+Nina Pardal has a publication titled 'Edge deletion to tree-like graph classes' which is a Preprint
+Nina Pardal has a publication titled 'Data-graph repairs: the preferred approach' which is a Preprint
+Nina Pardal has a publication titled 'An epistemic approach to model uncertainty in data-graphs' which is a Preprint
+Nina Pardal has a publication titled 'On the complexity of finding set repairs for data-graphs' which is a Preprint
+Nina Pardal has a publication titled 'Forbidden induced subgraph characterization of circle graphs within split graphs' which is a Preprint
+Nina Pardal has a publication titled '2-nested matrices: towards understanding the structure of circle graphs' which is a Preprint
+Nina Pardal has a publication titled 'On nested and 2-nested graphs: two subclasses of graphs between threshold and split graphs' which is a Preprint
+Nina Pardal has a publication titled 'Structural characterization of some problems on circle and interval
+  graphs' which is a Preprint
+Nina Pardal has a publication titled 'The Distributional Uncertainty of the SHAP score in Explainable Machine Learning' which is a Preprint
+Nina Pardal has a publication titled 'Edge deletion to tree-like graph classes' which is a Journal article
+Nina Pardal has a publication titled 'Computational Complexity of Preferred Subset Repairs on Data-Graphs' which is a Preprint
