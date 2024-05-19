@@ -1,0 +1,604 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11343"/>
+	<api:result>
+		<api:object category="publication" id="11343" last-affected-when="2023-11-26T02:24:36.07+00:00" last-modified-when="2023-11-26T02:24:36.07+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11343" created-when="2010-05-17T14:18:30.07+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2004-02-11</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="1421241" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1002/cfg.364" last-modified-when="2022-09-11T11:09:34.7+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>&lt;jats:p&gt;This paper presents an overview of computational biology approaches and surveys some of the natural computing models using, in both cases, a formal language-based approach.&lt;/jats:p&gt;</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="573" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/573"/>
+									</api:links>
+									<api:last-name>Gheorghe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Marian</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Marian</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Mitrana</api:last-name>
+									<api:initials>V</api:initials>
+									<api:first-names>Victor</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Victor</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1002/cfg.364</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1002/cfg.364"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1002/cfg.364"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1532-6268</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/986431"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1531-6912</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/986431"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Comparative and Functional Genomics</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>91</api:begin-page>
+								<api:end-page>94</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Hindawi Limited</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1002/cfg.364</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>23</api:day>
+								<api:month>8</api:month>
+								<api:year>2016</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>A Formal Language-Based Approach in Biology</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>5</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="164866" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-2942567941" last-modified-when="2023-11-22T00:51:24.42+00:00">
+					<api:citation-count>9</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>This paper presents an overview of computational biology approaches and surveys some of the natural computing models using, in both cases, a formal language-based approach. Copyright © 2004 John Wiley &amp; Sons, Ltd.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="573" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/573"/>
+									</api:links>
+									<api:last-name>Gheorghe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>M</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">22334050700</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Mitrana</api:last-name>
+									<api:initials>V</api:initials>
+									<api:first-names>V</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="ES">
+											<api:line type="organisation">Universitat Rovira i Virgili</api:line>
+											<api:line type="city">Tarragona</api:line>
+											<api:line type="country">Spain</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7003479109</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1002/cfg.364</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1002/cfg.364"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1002/cfg.364"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1531-6912</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/986431"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Comparative and Functional Genomics</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>91</api:begin-page>
+								<api:end-page>94</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>2</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>A formal language-based approach in biology</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Review</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>5</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="11343" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="18629037" last-modified-when="2022-11-22T21:13:09.803+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>This paper presents an overview of computational biology approaches and surveys some of the natural computing models using, in both cases, a formal language-based approach.</api:text>
+						</api:field>
+						<api:field name="acceptance-date" type="date" display-name="Date of acceptance">
+							<api:date>
+								<api:day>25</api:day>
+								<api:month>11</api:month>
+								<api:year>2003</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="573" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/573"/>
+									</api:links>
+									<api:last-name>Gheorghe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Marian</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Marian</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Department of Computer Science, University of Sheffield, Sheffield S1 4DP, UK. m.gheorghe@dcs.shef.ac.uk</api:line>
+										</api:address>
+									</api:addresses>
+									<api:email-address>m.gheorghe@dcs.shef.ac.uk</api:email-address>
+								</api:person>
+								<api:person>
+									<api:last-name>Mitrana</api:last-name>
+									<api:initials>V</api:initials>
+									<api:first-names>Victor</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Victor</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/18629037</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1002/cfg.364</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1002/cfg.364"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1002/cfg.364"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pmc">PMC2447320</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1531-6912</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/986431"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Comp Funct Genomics</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>Egypt</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>91</api:begin-page>
+								<api:end-page>94</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>S1531691204000129</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>17</api:day>
+								<api:month>6</api:month>
+								<api:year>2010</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>A formal language-based approach in biology.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>5</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="888737" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:18629037" last-modified-when="2023-11-21T19:18:25.563+00:00">
+					<api:citation-count>3</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>This paper presents an overview of computational biology approaches and surveys some of the natural computing models using, in both cases, a formal language-based approach.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Department of Computer Science, University of Sheffield, Sheffield S1 4DP, UK. m.gheorghe@dcs.shef.ac.uk</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="573" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/573"/>
+									</api:links>
+									<api:last-name>Gheorghe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Marian</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Marian</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Mitrana</api:last-name>
+									<api:initials>V</api:initials>
+									<api:first-names>Victor</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Victor</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1002/cfg.364</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1002/cfg.364"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1002/cfg.364"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1532-6268</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/986431"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">18629037</api:identifier>
+								<api:identifier scheme="pmc">PMC2447320</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>true</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1531-6912</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/986431"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Comparative and functional genomics</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print</api:text>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Open Access</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>91</api:begin-page>
+								<api:end-page>94</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>1</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher-licence" type="text" display-name="Publisher licence">
+							<api:text>CC BY</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>17</api:day>
+								<api:month>7</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>A formal language-based approach in biology.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>research-article</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>5</api:text>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://downloads.hindawi.com/journals/ijg/2004/702415.pdf">
+								<api:file-url>https://downloads.hindawi.com/journals/ijg/2004/702415.pdf</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+							<api:file proprietary-id="http://www.hindawi.com/GetPDF.aspx?doi=10.1002/cfg.364">
+								<api:file-url>http://www.hindawi.com/GetPDF.aspx?doi=10.1002/cfg.364</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+							<api:file proprietary-id="https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18629037/pdf/?tool=EBI">
+								<api:file-url>https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18629037/pdf/?tool=EBI</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+							<api:file proprietary-id="https://europepmc.org/articles/PMC2447320?pdf=render">
+								<api:file-url>https://europepmc.org/articles/PMC2447320?pdf=render</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2844333" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1007468480" last-modified-when="2023-11-26T02:24:36.073+00:00">
+					<api:citation-count>10</api:citation-count>
+					<api:native>
+						<api:field name="altmetric-attention-score" type="integer" display-name="Altmetric attention score">
+							<api:integer>3</api:integer>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="573" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/573"/>
+									</api:links>
+									<api:last-name>Gheorghe</api:last-name>
+									<api:initials>M</api:initials>
+									<api:first-names>Marian</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Marian</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.011355043215.85</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+								<api:person>
+									<api:last-name>Mitrana</api:last-name>
+									<api:initials>V</api:initials>
+									<api:first-names>Victor</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Victor</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="ES">
+											<api:line type="organisation">Rovira i Virgili University</api:line>
+											<api:line type="city">Tarragona</api:line>
+											<api:line type="country">Spain</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.016261316606.28</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1002/cfg.364</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1002/cfg.364"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1002/cfg.364"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">18629037</api:identifier>
+								<api:identifier scheme="pmc">PMC2447320</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>0.64</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1438-7506</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/998370"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>International Journal of Genomics</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">31 Biological Sciences</api:keyword>
+								<api:keyword scheme="for-2020">3105 Genetics</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>11</api:day>
+								<api:month>2</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Gold OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>91</api:begin-page>
+								<api:end-page>94</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Hindawi</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.08</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>A formal language‐based approach in biology</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>5</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">31 Biological Sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">3105 Genetics</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Microbiology</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">3105 Genetics</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="1531-6912" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/986431" title="Comparative and Functional Genomics">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Comparative and Functional Genomics</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11343/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

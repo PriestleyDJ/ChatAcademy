@@ -1,0 +1,899 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/7080"/>
+	<api:result>
+		<api:object category="publication" id="7080" last-affected-when="2023-12-25T01:06:37.29+00:00" last-modified-when="2023-12-25T01:06:37.29+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/7080" created-when="2010-05-17T14:01:18.183+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2005-09-20</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="4194378" source-id="28" source-name="eprints" source-display-name="White Rose Research Online" id-at-source="1084" last-modified-when="2022-12-28T13:07:02.077+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Background
+
+Regional differences in action potential duration (APD) restitution in the heart favour arrhythmias, but the mechanism is not well understood.
+
+Methods
+
+We simulated a 150 × 150 mm 2D sheet of cardiac ventricular tissue using a simplified computational model. We investigated wavebreak and re-entry initiated by an S1S2S3 stimulus protocol in tissue sheets with two regions, each with different APD restitution. The two regions had a different APD at short diastolic interval (DI), but similar APD at long DI. Simulations were performed twice; once with both regions having steep (slope &gt; 1), and once with both regions having flat (slope &lt; 1) APD restitution.
+
+Results
+
+Wavebreak and re-entry were readily initiated using the S1S2S3 protocol in tissue sheets with two regions having different APD restitution properties. Initiation occurred irrespective of whether the APD restitution slopes were steep or flat. With steep APD restitution, the range of S2S3 intervals resulting in wavebreak increased from 1 ms with S1S2 of 250 ms, to 75 ms (S1S2 180 ms). With flat APD restitution, the range of S2S3 intervals resulting in wavebreak increased from 1 ms (S1S2 250 ms), to 21 ms (S1S2 340 ms) and then 11 ms (S1S2 400 ms).
+
+Conclusion
+
+Regional differences in APD restitution are an arrhythmogenic substrate that can be concealed at normal heart rates. A premature stimulus produces regional differences in repolarisation, and a further premature stimulus can then result in wavebreak and initiate re-entry. This mechanism for initiating re-entry is independent of the steepness of the APD restitution curve.
+</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Taggart</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925X-4-54</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925X-4-54"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925X-4-54"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>54</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BioMedical Engineering OnLine</api:text>
+						</api:field>
+						<api:field name="notes" type="text" display-name="Other information">
+							<api:text>© 2005 Clayton and Taggart; licensee BioMed Central Ltd.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>20</api:day>
+								<api:month>9</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="public-url" type="text" display-name="Public URL">
+							<api:text>https://eprints.whiterose.ac.uk/id/eprint/1084</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://www.biomedical-engineering-online.com/content/4/1/54</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>5</api:day>
+								<api:month>8</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>15</api:day>
+								<api:month>3</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="repository-status" type="text" display-name="Availability">
+							<api:text>Public</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Regional differences in APD restitution can initiate wavebreak and re-entry in cardiac tissue: A computational study
+</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://eprints.whiterose.ac.uk/id/file/14356">
+								<api:filename>bmc_1475-925X-4-54.pdf</api:filename>
+								<api:file-url>https://eprints.whiterose.ac.uk/1084/1/bmc_1475-925X-4-54.pdf</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:file-size>1886736</api:file-size>
+								<api:mime-type>application/pdf</api:mime-type>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2449232" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1186/1475-925x-4-54" last-modified-when="2022-09-11T03:15:16.283+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;
+          &lt;jats:sec&gt;
+            &lt;jats:title&gt;Background&lt;/jats:title&gt;
+            &lt;jats:p&gt;Regional differences in action potential duration (APD) restitution in the heart favour arrhythmias, but the mechanism is not well understood.&lt;/jats:p&gt;
+          &lt;/jats:sec&gt;
+          &lt;jats:sec&gt;
+            &lt;jats:title&gt;Methods&lt;/jats:title&gt;
+            &lt;jats:p&gt;We simulated a 150 × 150 mm 2D sheet of cardiac ventricular tissue using a simplified computational model. We investigated wavebreak and re-entry initiated by an S1S2S3 stimulus protocol in tissue sheets with two regions, each with different APD restitution. The two regions had a different APD at short diastolic interval (DI), but similar APD at long DI. Simulations were performed twice; once with both regions having steep (slope &amp;gt; 1), and once with both regions having flat (slope &amp;lt; 1) APD restitution.&lt;/jats:p&gt;
+          &lt;/jats:sec&gt;
+          &lt;jats:sec&gt;
+            &lt;jats:title&gt;Results&lt;/jats:title&gt;
+            &lt;jats:p&gt;Wavebreak and re-entry were readily initiated using the S1S2S3 protocol in tissue sheets with two regions having different APD restitution properties. Initiation occurred irrespective of whether the APD restitution slopes were steep or flat. With steep APD restitution, the range of S2S3 intervals resulting in wavebreak increased from 1 ms with S1S2 of 250 ms, to 75 ms (S1S2 180 ms). With flat APD restitution, the range of S2S3 intervals resulting in wavebreak increased from 1 ms (S1S2 250 ms), to 21 ms (S1S2 340 ms) and then 11 ms (S1S2 400 ms).&lt;/jats:p&gt;
+          &lt;/jats:sec&gt;
+          &lt;jats:sec&gt;
+            &lt;jats:title&gt;Conclusion&lt;/jats:title&gt;
+            &lt;jats:p&gt;Regional differences in APD restitution are an arrhythmogenic substrate that can be concealed at normal heart rates. A premature stimulus produces regional differences in repolarisation, and a further premature stimulus can then result in wavebreak and initiate re-entry. This mechanism for initiating re-entry is independent of the steepness of the APD restitution curve.&lt;/jats:p&gt;
+          &lt;/jats:sec&gt;</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Taggart</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Peter</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Peter</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925x-4-54</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925x-4-54"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925x-4-54"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BioMedical Engineering OnLine</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="number" type="text" display-name="Article number">
+							<api:text>54</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>20</api:day>
+								<api:month>9</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>12</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Springer Science and Business Media LLC</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1186/1475-925x-4-54</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>9</api:month>
+								<api:year>2021</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Regional differences in APD restitution can initiate wavebreak and re-entry in cardiac tissue: A computational study</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="153597" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-26844524195" last-modified-when="2022-09-28T08:35:21.69+01:00">
+					<api:citation-count>46</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Background: Regional differences in action potential duration (APD) restitution in the heart favour arrhythmias, but the mechanism is not well understood. Methods: We simulated a 150 x 150 mm 2D sheet of cardiac ventricular tissue using a simplified computational model. We investigated wavebreak and re-entry initiated by an S1S2S3 stimulus protocol in tissue sheets with two regions, each with different APD restitution. The two regions had a different APD at short diastolic interval (DI), but similar APD at long DI. Simulations were performed twice; once with both regions having steep (slope&gt;1), and once with both regions having flat (slope&lt;1) APD restitution. Results: Wavebreak and re-entry were readily initiated using the S1S2S3 protocol in tissue sheets with two regions having different APD restitution properties. Initiation occurred irrespective of whether the APD restitution slopes were steep or flat. With steep APD restitution, the range of S2S3 intervals resulting in wavebreak increased from 1 ms with S1S2 of 250 ms, to 75 ms (S1S2 180 ms). With flat APD restitution, the range of S2S3 intervals resulting in wavebreak increased from 1 ms (S1S2 250 ms), to 21 ms (S1S2 340 ms) and then 11 ms (S1S2 400 ms). Conclusions: Regional differences in APD restitution are an arrhythmogenic substrate that can be concealed at normal heart rates. A premature stimulus produces regional differences in repolarisation, and a further premature stimulus can then result in wavebreak and initiate re-entry. This mechanism for initiating reentry is independent of the steepness of the APD restitution curve. © 2005 Clayton and Taggart, licensee BioMed Central Ltd.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">56243052600</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Taggart</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University College Hospital</api:line>
+											<api:line type="city">London</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7006677172</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925X-4-54</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925X-4-54"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925X-4-54"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">16174290</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BioMedical Engineering Online</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>20</api:day>
+								<api:month>9</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Regional differences in APD restitution can initiate wavebreak and re-entry in cardiac tissue: A computational study</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="7080" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="16174290" last-modified-when="2020-04-28T21:42:38.183+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>BACKGROUND: Regional differences in action potential duration (APD) restitution in the heart favour arrhythmias, but the mechanism is not well understood. METHODS: We simulated a 150 x 150 mm 2D sheet of cardiac ventricular tissue using a simplified computational model. We investigated wavebreak and re-entry initiated by an S1S2S3 stimulus protocol in tissue sheets with two regions, each with different APD restitution. The two regions had a different APD at short diastolic interval (DI), but similar APD at long DI. Simulations were performed twice; once with both regions having steep (slope &gt; 1), and once with both regions having flat (slope &lt; 1) APD restitution. RESULTS: Wavebreak and re-entry were readily initiated using the S1S2S3 protocol in tissue sheets with two regions having different APD restitution properties. Initiation occurred irrespective of whether the APD restitution slopes were steep or flat. With steep APD restitution, the range of S2S3 intervals resulting in wavebreak increased from 1 ms with S1S2 of 250 ms, to 75 ms (S1S2 180 ms). With flat APD restitution, the range of S2S3 intervals resulting in wavebreak increased from 1 ms (S1S2 250 ms), to 21 ms (S1S2 340 ms) and then 11 ms (S1S2 400 ms). CONCLUSION: Regional differences in APD restitution are an arrhythmogenic substrate that can be concealed at normal heart rates. A premature stimulus produces regional differences in repolarisation, and a further premature stimulus can then result in wavebreak and initiate re-entry. This mechanism for initiating re-entry is independent of the steepness of the APD restitution curve.</api:text>
+						</api:field>
+						<api:field name="acceptance-date" type="date" display-name="Date of acceptance">
+							<api:date>
+								<api:day>20</api:day>
+								<api:month>9</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Department of Computer Science, University of Sheffield, Regent Court, Sheffield S1 4DP, UK. r.h.clayton@sheffield.ac.uk</api:line>
+										</api:address>
+									</api:addresses>
+									<api:email-address>r.h.clayton@sheffield.ac.uk</api:email-address>
+								</api:person>
+								<api:person>
+									<api:last-name>Taggart</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Peter</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Peter</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/16174290</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925X-4-54</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925X-4-54"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925X-4-54"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pmc">PMC1261529</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Biomed Eng Online</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Action Potentials</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Arrhythmias, Cardiac</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Heart Conduction System</api:keyword>
+								<api:keyword scheme="mesh">Heart Rate</api:keyword>
+								<api:keyword scheme="mesh">Heart Ventricles</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Models, Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Models, Neurological</api:keyword>
+								<api:keyword scheme="mesh">Neural Conduction</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>England</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>54</api:begin-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>1475-925X-4-54</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>20</api:day>
+								<api:month>9</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published online</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>6</api:day>
+								<api:month>3</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Regional differences in APD restitution can initiate wavebreak and re-entry in cardiac tissue: a computational study.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="886048" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:16174290" last-modified-when="2023-11-21T19:08:26.017+00:00">
+					<api:citation-count>26</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>&lt;h4&gt;Background&lt;/h4&gt;Regional differences in action potential duration (APD) restitution in the heart favour arrhythmias, but the mechanism is not well understood.&lt;h4&gt;Methods&lt;/h4&gt;We simulated a 150 x 150 mm 2D sheet of cardiac ventricular tissue using a simplified computational model. We investigated wavebreak and re-entry initiated by an S1S2S3 stimulus protocol in tissue sheets with two regions, each with different APD restitution. The two regions had a different APD at short diastolic interval (DI), but similar APD at long DI. Simulations were performed twice; once with both regions having steep (slope &gt; 1), and once with both regions having flat (slope &lt; 1) APD restitution.&lt;h4&gt;Results&lt;/h4&gt;Wavebreak and re-entry were readily initiated using the S1S2S3 protocol in tissue sheets with two regions having different APD restitution properties. Initiation occurred irrespective of whether the APD restitution slopes were steep or flat. With steep APD restitution, the range of S2S3 intervals resulting in wavebreak increased from 1 ms with S1S2 of 250 ms, to 75 ms (S1S2 180 ms). With flat APD restitution, the range of S2S3 intervals resulting in wavebreak increased from 1 ms (S1S2 250 ms), to 21 ms (S1S2 340 ms) and then 11 ms (S1S2 400 ms).&lt;h4&gt;Conclusion&lt;/h4&gt;Regional differences in APD restitution are an arrhythmogenic substrate that can be concealed at normal heart rates. A premature stimulus produces regional differences in repolarisation, and a further premature stimulus can then result in wavebreak and initiate re-entry. This mechanism for initiating re-entry is independent of the steepness of the APD restitution curve.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Department of Computer Science, University of Sheffield, Regent Court, Sheffield S1 4DP, UK. r.h.clayton@sheffield.ac.uk</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-8438-7518</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Taggart</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Peter</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Peter</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925x-4-54</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925x-4-54"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925x-4-54"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">16174290</api:identifier>
+								<api:identifier scheme="pmc">PMC1261529</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>true</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Biomedical engineering online</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Heart Conduction System</api:keyword>
+								<api:keyword scheme="mesh">Heart Ventricles</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Action Potentials</api:keyword>
+								<api:keyword scheme="mesh">Heart Rate</api:keyword>
+								<api:keyword scheme="mesh">Neural Conduction</api:keyword>
+								<api:keyword scheme="mesh">Models, Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Models, Neurological</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Arrhythmias, Cardiac</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Electronic</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>20</api:day>
+								<api:month>9</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Open Access</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>54</api:begin-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>9</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher-licence" type="text" display-name="Publisher licence">
+							<api:text>CC BY</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>22</api:day>
+								<api:month>9</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Regional differences in APD restitution can initiate wavebreak and re-entry in cardiac tissue: a computational study.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>research-article</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://biomedical-engineering-online.biomedcentral.com/track/pdf/10.1186/1475-925X-4-54">
+								<api:file-url>https://biomedical-engineering-online.biomedcentral.com/track/pdf/10.1186/1475-925X-4-54</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+							<api:file proprietary-id="https://europepmc.org/articles/PMC1261529?pdf=render">
+								<api:file-url>https://europepmc.org/articles/PMC1261529?pdf=render</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2470594" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1028197920" last-modified-when="2023-12-25T01:06:37.293+00:00">
+					<api:citation-count>47</api:citation-count>
+					<api:native>
+						<api:field name="associated-identifiers" type="identifier-list" display-name="Associated Identifiers">
+							<api:identifiers>
+								<api:identifier scheme="dimensions-grant-id">grant.5142844</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01320006245.84</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+								<api:person>
+									<api:last-name>Taggart</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Peter</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Peter</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University College Hospital</api:line>
+											<api:line type="city">London</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0576773530.19</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925x-4-54</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925x-4-54"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925x-4-54"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">16174290</api:identifier>
+								<api:identifier scheme="pmc">PMC1261529</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>5.43</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BioMedical Engineering OnLine</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">40 Engineering</api:keyword>
+								<api:keyword scheme="for-2020">4003 Biomedical Engineering</api:keyword>
+								<api:keyword scheme="rcdc">Heart Disease</api:keyword>
+								<api:keyword scheme="rcdc">Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Action Potentials</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Arrhythmias, Cardiac</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Heart Conduction System</api:keyword>
+								<api:keyword scheme="mesh">Heart Rate</api:keyword>
+								<api:keyword scheme="mesh">Heart Ventricles</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Models, Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Models, Neurological</api:keyword>
+								<api:keyword scheme="mesh">Neural Conduction</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>20</api:day>
+								<api:month>9</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Gold OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>54</api:begin-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>12</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Springer Nature</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.89</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Regional differences in APD restitution can initiate wavebreak and re-entry in cardiac tissue: A computational study</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="3485774" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000497965600036" last-modified-when="2023-12-08T07:26:50.34+00:00">
+					<api:citation-count>39</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="researcherid">CAF-3400-2022</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Taggart</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Peter</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Peter</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000497965600036&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925X-4-54</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925X-4-54"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925X-4-54"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">VI5XU</api:identifier>
+								<api:identifier scheme="pubmed">16174290</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BIOMEDICAL ENGINEERING ONLINE</api:text>
+						</api:field>
+						<api:field name="number" type="text" display-name="Article number">
+							<api:text>ARTN 54</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Regional differences in APD restitution can initiate wavebreak and re-entry in cardiac tissue: A computational study</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Action Potentials</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Arrhythmias, Cardiac</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Heart Conduction System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Heart Rate</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Heart Ventricles</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Neurological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Neural Conduction</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Heart Conduction System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Heart Ventricles</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Action Potentials</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Heart Rate</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Neural Conduction</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Neurological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Arrhythmias, Cardiac</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">40 Engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">4003 Biomedical Engineering</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Heart Disease</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Action Potentials</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Arrhythmias, Cardiac</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Heart Conduction System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Heart Rate</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Heart Ventricles</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Neurological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Neural Conduction</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0903 Biomedical Engineering</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Biomedical Engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">4003 Biomedical engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">4601 Applied computing</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="1475-925X" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519" title="BioMedical Engineering Online">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>BioMedical Engineering Online</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/7080/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

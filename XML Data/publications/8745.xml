@@ -1,0 +1,1281 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/8745"/>
+	<api:result>
+		<api:object category="publication" id="8745" last-affected-when="2023-12-25T01:07:57.86+00:00" last-modified-when="2023-12-25T01:07:57.86+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/8745" created-when="2010-05-17T14:06:14.09+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2006-11-24</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="4194662" source-id="28" source-name="eprints" source-display-name="White Rose Research Online" id-at-source="1913" last-modified-when="2022-12-28T13:22:15.053+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>BACKGROUND
+
+We sought to compare uterine cervical electrical impedance spectroscopy measurements employing two probes of different sizes, and to employ a finite element model to predict and compare the fraction of electrical current derived from subepithelial stromal tissue.
+
+METHODS
+
+Cervical impedance was measured in 12 subjects during early pregnancy using 2 different sizes of the probes on each subject.
+
+RESULTS
+
+Mean cervical resistivity was significantly higher (5.4 vs. 2.8 Ωm; p &lt; 0.001) with the smaller probe in the frequency rage of 4–819 kHz. There was no difference in the short-term intra-observer variability between the two probes. The cervical impedance measurements derived in vivo followed the pattern predicted by the finite element model.
+
+CONCLUSION
+
+Inter-electrode distance on the probes for measuring cervical impedance influences the tissue resistivity values obtained. Determining the appropriate probe size is necessary when conducting clinical studies of resistivity of the cervix and other human tissues.
+
+</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11309" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11309"/>
+									</api:links>
+									<api:last-name>Gandhi</api:last-name>
+									<api:initials>SV</api:initials>
+									<api:first-names>SV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="826" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/826"/>
+									</api:links>
+									<api:last-name>Anumba</api:last-name>
+									<api:initials>DOC</api:initials>
+									<api:first-names>DOC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>O</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925X-5-62</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925X-5-62"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925X-5-62"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>62</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BioMedical Engineering OnLine</api:text>
+						</api:field>
+						<api:field name="notes" type="text" display-name="Other information">
+							<api:text>© 2006 Gandhi et al; licensee BioMed Central Ltd.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+
+   
+</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>24</api:day>
+								<api:month>11</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="public-url" type="text" display-name="Public URL">
+							<api:text>https://eprints.whiterose.ac.uk/id/eprint/1913</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>BioMed Central</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://www.biomedical-engineering-online.com/content/5/1/62</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>5</api:day>
+								<api:month>8</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>22</api:day>
+								<api:month>1</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="repository-status" type="text" display-name="Availability">
+							<api:text>Public</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Comparison of human uterine cervical electrical impedance measurements derived using two tetrapolar probes of different sizes</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>5</api:text>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://eprints.whiterose.ac.uk/id/file/25678">
+								<api:filename>gandhisv1.pdf</api:filename>
+								<api:file-url>https://eprints.whiterose.ac.uk/1913/1/gandhisv1.pdf</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:file-size>256089</api:file-size>
+								<api:mime-type>application/pdf</api:mime-type>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2449240" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1186/1475-925x-5-62" last-modified-when="2022-09-11T03:15:16.173+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>&lt;jats:title&gt;Abstract&lt;/jats:title&gt;
+          &lt;jats:sec&gt;
+            &lt;jats:title&gt;Background&lt;/jats:title&gt;
+            &lt;jats:p&gt;We sought to compare uterine cervical electrical impedance spectroscopy measurements employing two probes of different sizes, and to employ a finite element model to predict and compare the fraction of electrical current derived from subepithelial stromal tissue.&lt;/jats:p&gt;
+          &lt;/jats:sec&gt;
+          &lt;jats:sec&gt;
+            &lt;jats:title&gt;Methods&lt;/jats:title&gt;
+            &lt;jats:p&gt;Cervical impedance was measured in 12 subjects during early pregnancy using 2 different sizes of the probes on each subject.&lt;/jats:p&gt;
+          &lt;/jats:sec&gt;
+          &lt;jats:sec&gt;
+            &lt;jats:title&gt;Results&lt;/jats:title&gt;
+            &lt;jats:p&gt;Mean cervical resistivity was significantly higher (5.4 vs. 2.8 Ωm; p &amp;lt; 0.001) with the smaller probe in the frequency rage of 4–819 kHz. There was no difference in the short-term intra-observer variability between the two probes. The cervical impedance measurements derived &lt;jats:italic&gt;in vivo&lt;/jats:italic&gt; followed the pattern predicted by the finite element model.&lt;/jats:p&gt;
+          &lt;/jats:sec&gt;
+          &lt;jats:sec&gt;
+            &lt;jats:title&gt;Conclusion&lt;/jats:title&gt;
+            &lt;jats:p&gt;Inter-electrode distance on the probes for measuring cervical impedance influences the tissue resistivity values obtained. Determining the appropriate probe size is necessary when conducting clinical studies of resistivity of the cervix and other human tissues.&lt;/jats:p&gt;
+          &lt;/jats:sec&gt;</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11309" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11309"/>
+									</api:links>
+									<api:last-name>Gandhi</api:last-name>
+									<api:initials>SV</api:initials>
+									<api:first-names>Saurabh V</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Saurabh</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>Dawn C</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Dawn</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>Brian H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Brian</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="826" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/826"/>
+									</api:links>
+									<api:last-name>Anumba</api:last-name>
+									<api:initials>DOC</api:initials>
+									<api:first-names>Dilly OC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Dilly</api:first-name>
+										<api:first-name>O</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925x-5-62</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925x-5-62"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925x-5-62"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BioMedical Engineering OnLine</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="number" type="text" display-name="Article number">
+							<api:text>62</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>24</api:day>
+								<api:month>11</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>12</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Springer Science and Business Media LLC</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1186/1475-925x-5-62</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>9</api:month>
+								<api:year>2021</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Comparison of human uterine cervical electrical impedance measurements derived using two tetrapolar probes of different sizes</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>5</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="109702" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-33845445097" last-modified-when="2023-09-12T22:40:02.84+01:00">
+					<api:citation-count>14</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Background: We sought to compare uterine cervical electrical impedance spectroscopy measurements employing two probes of different sizes, and to employ a finite element model to predict and compare the fraction of electrical current derived from subepithelial stromal tissue. Methods: Cervical impedance was measured in 12 subjects during early pregnancy using 2 different sizes of the probes on each subject. Results: Mean cervical resistivity was significantly higher (5.4 vs. 2.8 Ωm; p &lt; 0.001) with the smaller probe in the frequency rage of 4-819 kHz. There was no difference in the short-term intra-observer variability between the two probes. The cervical impedance measurements derived in vivo followed the pattern predicted by the finite element model. Conclusion: Inter-electrode distance on the probes for measuring cervical impedance influences the tissue resistivity values obtained. Determining the appropriate probe size is necessary when conducting clinical studies of resistivity of the cervix and other human tissues. © 2006 Gandhi et al; licensee BioMed Central Ltd.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11309" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11309"/>
+									</api:links>
+									<api:last-name>Gandhi</api:last-name>
+									<api:initials>SV</api:initials>
+									<api:first-names>SV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">15077934800</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">35375472500</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7404161092</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="826" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/826"/>
+									</api:links>
+									<api:last-name>Anumba</api:last-name>
+									<api:initials>DOC</api:initials>
+									<api:first-names>DOC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>O</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">6602404022</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925X-5-62</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925X-5-62"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925X-5-62"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">17125510</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BioMedical Engineering Online</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>24</api:day>
+								<api:month>11</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Comparison of human uterine cervical electrical impedance measurements derived using two tetrapolar probes of different sizes</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>5</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="8745" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="17125510" last-modified-when="2020-04-28T21:55:45.68+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>BACKGROUND: We sought to compare uterine cervical electrical impedance spectroscopy measurements employing two probes of different sizes, and to employ a finite element model to predict and compare the fraction of electrical current derived from subepithelial stromal tissue. METHODS: Cervical impedance was measured in 12 subjects during early pregnancy using 2 different sizes of the probes on each subject. RESULTS: Mean cervical resistivity was significantly higher (5.4 vs. 2.8 Omegam; p &lt; 0.001) with the smaller probe in the frequency rage of 4-819 kHz. There was no difference in the short-term intra-observer variability between the two probes. The cervical impedance measurements derived in vivo followed the pattern predicted by the finite element model. CONCLUSION: Inter-electrode distance on the probes for measuring cervical impedance influences the tissue resistivity values obtained. Determining the appropriate probe size is necessary when conducting clinical studies of resistivity of the cervix and other human tissues.</api:text>
+						</api:field>
+						<api:field name="acceptance-date" type="date" display-name="Date of acceptance">
+							<api:date>
+								<api:day>24</api:day>
+								<api:month>11</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11309" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11309"/>
+									</api:links>
+									<api:last-name>Gandhi</api:last-name>
+									<api:initials>SV</api:initials>
+									<api:first-names>Saurabh V</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Saurabh</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Academic Unit of Reproductive and Developmental Medicine, University of Sheffield &amp; Sheffield Teaching Hospitals NHS Trust, Sheffield, UK. s.gandhi@sheffield.ac.uk &lt;s.gandhi@sheffield.ac.uk&gt;</api:line>
+										</api:address>
+									</api:addresses>
+									<api:email-address>s.gandhi@sheffield.ac.uk</api:email-address>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>Dawn C</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Dawn</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>Brian H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Brian</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="826" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/826"/>
+									</api:links>
+									<api:last-name>Anumba</api:last-name>
+									<api:initials>DOC</api:initials>
+									<api:first-names>Dilly OC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Dilly</api:first-name>
+										<api:first-name>O</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/17125510</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925X-5-62</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925X-5-62"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925X-5-62"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pmc">PMC1684260</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Biomed Eng Online</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Adolescent</api:keyword>
+								<api:keyword scheme="mesh">Adult</api:keyword>
+								<api:keyword scheme="mesh">Cervix Uteri</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Electric Impedance</api:keyword>
+								<api:keyword scheme="mesh">Electrodes</api:keyword>
+								<api:keyword scheme="mesh">Equipment Design</api:keyword>
+								<api:keyword scheme="mesh">Equipment Failure Analysis</api:keyword>
+								<api:keyword scheme="mesh">Female</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Plethysmography, Impedance</api:keyword>
+								<api:keyword scheme="mesh">Pregnancy</api:keyword>
+								<api:keyword scheme="mesh">Reproducibility of Results</api:keyword>
+								<api:keyword scheme="mesh">Sensitivity and Specificity</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>England</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>62</api:begin-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>1475-925X-5-62</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>24</api:day>
+								<api:month>11</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published online</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>12</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Comparison of human uterine cervical electrical impedance measurements derived using two tetrapolar probes of different sizes.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Clinical Trial</api:item>
+								<api:item>Comparative Study</api:item>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>5</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="887161" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:17125510" last-modified-when="2023-11-21T19:11:08.24+00:00">
+					<api:citation-count>8</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>&lt;h4&gt;Background&lt;/h4&gt;We sought to compare uterine cervical electrical impedance spectroscopy measurements employing two probes of different sizes, and to employ a finite element model to predict and compare the fraction of electrical current derived from subepithelial stromal tissue.&lt;h4&gt;Methods&lt;/h4&gt;Cervical impedance was measured in 12 subjects during early pregnancy using 2 different sizes of the probes on each subject.&lt;h4&gt;Results&lt;/h4&gt;Mean cervical resistivity was significantly higher (5.4 vs. 2.8 Omegam; p &lt; 0.001) with the smaller probe in the frequency rage of 4-819 kHz. There was no difference in the short-term intra-observer variability between the two probes. The cervical impedance measurements derived in vivo followed the pattern predicted by the finite element model.&lt;h4&gt;Conclusion&lt;/h4&gt;Inter-electrode distance on the probes for measuring cervical impedance influences the tissue resistivity values obtained. Determining the appropriate probe size is necessary when conducting clinical studies of resistivity of the cervix and other human tissues.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Academic Unit of Reproductive and Developmental Medicine, University of Sheffield &amp; Sheffield Teaching Hospitals NHS Trust, Sheffield, UK. s.gandhi@sheffield.ac.uk &lt;s.gandhi@sheffield.ac.uk&gt;</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11309" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11309"/>
+									</api:links>
+									<api:last-name>Gandhi</api:last-name>
+									<api:initials>SV</api:initials>
+									<api:first-names>Saurabh V</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Saurabh</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>Dawn C</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Dawn</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>Brian H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Brian</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="826" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/826"/>
+									</api:links>
+									<api:last-name>Anumba</api:last-name>
+									<api:initials>DOC</api:initials>
+									<api:first-names>Dilly OC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Dilly</api:first-name>
+										<api:first-name>O</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0003-2502-3033</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925x-5-62</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925x-5-62"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925x-5-62"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">17125510</api:identifier>
+								<api:identifier scheme="pmc">PMC1684260</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>true</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Biomedical engineering online</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Cervix Uteri</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Plethysmography, Impedance</api:keyword>
+								<api:keyword scheme="mesh">Sensitivity and Specificity</api:keyword>
+								<api:keyword scheme="mesh">Reproducibility of Results</api:keyword>
+								<api:keyword scheme="mesh">Equipment Design</api:keyword>
+								<api:keyword scheme="mesh">Equipment Failure Analysis</api:keyword>
+								<api:keyword scheme="mesh">Electrodes</api:keyword>
+								<api:keyword scheme="mesh">Electric Impedance</api:keyword>
+								<api:keyword scheme="mesh">Pregnancy</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Adolescent</api:keyword>
+								<api:keyword scheme="mesh">Adult</api:keyword>
+								<api:keyword scheme="mesh">Female</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Electronic</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>24</api:day>
+								<api:month>11</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Open Access</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>62</api:begin-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>11</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher-licence" type="text" display-name="Publisher licence">
+							<api:text>CC BY</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>11</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Comparison of human uterine cervical electrical impedance measurements derived using two tetrapolar probes of different sizes.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Comparative Study</api:item>
+								<api:item>Clinical Trial</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>research-article</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>5</api:text>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://biomedical-engineering-online.biomedcentral.com/counter/pdf/10.1186/1475-925X-5-62">
+								<api:file-url>https://biomedical-engineering-online.biomedcentral.com/counter/pdf/10.1186/1475-925X-5-62</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+							<api:file proprietary-id="https://europepmc.org/articles/PMC1684260?pdf=render">
+								<api:file-url>https://europepmc.org/articles/PMC1684260?pdf=render</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2471058" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1025802124" last-modified-when="2023-12-25T01:07:57.87+00:00">
+					<api:citation-count>15</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11309" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11309"/>
+									</api:links>
+									<api:last-name>Gandhi</api:last-name>
+									<api:initials>SV</api:initials>
+									<api:first-names>Saurabh V</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Saurabh</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Sheffield Teaching Hospitals NHS Foundation Trust</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01210567013.63</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>Dawn C</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Dawn</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.010613171652.14</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>Brian H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Brian</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.014007640532.87</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="826" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/826"/>
+									</api:links>
+									<api:last-name>Anumba</api:last-name>
+									<api:initials>DO</api:initials>
+									<api:first-names>Dilly OC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Dilly</api:first-name>
+										<api:first-name>OC</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Sheffield Teaching Hospitals NHS Foundation Trust</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.011673406327.96</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925x-5-62</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925x-5-62"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925x-5-62"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">17125510</api:identifier>
+								<api:identifier scheme="pmc">PMC1684260</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>3.72</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BioMedical Engineering OnLine</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">46 Information and Computing Sciences</api:keyword>
+								<api:keyword scheme="for-2020">40 Engineering</api:keyword>
+								<api:keyword scheme="for-2020">4601 Applied Computing</api:keyword>
+								<api:keyword scheme="for-2020">4003 Biomedical Engineering</api:keyword>
+								<api:keyword scheme="rcdc">Cancer</api:keyword>
+								<api:keyword scheme="rcdc">Cervical Cancer</api:keyword>
+								<api:keyword scheme="rcdc">Clinical Research</api:keyword>
+								<api:keyword scheme="rcdc">Bioengineering</api:keyword>
+								<api:keyword scheme="mesh">Adolescent</api:keyword>
+								<api:keyword scheme="mesh">Adult</api:keyword>
+								<api:keyword scheme="mesh">Cervix Uteri</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Electric Impedance</api:keyword>
+								<api:keyword scheme="mesh">Electrodes</api:keyword>
+								<api:keyword scheme="mesh">Equipment Design</api:keyword>
+								<api:keyword scheme="mesh">Equipment Failure Analysis</api:keyword>
+								<api:keyword scheme="mesh">Female</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Models, Biological</api:keyword>
+								<api:keyword scheme="mesh">Plethysmography, Impedance</api:keyword>
+								<api:keyword scheme="mesh">Pregnancy</api:keyword>
+								<api:keyword scheme="mesh">Reproducibility of Results</api:keyword>
+								<api:keyword scheme="mesh">Sensitivity and Specificity</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>24</api:day>
+								<api:month>11</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Gold OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>62</api:begin-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>12</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Springer Nature</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.35</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Comparison of human uterine cervical electrical impedance measurements derived using two tetrapolar probes of different sizes</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>5</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="254875" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000242687800001" last-modified-when="2023-12-08T08:59:24.83+00:00">
+					<api:citation-count>12</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11309" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11309"/>
+									</api:links>
+									<api:last-name>Gandhi</api:last-name>
+									<api:initials>SV</api:initials>
+									<api:first-names>Saurabh V</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Saurabh</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>Dawn C</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Dawn</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>Brian H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Brian</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="826" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/826"/>
+									</api:links>
+									<api:last-name>Anumba</api:last-name>
+									<api:initials>DOC</api:initials>
+									<api:first-names>Dilly OC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Dilly</api:first-name>
+										<api:first-name>O</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000242687800001&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925X-5-62</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925X-5-62"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925X-5-62"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">114TF</api:identifier>
+								<api:identifier scheme="pubmed">17125510</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BIOMEDICAL ENGINEERING ONLINE</api:text>
+						</api:field>
+						<api:field name="number" type="text" display-name="Article number">
+							<api:text>ARTN 62</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Comparison of human uterine cervical electrical impedance measurements derived using two tetrapolar probes of different sizes</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>5</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="41914" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000242687800001" last-modified-when="2014-07-25T12:04:42.543+01:00">
+					<api:citation-count>2</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="11309" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/11309"/>
+									</api:links>
+									<api:last-name>Gandhi</api:last-name>
+									<api:initials>SV</api:initials>
+									<api:first-names>SV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="717" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/717"/>
+									</api:links>
+									<api:last-name>Walker</api:last-name>
+									<api:initials>DC</api:initials>
+									<api:first-names>DC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="14925" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/14925"/>
+									</api:links>
+									<api:last-name>Brown</api:last-name>
+									<api:initials>BH</api:initials>
+									<api:first-names>BH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="826" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/826"/>
+									</api:links>
+									<api:last-name>Anumba</api:last-name>
+									<api:initials>DOC</api:initials>
+									<api:first-names>DOC</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>O</api:first-name>
+										<api:first-name>C</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925X-5-62</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925X-5-62"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925X-5-62"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BIOMED ENG ONLINE</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>TISSUE</api:keyword>
+								<api:keyword>EXPRESSION</api:keyword>
+								<api:keyword>JUNCTIONS</api:keyword>
+								<api:keyword>NEOPLASIA</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="number" type="text" display-name="Article number">
+							<api:text>62</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination/>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>24</api:day>
+								<api:month>11</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Comparison of human uterine cervical electrical impedance measurements derived using two tetrapolar probes of different sizes</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>5</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Adolescent</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Adult</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Cervix Uteri</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Electric Impedance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Electrodes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Equipment Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Equipment Failure Analysis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Female</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Plethysmography, Impedance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Pregnancy</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Reproducibility of Results</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Sensitivity and Specificity</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Cervix Uteri</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Plethysmography, Impedance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Sensitivity and Specificity</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Reproducibility of Results</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Equipment Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Equipment Failure Analysis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Electrodes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Electric Impedance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Pregnancy</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Adolescent</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Adult</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Female</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">46 Information and Computing Sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">40 Engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">4601 Applied Computing</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">4003 Biomedical Engineering</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Cancer</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Cervical Cancer</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Clinical Research</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Bioengineering</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Adolescent</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Adult</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Cervix Uteri</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Electric Impedance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Electrodes</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Equipment Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Equipment Failure Analysis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Female</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Biological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Plethysmography, Impedance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Pregnancy</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Reproducibility of Results</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Sensitivity and Specificity</api:keyword>
+					<api:keyword origin="record-data" source="wos">TISSUE</api:keyword>
+					<api:keyword origin="record-data" source="wos">EXPRESSION</api:keyword>
+					<api:keyword origin="record-data" source="wos">JUNCTIONS</api:keyword>
+					<api:keyword origin="record-data" source="wos">NEOPLASIA</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0903 Biomedical Engineering</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Biomedical Engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">4003 Biomedical engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">4601 Applied computing</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="1475-925X" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519" title="BioMedical Engineering Online">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>BioMedical Engineering Online</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/8745/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

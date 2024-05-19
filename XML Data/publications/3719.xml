@@ -1,0 +1,1193 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/3719"/>
+	<api:result>
+		<api:object category="publication" id="3719" last-affected-when="2023-12-21T17:08:50.133+00:00" last-modified-when="2023-12-21T17:08:50.133+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/3719" created-when="2010-05-17T13:52:14.21+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2003-02-12</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="1344987" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1021/ci0255937" last-modified-when="2023-03-26T10:52:43.74+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1039" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1039"/>
+									</api:links>
+									<api:last-name>Barker</api:last-name>
+									<api:initials>EJ</api:initials>
+									<api:first-names>Edward J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Edward</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="4174" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/4174"/>
+									</api:links>
+									<api:last-name>Gardiner</api:last-name>
+									<api:initials>EJ</api:initials>
+									<api:first-names>Eleanor J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Eleanor</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1261" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1261"/>
+									</api:links>
+									<api:last-name>Gillet</api:last-name>
+									<api:initials>VJ</api:initials>
+									<api:first-names>Valerie J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Valerie</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Kitts</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Paula</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Paula</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Morris</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>Jeff</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Jeff</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1021/ci0255937</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1021/ci0255937"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1021/ci0255937"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1520-5142</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974915"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0095-2338</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974915"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of Chemical Information and Computer Sciences</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>12</api:day>
+								<api:month>2</api:month>
+								<api:year>2003</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>346</api:begin-page>
+								<api:end-page>356</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>3</api:month>
+								<api:year>2003</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>American Chemical Society (ACS)</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1021/ci0255937</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>15</api:day>
+								<api:month>3</api:month>
+								<api:year>2023</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Further Development of Reduced Graphs for Identifying Bioactive Compounds</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>43</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="160217" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-0037365143" last-modified-when="2023-04-12T04:33:24.583+01:00">
+					<api:citation-count>59</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Reduced graphs provide summary representations of chemical structures. Here, a variety of different types of reduced graphs are compared in similarity searches. The reduced graphs are found to give comparable performance to Daylight fingerprints in terms of the number of active compounds retrieved. However, no one type of reduced graph is found to be consistently superior across a variety of different data sets. Consequently, a representative set of reduced graphs was chosen and used together with Daylight fingerprints in data fusion experiments. The results show improved performance in 10 out of 11 data sets compared to using Daylight fingerprints alone. Finally, the potential of using reduced graphs to build SAR models is demonstrated using recursive partitioning. An SAR model consistent with a published model is found following just two splits in the decision tree.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1039" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1039"/>
+									</api:links>
+									<api:last-name>Barker</api:last-name>
+									<api:initials>EJ</api:initials>
+									<api:first-names>EJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>E</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7103411269</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="4174" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/4174"/>
+									</api:links>
+									<api:last-name>Gardiner</api:last-name>
+									<api:initials>EJ</api:initials>
+									<api:first-names>EJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>E</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7005444700</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1261" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1261"/>
+									</api:links>
+									<api:last-name>Gillet</api:last-name>
+									<api:initials>VJ</api:initials>
+									<api:first-names>VJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>V</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7004084776</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Kitts</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">AstraZeneca</api:line>
+											<api:line type="city">Cambridge</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">36845373400</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Morris</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">AstraZeneca</api:line>
+											<api:line type="city">Cambridge</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">15079918600</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1021/ci0255937</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1021/ci0255937"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1021/ci0255937"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">12653496</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0095-2338</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974915"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of Chemical Information and Computer Sciences</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>346</api:begin-page>
+								<api:end-page>356</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>3</api:month>
+								<api:year>2003</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Further development of reduced graphs for identifying bioactive compounds</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Conference Proceeding</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>43</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="3719" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="12653496" last-modified-when="2022-11-23T00:47:10.657+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Reduced graphs provide summary representations of chemical structures. Here, a variety of different types of reduced graphs are compared in similarity searches. The reduced graphs are found to give comparable performance to Daylight fingerprints in terms of the number of active compounds retrieved. However, no one type of reduced graph is found to be consistently superior across a variety of different data sets. Consequently, a representative set of reduced graphs was chosen and used together with Daylight fingerprints in data fusion experiments. The results show improved performance in 10 out of 11 data sets compared to using Daylight fingerprints alone. Finally, the potential of using reduced graphs to build SAR models is demonstrated using recursive partitioning. An SAR model consistent with a published model is found following just two splits in the decision tree.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1039" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1039"/>
+									</api:links>
+									<api:last-name>Barker</api:last-name>
+									<api:initials>EJ</api:initials>
+									<api:first-names>Edward J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Edward</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Department of Information Studies and Krebs Institute for Biomolecular Research, University of Sheffield, Western Bank, Sheffield S10 2TN, United Kingdom.</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="4174" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/4174"/>
+									</api:links>
+									<api:last-name>Gardiner</api:last-name>
+									<api:initials>EJ</api:initials>
+									<api:first-names>Eleanor J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Eleanor</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1261" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1261"/>
+									</api:links>
+									<api:last-name>Gillet</api:last-name>
+									<api:initials>VJ</api:initials>
+									<api:first-names>Valerie J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Valerie</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Kitts</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Paula</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Paula</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Morris</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>Jeff</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Jeff</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/12653496</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1021/ci0255937</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1021/ci0255937"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1021/ci0255937"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0095-2338</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974915"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>J Chem Inf Comput Sci</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Data Display</api:keyword>
+								<api:keyword scheme="mesh">Drug Design</api:keyword>
+								<api:keyword scheme="mesh">Information Management</api:keyword>
+								<api:keyword scheme="mesh">Molecular Structure</api:keyword>
+								<api:keyword scheme="mesh">Pharmaceutical Preparations</api:keyword>
+								<api:keyword scheme="mesh">Pharmacology</api:keyword>
+								<api:keyword scheme="mesh">Structure-Activity Relationship</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>United States</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>346</api:begin-page>
+								<api:end-page>356</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2003</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>26</api:day>
+								<api:month>6</api:month>
+								<api:year>2003</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Further development of reduced graphs for identifying bioactive compounds.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>43</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="883918" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:12653496" last-modified-when="2023-01-31T17:52:40.923+00:00">
+					<api:citation-count>13</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Reduced graphs provide summary representations of chemical structures. Here, a variety of different types of reduced graphs are compared in similarity searches. The reduced graphs are found to give comparable performance to Daylight fingerprints in terms of the number of active compounds retrieved. However, no one type of reduced graph is found to be consistently superior across a variety of different data sets. Consequently, a representative set of reduced graphs was chosen and used together with Daylight fingerprints in data fusion experiments. The results show improved performance in 10 out of 11 data sets compared to using Daylight fingerprints alone. Finally, the potential of using reduced graphs to build SAR models is demonstrated using recursive partitioning. An SAR model consistent with a published model is found following just two splits in the decision tree.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Department of Information Studies and Krebs Institute for Biomolecular Research, University of Sheffield, Western Bank, Sheffield S10 2TN, United Kingdom.</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1039" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1039"/>
+									</api:links>
+									<api:last-name>Barker</api:last-name>
+									<api:initials>EJ</api:initials>
+									<api:first-names>Edward J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Edward</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="4174" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/4174"/>
+									</api:links>
+									<api:last-name>Gardiner</api:last-name>
+									<api:initials>EJ</api:initials>
+									<api:first-names>Eleanor J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Eleanor</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1261" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1261"/>
+									</api:links>
+									<api:last-name>Gillet</api:last-name>
+									<api:initials>VJ</api:initials>
+									<api:first-names>Valerie J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Valerie</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-8403-3111</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Kitts</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Paula</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Paula</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Morris</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>Jeff</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Jeff</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1021/ci0255937</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1021/ci0255937"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1021/ci0255937"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">12653496</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0095-2338</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974915"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of chemical information and computer sciences</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Pharmaceutical Preparations</api:keyword>
+								<api:keyword scheme="mesh">Data Display</api:keyword>
+								<api:keyword scheme="mesh">Pharmacology</api:keyword>
+								<api:keyword scheme="mesh">Molecular Structure</api:keyword>
+								<api:keyword scheme="mesh">Structure-Activity Relationship</api:keyword>
+								<api:keyword scheme="mesh">Drug Design</api:keyword>
+								<api:keyword scheme="mesh">Information Management</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>346</api:begin-page>
+								<api:end-page>356</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>3</api:month>
+								<api:year>2003</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>25</api:day>
+								<api:month>3</api:month>
+								<api:year>2003</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Further development of reduced graphs for identifying bioactive compounds.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>43</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2554107" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1055401467" last-modified-when="2023-12-21T17:08:50.14+00:00">
+					<api:citation-count>51</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1039" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1039"/>
+									</api:links>
+									<api:last-name>Barker</api:last-name>
+									<api:initials>EJ</api:initials>
+									<api:first-names>Edward J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Edward</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">AstraZeneca (United Kingdom)</api:line>
+											<api:line type="city">Cambridge</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0741564774.99</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="4174" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/4174"/>
+									</api:links>
+									<api:last-name>Gardiner</api:last-name>
+									<api:initials>EJ</api:initials>
+									<api:first-names>Eleanor J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Eleanor</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">AstraZeneca (United Kingdom)</api:line>
+											<api:line type="city">Cambridge</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.013437605724.01</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1261" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1261"/>
+									</api:links>
+									<api:last-name>Gillet</api:last-name>
+									<api:initials>VJ</api:initials>
+									<api:first-names>Valerie J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Valerie</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">AstraZeneca (United Kingdom)</api:line>
+											<api:line type="city">Cambridge</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.013075744374.17</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+								<api:person>
+									<api:last-name>Kitts</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Paula</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Paula</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">AstraZeneca (United Kingdom)</api:line>
+											<api:line type="city">Cambridge</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01124126574.18</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Morris</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>Jeff</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Jeff</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">AstraZeneca (United Kingdom)</api:line>
+											<api:line type="city">Cambridge</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01172241774.71</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1021/ci0255937</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1021/ci0255937"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1021/ci0255937"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">12653496</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>4.4</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1549-9596</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974915"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of Chemical Information and Modeling</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">3404 Medicinal and Biomolecular Chemistry</api:keyword>
+								<api:keyword scheme="for-2020">34 Chemical Sciences</api:keyword>
+								<api:keyword scheme="mesh">Data Display</api:keyword>
+								<api:keyword scheme="mesh">Drug Design</api:keyword>
+								<api:keyword scheme="mesh">Information Management</api:keyword>
+								<api:keyword scheme="mesh">Molecular Structure</api:keyword>
+								<api:keyword scheme="mesh">Pharmaceutical Preparations</api:keyword>
+								<api:keyword scheme="mesh">Pharmacology</api:keyword>
+								<api:keyword scheme="mesh">Structure-Activity Relationship</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>12</api:day>
+								<api:month>2</api:month>
+								<api:year>2003</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Closed Access</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>346</api:begin-page>
+								<api:end-page>356</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>3</api:month>
+								<api:year>2003</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>American Chemical Society (ACS)</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>1.29</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Further Development of Reduced Graphs for Identifying Bioactive Compounds</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>43</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="246638" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000181889200003" last-modified-when="2023-12-08T08:08:12.863+00:00">
+					<api:citation-count>50</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1039" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1039"/>
+									</api:links>
+									<api:last-name>Barker</api:last-name>
+									<api:initials>EJ</api:initials>
+									<api:first-names>EJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>E</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="4174" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/4174"/>
+									</api:links>
+									<api:last-name>Gardiner</api:last-name>
+									<api:initials>EJ</api:initials>
+									<api:first-names>EJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>E</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1261" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1261"/>
+									</api:links>
+									<api:last-name>Gillet</api:last-name>
+									<api:initials>VJ</api:initials>
+									<api:first-names>VJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>V</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Kitts</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Morris</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000181889200003&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1021/ci0255937</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1021/ci0255937"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1021/ci0255937"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">661KF</api:identifier>
+								<api:identifier scheme="pubmed">12653496</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0095-2338</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974915"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>JOURNAL OF CHEMICAL INFORMATION AND COMPUTER SCIENCES</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>346</api:begin-page>
+								<api:end-page>356</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2003</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Further development of reduced graphs for identifying bioactive compounds</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+								<api:item>Proceedings Paper</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>43</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="31102" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000181889200003" last-modified-when="2014-07-29T02:03:12.377+01:00">
+					<api:citation-count>26</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1039" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1039"/>
+									</api:links>
+									<api:last-name>Barker</api:last-name>
+									<api:initials>EJ</api:initials>
+									<api:first-names>EJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>E</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="4174" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/4174"/>
+									</api:links>
+									<api:last-name>Gardiner</api:last-name>
+									<api:initials>EJ</api:initials>
+									<api:first-names>EJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>E</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1261" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1261"/>
+									</api:links>
+									<api:last-name>Gillet</api:last-name>
+									<api:initials>VJ</api:initials>
+									<api:first-names>VJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>V</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Kitts</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>P</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>P</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Morris</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1021/ci0255937</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1021/ci0255937"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1021/ci0255937"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0095-2338</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974915"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>JOURNAL OF CHEMICAL INFORMATION AND COMPUTER SCIENCES</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>3-DIMENSIONAL CHEMICAL STRUCTURES</api:keyword>
+								<api:keyword>II RECEPTOR ANTAGONISTS</api:keyword>
+								<api:keyword>DATA FUSION</api:keyword>
+								<api:keyword>DESCRIPTORS</api:keyword>
+								<api:keyword>SIMILARITY</api:keyword>
+								<api:keyword>CLASSIFICATION</api:keyword>
+								<api:keyword>FINGERPRINTS</api:keyword>
+								<api:keyword>COEFFICIENTS</api:keyword>
+								<api:keyword>COMBINATION</api:keyword>
+								<api:keyword>DATABASES</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>346</api:begin-page>
+								<api:end-page>356</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>3</api:month>
+								<api:year>2003</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Further development of reduced graphs for identifying bioactive compounds</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>43</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="520367" source-id="6" source-name="dblp" source-display-name="DBLP" id-at-source="journals/jcisd/BarkerGGKM03" last-modified-when="2021-09-14T21:14:35.11+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1039" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1039"/>
+									</api:links>
+									<api:last-name>Barker</api:last-name>
+									<api:initials>EJ</api:initials>
+									<api:first-names>Edward J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Edward</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="4174" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/4174"/>
+									</api:links>
+									<api:last-name>Gardiner</api:last-name>
+									<api:initials>EJ</api:initials>
+									<api:first-names>Eleanor J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Eleanor</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1261" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1261"/>
+									</api:links>
+									<api:last-name>Gillet</api:last-name>
+									<api:initials>VJ</api:initials>
+									<api:first-names>Valerie J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Valerie</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Kitts</api:last-name>
+									<api:initials>P</api:initials>
+									<api:first-names>Paula</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Paula</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Morris</api:last-name>
+									<api:initials>J</api:initials>
+									<api:first-names>Jeff</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Jeff</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1021/ci0255937</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1021/ci0255937"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1021/ci0255937"/>
+							</api:links>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>J. Chem. Inf. Comput. Sci.</api:text>
+						</api:field>
+						<api:field name="number" type="text" display-name="Article number">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>346</api:begin-page>
+								<api:end-page>356</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2003</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Further Development of Reduced Graphs for Identifying Bioactive Compounds.</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>43</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Data Display</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Drug Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Information Management</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Molecular Structure</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Pharmaceutical Preparations</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Pharmacology</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Structure-Activity Relationship</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Pharmaceutical Preparations</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Data Display</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Pharmacology</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Molecular Structure</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Structure-Activity Relationship</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Drug Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Information Management</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">3404 Medicinal and Biomolecular Chemistry</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">34 Chemical Sciences</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Data Display</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Drug Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Information Management</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Molecular Structure</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Pharmaceutical Preparations</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Pharmacology</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Structure-Activity Relationship</api:keyword>
+					<api:keyword origin="record-data" source="wos">3-DIMENSIONAL CHEMICAL STRUCTURES</api:keyword>
+					<api:keyword origin="record-data" source="wos">II RECEPTOR ANTAGONISTS</api:keyword>
+					<api:keyword origin="record-data" source="wos">DATA FUSION</api:keyword>
+					<api:keyword origin="record-data" source="wos">DESCRIPTORS</api:keyword>
+					<api:keyword origin="record-data" source="wos">SIMILARITY</api:keyword>
+					<api:keyword origin="record-data" source="wos">CLASSIFICATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">FINGERPRINTS</api:keyword>
+					<api:keyword origin="record-data" source="wos">COEFFICIENTS</api:keyword>
+					<api:keyword origin="record-data" source="wos">COMBINATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">DATABASES</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0304 Medicinal and Biomolecular Chemistry</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0307 Theoretical and Computational Chemistry</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0802 Computation Theory and Mathematics</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Medicinal &amp; Biomolecular Chemistry</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">3404 Medicinal and biomolecular chemistry</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">3407 Theoretical and computational chemistry</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="1549-9596" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/974915" title="Journal of Chemical Information and Modeling">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Journal of Chemical Information and Modeling</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/3719/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

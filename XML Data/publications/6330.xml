@@ -1,0 +1,895 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/6330"/>
+	<api:result>
+		<api:object category="publication" id="6330" last-affected-when="2023-12-25T01:06:37.57+00:00" last-modified-when="2023-12-25T01:06:37.57+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/6330" created-when="2010-05-17T13:58:42.663+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2005-02-18</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="4194350" source-id="28" source-name="eprints" source-display-name="White Rose Research Online" id-at-source="931" last-modified-when="2022-12-28T13:05:55.957+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>BACKGROUND: 
+The initiation of re-entrant cardiac arrhythmias is associated with increased dispersion of repolarisation, but the details are difficult to investigate either experimentally or clinically. We used a computational model of cardiac tissue to study systematically the association between action potential duration (APD) dispersion and susceptibility to re-entry.
+
+
+METHODS: 
+We simulated a 60 × 60 mm 2 D sheet of cardiac ventricular tissue using the Luo-Rudy phase 1 model, with maximal conductance of the K+ channel gKmax set to 0.004 mS mm-2. Within the central 40 × 40 mm region we introduced square regions with prolonged APD by reducing gKmax to between 0.001 and 0.003 mS mm-2. We varied (i) the spatial scale of these regions, (ii) the magnitude of gKmax in these regions, and (iii) cell-to-cell coupling.
+
+RESULTS: 
+Changing spatial scale from 5 to 20 mm increased APD dispersion from 49 to 102 ms, and the susceptible window from 31 to 86 ms. Decreasing gKmax in regions with prolonged APD from 0.003 to 0.001 mS mm-2 increased APD dispersion from 22 to 70 ms, and the susceptible window from &lt;1 to 56 ms. Decreasing cell-to-cell coupling by changing the diffusion coefficient from 0.2 to 0.05 mm2 ms-1 increased APD dispersion from 57 to 88 ms, and increased the susceptible window from 41 to 74 ms.
+
+
+CONCLUSION: 
+We found a close association between increased APD dispersion and susceptibility to re-entrant arrhythmias, when APD dispersion is increased by larger spatial scale of heterogeneity, greater electrophysiological heterogeneity, and weaker cell-to-cell coupling.
+</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>AV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925X-4-11</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925X-4-11"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925X-4-11"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>11</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Biomedical Engineering Online</api:text>
+						</api:field>
+						<api:field name="notes" type="text" display-name="Other information">
+							<api:text>© 2005 Clayton and Holden; licensee BioMed Central Ltd.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. </api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>18</api:day>
+								<api:month>2</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="public-url" type="text" display-name="Public URL">
+							<api:text>https://eprints.whiterose.ac.uk/id/eprint/931</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://www.biomedical-engineering-online.com/content/4/1/11</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>5</api:day>
+								<api:month>8</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>14</api:day>
+								<api:month>3</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="repository-status" type="text" display-name="Availability">
+							<api:text>Public</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Dispersion of cardiac action potential duration and the initiation of re-entry: A computational study
+</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://eprints.whiterose.ac.uk/id/file/12418">
+								<api:filename>holdenav1.pdf</api:filename>
+								<api:file-url>https://eprints.whiterose.ac.uk/931/1/holdenav1.pdf</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:file-size>2583871</api:file-size>
+								<api:mime-type>application/pdf</api:mime-type>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2468051" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1186/1475-925x-4-11" last-modified-when="2022-09-11T03:54:09.213+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>Arun V</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Arun</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925x-4-11</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925x-4-11"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925x-4-11"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BioMedical Engineering OnLine</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="number" type="text" display-name="Article number">
+							<api:text>11</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>18</api:day>
+								<api:month>2</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>12</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Springer Science and Business Media LLC</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1186/1475-925x-4-11</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>3</api:day>
+								<api:month>9</api:month>
+								<api:year>2020</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Dispersion of cardiac action potential duration and the initiation of re-entry: A computational study</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="153604" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-26844535363" last-modified-when="2023-07-04T23:10:55.613+01:00">
+					<api:citation-count>38</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Background: The initiation of re-entrant cardiac arrhythmias is associated with increased dispersion of repolarisation, but the details are difficult to investigate either experimentally or clinically. We used a computational model of cardiac tissue to study systematically the association between action potential duration (APD) dispersion and susceptibility to re-entry. Methods: We simulated a 60 x 60 mm 2 D sheet of cardiac ventricular tissue using the Luo-Rudy phase 1 model, with maximal conductance of the K+ channel gKmax set to 0.004 mS mm-2. Within the central 40 x 40 mm region we introduced square regions with prolonged APD by reducing gKmax to between 0.001 and 0.003 mS mm-2. We varied (i) the spatial scale of these regions, (ii) the magnitude of gKmax in these regions, and (iii) cell-to-cell coupling. Results: Changing spatial scale from 5 to 20 mm increased APD dispersion from 49 to 102 ms, and the susceptible window from 31 to 86 ms. Decreasing gKmax in regions with prolonged APD from 0.003 to 0.001 mS mm-2 increased APD dispersion from 22 to 70 ms, and the susceptible window from &lt;1 to 56 ms. Decreasing cell-to-cell coupling by changing the diffusion coefficient from 0.2 to 0.05 mm2 ms-1 increased APD dispersion from 57 to 88 ms, and increased the susceptible window from 41 to 74 ms. Conclusion: We found a close association between increased APD dispersion and susceptibility to re-entrant arrhythmias, when APD dispersion is increased by larger spatial scale of heterogeneity, greater electrophysiological heterogeneity, and weaker cell-to-cell coupling. © 2005 Clayton and Holden; licensee BioMed Central Ltd.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>RH</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">56243052600</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>AV</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>A</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Leeds</api:line>
+											<api:line type="city">Leeds</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7103148727</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925X-4-11</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925X-4-11"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925X-4-11"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15720712</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BioMedical Engineering Online</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>18</api:day>
+								<api:month>2</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Dispersion of cardiac action potential duration and the initiation of re-entry: A computational study</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="6330" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="15720712" last-modified-when="2020-04-29T09:52:17.57+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>BACKGROUND: The initiation of re-entrant cardiac arrhythmias is associated with increased dispersion of repolarisation, but the details are difficult to investigate either experimentally or clinically. We used a computational model of cardiac tissue to study systematically the association between action potential duration (APD) dispersion and susceptibility to re-entry. METHODS: We simulated a 60 x 60 mm2 D sheet of cardiac ventricular tissue using the Luo-Rudy phase 1 model, with maximal conductance of the K+ channel gKmax set to 0.004 mS mm(-2). Within the central 40 x 40 mm region we introduced square regions with prolonged APD by reducing gKmax to between 0.001 and 0.003 mS mm(-2). We varied (i) the spatial scale of these regions, (ii) the magnitude of gKmax in these regions, and (iii) cell-to-cell coupling. RESULTS: Changing spatial scale from 5 to 20 mm increased APD dispersion from 49 to 102 ms, and the susceptible window from 31 to 86 ms. Decreasing gKmax in regions with prolonged APD from 0.003 to 0.001 mS mm-2 increased APD dispersion from 22 to 70 ms, and the susceptible window from &lt;1 to 56 ms. Decreasing cell-to-cell coupling by changing the diffusion coefficient from 0.2 to 0.05 mm2 ms(-1) increased APD dispersion from 57 to 88 ms, and increased the susceptible window from 41 to 74 ms. CONCLUSION: We found a close association between increased APD dispersion and susceptibility to re-entrant arrhythmias, when APD dispersion is increased by larger spatial scale of heterogeneity, greater electrophysiological heterogeneity, and weaker cell-to-cell coupling.</api:text>
+						</api:field>
+						<api:field name="acceptance-date" type="date" display-name="Date of acceptance">
+							<api:date>
+								<api:day>18</api:day>
+								<api:month>2</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Department of Computer Science, University of Sheffield, UK. r.h.clayton@sheffield.ac.uk</api:line>
+										</api:address>
+									</api:addresses>
+									<api:email-address>r.h.clayton@sheffield.ac.uk</api:email-address>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>Arun V</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Arun</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/15720712</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925X-4-11</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925X-4-11"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925X-4-11"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pmc">PMC550675</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Biomed Eng Online</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Action Potentials</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Disease Susceptibility</api:keyword>
+								<api:keyword scheme="mesh">Electrocardiography</api:keyword>
+								<api:keyword scheme="mesh">Heart Conduction System</api:keyword>
+								<api:keyword scheme="mesh">Heart Ventricles</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Membrane Potentials</api:keyword>
+								<api:keyword scheme="mesh">Models, Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Tachycardia, Ventricular</api:keyword>
+								<api:keyword scheme="mesh">Ventricular Fibrillation</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>England</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>11</api:begin-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>1475-925X-4-11</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>18</api:day>
+								<api:month>2</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published online</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>6</api:day>
+								<api:month>3</api:month>
+								<api:year>2006</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Dispersion of cardiac action potential duration and the initiation of re-entry: a computational study.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="885589" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:15720712" last-modified-when="2023-11-21T19:07:35.06+00:00">
+					<api:citation-count>31</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>&lt;h4&gt;Background&lt;/h4&gt;The initiation of re-entrant cardiac arrhythmias is associated with increased dispersion of repolarisation, but the details are difficult to investigate either experimentally or clinically. We used a computational model of cardiac tissue to study systematically the association between action potential duration (APD) dispersion and susceptibility to re-entry.&lt;h4&gt;Methods&lt;/h4&gt;We simulated a 60 x 60 mm2 D sheet of cardiac ventricular tissue using the Luo-Rudy phase 1 model, with maximal conductance of the K+ channel gKmax set to 0.004 mS mm(-2). Within the central 40 x 40 mm region we introduced square regions with prolonged APD by reducing gKmax to between 0.001 and 0.003 mS mm(-2). We varied (i) the spatial scale of these regions, (ii) the magnitude of gKmax in these regions, and (iii) cell-to-cell coupling.&lt;h4&gt;Results&lt;/h4&gt;Changing spatial scale from 5 to 20 mm increased APD dispersion from 49 to 102 ms, and the susceptible window from 31 to 86 ms. Decreasing gKmax in regions with prolonged APD from 0.003 to 0.001 mS mm-2 increased APD dispersion from 22 to 70 ms, and the susceptible window from &lt;1 to 56 ms. Decreasing cell-to-cell coupling by changing the diffusion coefficient from 0.2 to 0.05 mm2 ms(-1) increased APD dispersion from 57 to 88 ms, and increased the susceptible window from 41 to 74 ms.&lt;h4&gt;Conclusion&lt;/h4&gt;We found a close association between increased APD dispersion and susceptibility to re-entrant arrhythmias, when APD dispersion is increased by larger spatial scale of heterogeneity, greater electrophysiological heterogeneity, and weaker cell-to-cell coupling.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Department of Computer Science, University of Sheffield, UK. r.h.clayton@sheffield.ac.uk</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-8438-7518</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>Arun V</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Arun</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925x-4-11</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925x-4-11"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925x-4-11"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15720712</api:identifier>
+								<api:identifier scheme="pmc">PMC550675</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>true</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Biomedical engineering online</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Heart Conduction System</api:keyword>
+								<api:keyword scheme="mesh">Heart Ventricles</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Tachycardia, Ventricular</api:keyword>
+								<api:keyword scheme="mesh">Ventricular Fibrillation</api:keyword>
+								<api:keyword scheme="mesh">Disease Susceptibility</api:keyword>
+								<api:keyword scheme="mesh">Electrocardiography</api:keyword>
+								<api:keyword scheme="mesh">Membrane Potentials</api:keyword>
+								<api:keyword scheme="mesh">Action Potentials</api:keyword>
+								<api:keyword scheme="mesh">Models, Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Electronic</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>18</api:day>
+								<api:month>2</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Open Access</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>11</api:begin-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>2</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher-licence" type="text" display-name="Publisher licence">
+							<api:text>CC BY</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>22</api:day>
+								<api:month>2</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Dispersion of cardiac action potential duration and the initiation of re-entry: a computational study.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>research-article</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://biomedical-engineering-online.biomedcentral.com/track/pdf/10.1186/1475-925X-4-11">
+								<api:file-url>https://biomedical-engineering-online.biomedcentral.com/track/pdf/10.1186/1475-925X-4-11</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+							<api:file proprietary-id="https://europepmc.org/articles/PMC550675?pdf=render">
+								<api:file-url>https://europepmc.org/articles/PMC550675?pdf=render</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:is-open-access>true</api:is-open-access>
+								<api:file-version>Published version</api:file-version>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2470596" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1022641213" last-modified-when="2023-12-25T01:06:37.573+00:00">
+					<api:citation-count>49</api:citation-count>
+					<api:native>
+						<api:field name="associated-identifiers" type="identifier-list" display-name="Associated Identifiers">
+							<api:identifiers>
+								<api:identifier scheme="dimensions-grant-id">grant.5142844</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01320006245.84</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>Arun V</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Arun</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Leeds</api:line>
+											<api:line type="city">Leeds</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01077530175.27</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925x-4-11</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925x-4-11"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925x-4-11"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15720712</api:identifier>
+								<api:identifier scheme="pmc">PMC550675</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>5.66</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BioMedical Engineering OnLine</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">40 Engineering</api:keyword>
+								<api:keyword scheme="for-2020">4003 Biomedical Engineering</api:keyword>
+								<api:keyword scheme="rcdc">Heart Disease</api:keyword>
+								<api:keyword scheme="rcdc">Cardiovascular</api:keyword>
+								<api:keyword scheme="hrcs-rac">2.1 Biological and endogenous factors</api:keyword>
+								<api:keyword scheme="hrcs-rac">2 Aetiology</api:keyword>
+								<api:keyword scheme="mesh">Action Potentials</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Disease Susceptibility</api:keyword>
+								<api:keyword scheme="mesh">Electrocardiography</api:keyword>
+								<api:keyword scheme="mesh">Heart Conduction System</api:keyword>
+								<api:keyword scheme="mesh">Heart Ventricles</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Membrane Potentials</api:keyword>
+								<api:keyword scheme="mesh">Models, Cardiovascular</api:keyword>
+								<api:keyword scheme="mesh">Tachycardia, Ventricular</api:keyword>
+								<api:keyword scheme="mesh">Ventricular Fibrillation</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>18</api:day>
+								<api:month>2</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Gold OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>11</api:begin-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>12</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Springer Nature</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.84</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Dispersion of cardiac action potential duration and the initiation of re-entry: A computational study</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="3485775" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000497965600008" last-modified-when="2023-12-08T07:26:28.467+00:00">
+					<api:citation-count>39</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="310" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/310"/>
+									</api:links>
+									<api:last-name>Clayton</api:last-name>
+									<api:initials>RH</api:initials>
+									<api:first-names>Richard H</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Richard</api:first-name>
+										<api:first-name>H</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="researcherid">CAF-3400-2022</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Holden</api:last-name>
+									<api:initials>AV</api:initials>
+									<api:first-names>Arun V</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Arun</api:first-name>
+										<api:first-name>V</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000497965600008&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1186/1475-925X-4-11</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1186/1475-925X-4-11"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1186/1475-925X-4-11"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1475-925X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">VI5XU</api:identifier>
+								<api:identifier scheme="pubmed">15720712</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>BIOMEDICAL ENGINEERING ONLINE</api:text>
+						</api:field>
+						<api:field name="number" type="text" display-name="Article number">
+							<api:text>ARTN 11</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Dispersion of cardiac action potential duration and the initiation of re-entry: A computational study</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>4</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Action Potentials</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Disease Susceptibility</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Electrocardiography</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Heart Conduction System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Heart Ventricles</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Membrane Potentials</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Tachycardia, Ventricular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Ventricular Fibrillation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Heart Conduction System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Heart Ventricles</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Tachycardia, Ventricular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Ventricular Fibrillation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Disease Susceptibility</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Electrocardiography</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Membrane Potentials</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Action Potentials</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Computer Simulation</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">40 Engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">4003 Biomedical Engineering</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Heart Disease</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Cardiovascular</api:keyword>
+					<api:keyword scheme="hrcs-rac" origin="record-data" source="dimensions">2.1 Biological and endogenous factors</api:keyword>
+					<api:keyword scheme="hrcs-rac" origin="record-data" source="dimensions">2 Aetiology</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Action Potentials</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Disease Susceptibility</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Electrocardiography</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Heart Conduction System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Heart Ventricles</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Membrane Potentials</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Cardiovascular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Tachycardia, Ventricular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Ventricular Fibrillation</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0903 Biomedical Engineering</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Biomedical Engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">4003 Biomedical engineering</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">4601 Applied computing</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="1475-925X" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/957519" title="BioMedical Engineering Online">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>BioMedical Engineering Online</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/6330/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

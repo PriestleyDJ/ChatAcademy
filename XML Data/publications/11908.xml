@@ -1,0 +1,1243 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11908"/>
+	<api:result>
+		<api:object category="publication" id="11908" last-affected-when="2023-12-21T12:39:05.34+00:00" last-modified-when="2023-12-21T12:39:05.34+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11908" created-when="2010-05-17T14:18:42.577+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2008-11-26</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="4208467" source-id="28" source-name="eprints" source-display-name="White Rose Research Online" id-at-source="107046" last-modified-when="2022-12-29T01:47:10.037+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Animals actively regulate the position and movement of their sensory systems to boost the quality and quantity of the sensory information they obtain. The rat vibrissal system is recognized to be an important model system in which to investigate such “active sensing” capabilities. The current study used high-speed video analysis to investigate whisker movements in untrained, freely moving rats encountering unexpected, vertical surfaces. A prominent feature of rat vibrissal movement is the repeated posterior–anterior sweep of the whiskers in which the macrovibrissae are seen to move largely in synchrony. Here we show that a second significant component of whisking behavior is the size of the arc, or “spread,” between the whiskers. Observed spread is shown to vary over the whisk cycle and to substantially decrease during exploration of an unexpected surface. We further show that the timing of whisker movements is affected by surface contact such that 1) the whiskers rapidly cease forward protraction following an initial, unexpected contact, and may do so even more rapidly following contact with the same surface in the subsequent whisk cycle, and 2) retraction velocity is reduced following this latter contact, leading to longer second-contact durations. This evidence is taken to support two hypotheses: 1) that the relative velocities of different whiskers may be actively controlled by the rat and 2) that control of whisker velocity and timing may serve to increase the number and duration of whisker–surface contacts while ensuring that such contacts are made with a light touch.</api:text>
+						</api:field>
+						<api:field name="acceptance-date" type="date" display-name="Date of acceptance">
+							<api:date>
+								<api:day>24</api:day>
+								<api:month>11</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Grant</api:last-name>
+									<api:initials>RA</api:initials>
+									<api:first-names>RA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Mitchinson</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Fox</api:last-name>
+									<api:initials>CW</api:initials>
+									<api:first-names>CW</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>C</api:first-name>
+										<api:first-name>W</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>TJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>T</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1152/jn.90783.2008</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1152/jn.90783.2008"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1152/jn.90783.2008"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0022-3077</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972866"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of Neurophysiology</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>Rhythmic whisking</api:keyword>
+								<api:keyword>Mystical vibrissae</api:keyword>
+								<api:keyword>Rodent whisking</api:keyword>
+								<api:keyword>Head movements</api:keyword>
+								<api:keyword>Musculature</api:keyword>
+								<api:keyword>Tracking</api:keyword>
+								<api:keyword>Behavior</api:keyword>
+								<api:keyword>Contact</api:keyword>
+								<api:keyword>Vision</api:keyword>
+								<api:keyword>System</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="notes" type="text" display-name="Other information">
+							<api:text>© 2009 the American Physiological Society. This is an author produced version of a paper subsequently published in Journal of Neurophysiology. Uploaded in accordance with the publisher's self-archiving policy.</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>862</api:begin-page>
+								<api:end-page>874</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>2</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="public-url" type="text" display-name="Public URL">
+							<api:text>https://eprints.whiterose.ac.uk/id/eprint/107046</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>American Physiological Society</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1152/jn.90783.2008</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>6</api:day>
+								<api:month>11</api:month>
+								<api:year>2016</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>14</api:day>
+								<api:month>11</api:month>
+								<api:year>2016</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="repository-status" type="text" display-name="Availability">
+							<api:text>Public</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Active Touch Sensing in the Rat: Anticipatory and Regulatory Control of Whisker Movements During Surface Exploration</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>101</api:text>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://eprints.whiterose.ac.uk/id/file/1323869">
+								<api:filename>Grant_et_al_merged.pdf</api:filename>
+								<api:file-url>https://eprints.whiterose.ac.uk/107046/1/Grant_et_al_merged.pdf</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:file-size>1164029</api:file-size>
+								<api:mime-type>application/pdf</api:mime-type>
+								<api:checksum algorithm="md5">EBA7EA847B577CD90E284A5D8FA080AD</api:checksum>
+								<api:file-version>Author accepted manuscript</api:file-version>
+							</api:file>
+							<api:file proprietary-id="https://eprints.whiterose.ac.uk/id/file/1323877">
+								<api:filename>Grant.2008.Active.Supp.pdf</api:filename>
+								<api:file-url>https://eprints.whiterose.ac.uk/107046/6/Grant.2008.Active.Supp.pdf</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:file-size>1651890</api:file-size>
+								<api:mime-type>application/pdf</api:mime-type>
+								<api:checksum algorithm="md5">5C4F324869D08F91933601B74091D73E</api:checksum>
+								<api:file-version>Supplementary information (e.g. figures and tables)</api:file-version>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="1397067" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1152/jn.90783.2008" last-modified-when="2022-09-10T10:26:48.9+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>&lt;jats:p&gt;Animals actively regulate the position and movement of their sensory systems to boost the quality and quantity of the sensory information they obtain. The rat vibrissal system is recognized to be an important model system in which to investigate such “active sensing” capabilities. The current study used high-speed video analysis to investigate whisker movements in untrained, freely moving rats encountering unexpected, vertical surfaces. A prominent feature of rat vibrissal movement is the repeated posterior–anterior sweep of the whiskers in which the macrovibrissae are seen to move largely in synchrony. Here we show that a second significant component of whisking behavior is the size of the arc, or “spread,” between the whiskers. Observed spread is shown to vary over the whisk cycle and to substantially decrease during exploration of an unexpected surface. We further show that the timing of whisker movements is affected by surface contact such that 1) the whiskers rapidly cease forward protraction following an initial, unexpected contact, and may do so even more rapidly following contact with the same surface in the subsequent whisk cycle, and 2) retraction velocity is reduced following this latter contact, leading to longer second-contact durations. This evidence is taken to support two hypotheses: 1) that the relative velocities of different whiskers may be actively controlled by the rat and 2) that control of whisker velocity and timing may serve to increase the number and duration of whisker–surface contacts while ensuring that such contacts are made with a light touch.&lt;/jats:p&gt;</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Grant</api:last-name>
+									<api:initials>RA</api:initials>
+									<api:first-names>Robyn A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Robyn</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Mitchinson</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Ben</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ben</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Fox</api:last-name>
+									<api:initials>CW</api:initials>
+									<api:first-names>Charles W</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Charles</api:first-name>
+										<api:first-name>W</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>Tony J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Tony</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1152/jn.90783.2008</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1152/jn.90783.2008"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1152/jn.90783.2008"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1522-1598</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972866"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0022-3077</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972866"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of Neurophysiology</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>862</api:begin-page>
+								<api:end-page>874</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>2</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>American Physiological Society</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1152/jn.90783.2008</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>23</api:day>
+								<api:month>9</api:month>
+								<api:year>2021</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Active Touch Sensing in the Rat: Anticipatory and Regulatory Control of Whisker Movements During Surface Exploration</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>101</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="117900" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-61349126543" last-modified-when="2023-12-12T17:05:44.66+00:00">
+					<api:citation-count>165</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Animals actively regulate the position and movement of their sensory systems to boost the quality and quantity of the sensory information they obtain. The rat vibrissal system is recognized to be an important model system in which to investigate such &quot;active sensing&quot; capabilities. The current study used high-speed video analysis to investigate whisker movements in untrained, freely moving rats encountering unexpected, vertical surfaces. A prominent feature of rat vibrissal movement is the repeated posterior-anterior sweep of the whiskers in which the macrovibrissae are seen to move largely in synchrony. Here we show that a second significant component of whisking behavior is the size of the arc, or &quot;spread,&quot; between the whiskers. Observed spread is shown to vary over the whisk cycle and to substantially decrease during exploration of an unexpected surface. We further show that the timing of whisker movements is affected by surface contact such that 1) the whiskers rapidly cease forward protraction following an initial, unexpected contact, and may do so even more rapidly following contact with the same surface in the subsequent whisk cycle, and 2) retraction velocity is reduced following this latter contact, leading to longer second-contact durations. This evidence is taken to support two hypotheses: 1) that the relative velocities of different whiskers may be actively controlled by the rat and 2) that control of whisker velocity and timing may serve to increase the number and duration of whisker-surface contacts while ensuring that such contacts are made with a light touch. Copyright © 2009 The American Physiological Society.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Grant</api:last-name>
+									<api:initials>RA</api:initials>
+									<api:first-names>RA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">16432541300</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Mitchinson</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">8366486900</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Fox</api:last-name>
+									<api:initials>CW</api:initials>
+									<api:first-names>CW</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>C</api:first-name>
+										<api:first-name>W</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">14041414100</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>TJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>T</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">6603749094</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1152/jn.90783.2008</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1152/jn.90783.2008"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1152/jn.90783.2008"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1522-1598</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972866"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">19036871</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0022-3077</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972866"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of Neurophysiology</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>862</api:begin-page>
+								<api:end-page>874</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>2</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Active touch sensing in the rat: Anticipatory and regulatory control of whisker movements during surface exploration</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>101</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="11908" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="19036871" last-modified-when="2020-04-28T22:10:08.353+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Animals actively regulate the position and movement of their sensory systems to boost the quality and quantity of the sensory information they obtain. The rat vibrissal system is recognized to be an important model system in which to investigate such &quot;active sensing&quot; capabilities. The current study used high-speed video analysis to investigate whisker movements in untrained, freely moving rats encountering unexpected, vertical surfaces. A prominent feature of rat vibrissal movement is the repeated posterior-anterior sweep of the whiskers in which the macrovibrissae are seen to move largely in synchrony. Here we show that a second significant component of whisking behavior is the size of the arc, or &quot;spread,&quot; between the whiskers. Observed spread is shown to vary over the whisk cycle and to substantially decrease during exploration of an unexpected surface. We further show that the timing of whisker movements is affected by surface contact such that 1) the whiskers rapidly cease forward protraction following an initial, unexpected contact, and may do so even more rapidly following contact with the same surface in the subsequent whisk cycle, and 2) retraction velocity is reduced following this latter contact, leading to longer second-contact durations. This evidence is taken to support two hypotheses: 1) that the relative velocities of different whiskers may be actively controlled by the rat and 2) that control of whisker velocity and timing may serve to increase the number and duration of whisker-surface contacts while ensuring that such contacts are made with a light touch.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Grant</api:last-name>
+									<api:initials>RA</api:initials>
+									<api:first-names>Robyn A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Robyn</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">The University of Sheffield, Department of Psychology, Western Bank, Sheffield S10 2TN, UK.</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Mitchinson</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Ben</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ben</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Fox</api:last-name>
+									<api:initials>CW</api:initials>
+									<api:first-names>Charles W</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Charles</api:first-name>
+										<api:first-name>W</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>Tony J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Tony</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/19036871</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1152/jn.90783.2008</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1152/jn.90783.2008"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1152/jn.90783.2008"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pmc">PMC2657060</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0022-3077</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972866"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>J Neurophysiol</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Biophysics</api:keyword>
+								<api:keyword scheme="mesh">Disease Models, Animal</api:keyword>
+								<api:keyword scheme="mesh">Exploratory Behavior</api:keyword>
+								<api:keyword scheme="mesh">Head Movements</api:keyword>
+								<api:keyword scheme="mesh">Male</api:keyword>
+								<api:keyword scheme="mesh">Movement</api:keyword>
+								<api:keyword scheme="mesh">Multivariate Analysis</api:keyword>
+								<api:keyword scheme="mesh">Physical Stimulation</api:keyword>
+								<api:keyword scheme="mesh">Principal Component Analysis</api:keyword>
+								<api:keyword scheme="mesh">Proprioception</api:keyword>
+								<api:keyword scheme="mesh">Rats</api:keyword>
+								<api:keyword scheme="mesh">Rats, Mutant Strains</api:keyword>
+								<api:keyword scheme="mesh">Retinal Degeneration</api:keyword>
+								<api:keyword scheme="mesh">Touch</api:keyword>
+								<api:keyword scheme="mesh">Vibrissae</api:keyword>
+								<api:keyword scheme="mesh">Wakefulness</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>United States</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>862</api:begin-page>
+								<api:end-page>874</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>90783.2008</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>2</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>26</api:day>
+								<api:month>3</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Active touch sensing in the rat: anticipatory and regulatory control of whisker movements during surface exploration.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>101</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="889091" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:19036871" last-modified-when="2023-09-12T18:59:34.32+01:00">
+					<api:citation-count>100</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Animals actively regulate the position and movement of their sensory systems to boost the quality and quantity of the sensory information they obtain. The rat vibrissal system is recognized to be an important model system in which to investigate such &quot;active sensing&quot; capabilities. The current study used high-speed video analysis to investigate whisker movements in untrained, freely moving rats encountering unexpected, vertical surfaces. A prominent feature of rat vibrissal movement is the repeated posterior-anterior sweep of the whiskers in which the macrovibrissae are seen to move largely in synchrony. Here we show that a second significant component of whisking behavior is the size of the arc, or &quot;spread,&quot; between the whiskers. Observed spread is shown to vary over the whisk cycle and to substantially decrease during exploration of an unexpected surface. We further show that the timing of whisker movements is affected by surface contact such that 1) the whiskers rapidly cease forward protraction following an initial, unexpected contact, and may do so even more rapidly following contact with the same surface in the subsequent whisk cycle, and 2) retraction velocity is reduced following this latter contact, leading to longer second-contact durations. This evidence is taken to support two hypotheses: 1) that the relative velocities of different whiskers may be actively controlled by the rat and 2) that control of whisker velocity and timing may serve to increase the number and duration of whisker-surface contacts while ensuring that such contacts are made with a light touch.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">The University of Sheffield, Department of Psychology, Western Bank, Sheffield S10 2TN, UK.</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Grant</api:last-name>
+									<api:initials>RA</api:initials>
+									<api:first-names>Robyn A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Robyn</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-3968-8370</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Mitchinson</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Ben</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ben</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Fox</api:last-name>
+									<api:initials>CW</api:initials>
+									<api:first-names>Charles W</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Charles</api:first-name>
+										<api:first-name>W</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>Tony J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Tony</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0003-4927-5390</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1152/jn.90783.2008</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1152/jn.90783.2008"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1152/jn.90783.2008"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1522-1598</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972866"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">19036871</api:identifier>
+								<api:identifier scheme="pmc">PMC2657060</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0022-3077</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972866"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of neurophysiology</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Vibrissae</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Rats</api:keyword>
+								<api:keyword scheme="mesh">Rats, Mutant Strains</api:keyword>
+								<api:keyword scheme="mesh">Retinal Degeneration</api:keyword>
+								<api:keyword scheme="mesh">Disease Models, Animal</api:keyword>
+								<api:keyword scheme="mesh">Multivariate Analysis</api:keyword>
+								<api:keyword scheme="mesh">Physical Stimulation</api:keyword>
+								<api:keyword scheme="mesh">Exploratory Behavior</api:keyword>
+								<api:keyword scheme="mesh">Touch</api:keyword>
+								<api:keyword scheme="mesh">Wakefulness</api:keyword>
+								<api:keyword scheme="mesh">Proprioception</api:keyword>
+								<api:keyword scheme="mesh">Biophysics</api:keyword>
+								<api:keyword scheme="mesh">Movement</api:keyword>
+								<api:keyword scheme="mesh">Head Movements</api:keyword>
+								<api:keyword scheme="mesh">Principal Component Analysis</api:keyword>
+								<api:keyword scheme="mesh">Male</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print-Electronic</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>26</api:day>
+								<api:month>11</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>862</api:begin-page>
+								<api:end-page>874</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>2</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>28</api:day>
+								<api:month>11</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Active touch sensing in the rat: anticipatory and regulatory control of whisker movements during surface exploration.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>research-article</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>101</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2517137" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1042120480" last-modified-when="2023-12-21T12:39:05.35+00:00">
+					<api:citation-count>181</api:citation-count>
+					<api:native>
+						<api:field name="altmetric-attention-score" type="integer" display-name="Altmetric attention score">
+							<api:integer>127</api:integer>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Grant</api:last-name>
+									<api:initials>RA</api:initials>
+									<api:first-names>Robyn A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Robyn</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0632632211.91</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Mitchinson</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Ben</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ben</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0665132137.22</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Fox</api:last-name>
+									<api:initials>CW</api:initials>
+									<api:first-names>Charles W</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Charles</api:first-name>
+										<api:first-name>W</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0750726525.06</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>Tony J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Tony</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01003226530.22</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1152/jn.90783.2008</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1152/jn.90783.2008"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1152/jn.90783.2008"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">19036871</api:identifier>
+								<api:identifier scheme="pmc">PMC2657060</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>29.51</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0022-3077</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972866"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of Neurophysiology</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">32 Biomedical and Clinical Sciences</api:keyword>
+								<api:keyword scheme="for-2020">3209 Neurosciences</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Biophysics</api:keyword>
+								<api:keyword scheme="mesh">Disease Models, Animal</api:keyword>
+								<api:keyword scheme="mesh">Exploratory Behavior</api:keyword>
+								<api:keyword scheme="mesh">Head Movements</api:keyword>
+								<api:keyword scheme="mesh">Male</api:keyword>
+								<api:keyword scheme="mesh">Movement</api:keyword>
+								<api:keyword scheme="mesh">Multivariate Analysis</api:keyword>
+								<api:keyword scheme="mesh">Physical Stimulation</api:keyword>
+								<api:keyword scheme="mesh">Principal Component Analysis</api:keyword>
+								<api:keyword scheme="mesh">Proprioception</api:keyword>
+								<api:keyword scheme="mesh">Rats</api:keyword>
+								<api:keyword scheme="mesh">Rats, Mutant Strains</api:keyword>
+								<api:keyword scheme="mesh">Retinal Degeneration</api:keyword>
+								<api:keyword scheme="mesh">Touch</api:keyword>
+								<api:keyword scheme="mesh">Vibrissae</api:keyword>
+								<api:keyword scheme="mesh">Wakefulness</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>26</api:day>
+								<api:month>11</api:month>
+								<api:year>2008</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Green OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>862</api:begin-page>
+								<api:end-page>874</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>2</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>American Physiological Society</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>3.23</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Active Touch Sensing in the Rat: Anticipatory and Regulatory Control of Whisker Movements During Surface Exploration</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>101</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="260432" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000263120300033" last-modified-when="2023-12-20T20:48:42.97+00:00">
+					<api:citation-count>150</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Grant</api:last-name>
+									<api:initials>RA</api:initials>
+									<api:first-names>Robyn A</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Robyn</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Mitchinson</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>Ben</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Ben</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Fox</api:last-name>
+									<api:initials>CW</api:initials>
+									<api:first-names>Charles W</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Charles</api:first-name>
+										<api:first-name>W</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>Tony J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Tony</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000263120300033&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1152/jn.90783.2008</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1152/jn.90783.2008"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1152/jn.90783.2008"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1522-1598</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972866"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">403ZK</api:identifier>
+								<api:identifier scheme="pubmed">19036871</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0022-3077</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972866"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>JOURNAL OF NEUROPHYSIOLOGY</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>862</api:begin-page>
+								<api:end-page>874</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Active Touch Sensing in the Rat: Anticipatory and Regulatory Control of Whisker Movements During Surface Exploration</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>101</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="49598" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000263120300033" last-modified-when="2014-07-25T12:23:58.27+01:00">
+					<api:citation-count>14</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Grant</api:last-name>
+									<api:initials>RA</api:initials>
+									<api:first-names>RA</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+										<api:first-name>A</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Dept Psychol, Sheffield S10 2TN, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Mitchinson</api:last-name>
+									<api:initials>B</api:initials>
+									<api:first-names>B</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>B</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Dept Psychol, Sheffield S10 2TN, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:last-name>Fox</api:last-name>
+									<api:initials>CW</api:initials>
+									<api:first-names>CW</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>C</api:first-name>
+										<api:first-name>W</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Dept Psychol, Sheffield S10 2TN, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>TJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>T</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Univ Sheffield, Dept Psychol, Sheffield S10 2TN, S Yorkshire, England</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1152/jn.90783.2008</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1152/jn.90783.2008"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1152/jn.90783.2008"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0022-3077</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972866"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>2</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>J NEUROPHYSIOL</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>RHYTHMIC WHISKING</api:keyword>
+								<api:keyword>MYSTACIAL VIBRISSAE</api:keyword>
+								<api:keyword>RODENT WHISKING</api:keyword>
+								<api:keyword>HEAD MOVEMENTS</api:keyword>
+								<api:keyword>MUSCULATURE</api:keyword>
+								<api:keyword>TRACKING</api:keyword>
+								<api:keyword>BEHAVIOR</api:keyword>
+								<api:keyword>CONTACT</api:keyword>
+								<api:keyword>VISION</api:keyword>
+								<api:keyword>SYSTEM</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>862</api:begin-page>
+								<api:end-page>874</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>2</api:month>
+								<api:year>2009</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Active Touch Sensing in the Rat: Anticipatory and Regulatory Control of Whisker Movements During Surface Exploration</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>101</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword origin="record-data" source="eprints">Rhythmic whisking</api:keyword>
+					<api:keyword origin="record-data" source="eprints">Mystical vibrissae</api:keyword>
+					<api:keyword origin="record-data" source="eprints">Rodent whisking</api:keyword>
+					<api:keyword origin="record-data" source="eprints">Head movements</api:keyword>
+					<api:keyword origin="record-data" source="eprints">Musculature</api:keyword>
+					<api:keyword origin="record-data" source="eprints">Tracking</api:keyword>
+					<api:keyword origin="record-data" source="eprints">Behavior</api:keyword>
+					<api:keyword origin="record-data" source="eprints">Contact</api:keyword>
+					<api:keyword origin="record-data" source="eprints">Vision</api:keyword>
+					<api:keyword origin="record-data" source="eprints">System</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Biophysics</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Disease Models, Animal</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Exploratory Behavior</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Head Movements</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Male</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Movement</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Multivariate Analysis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Physical Stimulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Principal Component Analysis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Proprioception</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Rats</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Rats, Mutant Strains</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Retinal Degeneration</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Touch</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Vibrissae</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Wakefulness</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Vibrissae</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Rats</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Rats, Mutant Strains</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Retinal Degeneration</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Disease Models, Animal</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Multivariate Analysis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Physical Stimulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Exploratory Behavior</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Touch</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Wakefulness</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Proprioception</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Biophysics</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Movement</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Head Movements</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Principal Component Analysis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Male</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">32 Biomedical and Clinical Sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">3209 Neurosciences</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Biophysics</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Disease Models, Animal</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Exploratory Behavior</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Head Movements</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Male</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Movement</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Multivariate Analysis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Physical Stimulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Principal Component Analysis</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Proprioception</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Rats</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Rats, Mutant Strains</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Retinal Degeneration</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Touch</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Vibrissae</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Wakefulness</api:keyword>
+					<api:keyword origin="record-data" source="wos">RHYTHMIC WHISKING</api:keyword>
+					<api:keyword origin="record-data" source="wos">MYSTACIAL VIBRISSAE</api:keyword>
+					<api:keyword origin="record-data" source="wos">RODENT WHISKING</api:keyword>
+					<api:keyword origin="record-data" source="wos">HEAD MOVEMENTS</api:keyword>
+					<api:keyword origin="record-data" source="wos">MUSCULATURE</api:keyword>
+					<api:keyword origin="record-data" source="wos">TRACKING</api:keyword>
+					<api:keyword origin="record-data" source="wos">BEHAVIOR</api:keyword>
+					<api:keyword origin="record-data" source="wos">CONTACT</api:keyword>
+					<api:keyword origin="record-data" source="wos">VISION</api:keyword>
+					<api:keyword origin="record-data" source="wos">SYSTEM</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">11 Medical and Health Sciences</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">17 Psychology and Cognitive Sciences</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Neurology &amp; Neurosurgery</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">32 Biomedical and clinical sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">42 Health sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">52 Psychology</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="0022-3077" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/972866" title="Journal of Neurophysiology">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Journal of Neurophysiology</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/11908/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

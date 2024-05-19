@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+    <api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+    <api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/954503"/>
+    <api:result>
+        <api:object category="journal" id="954503" last-affected-when="2019-02-01T19:03:05.517+00:00" last-modified-when="2019-02-01T19:03:05.517+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/954503" created-when="2017-03-07T16:36:00.463+00:00" type-id="1" type-display-name="Journal" type="journal">
+            <api:privacy-level>Public</api:privacy-level>
+            <api:privacy-level-locked>false</api:privacy-level-locked>
+            <api:ever-approved>true</api:ever-approved>
+            <api:allow-type-switching>true</api:allow-type-switching>
+            <api:records>
+                <api:record format="native" id="1939319" source-id="9" source-name="doaj" source-display-name="Directory of Open Access Journals" id-at-source="0004-0746" last-modified-when="2017-03-07T16:36:00.467+00:00">
+                    <api:native>
+                        <api:field name="cc-licence" type="text" display-name="CC licence">
+                            <api:text>CC BY</api:text>
+                        </api:field>
+                        <api:field name="issns" type="issn-list" display-name="ISSNs">
+                            <api:issns>
+                                <api:issn>0004-0746</api:issn>
+                            </api:issns>
+                        </api:field>
+                        <api:field name="publication-fee" type="text" display-name="Publication fee">
+                            <api:text>No</api:text>
+                        </api:field>
+                        <api:field name="publisher" type="text" display-name="Publisher">
+                            <api:text>Versita</api:text>
+                        </api:field>
+                        <api:field name="start-year-oa" type="date" display-name="Start year Open Access">
+                            <api:date>
+                                <api:year>2010</api:year>
+                            </api:date>
+                        </api:field>
+                        <api:field name="submission-info-url" type="text" display-name="Submission info URL">
+                            <api:text>http://www.degruyter.com/view/j/aee</api:text>
+                        </api:field>
+                        <api:field name="title" type="text" display-name="Title">
+                            <api:text>Archives of Electrical Engineering</api:text>
+                        </api:field>
+                    </api:native>
+                </api:record>
+                <api:record format="native" id="2005441" source-id="4" source-name="science-metrix" source-display-name="Science-Metrix" id-at-source="126066" last-modified-when="2017-03-07T17:01:39.533+00:00">
+                    <api:native>
+                        <api:field name="issns" type="issn-list" display-name="ISSNs">
+                            <api:issns>
+                                <api:issn>0004-0746</api:issn>
+                            </api:issns>
+                        </api:field>
+                        <api:field name="keywords" type="keyword-list" display-name="Keywords">
+                            <api:keywords>
+                                <api:keyword scheme="science-metrix">Electrical &amp; Electronic Engineering</api:keyword>
+                            </api:keywords>
+                        </api:field>
+                        <api:field name="title" type="text" display-name="Title">
+                            <api:text>Archiwum Elektrotechniki</api:text>
+                        </api:field>
+                    </api:native>
+                </api:record>
+                <api:record format="native" id="2073403" source-id="7" source-name="snip" source-display-name="SNIP" id-at-source="31408" last-modified-when="2017-08-15T20:04:57.557+01:00">
+                    <api:native>
+                        <api:field name="addresses" type="address-list" display-name="Publication Locations">
+                            <api:addresses>
+                                <api:address iso-country-code="PL">
+                                    <api:line type="country">Poland</api:line>
+                                </api:address>
+                            </api:addresses>
+                        </api:field>
+                        <api:field name="issns" type="issn-list" display-name="ISSNs">
+                            <api:issns>
+                                <api:issn>0004-0746</api:issn>
+                            </api:issns>
+                        </api:field>
+                        <api:field name="keywords" type="keyword-list" display-name="Keywords">
+                            <api:keywords>
+                                <api:keyword scheme="asjc">Physical Sciences</api:keyword>
+                            </api:keywords>
+                        </api:field>
+                        <api:field name="publisher" type="text" display-name="Publisher">
+                            <api:text>Wydawnictwo Naukowe P W N SA</api:text>
+                        </api:field>
+                        <api:field name="title" type="text" display-name="Title">
+                            <api:text>Archiwum Elektrotechniki</api:text>
+                        </api:field>
+                    </api:native>
+                </api:record>
+                <api:record format="native" id="2191788" source-id="6" source-name="sjr" source-display-name="SCImago Journal Rank" id-at-source="0004-0746" last-modified-when="2018-03-13T13:18:30.437+00:00">
+                    <api:native>
+                        <api:field name="addresses" type="address-list" display-name="Publication Locations">
+                            <api:addresses>
+                                <api:address iso-country-code="PL">
+                                    <api:line type="country">Poland</api:line>
+                                </api:address>
+                            </api:addresses>
+                        </api:field>
+                        <api:field name="h-index" type="integer" display-name="H-Index">
+                            <api:integer>9</api:integer>
+                        </api:field>
+                        <api:field name="issns" type="issn-list" display-name="ISSNs">
+                            <api:issns>
+                                <api:issn>0004-0746</api:issn>
+                            </api:issns>
+                        </api:field>
+                        <api:field name="sjr" type="decimal" display-name="SJR">
+                            <api:decimal>0.238</api:decimal>
+                        </api:field>
+                        <api:field name="title" type="text" display-name="Title">
+                            <api:text>Archives of Electrical Engineering</api:text>
+                        </api:field>
+                    </api:native>
+                </api:record>
+            </api:records>
+            <api:fields/>
+            <api:all-labels type="keyword-list">
+                <api:keywords>
+                    <api:keyword scheme="science-metrix" origin="record-data" source="science-metrix">Electrical & Electronic Engineering</api:keyword>
+                    <api:keyword scheme="asjc" origin="record-data" source="snip">Physical Sciences</api:keyword>
+                </api:keywords>
+            </api:all-labels>
+            <api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/954503/relationships"/>
+        </api:object>
+    </api:result>
+</api:response>

@@ -1,0 +1,1114 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/9347"/>
+	<api:result>
+		<api:object category="publication" id="9347" last-affected-when="2023-12-08T09:11:09.913+00:00" last-modified-when="2023-12-08T09:11:09.913+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/9347" created-when="2010-05-17T14:09:03.8+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:merge-history>
+				<api:merge when="2022-08-31T09:25:19.557+01:00">
+					<api:merged-object id="547455" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/deleted/publications/547455"/>
+					<api:merged-into-object id="9347" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/9347"/>
+				</api:merge>
+			</api:merge-history>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2007-04-11</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="1478645" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1098/rstb.2007.2057" last-modified-when="2022-09-10T06:40:42.86+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>&lt;jats:p&gt;The search for the neural substrate of vertebrate action selection has focused on structures in the forebrain and midbrain, and particularly on the group of sub-cortical nuclei known as the basal ganglia. Yet, the behavioural repertoire of decerebrate and neonatal animals suggests the existence of a relatively self-contained neural substrate for action selection in the brainstem. We propose that the medial reticular formation (mRF) is the substrate's main component and review evidence showing that the mRF's inputs, outputs and intrinsic organization are consistent with the requirements of an action-selection system. The internal architecture of the mRF is composed of interconnected neuron clusters. We present an anatomical model which suggests that the mRF's intrinsic circuitry constitutes a small-world network and extend this result to show that it may have evolved to reduce axonal wiring. Potential configurations of action representation within the internal circuitry of the mRF are then assessed by computational modelling. We present new results demonstrating that each cluster's output is most likely to represent activation of a component action; thus, coactivation of a set of these clusters would lead to the coordinated behavioural response observed in the animal. Finally, we consider the potential integration of the basal ganglia and mRF substrates for selection and suggest that they may collectively form a layered/hierarchical control system.&lt;/jats:p&gt;</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="18769" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/18769"/>
+									</api:links>
+									<api:last-name>Humphries</api:last-name>
+									<api:initials>MD</api:initials>
+									<api:first-names>MD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2038" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2038"/>
+									</api:links>
+									<api:last-name>Gurney</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>TJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>T</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rstb.2007.2057</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rstb.2007.2057"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rstb.2007.2057"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1471-2970</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965540"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0962-8436</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965540"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1485</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Philosophical Transactions of the Royal Society B: Biological Sciences</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>11</api:day>
+								<api:month>4</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1627</api:begin-page>
+								<api:end-page>1639</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>29</api:day>
+								<api:month>9</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>The Royal Society</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1098/rstb.2007.2057</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>20</api:day>
+								<api:month>2</api:month>
+								<api:year>2021</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Is there a brainstem substrate for action selection?</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>362</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="112022" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-34548550922" last-modified-when="2023-11-14T16:12:31.493+00:00">
+					<api:citation-count>50</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The search for the neural substrate of vertebrate action selection has focused on structures in the forebrain and midbrain, and particularly on the group of sub-cortical nuclei known as the basal ganglia. Yet, the behavioural repertoire of decerebrate and neonatal animals suggests the existence of a relatively self-contained neural substrate for action selection in the brainstem. We propose that the medial reticular formation (mRF) is the substrate's main component and review evidence showing that the mRF's inputs, outputs and intrinsic organization are consistent with the requirements of an action-selection system. The internal architecture of the mRF is composed of interconnected neuron clusters. We present an anatomical model which suggests that the mRF's intrinsic circuitry constitutes a small-world network and extend this result to show that it may have evolved to reduce axonal wiring. Potential configurations of action representation within the internal circuitry of the mRF are then assessed by computational modelling. We present new results demonstrating that each cluster's output is most likely to represent activation of a component action; thus, coactivation of a set of these clusters would lead to the coordinated behavioural response observed in the animal. Finally, we consider the potential integration of the basal ganglia and mRF substrates for selection and suggest that they may collectively form a layered/hierarchical control system. © 2007 The Royal Society.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="18769" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/18769"/>
+									</api:links>
+									<api:last-name>Humphries</api:last-name>
+									<api:initials>MD</api:initials>
+									<api:first-names>MD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7101607621</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2038" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2038"/>
+									</api:links>
+									<api:last-name>Gurney</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">23766890200</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>TJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>T</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">6603749094</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rstb.2007.2057</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rstb.2007.2057"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rstb.2007.2057"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">17428776</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0962-8436</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965540"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1485</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Philosophical Transactions of the Royal Society B: Biological Sciences</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1627</api:begin-page>
+								<api:end-page>1639</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>29</api:day>
+								<api:month>9</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Is there a brainstem substrate for action selection?</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>362</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="9347" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="17428776" last-modified-when="2020-04-28T21:56:30.08+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The search for the neural substrate of vertebrate action selection has focused on structures in the forebrain and midbrain, and particularly on the group of sub-cortical nuclei known as the basal ganglia. Yet, the behavioural repertoire of decerebrate and neonatal animals suggests the existence of a relatively self-contained neural substrate for action selection in the brainstem. We propose that the medial reticular formation (mRF) is the substrate's main component and review evidence showing that the mRF's inputs, outputs and intrinsic organization are consistent with the requirements of an action-selection system. The internal architecture of the mRF is composed of interconnected neuron clusters. We present an anatomical model which suggests that the mRF's intrinsic circuitry constitutes a small-world network and extend this result to show that it may have evolved to reduce axonal wiring. Potential configurations of action representation within the internal circuitry of the mRF are then assessed by computational modelling. We present new results demonstrating that each cluster's output is most likely to represent activation of a component action; thus, coactivation of a set of these clusters would lead to the coordinated behavioural response observed in the animal. Finally, we consider the potential integration of the basal ganglia and mRF substrates for selection and suggest that they may collectively form a layered/hierarchical control system.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="18769" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/18769"/>
+									</api:links>
+									<api:last-name>Humphries</api:last-name>
+									<api:initials>MD</api:initials>
+									<api:first-names>MD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Adaptive Behaviour Research Group, Department of Psychology, University of Sheffield, Sheffield S10 2TP, UK. m.d.humphries@sheffield.ac.uk</api:line>
+										</api:address>
+									</api:addresses>
+									<api:email-address>m.d.humphries@sheffield.ac.uk</api:email-address>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2038" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2038"/>
+									</api:links>
+									<api:last-name>Gurney</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>TJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>T</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/17428776</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rstb.2007.2057</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rstb.2007.2057"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rstb.2007.2057"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pmc">PMC2440776</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0962-8436</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965540"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1485</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Philos Trans R Soc Lond B Biol Sci</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Basal Ganglia</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Decision Making</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Models, Neurological</api:keyword>
+								<api:keyword scheme="mesh">Nerve Net</api:keyword>
+								<api:keyword scheme="mesh">Reticular Formation</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>England</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1627</api:begin-page>
+								<api:end-page>1639</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="pii" type="text" display-name="PII">
+							<api:text>LH5K330U4V1K8320</api:text>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>29</api:day>
+								<api:month>9</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>13</api:day>
+								<api:month>11</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Is there a brainstem substrate for action selection?</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>362</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="887517" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:17428776" last-modified-when="2022-02-15T18:11:26.99+00:00">
+					<api:citation-count>24</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The search for the neural substrate of vertebrate action selection has focused on structures in the forebrain and midbrain, and particularly on the group of sub-cortical nuclei known as the basal ganglia. Yet, the behavioural repertoire of decerebrate and neonatal animals suggests the existence of a relatively self-contained neural substrate for action selection in the brainstem. We propose that the medial reticular formation (mRF) is the substrate's main component and review evidence showing that the mRF's inputs, outputs and intrinsic organization are consistent with the requirements of an action-selection system. The internal architecture of the mRF is composed of interconnected neuron clusters. We present an anatomical model which suggests that the mRF's intrinsic circuitry constitutes a small-world network and extend this result to show that it may have evolved to reduce axonal wiring. Potential configurations of action representation within the internal circuitry of the mRF are then assessed by computational modelling. We present new results demonstrating that each cluster's output is most likely to represent activation of a component action; thus, coactivation of a set of these clusters would lead to the coordinated behavioural response observed in the animal. Finally, we consider the potential integration of the basal ganglia and mRF substrates for selection and suggest that they may collectively form a layered/hierarchical control system.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Adaptive Behaviour Research Group, Department of Psychology, University of Sheffield, Sheffield S10 2TP, UK. m.d.humphries@sheffield.ac.uk</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="18769" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/18769"/>
+									</api:links>
+									<api:last-name>Humphries</api:last-name>
+									<api:initials>MD</api:initials>
+									<api:first-names>MD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-1906-2581</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2038" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2038"/>
+									</api:links>
+									<api:last-name>Gurney</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>TJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>T</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0003-4927-5390</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rstb.2007.2057</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rstb.2007.2057"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rstb.2007.2057"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1471-2970</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965540"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">17428776</api:identifier>
+								<api:identifier scheme="pmc">PMC2440776</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0962-8436</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965540"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1485</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Philosophical transactions of the Royal Society of London. Series B, Biological sciences</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Reticular Formation</api:keyword>
+								<api:keyword scheme="mesh">Basal Ganglia</api:keyword>
+								<api:keyword scheme="mesh">Nerve Net</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Decision Making</api:keyword>
+								<api:keyword scheme="mesh">Models, Neurological</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1627</api:begin-page>
+								<api:end-page>1639</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>9</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>13</api:day>
+								<api:month>4</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Is there a brainstem substrate for action selection?</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>research-article</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>362</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2474457" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1044352518" last-modified-when="2023-11-27T00:33:57.14+00:00">
+					<api:citation-count>53</api:citation-count>
+					<api:native>
+						<api:field name="altmetric-attention-score" type="integer" display-name="Altmetric attention score">
+							<api:integer>5</api:integer>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="18769" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/18769"/>
+									</api:links>
+									<api:last-name>Humphries</api:last-name>
+									<api:initials>MD</api:initials>
+									<api:first-names>MD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0777564252.23</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2038" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2038"/>
+									</api:links>
+									<api:last-name>Gurney</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01212040107.00</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>TJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>T</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01003226530.22</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rstb.2007.2057</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rstb.2007.2057"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rstb.2007.2057"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">17428776</api:identifier>
+								<api:identifier scheme="pmc">PMC2440776</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0962-8436</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965540"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1485</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Philosophical Transactions of the Royal Society B Biological Sciences</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">31 Biological Sciences</api:keyword>
+								<api:keyword scheme="rcdc">Neurosciences</api:keyword>
+								<api:keyword scheme="hrcs-rac">1.1 Normal biological development and functioning</api:keyword>
+								<api:keyword scheme="hrcs-rac">1 Underpinning research</api:keyword>
+								<api:keyword scheme="hrcs-hc">Neurological</api:keyword>
+								<api:keyword scheme="mesh">Animals</api:keyword>
+								<api:keyword scheme="mesh">Basal Ganglia</api:keyword>
+								<api:keyword scheme="mesh">Computer Simulation</api:keyword>
+								<api:keyword scheme="mesh">Decision Making</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Models, Neurological</api:keyword>
+								<api:keyword scheme="mesh">Nerve Net</api:keyword>
+								<api:keyword scheme="mesh">Reticular Formation</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>11</api:day>
+								<api:month>4</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Green OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1627</api:begin-page>
+								<api:end-page>1639</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>29</api:day>
+								<api:month>9</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>The Royal Society</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.8</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Is there a brainstem substrate for action selection?</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>362</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="256655" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000248887900009" last-modified-when="2023-12-08T09:11:09.917+00:00">
+					<api:citation-count>46</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="18769" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/18769"/>
+									</api:links>
+									<api:last-name>Humphries</api:last-name>
+									<api:initials>MD</api:initials>
+									<api:first-names>MD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2038" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2038"/>
+									</api:links>
+									<api:last-name>Gurney</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>TJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>T</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000248887900009&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rstb.2007.2057</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rstb.2007.2057"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rstb.2007.2057"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1471-2970</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965540"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">202FR</api:identifier>
+								<api:identifier scheme="pubmed">17428776</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0962-8436</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965540"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1485</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>reticular formation</api:keyword>
+								<api:keyword>networks</api:keyword>
+								<api:keyword>small world</api:keyword>
+								<api:keyword>action representation</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1627</api:begin-page>
+								<api:end-page>1639</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Is there a brainstem substrate for action selection?</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+								<api:item>Proceedings Paper</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>362</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="44311" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000248887900009" last-modified-when="2014-07-25T12:07:58.393+01:00">
+					<api:citation-count>11</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="18769" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/18769"/>
+									</api:links>
+									<api:last-name>Humphries</api:last-name>
+									<api:initials>MD</api:initials>
+									<api:first-names>MD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2038" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2038"/>
+									</api:links>
+									<api:last-name>Gurney</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>TJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>T</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rstb.2007.2057</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rstb.2007.2057"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rstb.2007.2057"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0962-8436</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965540"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1485</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>reticular formation</api:keyword>
+								<api:keyword>networks</api:keyword>
+								<api:keyword>small world</api:keyword>
+								<api:keyword>action representation</api:keyword>
+								<api:keyword>MESENCEPHALIC LOCOMOTOR REGION</api:keyword>
+								<api:keyword>MEDULLARY RETICULAR-FORMATION</api:keyword>
+								<api:keyword>ACUTE DECEREBRATE CATS</api:keyword>
+								<api:keyword>BASAL GANGLIA</api:keyword>
+								<api:keyword>PARKINSONS-DISEASE</api:keyword>
+								<api:keyword>SOMATOMOTOR FUNCTIONS</api:keyword>
+								<api:keyword>NEIGHBORING NEURONS</api:keyword>
+								<api:keyword>DISCHARGE PATTERNS</api:keyword>
+								<api:keyword>COMMON SYSTEM</api:keyword>
+								<api:keyword>COMPUTATIONAL MODEL</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1627</api:begin-page>
+								<api:end-page>1639</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>29</api:day>
+								<api:month>9</api:month>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Is there a brainstem substrate for action selection?</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>362</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="754999" source-id="1" source-name="manual" source-display-name="Manual" id-at-source="AB7366EE-9F37-4371-A650-F57FB84E21A9" last-modified-when="2022-08-31T09:25:19.58+01:00">
+					<api:verification-status>unverified</api:verification-status>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>The search for the neural substrate of vertebrate action selection has focused on structures in the forebrain and midbrain, and particularly on the group of sub-cortical nuclei known as the basal ganglia. Yet, the behavioural repertoire of decerebrate and neonatal animals suggests the existence of a relatively self-contained neural substrate for action selection in the brainstem. We propose that the medial reticular formation (mRF) is the substrate's main component and review evidence showing that the mRF's inputs, outputs and intrinsic organization are consistent with the requirements of an action-selection system. The internal architecture of the mRF is composed of interconnected neuron clusters. We present an anatomical model which suggests that the mRF's intrinsic circuitry constitutes a small-world network and extend this result to show that it may have evolved to reduce axonal wiring. Potential configurations of action representation within the internal circuitry of the mRF are then assessed by computational modelling. We present new results demonstrating that each cluster's output is most likely to represent activation of a component action; thus, coactivation of a set of these clusters would lead to the coordinated behavioural response observed in the animal. Finally, we consider the potential integration of the basal ganglia and mRF substrates for selection and suggest that they may collectively form a layered/hierarchical control system.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="18769" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/18769"/>
+									</api:links>
+									<api:last-name>Humphries</api:last-name>
+									<api:initials>MD</api:initials>
+									<api:first-names>MD</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>M</api:first-name>
+										<api:first-name>D</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="2038" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/2038"/>
+									</api:links>
+									<api:last-name>Gurney</api:last-name>
+									<api:initials>K</api:initials>
+									<api:first-names>K</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>K</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1920" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1920"/>
+									</api:links>
+									<api:last-name>Prescott</api:last-name>
+									<api:initials>TJ</api:initials>
+									<api:first-names>TJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>T</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>http://www.ncbi.nlm.nih.gov/pubmed/17428776</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1098/rstb.2007.2057</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1098/rstb.2007.2057"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1098/rstb.2007.2057"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0962-8436</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965540"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>1485</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>Animals</api:keyword>
+								<api:keyword>Basal Ganglia</api:keyword>
+								<api:keyword>Computer Simulation</api:keyword>
+								<api:keyword>Decision Making</api:keyword>
+								<api:keyword>Humans</api:keyword>
+								<api:keyword>Models, Neurological</api:keyword>
+								<api:keyword>Nerve Net</api:keyword>
+								<api:keyword>Reticular Formation</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="notes" type="text" display-name="Other information">
+							<api:text>The search for the neural substrate of vertebrate action selection has focused on structures in the forebrain and midbrain, and particularly on the group of sub-cortical nuclei known as the basal ganglia. Yet, the behavioural repertoire of decerebrate and neonatal animals suggests the existence of a relatively self-contained neural substrate for action selection in the brainstem. We propose that the medial reticular formation (mRF) is the substrate's main component and review evidence showing that the mRF's inputs, outputs and intrinsic organization are consistent with the requirements of an action-selection system. The internal architecture of the mRF is composed of interconnected neuron clusters. We present an anatomical model which suggests that the mRF's intrinsic circuitry constitutes a small-world network and extend this result to show that it may have evolved to reduce axonal wiring. Potential configurations of action representation within the internal circuitry of the mRF are then assessed by computational modelling. We present new results demonstrating that each cluster's output is most likely to represent activation of a component action; thus, coactivation of a set of these clusters would lead to the coordinated behavioural response observed in the animal. Finally, we consider the potential integration of the basal ganglia and mRF substrates for selection and suggest that they may collectively form a layered/hierarchical control system.
+</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>1627</api:begin-page>
+								<api:end-page>1639</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2007</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://www.ncbi.nlm.nih.gov/pubmed/17428776?ordinalpos=3&amp;itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>3</api:day>
+								<api:month>4</api:month>
+								<api:year>2013</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Is there a brainstem substrate for action selection?</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>JOUR</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>362</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Basal Ganglia</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Decision Making</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Neurological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Nerve Net</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Reticular Formation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Reticular Formation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Basal Ganglia</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Nerve Net</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Decision Making</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Neurological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Computer Simulation</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">31 Biological Sciences</api:keyword>
+					<api:keyword scheme="rcdc" origin="record-data" source="dimensions">Neurosciences</api:keyword>
+					<api:keyword scheme="hrcs-rac" origin="record-data" source="dimensions">1.1 Normal biological development and functioning</api:keyword>
+					<api:keyword scheme="hrcs-rac" origin="record-data" source="dimensions">1 Underpinning research</api:keyword>
+					<api:keyword scheme="hrcs-hc" origin="record-data" source="dimensions">Neurological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Animals</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Basal Ganglia</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Computer Simulation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Decision Making</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Neurological</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Nerve Net</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Reticular Formation</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">reticular formation</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">networks</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">small world</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">action representation</api:keyword>
+					<api:keyword origin="record-data" source="wos">reticular formation</api:keyword>
+					<api:keyword origin="record-data" source="wos">networks</api:keyword>
+					<api:keyword origin="record-data" source="wos">small world</api:keyword>
+					<api:keyword origin="record-data" source="wos">action representation</api:keyword>
+					<api:keyword origin="record-data" source="wos">MESENCEPHALIC LOCOMOTOR REGION</api:keyword>
+					<api:keyword origin="record-data" source="wos">MEDULLARY RETICULAR-FORMATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">ACUTE DECEREBRATE CATS</api:keyword>
+					<api:keyword origin="record-data" source="wos">BASAL GANGLIA</api:keyword>
+					<api:keyword origin="record-data" source="wos">PARKINSONS-DISEASE</api:keyword>
+					<api:keyword origin="record-data" source="wos">SOMATOMOTOR FUNCTIONS</api:keyword>
+					<api:keyword origin="record-data" source="wos">NEIGHBORING NEURONS</api:keyword>
+					<api:keyword origin="record-data" source="wos">DISCHARGE PATTERNS</api:keyword>
+					<api:keyword origin="record-data" source="wos">COMMON SYSTEM</api:keyword>
+					<api:keyword origin="record-data" source="wos">COMPUTATIONAL MODEL</api:keyword>
+					<api:keyword origin="record-data" source="manual">Animals</api:keyword>
+					<api:keyword origin="record-data" source="manual">Basal Ganglia</api:keyword>
+					<api:keyword origin="record-data" source="manual">Computer Simulation</api:keyword>
+					<api:keyword origin="record-data" source="manual">Decision Making</api:keyword>
+					<api:keyword origin="record-data" source="manual">Humans</api:keyword>
+					<api:keyword origin="record-data" source="manual">Models, Neurological</api:keyword>
+					<api:keyword origin="record-data" source="manual">Nerve Net</api:keyword>
+					<api:keyword origin="record-data" source="manual">Reticular Formation</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">06 Biological Sciences</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">11 Medical and Health Sciences</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Evolutionary Biology</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">31 Biological sciences</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">32 Biomedical and clinical sciences</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="0962-8436" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/965540" title="Philosophical Transactions of the Royal Society of London. Biological Sciences">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Philosophical Transactions of the Royal Society of London. Biological Sciences</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/9347/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>

@@ -1,0 +1,1233 @@
+<?xml version="1.0" ?>
+<api:response xmlns:api="http://www.symplectic.co.uk/publications/api">
+	<api:version uri="https://mypublications.shef.ac.uk/" elements-version="6.15.0.3976" schema-version="6.13" product-name="myPublications"/>
+	<api:request href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/6575"/>
+	<api:result>
+		<api:object category="publication" id="6575" last-affected-when="2023-12-25T02:05:01.877+00:00" last-modified-when="2023-12-25T02:05:01.877+00:00" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/6575" created-when="2010-05-17T14:01:05.937+01:00" type-id="5" type-display-name="Journal article" type="journal-article">
+			<api:privacy-level>Public</api:privacy-level>
+			<api:privacy-level-locked>false</api:privacy-level-locked>
+			<api:ever-approved>true</api:ever-approved>
+			<api:reporting-date-1>2005-03-03</api:reporting-date-1>
+			<api:allow-type-switching>true</api:allow-type-switching>
+			<api:records>
+				<api:record format="native" id="4198517" source-id="28" source-name="eprints" source-display-name="White Rose Research Online" id-at-source="78613" last-modified-when="2022-12-28T16:36:24.17+00:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Pharmacophore methods provide a way of establishing a structure--activity relationship for a series of known active ligands. Often, there are several plausible hypotheses that could explain the same set of ligands and, in such cases, it is important that the chemist is presented with alternatives that can be tested with different synthetic compounds. Existing pharmacophore methods involve either generating an ensemble of conformers and considering each conformer of each ligand in turn or exploring conformational space on-the-fly. The ensemble methods tend to produce a large number of hypotheses and require considerable effort to analyse the results, whereas methods that vary conformation on-the-fly typically generate a single solution that represents one possible hypothesis, even though several might exist. We describe a new method for generating multiple pharmacophore hypotheses with full conformational flexibility being explored on-the-fly. The method is based on multiobjective evolutionary algorithm techniques and is designed to search for an ensemble of diverse yet plausible overlays which can then be presented to the chemist for further investigation.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Cottrell</api:last-name>
+									<api:initials>SJ</api:initials>
+									<api:first-names>SJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1261" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1261"/>
+									</api:links>
+									<api:last-name>Gillet</api:last-name>
+									<api:initials>VJ</api:initials>
+									<api:first-names>VJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>V</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Taylor</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>R</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>DJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s10822-004-5523-7</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s10822-004-5523-7"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s10822-004-5523-7"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>11</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of Computer-Aided Molecular Design</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>Pharmacophore identification</api:keyword>
+								<api:keyword>Molecular overlay</api:keyword>
+								<api:keyword>Alignment</api:keyword>
+								<api:keyword>Evolutionary algorithms</api:keyword>
+								<api:keyword>MOGA</api:keyword>
+								<api:keyword>Multiobjective optimisation</api:keyword>
+								<api:keyword>Multiobjective genetic algorithm</api:keyword>
+								<api:keyword>Conformational analysis.</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="notes" type="text" display-name="Other information">
+							<api:text>© 2004 Kluwer Academic Publishers. This is an author produced version of a paper subsequently published in Journal of Computer-Aided Molecular Design. Uploaded in accordance with the publisher's self-archiving policy.</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>665</api:begin-page>
+								<api:end-page>682</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>11</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="public-url" type="text" display-name="Public URL">
+							<api:text>https://eprints.whiterose.ac.uk/id/eprint/78613</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Kluwer Academic Publishers</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1007/s10822-004-5523-7</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>22</api:day>
+								<api:month>4</api:month>
+								<api:year>2014</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>23</api:day>
+								<api:month>4</api:month>
+								<api:year>2014</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="repository-status" type="text" display-name="Availability">
+							<api:text>Public</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Generation of multiple pharmacophore hypotheses using multiobjective optimisation techniques</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>18</api:text>
+						</api:field>
+						<api:files>
+							<api:file proprietary-id="https://eprints.whiterose.ac.uk/id/file/391298">
+								<api:filename>WRRO_78613.pdf</api:filename>
+								<api:file-url>https://eprints.whiterose.ac.uk/78613/2/WRRO_78613.pdf</api:file-url>
+								<api:extension>pdf</api:extension>
+								<api:file-size>425837</api:file-size>
+								<api:mime-type>application/pdf</api:mime-type>
+								<api:checksum algorithm="md5">112823F084C68B2DBF300546AC1149C6</api:checksum>
+								<api:file-version>Author accepted manuscript</api:file-version>
+							</api:file>
+						</api:files>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="1344967" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1007/s10822-004-5523-7" last-modified-when="2022-09-11T21:10:09.577+01:00">
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Cottrell</api:last-name>
+									<api:initials>SJ</api:initials>
+									<api:first-names>Simon J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Simon</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1261" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1261"/>
+									</api:links>
+									<api:last-name>Gillet</api:last-name>
+									<api:initials>VJ</api:initials>
+									<api:first-names>Valerie J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Valerie</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Taylor</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>Robin</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Robin</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>David J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>David</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s10822-004-5523-7</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s10822-004-5523-7"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s10822-004-5523-7"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1573-4951</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973253"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0920-654X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973253"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>11</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of Computer-Aided Molecular Design</api:text>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>en</api:text>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>3</api:day>
+								<api:month>3</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>665</api:begin-page>
+								<api:end-page>682</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>11</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Springer Science and Business Media LLC</api:text>
+						</api:field>
+						<api:field name="publisher-url" type="text" display-name="Link 2">
+							<api:text>http://dx.doi.org/10.1007/s10822-004-5523-7</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>30</api:day>
+								<api:month>5</api:month>
+								<api:year>2019</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Generation of multiple pharmacophore hypotheses using multiobjective optimisation techniques</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>18</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="145253" source-id="7" source-name="scopus" source-display-name="Scopus" id-at-source="2-s2.0-15844366918" last-modified-when="2023-10-25T06:14:22.087+01:00">
+					<api:citation-count>50</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Pharmacophore methods provide a way of establishing a structure-activity relationship for a series of known active ligands. Often, there are several plausible hypotheses that could explain the same set of ligands and, in such cases, it is important that the chemist is presented with alternatives that can be tested with different synthetic compounds. Existing pharmacophore methods involve either generating an ensemble of conformers and considering each conformer of each ligand in turn or exploring conformational space on-the-fly. The ensemble methods tend to produce a large number of hypotheses and require considerable effort to analyse the results, whereas methods that vary conformation on-the-fly typically generate a single solution that represents one possible hypothesis, even though several might exist. We describe a new method for generating multiple pharmacophore hypotheses with full conformational flexibility being explored on-the-fly. The method is based on multiobjective evolutionary algorithm techniques and is designed to search for an ensemble of diverse yet plausible overlays which can then be presented to the chemist for further investigation. © Springer 2005.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Cottrell</api:last-name>
+									<api:initials>SJ</api:initials>
+									<api:first-names>SJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">8308067100</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1261" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1261"/>
+									</api:links>
+									<api:last-name>Gillet</api:last-name>
+									<api:initials>VJ</api:initials>
+									<api:first-names>VJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>V</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7004084776</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Taylor</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>R</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Cambridge Crystallographic Data Centre</api:line>
+											<api:line type="city">Cambridge</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7405761996</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>DJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">The University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="scopus-author-id">7102880530</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s10822-004-5523-7</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s10822-004-5523-7"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s10822-004-5523-7"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15865060</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0920-654X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973253"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>11</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of Computer-Aided Molecular Design</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>665</api:begin-page>
+								<api:end-page>682</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:day>1</api:day>
+								<api:month>1</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Generation of multiple pharmacophore hypotheses using multiobjective optimisation techniques</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>18</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="6575" source-id="2" source-name="pubmed" source-display-name="PubMed" id-at-source="15865060" last-modified-when="2020-04-29T10:00:40.923+01:00">
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Pharmacophore methods provide a way of establishing a structure activity relationship for a series of known active ligands. Often, there are several plausible hypotheses that could explain the same set of ligands and, in such cases, it is important that the chemist is presented with alternatives that can be tested with different synthetic compounds. Existing pharmacophore methods involve either generating an ensemble of conformers and considering each conformer of each ligand in turn or exploring conformational space on-the-fly. The ensemble methods tend to produce a large number of hypotheses and require considerable effort to analyse the results, whereas methods that vary conformation on-the-fly typically generate a single solution that represents one possible hypothesis, even though several might exist. We describe a new method for generating multiple pharmacophore hypotheses with full conformational flexibility being explored on-the-fly. The method is based on multiobjective evolutionary algorithm techniques and is designed to search for an ensemble of diverse yet plausible overlays which can then be presented to the chemist for further investigation.</api:text>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Cottrell</api:last-name>
+									<api:initials>SJ</api:initials>
+									<api:first-names>Simon J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Simon</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="full">Department of Information Studies, University of Sheffield, Regent Court, 211 Portobello Street, Sheffield S1 4DP, UK.</api:line>
+										</api:address>
+									</api:addresses>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1261" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1261"/>
+									</api:links>
+									<api:last-name>Gillet</api:last-name>
+									<api:initials>VJ</api:initials>
+									<api:first-names>Valerie J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Valerie</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Taylor</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>Robin</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Robin</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>David J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>David</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.ncbi.nlm.nih.gov/pubmed/15865060</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s10822-004-5523-7</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s10822-004-5523-7"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s10822-004-5523-7"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0920-654X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973253"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>11</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>J Comput Aided Mol Des</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Algorithms</api:keyword>
+								<api:keyword scheme="mesh">Binding Sites</api:keyword>
+								<api:keyword scheme="mesh">Computer-Aided Design</api:keyword>
+								<api:keyword scheme="mesh">Dopamine Antagonists</api:keyword>
+								<api:keyword scheme="mesh">Dopamine D2 Receptor Antagonists</api:keyword>
+								<api:keyword scheme="mesh">Drug Design</api:keyword>
+								<api:keyword scheme="mesh">Enzyme Inhibitors</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Hydro-Lyases</api:keyword>
+								<api:keyword scheme="mesh">Models, Chemical</api:keyword>
+								<api:keyword scheme="mesh">Models, Molecular</api:keyword>
+								<api:keyword scheme="mesh">Molecular Conformation</api:keyword>
+								<api:keyword scheme="mesh">Molecular Structure</api:keyword>
+								<api:keyword scheme="mesh">Serotonin 5-HT1 Receptor Antagonists</api:keyword>
+								<api:keyword scheme="mesh">Serotonin Antagonists</api:keyword>
+								<api:keyword scheme="mesh">Structure-Activity Relationship</api:keyword>
+								<api:keyword scheme="mesh">Thermodynamics</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="location" type="text" display-name="Country">
+							<api:text>Netherlands</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>665</api:begin-page>
+								<api:end-page>682</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>11</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-made-public-at-source-date" type="date" display-name="Record made publicly available">
+							<api:date>
+								<api:day>6</api:day>
+								<api:month>9</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Generation of multiple pharmacophore hypotheses using multiobjective optimisation techniques.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Journal Article</api:item>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>18</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="885740" source-id="18" source-name="epmc" source-display-name="Europe PubMed Central" id-at-source="MED:15865060" last-modified-when="2023-12-19T19:54:16.55+00:00">
+					<api:citation-count>18</api:citation-count>
+					<api:native>
+						<api:field name="abstract" type="text" display-name="Abstract">
+							<api:text>Pharmacophore methods provide a way of establishing a structure activity relationship for a series of known active ligands. Often, there are several plausible hypotheses that could explain the same set of ligands and, in such cases, it is important that the chemist is presented with alternatives that can be tested with different synthetic compounds. Existing pharmacophore methods involve either generating an ensemble of conformers and considering each conformer of each ligand in turn or exploring conformational space on-the-fly. The ensemble methods tend to produce a large number of hypotheses and require considerable effort to analyse the results, whereas methods that vary conformation on-the-fly typically generate a single solution that represents one possible hypothesis, even though several might exist. We describe a new method for generating multiple pharmacophore hypotheses with full conformational flexibility being explored on-the-fly. The method is based on multiobjective evolutionary algorithm techniques and is designed to search for an ensemble of diverse yet plausible overlays which can then be presented to the chemist for further investigation.</api:text>
+						</api:field>
+						<api:field name="addresses" type="address-list" display-name="Addresses">
+							<api:addresses>
+								<api:address iso-country-code="GB">
+									<api:line type="full">Department of Information Studies, University of Sheffield, Regent Court, 211 Portobello Street, Sheffield S1 4DP, UK.</api:line>
+								</api:address>
+							</api:addresses>
+						</api:field>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Cottrell</api:last-name>
+									<api:initials>SJ</api:initials>
+									<api:first-names>Simon J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Simon</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0001-5635-800X</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1261" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1261"/>
+									</api:links>
+									<api:last-name>Gillet</api:last-name>
+									<api:initials>VJ</api:initials>
+									<api:first-names>Valerie J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Valerie</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:identifiers>
+										<api:identifier scheme="orcid">0000-0002-8403-3111</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:last-name>Taylor</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>Robin</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Robin</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>David J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>David</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s10822-004-5523-7</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s10822-004-5523-7"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s10822-004-5523-7"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1573-4951</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973253"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15865060</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="is-open-access" type="boolean" display-name="Open access">
+							<api:boolean>false</api:boolean>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0920-654X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973253"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>11</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of computer-aided molecular design</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Hydro-Lyases</api:keyword>
+								<api:keyword scheme="mesh">Dopamine Antagonists</api:keyword>
+								<api:keyword scheme="mesh">Serotonin Antagonists</api:keyword>
+								<api:keyword scheme="mesh">Enzyme Inhibitors</api:keyword>
+								<api:keyword scheme="mesh">Binding Sites</api:keyword>
+								<api:keyword scheme="mesh">Molecular Structure</api:keyword>
+								<api:keyword scheme="mesh">Molecular Conformation</api:keyword>
+								<api:keyword scheme="mesh">Structure-Activity Relationship</api:keyword>
+								<api:keyword scheme="mesh">Drug Design</api:keyword>
+								<api:keyword scheme="mesh">Algorithms</api:keyword>
+								<api:keyword scheme="mesh">Thermodynamics</api:keyword>
+								<api:keyword scheme="mesh">Models, Chemical</api:keyword>
+								<api:keyword scheme="mesh">Models, Molecular</api:keyword>
+								<api:keyword scheme="mesh">Computer-Aided Design</api:keyword>
+								<api:keyword scheme="mesh">Serotonin 5-HT1 Receptor Antagonists</api:keyword>
+								<api:keyword scheme="mesh">Dopamine D2 Receptor Antagonists</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="language" type="text" display-name="Language">
+							<api:text>eng</api:text>
+						</api:field>
+						<api:field name="medium" type="text" display-name="Medium">
+							<api:text>Print</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>665</api:begin-page>
+								<api:end-page>682</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>11</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>4</api:day>
+								<api:month>5</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Generation of multiple pharmacophore hypotheses using multiobjective optimisation techniques.</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Research Support, Non-U.S. Gov't</api:item>
+								<api:item>Journal Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>18</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="2488943" source-id="10" source-name="dimensions" source-display-name="Dimensions" id-at-source="pub.1002444463" last-modified-when="2023-12-25T02:05:01.883+00:00">
+					<api:citation-count>49</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Cottrell</api:last-name>
+									<api:initials>SJ</api:initials>
+									<api:first-names>Simon J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Simon</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.0707637746.36</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1261" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1261"/>
+									</api:links>
+									<api:last-name>Gillet</api:last-name>
+									<api:initials>VJ</api:initials>
+									<api:first-names>Valerie J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Valerie</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.013075744374.17</api:identifier>
+									</api:identifiers>
+									<api:author-types>
+										<api:author-type>corresponding</api:author-type>
+									</api:author-types>
+								</api:person>
+								<api:person>
+									<api:last-name>Taylor</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>Robin</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>Robin</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">Cambridge Crystallographic Data Centre</api:line>
+											<api:line type="city">Cambridge</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01144326057.56</api:identifier>
+									</api:identifiers>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>David J</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>David</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+									<api:addresses>
+										<api:address iso-country-code="GB">
+											<api:line type="organisation">University of Sheffield</api:line>
+											<api:line type="city">Sheffield</api:line>
+											<api:line type="country">United Kingdom</api:line>
+										</api:address>
+									</api:addresses>
+									<api:identifiers>
+										<api:identifier scheme="dimensions-researcher-id">ur.01253342714.62</api:identifier>
+									</api:identifiers>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s10822-004-5523-7</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s10822-004-5523-7"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s10822-004-5523-7"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="pubmed">15865060</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="field-citation-ratio" type="decimal" display-name="Field citation ratio">
+							<api:decimal>4.01</api:decimal>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0928-2866</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973253"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>11</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>Journal of Computer-Aided Molecular Design</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword scheme="for-2020">3404 Medicinal and Biomolecular Chemistry</api:keyword>
+								<api:keyword scheme="for-2020">34 Chemical Sciences</api:keyword>
+								<api:keyword scheme="hrcs-hc">Generic health relevance</api:keyword>
+								<api:keyword scheme="mesh">Algorithms</api:keyword>
+								<api:keyword scheme="mesh">Binding Sites</api:keyword>
+								<api:keyword scheme="mesh">Computer-Aided Design</api:keyword>
+								<api:keyword scheme="mesh">Dopamine Antagonists</api:keyword>
+								<api:keyword scheme="mesh">Dopamine D2 Receptor Antagonists</api:keyword>
+								<api:keyword scheme="mesh">Drug Design</api:keyword>
+								<api:keyword scheme="mesh">Enzyme Inhibitors</api:keyword>
+								<api:keyword scheme="mesh">Humans</api:keyword>
+								<api:keyword scheme="mesh">Hydro-Lyases</api:keyword>
+								<api:keyword scheme="mesh">Models, Chemical</api:keyword>
+								<api:keyword scheme="mesh">Models, Molecular</api:keyword>
+								<api:keyword scheme="mesh">Molecular Conformation</api:keyword>
+								<api:keyword scheme="mesh">Molecular Structure</api:keyword>
+								<api:keyword scheme="mesh">Serotonin 5-HT1 Receptor Antagonists</api:keyword>
+								<api:keyword scheme="mesh">Serotonin Antagonists</api:keyword>
+								<api:keyword scheme="mesh">Structure-Activity Relationship</api:keyword>
+								<api:keyword scheme="mesh">Thermodynamics</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="online-publication-date" type="date" display-name="Online publication date">
+							<api:date>
+								<api:day>3</api:day>
+								<api:month>3</api:month>
+								<api:year>2005</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="open-access-status" type="text" display-name="Open access status">
+							<api:text>Green OA</api:text>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>665</api:begin-page>
+								<api:end-page>682</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>11</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publisher" type="text" display-name="Publisher">
+							<api:text>Springer Nature</api:text>
+						</api:field>
+						<api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+							<api:date>
+								<api:day>31</api:day>
+								<api:month>8</api:month>
+								<api:year>2017</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="relative-citation-ratio" type="decimal" display-name="Relative citation ratio">
+							<api:decimal>0.96</api:decimal>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Generation of multiple pharmacophore hypotheses using multiobjective optimisation techniques</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>18</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="250733" source-id="11" source-name="wos-lite" source-display-name="Web of Science (Lite)" id-at-source="WOS:000227554000001" last-modified-when="2023-12-08T08:36:19.6+00:00">
+					<api:citation-count>42</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Cottrell</api:last-name>
+									<api:initials>SJ</api:initials>
+									<api:first-names>SJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1261" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1261"/>
+									</api:links>
+									<api:last-name>Gillet</api:last-name>
+									<api:initials>VJ</api:initials>
+									<api:first-names>VJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>V</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Taylor</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>R</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>DJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="author-url" type="text" display-name="Link 1">
+							<api:text>https://www.webofscience.com/api/gateway?GWVersion=2&amp;SrcApp=sheffield_elements_live&amp;SrcAuth=WosAPI&amp;KeyUT=WOS:000227554000001&amp;DestLinkType=FullRecord&amp;DestApp=WOS</api:text>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s10822-004-5523-7</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s10822-004-5523-7"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s10822-004-5523-7"/>
+							</api:links>
+						</api:field>
+						<api:field name="eissn" type="text" display-name="eISSN">
+							<api:text>1573-4951</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973253"/>
+							</api:links>
+						</api:field>
+						<api:field name="external-identifiers" type="identifier-list" display-name="External identifiers">
+							<api:identifiers>
+								<api:identifier scheme="isidoc">905FQ</api:identifier>
+								<api:identifier scheme="pubmed">15865060</api:identifier>
+							</api:identifiers>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0920-654X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973253"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>11</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>JOURNAL OF COMPUTER-AIDED MOLECULAR DESIGN</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>alignment</api:keyword>
+								<api:keyword>conformational analysis</api:keyword>
+								<api:keyword>evolutionary algorithms</api:keyword>
+								<api:keyword>MOGA</api:keyword>
+								<api:keyword>molecular overlay</api:keyword>
+								<api:keyword>multiobjective genetic algorithm</api:keyword>
+								<api:keyword>multiobjective optimisation</api:keyword>
+								<api:keyword>pharmacophore identification</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>665</api:begin-page>
+								<api:end-page>682</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="publication-status" type="text" display-name="Status">
+							<api:text>Published</api:text>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Generation of multiple pharmacophore hypotheses using multiobjective optimisation techniques</api:text>
+						</api:field>
+						<api:field name="types" type="list" display-name="Sub types">
+							<api:items>
+								<api:item>Article</api:item>
+							</api:items>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>18</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+				<api:record format="native" id="36489" source-id="3" source-name="wos" source-display-name="Web of Science" id-at-source="WOS:000227554000001" last-modified-when="2014-07-25T11:47:57.72+01:00">
+					<api:citation-count>27</api:citation-count>
+					<api:native>
+						<api:field name="authors" type="person-list" display-name="Authors">
+							<api:people>
+								<api:person>
+									<api:last-name>Cottrell</api:last-name>
+									<api:initials>SJ</api:initials>
+									<api:first-names>SJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>S</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1261" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1261"/>
+									</api:links>
+									<api:last-name>Gillet</api:last-name>
+									<api:initials>VJ</api:initials>
+									<api:first-names>VJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>V</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:last-name>Taylor</api:last-name>
+									<api:initials>R</api:initials>
+									<api:first-names>R</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>R</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+								<api:person>
+									<api:links>
+										<api:link type="elements/user" id="1529" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/users/1529"/>
+									</api:links>
+									<api:last-name>Wilton</api:last-name>
+									<api:initials>DJ</api:initials>
+									<api:first-names>DJ</api:first-names>
+									<api:separate-first-names>
+										<api:first-name>D</api:first-name>
+										<api:first-name>J</api:first-name>
+									</api:separate-first-names>
+								</api:person>
+							</api:people>
+						</api:field>
+						<api:field name="doi" type="text" display-name="DOI">
+							<api:text>10.1007/s10822-004-5523-7</api:text>
+							<api:links>
+								<api:link type="doi" href="http://doi.org/10.1007/s10822-004-5523-7"/>
+								<api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1007/s10822-004-5523-7"/>
+							</api:links>
+						</api:field>
+						<api:field name="issn" type="text" display-name="ISSN">
+							<api:text>0920-654X</api:text>
+							<api:links>
+								<api:link type="elements/journal" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973253"/>
+							</api:links>
+						</api:field>
+						<api:field name="issue" type="text" display-name="Issue">
+							<api:text>11</api:text>
+						</api:field>
+						<api:field name="journal" type="text" display-name="Journal">
+							<api:text>J COMPUT AID MOL DES</api:text>
+						</api:field>
+						<api:field name="keywords" type="keyword-list" display-name="Keywords">
+							<api:keywords>
+								<api:keyword>alignment</api:keyword>
+								<api:keyword>conformational analysis</api:keyword>
+								<api:keyword>evolutionary algorithms</api:keyword>
+								<api:keyword>MOGA</api:keyword>
+								<api:keyword>molecular overlay</api:keyword>
+								<api:keyword>multiobjective genetic algorithm</api:keyword>
+								<api:keyword>multiobjective optimisation</api:keyword>
+								<api:keyword>pharmacophore identification</api:keyword>
+								<api:keyword>GENETIC ALGORITHM</api:keyword>
+								<api:keyword>CONFORMATIONAL-ANALYSIS</api:keyword>
+								<api:keyword>RECEPTOR ANTAGONISTS</api:keyword>
+								<api:keyword>IDENTIFICATION</api:keyword>
+								<api:keyword>MOLECULES</api:keyword>
+								<api:keyword>DESIGN</api:keyword>
+								<api:keyword>DISCOVERY</api:keyword>
+								<api:keyword>MODEL</api:keyword>
+							</api:keywords>
+						</api:field>
+						<api:field name="pagination" type="pagination" display-name="Pagination">
+							<api:pagination>
+								<api:begin-page>665</api:begin-page>
+								<api:end-page>682</api:end-page>
+							</api:pagination>
+						</api:field>
+						<api:field name="publication-date" type="date" display-name="Publication date">
+							<api:date>
+								<api:month>11</api:month>
+								<api:year>2004</api:year>
+							</api:date>
+						</api:field>
+						<api:field name="title" type="text" display-name="Title">
+							<api:text>Generation of multiple pharmacophore hypotheses using multiobjective optimisation techniques</api:text>
+						</api:field>
+						<api:field name="volume" type="text" display-name="Volume">
+							<api:text>18</api:text>
+						</api:field>
+					</api:native>
+				</api:record>
+			</api:records>
+			<api:fields/>
+			<api:all-labels type="keyword-list">
+				<api:keywords>
+					<api:keyword origin="record-data" source="eprints">Pharmacophore identification</api:keyword>
+					<api:keyword origin="record-data" source="eprints">Molecular overlay</api:keyword>
+					<api:keyword origin="record-data" source="eprints">Alignment</api:keyword>
+					<api:keyword origin="record-data" source="eprints">Evolutionary algorithms</api:keyword>
+					<api:keyword origin="record-data" source="eprints">MOGA</api:keyword>
+					<api:keyword origin="record-data" source="eprints">Multiobjective optimisation</api:keyword>
+					<api:keyword origin="record-data" source="eprints">Multiobjective genetic algorithm</api:keyword>
+					<api:keyword origin="record-data" source="eprints">Conformational analysis.</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Algorithms</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Binding Sites</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Computer-Aided Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Dopamine Antagonists</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Dopamine D2 Receptor Antagonists</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Drug Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Enzyme Inhibitors</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Hydro-Lyases</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Chemical</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Models, Molecular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Molecular Conformation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Molecular Structure</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Serotonin 5-HT1 Receptor Antagonists</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Serotonin Antagonists</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Structure-Activity Relationship</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="pubmed">Thermodynamics</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Hydro-Lyases</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Dopamine Antagonists</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Serotonin Antagonists</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Enzyme Inhibitors</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Binding Sites</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Molecular Structure</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Molecular Conformation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Structure-Activity Relationship</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Drug Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Algorithms</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Thermodynamics</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Chemical</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Models, Molecular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Computer-Aided Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Serotonin 5-HT1 Receptor Antagonists</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="epmc">Dopamine D2 Receptor Antagonists</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">3404 Medicinal and Biomolecular Chemistry</api:keyword>
+					<api:keyword scheme="for-2020" origin="record-data" source="dimensions">34 Chemical Sciences</api:keyword>
+					<api:keyword scheme="hrcs-hc" origin="record-data" source="dimensions">Generic health relevance</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Algorithms</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Binding Sites</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Computer-Aided Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Dopamine Antagonists</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Dopamine D2 Receptor Antagonists</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Drug Design</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Enzyme Inhibitors</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Humans</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Hydro-Lyases</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Chemical</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Models, Molecular</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Molecular Conformation</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Molecular Structure</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Serotonin 5-HT1 Receptor Antagonists</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Serotonin Antagonists</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Structure-Activity Relationship</api:keyword>
+					<api:keyword scheme="mesh" origin="record-data" source="dimensions">Thermodynamics</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">alignment</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">conformational analysis</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">evolutionary algorithms</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">MOGA</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">molecular overlay</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">multiobjective genetic algorithm</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">multiobjective optimisation</api:keyword>
+					<api:keyword origin="record-data" source="wos-lite">pharmacophore identification</api:keyword>
+					<api:keyword origin="record-data" source="wos">alignment</api:keyword>
+					<api:keyword origin="record-data" source="wos">conformational analysis</api:keyword>
+					<api:keyword origin="record-data" source="wos">evolutionary algorithms</api:keyword>
+					<api:keyword origin="record-data" source="wos">MOGA</api:keyword>
+					<api:keyword origin="record-data" source="wos">molecular overlay</api:keyword>
+					<api:keyword origin="record-data" source="wos">multiobjective genetic algorithm</api:keyword>
+					<api:keyword origin="record-data" source="wos">multiobjective optimisation</api:keyword>
+					<api:keyword origin="record-data" source="wos">pharmacophore identification</api:keyword>
+					<api:keyword origin="record-data" source="wos">GENETIC ALGORITHM</api:keyword>
+					<api:keyword origin="record-data" source="wos">CONFORMATIONAL-ANALYSIS</api:keyword>
+					<api:keyword origin="record-data" source="wos">RECEPTOR ANTAGONISTS</api:keyword>
+					<api:keyword origin="record-data" source="wos">IDENTIFICATION</api:keyword>
+					<api:keyword origin="record-data" source="wos">MOLECULES</api:keyword>
+					<api:keyword origin="record-data" source="wos">DESIGN</api:keyword>
+					<api:keyword origin="record-data" source="wos">DISCOVERY</api:keyword>
+					<api:keyword origin="record-data" source="wos">MODEL</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0304 Medicinal and Biomolecular Chemistry</api:keyword>
+					<api:keyword scheme="for" origin="issn-inferred">0307 Theoretical and Computational Chemistry</api:keyword>
+					<api:keyword scheme="science-metrix" origin="issn-inferred">Medicinal &amp; Biomolecular Chemistry</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">3404 Medicinal and biomolecular chemistry</api:keyword>
+					<api:keyword scheme="for-2020" origin="issn-inferred">3407 Theoretical and computational chemistry</api:keyword>
+				</api:keywords>
+			</api:all-labels>
+			<api:journal issn="0920-654X" href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/journals/973253" title="Journal of Computer-Aided Molecular Design">
+				<api:records>
+					<api:record source-name="summary">
+						<api:title>Journal of Computer-Aided Molecular Design</api:title>
+					</api:record>
+				</api:records>
+			</api:journal>
+			<api:relationships href="https://mypublications.shef.ac.uk:8091/secure-api/v6.13/publications/6575/relationships"/>
+		</api:object>
+	</api:result>
+</api:response>
