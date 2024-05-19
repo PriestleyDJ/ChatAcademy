@@ -16,7 +16,7 @@ modelID = "meta-llama/Llama-2-7b-chat-hf"
 #load the training dataset
 dataset = load_dataset("DreadN0ugh7/ChatAcademyTrainDataset", split = "train", token = hfReadToken)
 
-#This loads the model and tokenizer
+#This loads the model
 quantizationConfig = BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_compute_dtype=torch.float16,
@@ -30,6 +30,7 @@ model = AutoModelForCausalLM.from_pretrained(
     quantization_config=quantizationConfig,
     token = hfReadToken)
 
+#Adds padding tokens
 tokenizer = AutoTokenizer.from_pretrained(modelID)
 tokenizer.pad_token = tokenizer.eos_token
 tokenizer.padding_side = "right"

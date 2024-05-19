@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+#This is A file that can be used to fun ChatAcademy and then perform evaluation of the results.
+
 from datasets import load_dataset # type: ignore
 from pathlib import Path
 import torch # type: ignore
@@ -12,16 +14,14 @@ import numpy as np # type: ignore
 nest_asyncio.apply()
 oAI_token = sys.argv[1]
 hfToken = sys.argv[2]
+
 os.environ['OPENAI_API_KEY'] = oAI_token
-os.environ['TRANSFORMERS_CACHE'] = '/mnt/parscratch/users/aca19sjs/models'
-os.environ['HF_HOME'] = '/mnt/parscratch/users/aca19sjs/models'
 
 from bert_score import score # type: ignore
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, TrainingArguments, pipeline, logging # type: ignore
 from peft import AutoPeftModelForCausalLM, PeftModel # type: ignore
 from llama_index.core import VectorStoreIndex, PromptTemplate, Settings, SimpleDirectoryReader # type: ignore
 from llama_index.core.evaluation import FaithfulnessEvaluator, RelevancyEvaluator, CorrectnessEvaluator, SemanticSimilarityEvaluator # type: ignore
-#from llama_index.core.llama_dataset import LabelledRagDataset # type: ignore
 from llama_index.llms.huggingface import HuggingFaceLLM # type: ignore
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding # type: ignore
 from llama_index.llms.openai import OpenAI # type: ignore
@@ -32,7 +32,6 @@ from readers.grantReader import grantReader # type: ignore
 from readers.journalReader import journalReader # type: ignore
 from readers.publicationReader import publicationReader # type: ignore
 
-#from LlamaEvaluator import LlamaEvaluator # type: ignore
 
 #CONTROL PANEL - USE THIS TO CHANE THINGS FOR EXPERIMENTATION
 
@@ -97,7 +96,7 @@ evalLLM = HuggingFaceLLM(
     device_map="auto"
 )
 
-#DO NOT CHANGE THIS LINE UNDER ANY CIRCUMNSTANCE
+#GPT LLm for correctness evaluation
 gptLLM  = OpenAI("gpt-3.5-turbo-0125")
 
 #Defines a method to get the filepaths of the XML files
@@ -109,25 +108,16 @@ def absoluteFilePaths(directory):
     return files
 
 #Actually gets the filepaths for all the data
-
 publicationFiles = absoluteFilePaths("data/publications")
 authorFiles = absoluteFilePaths("data/staff")
 grantFiles = absoluteFilePaths("data/grants")
 journalFiles = absoluteFilePaths("data/journals")
-"""
-publicationFiles = absoluteFilePaths("data/publications")
-authorFiles = absoluteFilePaths("com/staff")
-grantFiles = absoluteFilePaths("com/grants")
-journalFiles = absoluteFilePaths("com/journals")
-relationFiles = absoluteFilePaths("com/relationships")
-"""
-#Uses the files to create documents for our index
+
 docs = []
 
+#Loads in documents with the specified reader
 readerConfig = ""
 if customReaders == True:
-    #relReader = SimpleDirectoryReader(input_dir = "com/relationships/")
-    #relDocs = relReader.load_data()
     docs = publicationReader(publicationFiles) + authorReader(authorFiles) + grantReader(grantFiles) + journalReader(journalFiles)
     readerConfig = "Custom readers are in use.\n"
 else:
@@ -176,6 +166,7 @@ correctCounter = faithfulCounter = relevantCounter= semSimilarityCounter = 0
 
 responses = []
 
+#Loops over the the eval dataset and evaluates the questions
 for i in range(len(evalDictionary["questions"])):
 
     query = evalDictionary["questions"][i]
