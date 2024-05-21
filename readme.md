@@ -7,7 +7,8 @@ To fill you in on some of the files available in this github we've placed some i
 
 ## COM XML Data and XML Data
 
-These folders contain information from the MyPublications API that can be used to provide our chatbot with knowledge. The COM folder specifically has information jsut about the computer science department.
+These folders contain information from the MyPublications API that can be used to provide our chatbot with knowledge. The COM folder specifically has information just about the computer science department.
+The /XML Data directory contains two Python files to extract XML files from the API. One gets all the staff members part of a group (e.g., the Computer science department), and the other gets all the associated XML files (e.g., publications, activities, and grants) associated with each staff member.  
 
 ## Notebooks
 
