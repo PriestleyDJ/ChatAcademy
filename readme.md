@@ -28,7 +28,7 @@ Deprecated QA pairs that can be loaded as an LabelledRAGDataset. It is recommend
 
 ## Python files
 
-Thes can be used to run various versions of the chatbot. The chatAcademy.py file will just run automatic evaluation of the model and store the results. While the ModelTrainer can be used to fine tune a language model and uplaod the results to huggingface.
+Thes can be used to run various versions of the chatbot. The chatAcademy.py file will just run automatic evaluation of the model and store the results. While the ModelTrainer can be used to fine tune a language model and uplaod the results to huggingface. The chatAcademyDemo.py file will run a demo for the model using Gradio to create a shareable link and a chatbot UI.
 
 ## Bash files
 
